@@ -1,0 +1,96 @@
+baseURL = "https://droit-local.alsace/"
+languageCode = "fr-FR"
+defaultContentLanguage = "fr"
+title = "Droit local d'Alsace-Moselle"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 20
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[params]
+  env = "production"
+  title = "Droit local d'Alsace-Moselle"
+  description = "Recueil des lois et règlements locaux maintenus en vigueur dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle."
+  keywords = ["droit local", "Alsace", "Moselle", "loi", "règlement"]
+  author = "Préfecture du Bas-Rhin"
+  dateFormat = "2 January 2006"
+  defaultTheme = "light"
+  disableThemeToggle = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  ShowToc = true
+  TocOpen = false
+  hidemeta = false
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidesummary = false
+  showtoc = true
+
+  [params.homeInfoParams]
+    Title = "Droit local d'Alsace-Moselle"
+    Content = "Bienvenue sur le recueil en ligne des lois et règlements locaux maintenus en vigueur dans les départements du **Bas-Rhin**, du **Haut-Rhin** et de la **Moselle** par les lois du 1er juin 1924. Ces textes, traduits de l'allemand, constituent le corpus du **droit local alsacien-mosellan**, issu de la période d'annexion (1871-1918) et partiellement conservé après le retour à la France. Source : Recueils des actes administratifs de la Préfecture du Bas-Rhin, numéros spéciaux du 15 mai 2013 et du 29 août 2013."
+
+[menu]
+  [[menu.main]]
+    identifier = "menu-textes"
+    name = "Tous les textes"
+    url = "/textes/"
+    weight = 10
+  [[menu.main]]
+    identifier = "menu-enseignement"
+    name = "Enseignement"
+    url = "/textes/enseignement/"
+    weight = 20
+  [[menu.main]]
+    identifier = "menu-cultes"
+    name = "Cultes et religions"
+    url = "/textes/cultes-religions/"
+    weight = 30
+  [[menu.main]]
+    identifier = "menu-fonctionnaires"
+    name = "Fonctionnaires"
+    url = "/textes/fonctionnaires/"
+    weight = 40
+  [[menu.main]]
+    identifier = "menu-chasse"
+    name = "Chasse et environnement"
+    url = "/textes/chasse-environnement/"
+    weight = 50
+  [[menu.main]]
+    identifier = "menu-droit-civil"
+    name = "Droit civil"
+    url = "/textes/droit-civil/"
+    weight = 60
+  [[menu.main]]
+    identifier = "menu-droit-penal"
+    name = "Droit penal et urbanisme"
+    url = "/textes/droit-penal-urbanisme/"
+    weight = 70
+  [[menu.main]]
+    identifier = "menu-commerce"
+    name = "Commerce et professions"
+    url = "/textes/commerce-professions/"
+    weight = 80
+  [[menu.main]]
+    identifier = "menu-administration"
+    name = "Administration"
+    url = "/textes/administration/"
+    weight = 90
+  [[menu.main]]
+    identifier = "menu-justice"
+    name = "Justice"
+    url = "/textes/justice/"
+    weight = 100
+
+[taxonomies]
+  category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

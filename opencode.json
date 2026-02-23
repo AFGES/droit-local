@@ -6,5 +6,8 @@
       "enabled": true,
       "command": ["bunx", "@sylphx/pdf-reader-mcp"]
     }
+  },
+  "permissions": {
+    "pdf-reader_*": "allow"
   }
 }
