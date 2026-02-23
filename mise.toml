@@ -1,0 +1,5 @@
+[tools]
+bun = "latest"
+hugo-extended = "latest"
+opencode = "latest"
+uv = "latest"
