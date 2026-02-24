@@ -60,7 +60,6 @@ faire, sans délai, la déclaration à l'autorité compétente pour la localité
 En  outre,  toute  personne  qui  se  propose  de  faire,  comme  agent  ou  sous-agent,  des  assurances  pour  le
 compte d'un établissement d'assurances contre l'incendie des  meubles  ou  des  immeubles, est  tenue  d'en
 
-
 faire  la  déclaration  à  l'autorité  compétente  de  son  domicile  dans  les  huit  jours  après  qu'elle  aura  pris
 l'agence;  la  même  déclaration  doit  être  faite,  dans  le  même  délai,  par  la  personne  qui  renonce  à  cette
 profession ou à laquelle l'établissement d'assurances a retiré son mandat. Les imprimeurs et lithographes,
@@ -112,8 +111,6 @@ prévu par un statut local, la licence pour l'exercice du métier de prêteur su
 preuve  préalable  que  l'établissement  répond  à  des  besoins  réels.  Doit  être  considéré  également  comme
 métier de prêteur sur gages l'achat professionnel d'objets mobiliers avec faculté de réméré.
 
-
-
 ### Article 35
 
 L'exercice  de  la  profession  de  professeur  de  gymnastique  ou  de  natation  ainsi  que  l'exploitation
@@ -157,8 +154,6 @@ aux personnes exerçant une branche quelconque de l'industrie du bâtiment, si e
 conformément à l'article 133, les épreuves de maître dans la profession qu'elles exercent.
 Il  appartient  aux  autorités  centrales  des  Etats  particuliers  de  déterminer  les  examens  et  certificats  qui
 doivent être tenus pour équivalents de ceux qui sont visés à l'alinéa 1er.
-
-
 
 ### Article 36
 
@@ -209,18 +204,10 @@ associations.
 Les présentes dispositions ne font pas obstacle à ce que les législations des Etats particuliers réglementent
 plus strictement l’exercice des professions les dimanches et jours fériés.
 
-
 Article 41.b
-Sur  la  demande  des  deux  tiers  au  moins  des  exploitants  intéressés,  l’autorité  administrative  inférieure
-pourra disposer, pour une commune ou pour plusieurs communes contigües, que les dimanches et jours
-fériés,  dans  certaines  professions  dont  l’  exercice  total  ou  partiel    est  nécessaire  à  la  satisfaction  des
-besoins de la population ,soit journaliers, soit se manifestant spécialement ces jours-là, il ne pourra être
-seront  autorisées.
-travaillé  qu’en
-Il appartient au Conseil fédéral de déterminer quels exploitants devront être considérés  comme intéressés,
-ainsi que les moyens de constater si leur demande a reçu le nombre d’adhésions nécessaires.
-tant  que  des  dérogations  à
-l’article105  b,  al  1er,
+b) Sur la demande des deux tiers au moins des exploitants intéressés, l'autorité administrative inférieure pourra disposer, pour une commune ou pour plusieurs communes contigüs, que les dimanches et jours fériés, dans certaines professions dont l'exercice total ou partiel est nécessaire à la satisfaction des besoins de la population, soit journaliers, soit se manifestant spécialement ces jours-là, il ne pourra être travaillé qu'en tant que des dérogations à l'article 105 b, al. 1er, seront autorisées.
+
+Il appartient au Conseil fédéral de déterminer quels exploitants devront être considérés comme intéressés, ainsi que les moyens de constater si leur demande a reçu le nombre d'adhésions nécessaires.
 
 ### Article 42
 
@@ -256,7 +243,6 @@ marchandises et de services.
 En ce qui concerne l'octroi, le refus et le retrait de l'autorisation, on appliquera les dispositions des articles
 57 à 58 et 63, alinéa 1er; et, en ce qui concerne l'exercice de la profession, les dispositions des articles 60
 b, 60 c, 60 d, alinéa 1er, § 2, et 63, alinéa 2.
-
 
 En ce qui concerne les marchandises et les produits désignés à l'article 59, n. 1 et 2, quand bien même
 celui qui en fait commerce n'en serait pas le producteur ou le préparateur; en outre, en ce qui concerne les
@@ -315,8 +301,6 @@ La question de savoir si les personnes autorisées ou nommées conformément aux
 être remplacées par un représentant doit être résolue, dans chaque cas particulier, par les autorités qui ont
 pouvoir d'accorder l'autorisation ou de procéder à la nomination.
 
-
-
 ### Article 53
 
 En dehors des motifs ci-dessus, les autorisations et nominations prévues par les articles 30, 30a, 33, 34 et
@@ -367,7 +351,6 @@ Le Conseil fédéral a le droit de disposer, quand le besoin s'en fait sentir, s
 ou la  vente  de certaines  des  marchandises  pour  lesquelles l'article  56,  alinéa  2  l'interdit,  pourront avoir
 lieu sous forme de commerce ambulant.
 
-
 Dans  l'intérêt  de  la  sécurité  publique  ainsi  que  dans  le  but  de  prévenir  ou  d'étouffer  les  maladies
 contagieuses, il pourra être, pour toute l'étendue du territoire national ou pour certaines parties de celui-ci,
 édicté  par  décision  du  Conseil  fédéral  et,  en  cas  d'urgence,  par  ordonnance  du  Chancelier  de  l'Empire
@@ -410,24 +393,19 @@ conformément aux prescriptions de l'article 36, doivent être assermentés ou n
 autorités compétentes aux termes de l'article 36 ont le droit d'établir des tarifs pour ces exploitants, même
 là où il n'en existait pas jusqu'alors.
 
+**TITRE VI. — DES CORPORATIONS, DES DÉLÉGATIONS CORPORATIVES, DES CHAMBRES CORPORATIVES, DES FÉDÉRATIONS DE CORPORATIONS**
 
+**I. — Des corporations**
 
-**Titre vi. -des corporations, des delegations**
+**a) Dispositions générales**
 
+### Article 81
 
-**Corporatives,  des chambres corporatives, des**
-
-
-**Federations de corporations**
-
-
-**1  des corporations**
-
-a) dispositions générales
-Article. 81
 Ceux qui exercent une profession  en  leur  propre  nom  peuvent,  dans le  but  de  développer leurs intérêts
 professionnels communs, s’unir en corporation.
-Article. 81 a
+
+### Article 81 a
+
 Les corporations ont pour objet :
 1. d'entretenir l'esprit de corps ainsi  que  de  maintenir et  de  renforcer l'honneur  professionnel  parmi  ses
 membres;
@@ -440,29 +418,32 @@ Article 81 b
 Les  corporations  peuvent  étendre  leurs  activités  à  des  domaines  relevant  de  l'intérêt  professionnel
 commun, autres que ceux mentionnés à l'article 81 a.
 Elles peuvent notamment :
-1. Etablir des institutions  pour favoriser l'instruction professionnelle, technique et morale des maîtres, des
+4. Etablir des institutions  pour favoriser l'instruction professionnelle, technique et morale des maîtres, des
 compagnons ou commis, et des apprentis, notamment subventionner ,créer et diriger des écoles ,et  édicter
 des règles sur la destination et la fréquentation des écoles créées par elles ;
-2. instituer des épreuves  de compagnons et de maîtres et délivrer des certificats relatifs à ces épreuves ;
-3. Organiser des caisses pour secourir les membres de la corporation et leurs proches, leurs compagnons
+5. instituer des épreuves  de compagnons et de maîtres et délivrer des certificats relatifs à ces épreuves ;
+6. Organiser des caisses pour secourir les membres de la corporation et leurs proches, leurs compagnons
 ou commis,  apprentis et ouvriers pour les risques de maladie, de décès, d'incapacité de travail ou autre
 cas de nécessité ;
-5.  Organiser  une  exploitation  en  commun    en  vue  de  favoriser  les  entreprises  des  membres  de  la
+7.  Organiser  une  exploitation  en  commun    en  vue  de  favoriser  les  entreprises  des  membres  de  la
 corporation.
-Article. 82
+
+### Article 82
+
 La  circonscription  pour  laquelle  une  corporation  est  créée  ne  doit  pas,  en  règle  générale,  dépasser  les
 limites de l’autorité administrative supérieure dans lequel la corporation établit son siège. Les exceptions
 à cette règle doivent être autorisées par l’administration centrale de l’Etat.
 Lors  de  la  fondation  d'une  corporation,  celle-ci  reçoit  un  nom  qui  doit  différer  de  celui  des  autres
 corporations existant dans la même localité ou dans la même commune. Les dénominations correspondant
 à des usages locaux telles qu’office, guildes et autres semblables peuvent être conservées.
-Article. 83
+
+### Article 83
+
 Les buts de la corporation, l’organisation de son administration et les droits et obligations de ses membres
 sont, à défaut de dispositions légales, définis par les statuts.
 Les statuts doivent renfermer les dispositions sur:
 1.  Le  nom,  le  siège,  la  circonscription  de  la  corporation  ainsi  que  les  catégories  de  professions    pour
 lesquelles elle est érigée ;
-
 
 2. Les buts que se propose  la corporation   , ainsi que les organismes permanents qu’elle crée à cet effet,
 notamment en matière  de réglementation de l'apprentissage ;
@@ -478,17 +459,19 @@ ceux-ci et le mode suivant lequel ils sont désignés
 10.  La  surveillance  de  l'observation  des  prescriptions  relatives  aux  compagnons,    apprentis  et  des
 ouvriers,  à  la  fréquentation  des  écoles  de  perfectionnement  ou  des  écoles  professionnelles  ainsi  que  la
 réglementation de l'apprentissage;
-12. Les conditions et les modes d’application des sanctions disciplinaires ;
-13. Les conditions et les formes selon lesquelles les statuts seront modifiés, ainsi que l‘établissement  de
+11. Les conditions et les modes d’application des sanctions disciplinaires ;
+12. Les conditions et les formes selon lesquelles les statuts seront modifiés, ainsi que l‘établissement  de
 règlements particuliers et leur modification ;
-14. Les conditions et les formes selon lesquelles la corporation sera dissoute ;
-15. Les feuilles publiques ou seront insérés les avis émanant de la  corporation.
+13. Les conditions et les formes selon lesquelles la corporation sera dissoute ;
+14. Les feuilles publiques ou seront insérés les avis émanant de la  corporation.
 Les statuts ne peuvent contenir aucune disposition qui ne se rattache  aux  buts  de  la  corporation  ou qui
 serait contraire aux lois.
 Les  statuts  de  la  corporation  ne  peuvent  comporter  de  dispositions  relatives  au  fonctionnement  des
 institutions créées pour l'accomplissement des missions obligatoires
 visées aux 3° et 5° de l'article 81 b.
-Article. 84
+
+### Article 84
+
 Les  statuts  de  la  corporation  doivent  être  approuvés  par  l'autorité  administrative  supérieure  de  la
 circonscription  dans  laquelle  la  corporation  établit  son  siège.  Le  dépôt  des  statuts  est  opéré  par
 l'intermédiaire de l'autorité de surveillance (art. 96).
@@ -500,7 +483,9 @@ circonscription prévue par les statuts, il existe déjà une corporation pour l
 La  décision  par  laquelle  l'approbation  est  refusée  doit  indiquer  les  motifs  du  refus;  cette  décision  est
 susceptible de recours selon la procédure applicable en matière de contentieux administratif.
 La modification des statuts des corporations est soumise aux mêmes prescriptions.
-Article. 85
+
+### Article 85
+
 Si la corporation décide de créer des institutions de la nature de celles visées à l'article 81 b, 3°  ou  5°,
 celles-ci  doivent  faire  l'objet  de  statuts  annexes.  Ces  derniers  doivent  être  approuvés  par  l'autorité
 administrative  supérieure.  Avant  d'approuver  ces  statuts,  l’autorité  administrative  supérieure  doit
@@ -514,12 +499,14 @@ aux 3° et 5° de l'article 81 b; l’avoir  y  affecté doit être géré à pa
 interdit d’en faire emploi à d’autres objets  dans un.
 Les créanciers ont droit au règlement séparé de leurs  créances sur ces biens.
 
+### Article 86
 
-Article. 86
 Les  corporations  peuvent,  en  leur  propre  nom,  acquérir  des  droits,  contracter    des  obligations,  ester  en
 justice tant en demandant  qu'en défendant. Le patrimoine des corporations répond seul de ses obligations
 vis-à-vis des créanciers.
-Article. 87
+
+### Article 87
+
 Peuvent seuls être reçus membres d'une corporation:
 1. Les personnes  qui exploitent,  de  façon  autonome,  dans  la  circonscription  de la corporation  l'une  des
 activités pour lesquelles la corporation a été créée;
@@ -540,7 +527,9 @@ mêmes activités ne peuvent être astreints à le subir à nouveau.
 L'admission dans une corporation ne peut être refusée à ceux qui remplissent les conditions d'admission
 prévues par la loi ou les statuts.
 Nul ne peut être dispensé de ces mêmes conditions.
-Article. 87 a
+
+### Article 87 a
+
 Il  est  permis  de  quitter  la  corporation  à  la  fin  de  chaque  exercice  annuel,  pour  autant  que  les  statuts
 n'imposent pas un  avis  préalable de  démission.  Le  délai  de  préavis  imposé  ne peut  être supérieur à  six
 mois.
@@ -552,7 +541,9 @@ Si, à la mort d'un membre, son activité est poursuivie pour le compte du conjo
 mineurs, les droits et obligations du défunt, à l'exception du droit de vote, passent au conjoint survivant
 ou aux héritiers mineurs pour la durée respective du veuvage ou de la minorité. Les statuts peuvent dans
 ce cas conférer le droit de vote au conjoint survivant ou au mandataire.
-Article. 88
+
+### Article 88
+
 Ne peuvent être imposées aux membres de la corporation des obligations de faire ou de ne pas faire qui ne
 seraient pas en relation avec les missions de la corporation.
 Le  patrimoine  de  la  corporation  ne  peut  être  employé  à  des  fins  autres  que  l'accomplissement  de  ses
@@ -562,8 +553,8 @@ compagnons de ces derniers.
 Les  corporations  sont  autorisées  à  percevoir  des  redevances  pour  l'utilisation  des  services,  des  écoles
 professionnelles, foyers, bureaux de placement ou autres, qu'elles auront mis en place.
 
+### Article 89
 
-Article. 89
 Les frais d'établissement et de fonctionnement  de la corporation  et  de la commission   des compagnons
 (§ 95)  sont  supportés par les  membres,  pour  autant  que  ces  frais  ne sont  pas  couverts  par  le  revenu  de
 l'actif existant ou par d'autres recettes.
@@ -576,7 +567,9 @@ l'article 92 c.
 Les  contestations  relatives  à  la  perception  des  cotisations  et  des  taxes  sont  tranchées  par  l'autorité  de
 surveillance. La décision intervenue peut, dans les deux semaines, être déférée par voie de réclamation à
 l'autorité administrative supérieure, qui décide en dernier ressort.
-Article. 89 a
+
+### Article 89 a
+
 Les recettes et les dépenses relatives aux buts de la corporation doivent être comptabilisées  séparément
 des encaissements ou paiements étrangers à cet objet; les fonds correspondants  doivent faire l'objet de
 dépôts séparés.
@@ -587,13 +580,17 @@ Des  sommes  d'argent  momentanément  disponibles  peuvent  aussi,  avec  1'app
 surveillance et pour une durée limitée, être placées d'une autre manière que celle déterminée aux articles
 1807 et 1808 du Code civil local.
 L'autorité de surveillance fixe les règles à observer en matière de conservation de titres de valeurs.
-Article. 89 b
+
+### Article 89 b
+
 La corporation doit obtenir une autorisation de l'autorité de surveillance pour:
 1 ° acquérir, aliéner un immeuble ou le grever d'une charge réelle;
 2°  contracter  un  emprunt  sauf  si  ce  dernier  est  destiné  à  faire  face  à  un  besoin  passager  et  que  son
 montant peut être entièrement remboursé, avec les excédents de recettes courants d'un seul  exercice;
 3° aliéner des objets ayant une valeur historique, scientifique ou artistique.
-Article. 92
+
+### Article 92
+
 Les affaires de la corporation sont conduites par l'assemblée corporative et par le bureau.
 Des commissions peuvent être constituées pour la prise en charge de certaines affaires déterminées.
 L'assemblée  corporative  se  compose,  conformément  aux  statuts,  soit  de  tous  les  membres  de  la
@@ -604,14 +601,16 @@ Les élections des délégués et de la direction se font sous la conduite du bu
 suit la création de la corporation, ainsi que les élections subséquentes qui interviendraient à un moment où
 la direction ferait défaut, sont conduites sous la direction d’un délégué  de l'autorité de surveillance. Les
 opérations électorales doivent faire l'objet d'un procès-verbal.
-Article. 92 a
+
+### Article 92 a
+
 Le bureau expédie la gestion courante suivant les  dispositions détaillées prévues par les statuts.
 Il doit notifier à l'autorité de surveillance, dans le délai d'une semaine, tout changement survenu dans sa
 composition  ainsi  que  le  résultat  de  toute  élection.  A  défaut  de  semblable  notification,  le  changement
 intervenu ne peut être opposé à des tiers que lorsqu'il est prouvé qu'il leur était connu.
 
+### Article 92 b
 
-Article. 92 b
 La  corporation  est  représentée  judiciairement  et  extrajudiciairement  par  son  bureau.  Ce  pouvoir  de
 représentation  s'étend  également  aux  affaires  et  aux  actes  juridiques  pour  lesquels  une  procuration
 spéciale est requise par la loi. La représentation de la corporation vis-à-vis des tiers peut être déléguée par
@@ -620,12 +619,16 @@ Pour  justifier  des  pouvoirs  du  bureau  aux  fins  de  tous  actes  juridiqu
 l'autorité de surveillance constatant que les personnes y désignées constituent, pour le moment, le bureau.
 Les  membres  du  bureau  ont,  du  chef  de  leur  gestion,  la  même  responsabilité  qu'un  tuteur  envers  son
 pupille.
-Article. 92 c
+
+### Article 92 c
+
 En  cas  de  contravention  aux  dispositions  statutaires,  le  bureau  a  le  droit  d'infliger  aux  membres  de  la
 corporation des sanctions disciplinaires et spécialement des amendes ne dépassant pas 20 marks. En cas
 de recours, l'autorité de surveillance tranchera.
 Le produit des amendes est versé à la caisse corporative.
-Article. 93
+
+### Article 93
+
 L'assemblée  corporative  décide  de  toutes  les  affaires  de  la  corporation  dont  la  connaissance  n’est  pas
 réservée au bureau  en vertu de la loi ou des statuts.
 Doivent être réservées à l'Assemblée corporative:
@@ -639,12 +642,14 @@ raison de l'exercice de leurs fonctions;
 a) acquisition, aliénation d'immeubles ou établissement de charges réelles  sur  immeubles ;
 b) aliénation d'objets ayant une valeur historique, scientifique ou artistique ;
 c) emprunts à contracter ;
-8.  l'élection des membres de la commission entant qu’ils sont pris  parmi les membres de la corporation
+7.  l'élection des membres de la commission entant qu’ils sont pris  parmi les membres de la corporation
 (art. 131 a) ;
-9. la décision en matière de modification des statuts de la corporation ainsi qu'en matière d'établissement
+8. la décision en matière de modification des statuts de la corporation ainsi qu'en matière d'établissement
 et de modification des règlements particuliers;
-10. la décision  relative à la dissolution de la corporation.
-Article. 93 a
+9. la décision  relative à la dissolution de la corporation.
+
+### Article 93 a
+
 Pour élire les représentants qui doivent  constituer  l’assemblée corporative et pour avoir droit de vote à
 l'assemblée  , il faut être membre de la corporation , être majeur ,et de plus jouir de ses droits civiques et
 ne pas avoir été soumis ,par mesure de justice ,à des restrictions dans la libre disposition de ses  biens.
@@ -658,13 +663,15 @@ Il  peut  être  stipulé,  de  même,  que  les  membres  de  la  corporation  
 civiques ou qui viendraient à être soumis, par mesure de justice, à des restrictions dans la libre disposition
 de leurs biens, seront exclus de la participation aux affaires de la corporation.
 
+### Article 94
 
-Article. 94
 Les  réclamations  au  sujet  de  la  validité  d'une  élection  doivent  être  faites  dans  les  quatre  semaines  qui
 suivent l'élection. Elles sont définitivement jugées par l'autorité de surveillance. Cette autorité annulera,
 sur réclamation, toute élection opérée contrairement à la loi ou aux règlements électoraux édictés en vertu
 de la loi.
-Article. 94 a
+
+### Article 94 a
+
 Les membres du bureau, de la commission des examens et de la commission des compagnons remplissent
 leurs fonctions gratuitement à titre honorifique; il peut toutefois leur  être alloué, par disposition spéciale
 des statuts, le remboursement de leurs débours ainsi qu'une indemnité pour perte de temps.
@@ -673,7 +680,9 @@ conseil de prud'hommes. Les motifs de refus des élus ne doivent être pris en c
 présentés  par  écrit,  dans  les  deux  semaines  à  partir  du  moment  où  l'élu  a  été  avisé  de  son  élection.
 L'autorité  de  surveillance  statue  souverainement  sur  la  demande  de  refus.  Ces  dispositions  sont
 applicables aux membres des tribunaux corporatifs d’arbitrage.
-Article. 94 b
+
+### Article 94 b
+
 Les membres du bureau, des commissions de la corporation, de la commission des compagnons ainsi que
 des organismes institués pour arbitrer les conflits visés aux articles 21 a n°4 et 81 b n°4,  sont tenus de se
 démettre de leurs fonctions lorsqu'une circonstance qui les rend inéligibles vient à se produire ou à être
@@ -681,7 +690,9 @@ découvert. Sils refusent de se démettre, ils seront relevés de leurs fonction
 qui entendra, au préalable, l'intéressé ainsi que l'organe auquel il appartient. La décision de l'autorité de
 surveillance est susceptible de réclamation dans un délai de quatre semaines. La  décision rendue  sur  la
 réclamation est définitive.
-Article. 94 c
+
+### Article 94 c
+
 Les corporations ont le droit de faire surveiller par des délégués l'observation des prescriptions légales et
 statutaires  dans  les  établissements  de  leurs  membres  et  de  faire  examiner  l'installation  des  locaux  de
 travail, ainsi que des locaux destinés au logement des apprentis.
@@ -702,8 +713,8 @@ défaut d'entente entre le patron et le bureau, l'autorité de surveillance déc
 Les dispositions qui précèdent ne s'appliquent pas aux locaux faisant partie d'une exploitation agricole ou
 d'une entreprise industrielle.
 
+### Article 95
 
-Article. 95
 Les compagnons employés chez les membres de la corporation participent  à l'accomplissement des buts
 poursuivis par la corporation et à son administration, dans  les conditions fixées à cet égard par la loi ou
 les statuts. A cet effet, ils élisent une commission des compagnons.
@@ -721,23 +732,31 @@ doivent participer à l'administration des institutions auxquelles les Compagnon
 Les  décisions  de  l'assemblée  corporative  relatives  à  l'une  des  matières  visées  à  l'alinéa  2  du  présent
 article, ne  pourront  être  exécutées  qu’avec  l’assentiment  de la commission  des  compagnons.  En  cas  de
 refus  de celle-ci, il ne peut y être  suppléé par l'autorité de surveillance.
-Article. 95 a
+
+### Article 95 a
+
 Peuvent prendre part à l'élection de la commission des compagnons, les Compagnons  majeurs, employés
 chez un membre de la corporation et jouissant de leurs droits civiques.
 Est  éligible  tout  compagnon  qui  a  le  droit  de  vote  et  possède  les  qualités  requises  pour  les  fonctions
 d’échevin (Loi locale sur l'organisation judiciaire, art. 31 et 32).
 L'élection de la commission des compagnons est dirigée par un membre du bureau de la corporation  et, à
 son défaut, par un représentant de l'autorité de surveillance.
-Article. 95 b
+
+### Article 95 b
+
 Des suppléants seront élus pour remplacer, dans l'ordre de l'élection, les membres effectifs empêchés ou
 qui  viendraient  à  faire  défaut;  dans  ce  dernier  cas,  les  suppléants  achèveront  le  mandat  des  membres
 titulaires. Si nonobstant la disposition précédente, la commission des compagnons n'est plus au complet,
 elle se complétera  par cooptation pour le reste de la période d'élection.
-Article. 95 c
+
+### Article 95 c
+
 Les  membres  de  la  commission  des  compagnons  qui  cessent  d'être  employés  par  un    membre  de  la
 corporation conservent leurs fonctions pendant une période de trois mois, à la  condition de continuer à
 séjourner dans la circonscription de la corporation.
-Article. 96
+
+### Article 96
+
 Les  corporations  sont  soumises  à  la  surveillance  de  l'autorité  administrative  inférieure  dans  la
 circonscription de laquelle elles ont leur siège.
 L'autorité  de  surveillance  veille  particulièrement  au  respect  des  prescriptions  légales  et  statutaires
@@ -747,7 +766,6 @@ moyen  de peines disciplinaires qu'il lui appartiendra de prononcer et de faire 
 versées à la caisse corporative.
 L'autorité  de  surveillance  peut,  lorsque  la  corporation  néglige  de  faire  valoir  ses  droits,  nommer    un
 représentant pour poursuivre l'affaire en justice.
-
 
 Elle tranche les différends relatifs à l'admission et à l'exclusion des membres, aux élections Offices de la
 corporation,  ainsi  que,  sans  préjudice  des  droits  des  tiers,  ceux  relatifs  aux  droits  et  obligations  des
@@ -759,7 +777,9 @@ corporation  ne  peuvent  être  décidées  par  l'assemblée  corporative  qu'
 l'autorité de surveillance.
 Il  peut  être fait  opposition  contre  les  décisions  de  l'autorité  de surveillance,  pendant un  délai  de quatre
 semaines. La décision qui intervient sur cette opposition est définitive.
-Article. 97
+
+### Article 97
+
 La dissolution d’une corporation peut avoir lieu :
 1.  lorsqu'il  apparaît  que,  d'après  l'article  84,  l'approbation  officielle  aurait  dû  être  refusée,  et  que  la
 modification nécessaire à apporter aux statuts n'est pas faite dans un délai à fixer ;
@@ -774,7 +794,9 @@ La décision qui ordonne la dissolution est susceptible de recours.
 La procédure et l’autorité compétente sont déterminées par les articles 20 et  21 en tant que la législation
 de l’Etat particulier n’ordonne pas de suivre la  procédure en matière de contentieux administratif.
 L‘ouverture de la faillite d’une corporation entraîne de plein droit sa dissolution.
-Article. 98
+
+### Article 98
+
 Lorsqu'une  corporation  est  dissoute  volontairement,  la  liquidation  est  opérée  par  le  bureau,  sauf  si
 l'assemblée corporative en décide autrement, sous le contrôle de l'autorité de  surveillance. Si le bureau ne
 remplit  pas  ses  obligations  ou  si  la  dissolution  est  ordonnée  d’office,  la  liquidation  est  opérée  par
@@ -794,13 +816,16 @@ Le surplus de l’actif, si les statuts ou les lois  de l’Etat n'en disposent 
 de la commune où la corporation avait son siège, pour être employé dans un but d'intérêt professionnel.
 Les conflits nés de l'application de ces dispositions entre la commune et la corporation sont tranchés par
 l'autorité administrative supérieure.
-Article. 99
+
+### Article 99
+
 Sont exemptés de droit et de timbre les statuts et règlements particuliers des corporations, les attestations
 pour la justification des pouvoirs du bureau ainsi que les procurations des délégués.
 
-
 c) Les corporations obligatoires
-Article. 100
+
+### Article 100
+
 Dans  l’  intérêt  professionnel  commun  des  métiers  similaires  et  connexes,  l'  administration  supérieure
 devra, sur requête des intéressés, ordonner que tous les patrons d’une circonscription déterminée seront
 obligés de s’affilier  à une nouvelle corporation à créer , le tout pour autant que les conditions suivantes se
@@ -819,7 +844,9 @@ La  requête  pourra  être  rejetée  de  plano,  sans  même  qu'il  y  ait  l
 n'émane que d'une fraction relativement minime des intéressés, si une proposition analogue a été rejetée
 par  la  majorité  des  intéressés  depuis  moins    de  trois  ans,  ou  si,  par  des  institutions  autres    qu'une
 corporation, il est suffisamment pourvu  aux intérêts communs des métiers en question.
-Article. 100 a
+
+### Article 100 a
+
 Pour  établir  l'assentiment  de  la  majorité  des  intéressés  (art.  100,  al.  1er,  1°),  l'autorité  administrative
 supérieure doit inviter les exploitants intéressés, par un avis publié selon le mode usité dans la localité  ou
 par  des  avis  particuliers  à  se  prononcer  pour  ou  contre  l'    introduction  de  l'affiliation  obligatoire.  La
@@ -839,12 +866,14 @@ circonscription de la corporation obligatoire, seront dissoutes d’office.
 Les  corporations  qui  comprendraient,  outre  ces  métiers,  d’autres  métiers  non  visés  dans  l’arrêté
 continuent à subsister. Ceux d’entre leurs membres qui doivent s’affilier à la corporation obligatoire sont
 démissionnaires de plein droit.
-Article. 100 c
+
+### Article 100 c
+
 Les corporations obligatoires sont régies par les articles 81 a à 99 pour autant que ces dispositions ne sont
 pas modifiées par les articles 100 d à 100 u ci-après.
 
+### Article 100 d
 
-Article. 100 d
 Le refus d'approbation des statuts de la corporation obligatoire ou de leur modification, est susceptible de
 réclamation, dans un délai de quatre semaines, près de l'administration centrale de l'Etat ; celle-ci statue
 définitivement.
@@ -856,9 +885,13 @@ approuvés ;  cette  décision  est  susceptible  de  recours  dans  les  condit
 corporation  néglige  de  donner  suite  à  cette  injonction,  alors  que  cette  dernière  sera  devenue  définitive,
 l'autorité  de  surveillance    ordonnera  que  ce  vote  ait  lieu  et,  s’il  n’est  donné  aucune  suite  à  cet  ordre,
 arrêtera d’office la modification imposée qui aura force obligatoire.
-Article. 100 e
+
+### Article 100 e
+
 Les statuts sont portés à la connaissance des intéressés de la façon qu’il sera jugé convenable.
-Article. 100 g
+
+### Article 100 g
+
 Sont autorisés à s’affilier personnellement  à une corporation créée pour leur métier:
 1 ° les personnes désignées à l'  article 87, alinéa 1, n° 2 et 3, ainsi que les  artisans occupés moyennant
 rétribution dans les  exploitations agricoles ou industrielles, qui n’emploient régulièrement ni ouvriers ni
@@ -868,14 +901,20 @@ apprentis;
 Les droits de ces affiliés volontaires  sont réglementés par les statuts.
 Ils peuvent se retirer  à la fin de chaque exercice. Un avis préalable de  leur démission peut être exigé sans
 que  le délai de préavis puisse être supérieur à six mois.
-Article. 100 h
+
+### Article 100 h
+
 Les conflits relatifs à la question de savoir si une personne appartient de droit à la corporation ou  peut
 prétendre à s'y affilier sont tranchés par l'autorité de surveillance. La décision est susceptible de recours
 près de l'autorité administrative supérieure dans les deux semaines ; celle-ci statue définitivement.
-Article. 100 i
+
+### Article 100 i
+
 L'autorité  centrale  de  l'Etat  doit,  sur  requête  des  intéressés,  faire  l'avance  des  frais  occasionnés  par  la
 constitution de la corporation.
-Article. 100 k
+
+### Article 100 k
+
 Lorsque, par suite de la constitution d'une corporation obligatoire, une corporation existante est dissoute
 d’office (art. 100 b, al. 4), l’avoir de cette dernière passera   ,  sous réserve des dispositions des articles
 100 l à 100 n, à la corporation obligatoire avec les droits et charges  y  afférents,  sous  cette  réserve  que
@@ -888,8 +927,8 @@ A  défaut  d'entente  entre  les  deux  corporations  en  cause,  il  sera  sta
 supérieure  dont  relève  la  corporation  existante.  Les  intéressés  pourront,  dans  les  quatre  semaines,
 réclamer contre cette décision près de l'administration centrale de l’Etat, laquelle statuera définitivement.
 
+### Article 100 1
 
-Article. 100 1
 Lorsque, par suite de la création d'une corporation obligatoire, une corporation libre est dissoute d’office,
 à laquelle se rattachait une caisse corporative de maladie, cette caisse est transférée avec tous ses droits,
 obligations et charges à la corporation obligatoire. Cependant, si des dispositions statutaires ou les lois ne
@@ -897,11 +936,15 @@ s'y opposent pas, la corporation obligatoire peut, avec l'accord des représenta
 avec  l'ensemble  des  droits et  obligations  qui  s'y  rattachent.  Dans  ce  dernier  cas,  les  personnes  qui  font
 partie de cette  caisse sont autorisées  à en  rester  membres,  même  s'ils  ne relèvent pas  de  la  corporation
 obligatoire.
-Article. 100 m
+
+### Article 100 m
+
 Lorsque, par suite de la constitution d'une corporation obligatoire, certains membres doivent quitter une
 corporation à laquelle est rattachée une caisse de secours (art. 100 b, al. 5), ils peuvent rester  affiliés  à
 cette caisse.
-Article. 100 n
+
+### Article 100 n
+
 Les membres de la corporation obligatoire ne peuvent pas être tenus, contre leur gré, de participer à des
 caisses de secours.
 Il est interdit à la corporation obligatoire de constituer des exploitations en commun (art. 81 b, n° 5) ; elle
@@ -918,24 +961,30 @@ exploitations en commun, dont le maintien est désirable dans l'intérêt public
 la corporation obligatoire avec l'approbation de l'autorité administrative supérieure. Dans les autres cas,
 ces  exploitations  doivent  être  dissoutes  par  l'autorité  administrative  supérieure;  le  patrimoine  sera
 employé conformément aux statuts.
-Article. 100 o
+
+### Article 100 o
+
 La  corporation  obligatoire  doit  établir  un  budget  annuel  des  dépenses  que  rend  nécessaires
 l'accomplissement de ses buts légaux et statutaires. Le budget doit être soumis à l'autorité de surveillance.
 Il en est de même de toutes résolutions relatives à des dépenses non prévues au budget. Si le budget et les
 résolutions sus indiquées sont désapprouvés par le quart des membres de la corporation, il y aura lieu de
 faire trancher le cas par l'autorité de surveillance.
 Les comptes annuels doivent être soumis à l'autorité de surveillance.
-Article. 100 p
+
+### Article 100 p
+
 Les prescriptions édictées par la corporation obligatoire en vertu de l'article 93, alinéa 2, n° 5, en vue de
 régler en détail l'apprentissage, doivent être approuvées par l’autorité administrative supérieure. Avant de
 statuer, cette autorité entendra la Chambre des artisans.
-Article. 100 q
+
+### Article 100 q
+
 Il est interdit à la corporation de restreindre la liberté de ses membres en ce qui concerne la fixation des
 prix de leurs marchandises ou de leurs services ou l'acceptation de clients.
 Toute stipulation contraire est nulle.
 
+### Article 100 r
 
-Article. 100 r
 Le  bureau  et  les  commissions  doivent  être  composées  pour  les  deux  tiers  au  moins  de  membres  ayant
 qualité  pour  former  des  apprentis  et  occuper  régulièrement  des  compagnons  ou  des  apprentis.  Les
 membres  des  commissions  chargées  de  veiller  à  l'exécution  des  dispositions  réglementaires  sur
@@ -943,7 +992,9 @@ l'apprentissage doivent tous réunir ces conditions.
 Ne  peuvent  être  admis  à  participer  aux  affaires  de  la  corporation  qui  concernent  la  réglementation  de
 l'apprentissage et l'exécution des dispositions prises en ce domaine que les compagnons qui remplissent
 les conditions déterminées à l'article 129, même s’ils n’ont pas 24 ans accomplis.
-Article. 100 t.
+
+### Article 100 t
+
 L'arrête prévu à l'article 100, alinéa 1er, sera retiré par l'autorité administrative supérieure, si ce retrait est
 réclamé par une décision de l'assemblée corporative. Pour que cette décision soit valable, il faut:
 1. que le quart des membres obligatoirement affiliés à la corporation en ait fait la proposition au bureau ;
@@ -968,7 +1019,9 @@ La décision de dissolution prise par l'autorité administrative supérieure est
 deux semaines, près de l'autorité centrale de l'Etat. Celle-ci statuera définitivement.
 Si la dissolution de la corporation intervient pour une des causes énoncées à l'article 97, l’arrêté  devient
 sans effet.
-Article. 100 u.
+
+### Article 100 u
+
 L'extension d'une corporation obligatoire à une circonscription plus vaste, à d'autres professions connexes
 ou aux personnes qui n'occupent pas régulièrement des compagnons ou des apprentis, doit être ordonnée
 par  l’autorité  administrative  supérieure  lorsque  l'assemblée  corporative  en  aura  décidé  ainsi  que  la
@@ -984,15 +1037,15 @@ disjonction  soit  ordonnée.  Si  les  sortants  deviennent  membres  d'une  au
 application,  par  analogie,  des  articles  100  k,  alinéa  1,  et  100  m,  en  ce  qui  concerne  les  conséquences
 juridiques de ce fait, relativement au patrimoine corporatif.
 
-
 Les  dispositions  de  l'article  100  b  sont  applicables  aux  arrêtés  rendus  par  l'autorité  administrative
 supérieure  en  vertu  des  alinéas  1er  et  2  du  présent  article.  Les  modifications  que  les  statuts  auraient  à
 subir peuvent être ordonnées par l’autorité administrative supérieure.
 En ce cas, il est fait application de l'article 100 d, alinéa 3.
 
-**11.- delegations corporatives**
+**II. — DÉLÉGATIONS CORPORATIVES**
 
-Article. 101.
+### Article 101
+
 Il peut être créé  une délégation corporative commune pour toutes  les corporations soumises à une même
 autorité de surveillance ou pour quelques -unes d’entre elles seulement.
 Cette délégation a pour objet la représentation des  intérêts  communs  des  corporations  participantes.  En
@@ -1007,7 +1060,9 @@ droits en son propre nom, de contracter des obligations, d'ester en justice tant
 Dans ce cas, les créanciers n'ont pour gage de leur droit vis-à-vis de la délégation que le patrimoine de
 celle-ci.
 La surveillance des délégations corporatives est régie par les dispositions de l'article 96.
-Art. 102.
+
+### Article 102
+
 La dissolution  d'une délégation corporative peut être prononcée lorsqu' elle  ne remplit pas les devoirs
 que les statuts lui tracent ou lorsqu'elle prend des décisions qui excèdent ses pouvoirs statutaires.
 La dissolution est prononcée par l'autorité administrative supérieure.
@@ -1020,8 +1075,11 @@ cas de démission.
 L’emploi de l’avoir est réglé par les dispositions des articles 98, alinéa 1er et 98 a.
 A défaut de dispositions contraires des statuts, chaque corporation peut se retirer de la délégation  à la fin
 de l'exercice annuel moyennant un préavis de trois mois au moins.
-III Des chambres des artisans
-Article. 103.
+
+**III. — DES CHAMBRES DES ARTISANS**
+
+### Article 103
+
 Il sera créé des chambres des artisans pour représenter les intérêts des métiers. Cette création a lieu par
 une ordonnance de l’administration centrale de l’Etat ; cette ordonnance délimite la circonscription de la
 chambre  des  artisans.  L’organisation  de  sections,  soit  pour  certaines  parties  de  la  circonscription,  soit
@@ -1032,8 +1090,8 @@ Etats confédérés peuvent s’entendre pour la création de chambres des artis
 défaut  de  convention  contraire,  les  fonctions  dévolues  aux  autorités  sont  exercées  par  les  autorités  de
 l’Etat particulier dans lequel la chambre des artisans a son siège.
 
+### Article 103 a
 
-Article. 103 a.
 Le nombre des membres de la chambre des artisans est fixé par les statuts.
 Des suppléants seront élus pour remplacer, dans l’ordre de l’élection, les membres effectifs empêchés ou
 qui  viendraient  à  faire  défaut ;  dans  ce  dernier  cas,  les  suppléants  achèveront  le  mandat  des  membres
@@ -1044,25 +1102,33 @@ parmi les membres de la corporation ;
 intérêts professionnels des métiers, lorsqu’au moins la moitié de leurs membres sont des artisans établis
 dans  la  circonscription  de  la  chambre  des  artisans,  parmi  les  associés  qui  réunissent  les  conditions
 d’éligibilité requises par la présente loi.
-Article. 103 b
+
+### Article 103 b
+
 Pour être éligible, il faut :
 1 ° Avoir les qualités requises pour les fonctions d’échevin ;
 2° Avoir 30 ans accomplis ;
 3° Exercer un métier en son propre nom depuis trois ans au moins dans la circonscription de la chambre
 des artisans ;
 4°avoir le droit de former des apprentis.
-Article. 103 c.
+
+### Article 103 c
+
 Les  élections  pour  les  chambres  des  artisans  et  pour  leurs  organes  ont  lieu  tous  les  six  ans.  Les  élus
 sortent  par  moitié  tous  les  trois  ans ;  ils  sont  rééligibles.  Les  dispositions  des  articles  94  à  94  b  sont
 applicables par analogie.
-Article. 103 d.
+
+### Article 103 d
+
 La  chambres  des  artisans  peut,  selon  les  dispositions  prévues  dans  les  statuts,  se  compléter,  jusqu'à
 concurrence du cinquième de ses membres, par la cooptation de personnes compétentes et peut appeler à
 ses délibérations des experts avec voix consultative.
 La  chambre  des  artisans  peut  créer,  en  son  sein,  des  commissions  chargées  de  certaines  fonctions
 déterminées,  d’un  caractère  permanent  ou  temporaire.  Ces  commissions  peuvent  appeler  à  leurs
 délibérations des personnes compétentes avec voix consultative.
-Article. 103 e.
+
+### Article 103 e
+
 La chambre des artisans a spécialement pour mission:
 1 ° de réglementer en détail l'apprentissage ;
 2° de veiller à l'application des règles régissant l'apprentissage ;
@@ -1078,15 +1144,17 @@ intérêts généraux des métiers   , ou les intérêts de certaines de  branch
 Elle peut  établir  des  institutions  pour le  développement  professionnel, technique  et    moral  des  maitres,
 compagnons et apprentis, et aussi créer et subventionner  des écoles professionnelles.
 
+### Article 103 f
 
-Article. 103 f.
 Les corporations et les délégations corporatives sont tenues d'observer les prescriptions  édictées par la
 chambre des artisans dans les limites de ses compétences.
 Les  dispositions  des  statuts  des  corporations  ou  des  délégations  corporatives  ainsi  que  les  décisions
 prises par les assemblées corporatives en matière de réglementation détaillée de l'  apprentissage (art. 93,
 al. 2, n° 5) sont dépourvues de toute force obligatoire en tant qu’elles sont contraires aux prescriptions de
 la chambre des artisans agissant  dans les limites  de ses missions légales.
-Article. 103 g.
+
+### Article 103 g
+
 La  chambre  des  artisans  élira,  parmi  ses  membres      ,  un  bureau  chargé  de  pourvoir  à  l'administration
 courante et à l’expédition des affaires, selon qu’il sera déterminé par  les statuts.
 Les dispositions des articles 92, alinéa 2 et 92 b sont applicables à la direction de la chambre des  artisans.
@@ -1101,7 +1169,9 @@ touchent les intérêts généraux des métiers et spécialement la législation
 soumise à l'approbation de l'autorité de surveillance.
 Les dispositions ayant pour objet la réglementation de l'apprentissage doivent  être ratifiées par l'autorité
 centrale de l'Etat.
-Article. 103 h.
+
+### Article 103 h
+
 L’autorité de surveillance nommera un commissaire près de la chambre des artisans.
 Ce commissaire sera convoqué à toutes les séances de la chambre, de son bureau et des commissions   et
 devra être entendu, à sa demande, à tout moment.
@@ -1110,7 +1180,9 @@ soumettre des questions à ses délibérations, demander la convocation de la ch
 peut frapper d’un veto suspensif les décisions de la chambre et de ses organes lorsqu'elles excèdent leur
 compétence ou violent les lois; l'autorité de surveillance statue sur le veto, la chambre des artisans  ou ses
 organes entendus   .
-Article. 103 i.
+
+### Article 103 i
+
 Une commission des compagnons est constituée auprès de la chambre des artisans.
 Le nombre des membres de cette commission et leur répartition parmi les commissions de compagnons
 des corporations de la circonscription seront déterminés par les statuts.
@@ -1123,8 +1195,8 @@ des compagnons.
 Le droit d’électorat et le droit d’éligibilité sont régis par les articles 95a, alinéas  1er et 2, et 95 c de la
 présente loi.
 
+### Article 103 k
 
-Article. 103 k.
 La commission de compagnons doit collaborer:
 1 ° aux dispositions édictées pour la réglementation de l'apprentissage;
 2° à la préparation d'avis et de rapports sur des matières concernant la situation des compagnons et des
@@ -1132,7 +1204,9 @@ apprentis;
 3° au jugement des réclamations contre les décisions des commissions d'examen (art. 132).
 Les  dispositions  de  l'article  95,  alinéa  3,  sont  applicables  par  analogie;  dans  le  cas  prévu  au  n°  2,  la
 commission des compagnons est autorisée à présenter un rapport ou à émettre un avis séparément.
-Article. 103 m.
+
+### Article 103 m
+
 L'autorité  centrale  de  l'Etat  édictera  des  statuts  pour  la  chambre  des  artisans.  Il  appartiendra  à  ladite
 chambre d'y apporter les modifications à introduire dans ces statuts. Sa décision doit être approuvée par
 l'autorité centrale de l'Etat.
@@ -1153,8 +1227,10 @@ Les dispositions de l'article 83, alinéa 3, et de l'article 100 d, alinéa 3, s
 Les  statuts  ainsi  que  les  modifications  qui  leur  sont  apportées  doivent  être  publiés  dans  les  feuilles
 désignées  pour  les  publications    officielles  des  autorités  administratives  supérieures  sur  les  ressorts
 desquelles s'étend la circonscription de la chambre des artisans.
-Article. 103 n.
-- Sont applicables aux chambres des artisans, par analogie, les dispositions des articles 86, 88, 89, alinéas
+
+### Article 103 n
+
+* Sont applicables aux chambres des artisans, par analogie, les dispositions des articles 86, 88, 89, alinéas
 3 et 4,  89 a, 89 b, 94, 99.
 La chambre des artisans a le droit d’établir des  amendes,  de  20  marks  au  plus,  pour  les  contraventions
 aux  dispositions  qu'elle  a  prises  dans  les  limites  de  sa  compétence.  Ces  peines  seront  appliquées  à  la
@@ -1163,7 +1239,9 @@ peut  faire  opposition,  dans  les  deux  semaines,  auprès  de  l'autorité  
 supérieure, qui statue définitivement.
 Le budget de la chambre de métiers doit être approuvé par l'autorité de surveillance.
 L'autorité centrale de l'Etat doit faire l'avance des frais de constitution de la chambre des artisans.
-Article. 103 o.
+
+### Article 103 o
+
 La  chambre  des  artisans  est  soumise  à  la  surveillance  de  l'autorité  administrative  supérieure  dans  la
 circonscription  de  laquelle  elle  a  son  siège,  à  moins  que  l'autorité  centrale  de  l'Etat  n'en  dispose
 autrement,  dans  l'hypothèse  où  son  ressort  s'étendrait  sur  les  circonscriptions  de  plusieurs  autorités
@@ -1172,28 +1250,34 @@ Les dispositions de l'article 96, alinéas 2 à 7, seront applicables par analog
 l'autorité centrale de l'Etat statue sur les réclamations contre les prescriptions et décisions des autorités de
 surveillance.
 
-
 Lorsque la chambre des artisans, au mépris d’une injonction réitérée de l'autorité de surveillance, néglige
 de remplir ses obligations, ou se rend coupable d'actes ou d'omissions contraires  à la loi, et met ainsi en
 danger  l'intérêt  public,  ou  lorsqu'elle  poursuit  d’autres  buts  que  ceux    autorisés  par  la  loi,  l'autorité  de
 surveillance peut la dissoudre et faire procéder à de nouvelles élections. Les anciens membres peuvent,
 dans  les  deux  semaines,  faire  opposition    devant  l'autorité  centrale  de  l’Etat,  laquelle  statuera
 définitivement.
-Article.103 p.
+
+### Article 103 p
+
 Les autorités sont tenues de donner suite, dans les limites de leur compétence, aux requêtes qui leur sont
 adressées par la chambre des artisans et ses organes en exécution de la présente loi. La même obligation
 s'impose aux organes des chambres des artisans dans leurs rapports réciproques. L'autorité administrative
 supérieure  peut  décider  dans  quelle  mesure  les  frais  qui  résulteront  de  cette  obligation  devront  être
 supportés par la chambre des artisans en tant que frais de gestion lui incombant en propre.
-Article. 103 q.
+
+### Article 103 q
+
 L’autorité centrale de l’Etat, dans les Etats confédérés où se trouvent d’autres institutions établies en vertu
 de la loi pour la représentation des intérêts des artisans ( chambres de commerce et de métiers, chambres
 de métiers), pourra reconnaître à ces corps les droits et devoirs des chambres des artisans, lorsque leurs
 membres  –  en  tant  qu’ils  sont  chargés  de  la  représentation  des  intérêts  des  artisans-  sont  élus  par  les
 artisans de la circonscription de la chambre, et qu’un vote séparé est assuré aux membres appartenant aux
 métiers.
-IV  Fédération de corporations
-Article. 104.
+
+**IV. — FÉDÉRATION DE CORPORATIONS**
+
+### Article 104
+
 Des  corporations  qui  ne  sont  pas  soumises  à  la  même  autorité  de  surveillance  peuvent  s’unir  en
 fédérations ; l’affiliation doit être décidée par l’assemblée corporative.
 Les  fédérations  de  corporations  ont  pour  mission,  en  vue  de  sauvegarder  les  intérêts  des  branches
@@ -1201,7 +1285,9 @@ d’activités  qui  y  sont  représentées,  d’aider  les  corporations,  d�
 artisans à remplir les obligations que la loi leur impose, ainsi que de faciliter la tâche des autorités en leur
 soumettant  des  propositions  ou  des  suggestions ;  elles  sont  autorisées  à  réglementer  le  placement,  à
 instituer et à entretenir des écoles professionnelles.
-Art. 104 a.
+
+### Article 104 a
+
 Toute fédération de corporations a ses statuts qui doivent contenir des dispositions concernant :
 a) la dénomination, l’objet et la circonscription de la fédération ;
 b) les conditions relative à l’entrée dans la fédération ainsi qu’à la sortie ;
@@ -1216,8 +1302,8 @@ partie de la fédération.
 Les  statuts  ne  peuvent  contenir  de  disposition  qui  ne  serait  pas  en  rapport  avec  l’objet  légal  d’une
 fédération ou qui serait contraire aux prescriptions de la loi.
 
+### Article 104 b
 
-Art. 104 b.
 Les statuts de la fédération doivent être approuvés :
 a) par l’autorité administrative supérieure pour les fédérations de corporations dont la circonscription ne
 s’étend pas au-delà du ressort d’un département ;
@@ -1230,14 +1316,18 @@ En dehors de ces cas, l’approbation ne peut être refusée que si le nombre de
 la fédération ne paraît pas suffisant pour poursuivre efficacement les buts de la fédération.
 Un recours est possible contre le refus d’approbation
 Les modifications statutaires sont soumises aux mêmes prescriptions.
-Art. 104 c.
+
+### Article 104 c
+
 Le bureau de la fédération doit faire parvenir tous les ans, au mois de janvier, à l’autorité administrative
 supérieure dans le ressort duquel elle a son siège, une liste des corporations qui en font partie.
 La  composition  du  bureau et les changements  qui  y  sont apportés  doivent  être  notifiés  à cette  autorité.
 Notification doit également être faite de tout changement du siège du bureau. Si le nouveau siège ne se
 trouve pas dans le ressort de l’autorité précitée, la notification doit être faite à la fois à cette dernière et à
 l’autorité administrative supérieure dans le ressort de laquelle le siège a été transféré.
-Art. 104 d.
+
+### Article 104 d
+
 Les  séances  du  bureau  et  de  l’assemblée  de  la  fédération  ne  peuvent  être  tenues  que  dans  les  limites
 territoriales de la circonscription de la fédération.
 Elles doivent être notifiées, avec communication de l’ordre du jour, au moins une semaine à l’avance à
@@ -1249,14 +1339,16 @@ fédération ;
 b) de déléguer un représentant à la réunion et de faire lever par lui la séance, lorsque les débats s’étendent
 à  des  questions  qui  n’ont  pas  de  rapport  avec  l’objet  de  la  fédération  ou  lorsque  des  motions  ou  des
 propositions sont mises en discussion appelant ou incitant à des actes punissables.
-Art. 104 e.
+
+### Article 104 e
+
 Les bureaux des  fédérations sont autorisés, pour tout ce qui concerne les branches d’activité représentées
 à  la  fédération,  à  faire  des  rapports  et  présenter  des  propositions  à  l’autorité  compétente  pour
 l’approbation des statuts.
 Ils sont tenus, sur réquisition de la même autorité, de donner leur avis sur des questions professionnelles.
 
+### Article 104 f
 
-Art. 104 f.
 Les fédérations de corporations peuvent être dissoutes par décision administrative :
 1° lorsqu’il apparaît que l’approbation des statuts aurait dû être refusée aux termes de l’article 104 b n° 1
 et 2 et que les modifications nécessaires n’ont pas été apportées à ceux-ci dans un délai déterminé ;
@@ -1267,14 +1359,18 @@ par la loi.
 La dissolution  a lieu par décision de l’autorité qui a dans ses attributions l’approbation des statuts de la
 fédération.
 Il peut être fait opposition contre la décision de l’autorité administrative supérieure.
-Art. 104 g.
+
+### Article 104 g
+
 Les  fédérations  de  corporations  peuvent  par  décision  du  Conseil  fédéral  être  investies  de  la  capacité
 d’acquérir des droits, de contracter des obligations et d’ester en justice tant en demande qu’en défense. En
 pareil cas, le patrimoine de la fédération de corporations répond seul de ses obligations.
 La  décision  du  Conseil  fédéral  susvisée  doit  être  publiée  par  le  Reichsanzeiger  .  Les  fédérations  de
 corporations auxquelles la  capacité  déterminée  ci-dessus  a  été reconnue sont  soumises aux  dispositions
 des articles 104 h à 104 n.
-Art. 104 h.
+
+### Article 104 h
+
 La  fédération  de  corporations  est  représentée  judiciairement  et  extrajudiciairement  par  son  bureau.  Ce
 pouvoir de représentation s’étend à toutes affaires et à tous actes juridiques pour lesquels une procuration
 spéciale est requise. La représentation de la fédération vis-à-vis des tiers peut être déléguée par les statuts
@@ -1282,7 +1378,9 @@ spéciale est requise. La représentation de la fédération vis-à-vis des tier
 Pour justifier de leurs pouvoirs aux fins de tous actes juridiques, il suffit que les représentants produisent
 une  attestation  de  l’autorité  administrative  supérieure  dans  le  ressort  de  laquelle  le  bureau  a  son  siège,
 indiquant que les personnes désignées sont autorisées à représenter la fédération.
-Art. 104 i.
+
+### Article 104 i
+
 La  fédération  de  corporations  est  autorisée  à  créer  des  caisses  de  secours  en  faveur  des  membres  des
 corporations qui en font partie, et de leur famille, pour les risques de maladie, de décès, d’incapacité de
 travail  ou  autres  risques.  Les  règles  à  établir  à  ce  sujet  doivent  faire  l’objet  de  statuts-annexes :  ces
@@ -1290,7 +1388,9 @@ derniers,  ainsi  que  les  modifications  qui  pourraient  leur  être  apport�
 Chancelier de l’Empire.
 Les caisses de secours établies par la fédération de corporations sont soumises aux  mêmes  dispositions
 que celles qui s’appliquent aux caisses similaires créées par une corporation obligatoire.
-Art. 104 k.
+
+### Article 104 k
+
 La  fédération  de  corporation)  est  soumise,  sous  réserve  des  dispositions  de  l’article  104  d,  à  la
 surveillance de l’autorité administrative supérieure dans le ressort de laquelle la direction a son siège.
 L’autorité  de  surveillance  veille  au  respect  des  prescriptions  légales  et  statutaires  et  peut  contraindre  à
@@ -1302,12 +1402,14 @@ obligations des titulaires de ces fonctions.
 Un compte d’exploitation accompagné d’un état du patrimoine de la fédération doit être présenté chaque
 année à l’autorité de surveillance.
 
+### Article 104 l
 
-Art. 104 l.
 La  mise  en  faillite  de  la  fédération  entraîne    légalement  la  dissolution  de  celle-ci.  Le  bureau  de  la
 fédération doit cependant, pendant la durée de la faillite, veiller à la sauvegarde des droits qui pourraient
 appartenir à la masse débitrice.
-Art. 104 m.
+
+### Article 104 m
+
 Lorsque  la  dissolution d’une  fédération a  été  décidée  conformément  aux  statuts,  et  sous  réserve  d’une
 décision  contraire  de  l’assemblée  des  représentants  de  la  fédération,  la  liquidation  est  effectuée  par  la
 direction, sous la surveillance de l’autorité mentionnée à l’article 104 k. Lorsque le bureau ne satisfait pas
@@ -1316,7 +1418,9 @@ liquidation est effectuée par un délégué de l’autorité de surveillance.
 A  partir  de  la  dissolution  volontaire  ou  d’office,  les  membres  de  la  fédération  restent  débiteurs  des
 sommes  au  paiement  desquelles  ils  seraient  astreints  par  les  statuts  en  cas  de  démission.  Le  droit
 d’imposer et de faire rentrer des cotisations appartient au liquidateur.
-Art. 104 n.
+
+### Article 104 n
+
 En cas de dissolution volontaire ou d’office de la fédération de corporations, l’avoir de celle-ci doit être
 employé en premier lieu au paiement de ses dettes et à l’exécution de ses autres obligations. Si la totalité
 ou une partie de ce patrimoine servait à des établissements d’enseignement ou était utilisée à d’autres buts
@@ -1331,20 +1435,24 @@ autrement,  est  réparti  entre  les  corporations  qui  faisaient  partie  de 
 dissolution, au prorata des cotisations qu’elles ont payées à la fédération au cours de l’année précédant la
 dissolution.  Les  contestations  qui  pourraient  naître  à  ce  sujet  sont  tranchées  par  l’autorité  désignée  à
 l’article 104 k.
-Titre VII
-Des travailleurs dans les différentes  professions
-Article. 105.
+
+**TITRE VII. — DES TRAVAILLEURS DANS LES DIFFÉRENTES PROFESSIONS**
+
+### Article 105
+
 La détermination des rapports entre les patrons et les travailleurs  est, sauf les exceptions prévues par les
 lois de l’Empire, abandonnée à la libre convention des parties.
-Article.105 a
+
+### Article 105 a
+
 Les patrons ne peuvent pas obliger leur personnel à travailler les dimanches et jours de fête. Les travaux
 qui, suivant les dispositions de la présente loi, peuvent être effectués même les dimanches et jours fériés
 ne tombent pas sous le coup de la disposition précédente.
 Les jours qui doivent être considérés comme jours fériés sont déterminés par les gouvernements des Etat
 particuliers en tenant compte des conditions régionales et confessionnelles.
 
+### Article 105 b
 
-Article.105 b
 Dans l’exploitation des mines, salines, établissements de réparation mécanique des minerais, des mines et
 carrières,  usines  métallurgiques,  fabriques  et  ateliers,  des  chantiers  et  ateliers  de  constructions  de  toute
 nature,  les  travailleurs    ne  pourront  être  occupés  les  dimanches  et  jours  féries.  Le  repos    accordé  aux
@@ -1370,7 +1478,9 @@ dans  les  autres  cas  par  la  police.    Elles  pourront  être  fixées  dif
 d’exploitation commerciale.
 Les  dispositions  du  deuxième  alinéa  seront  également  applicables  par  analogie    à  l’occupation  des
 commis, apprentis et ouvriers dans les sociétés coopératives de consommation et  autres associations.
-Article.105.c
+
+### Article 105.c
+
 Les dispositions de l’article 105 b ne seront pas applicables :
 1° Aux travaux qui en cas de calamité ou dans l’intérêt public, doivent être immédiatement entrepris ;
 2° Pour un seul dimanche, aux travaux relatifs à la confection d’un inventaire prescrit par la loi ;
@@ -1396,7 +1506,6 @@ L’autorité  administrative  inférieure  peut  autoriser  des  dérogations  
 travailleurs  ne sont pas empêchés d’assister au service divin et quand, au lieu du dimanche, il leur  est
 accordé un repos de 24 heures pendant un jour de la semaine.
 
-
 Article  105 d
 Par  décision du  Conseil  fédéral,  il  pourra  être  édicté  des  dérogations  à  l’article  105  b,  al.1er,  pour  des
 professions  déterminées,  notamment  pour  des  exploitations  ou  se  présentent  des  travaux  qui,  par  leur
@@ -1408,7 +1517,9 @@ conditions  dans lesquelles ils sont autorisées a lieu de manière uniforme pou
 la même nature, en tenant compte des dispositions de l’article 105 c, al.3.
 Les dispositions établies par le Conseil fédéral doivent être publiées  dans le Reichsgesetzblatt et  portées
 à la connaissance du Reichstag lors de sa première réunion.
-Article.105 e
+
+### Article 105 e
+
 En  ce  qui  concerne  les  professions  dont  l’exercice  total  ou  partiel  les  dimanches  et  jours  fériés    est
 nécessaire à la satisfaction des besoins de la population, soit journaliers, soit se manifestant spécialement
 ces jours –là, de même que pour les exploitations qui travaillent exclusivement  ou en majeure partie avec
@@ -1421,7 +1532,9 @@ réunion.
 La procédure relative aux demandes tendant à obtenir un régime exceptionnel pour les exploitations qui
 travaillent  exclusivement  ou  en  majeure  partie  avec  des  moteurs  actionnés  par  le  vent  ou  une  force
 hydraulique irrégulière est soumise aux dispositions des articles 20 et 21.
-Article.105.f
+
+### Article 105.f
+
 Lorsque,  pour  éviter  un  dommage  trop  considérable,  on  se  trouve,  sans  avoir  pu  le  prévoir,  dans  la
 nécessité d’employer des travailleurs le dimanche et jours fériés, l’autorité administrative inferieure peut
 autoriser des dérogations aux dispositions de l’article105 b, alinéa 1er, pour un temps déterminé.
@@ -1433,13 +1546,14 @@ L’autorité administrative inferieure devra dresser une  liste  des  dérogati
 indiquant  les  ateliers,  les  travaux  autorisés, le  nombre  de  travailleurs  occupés    dans  l’exploitation  et  le
 nombre de ceux qui auront travaillé les dimanches et jours fériés en question, la durée de  leur occupation,
 de même que la durée et les motifs de la dérogation accordée.
-Article.105 g
+
+### Article 105 g
+
 L’interdiction  d’occuper  des  travailleurs  les  dimanches  et  jours  fériés    pourra  être  étendue  à  d’autres
 professions par une ordonnance impériale prise avec l‘assentiment du Conseil fédéral.
 Ces ordonnances devront être portées à la connaissance du Reichstag lors de sa première réunion. En ce
 qui concerne les dérogations  à cette interdiction qui pourront être accordées, on appliquera par analogie
 les dispositions des articles 105 c  à 105 f.
-
 
 Art.105 h
 Les dispositions des articles 105a à 105 g ne font pas obstacle à une réglementation  plus restrictive  du
@@ -1447,14 +1561,18 @@ travail des dimanches et jours fériés  par la législation des  Etats particul
 Il  appartient aux autorités centrales des Etats particuliers d’autoriser des dérogations à la règle de l’article
 105 b, alinéa 1er, pour certains jours de fête qui ne tombent pas un dimanche. La présente disposition ne
 s’applique pas aux fêtes de Noel, de Pâques, de l’Ascension et de la Pentecôte.
-Article.105 i
+
+### Article 105 i
+
 Les articles 101a, alinéa 1er et 105 b à 105 g ne s’appliquent pas à l’exploitation des auberges et débits de
 boissons,  auditions  musicales,  exhibitions,  représentations  théâtrales    ou  autres  divertissements,  ni  à
 l’industrie des transports.
 Dans ces exploitations, les exploitants ne peuvent astreindre les travailleurs, les dimanches et jours fériés,
 qu’à  l’exécution  de  travaux    qui,  suivant  la  nature  même  de  l’exploitation,  ne  peuvent  souffrir  ni
 ajournement ni interruption.
-Article.107
+
+### Article 107
+
 Les  personnes  mineures  ne  peuvent,  à  moins  qu’il  en  soit  décidé  autrement  par  une  loi  d’Empire,  être
 employées  comme  ouvriers  que  quand  elles  sont  munies  d’un  livret  de  travail.  Quand  un  employeur
 engage des ouvriers de cette catégorie, il doit se faire présenter ce livret. Il est tenu de le conserver ,de le
@@ -1466,7 +1584,9 @@ du livret peut aussi être faite à la mère ,même quand elle ne jouit pas du d
 un autre parent ,ou bien à l’ouvrier directement.
 Les  dispositions  précédentes  ne  s’appliquent  pas  aux  enfants  qui  sont  astreints  à  la  fréquentation  de
 l’école publique.
-Article.108.
+
+### Article 108
+
 Le livret est délivré à l’ouvrier ,sans frais ni timbre , par la police de la localité  ou il a eu en dernier lieu
 sa résidence permanente ,et ,s’il n’a pas eu une pareille résidence sur le territoire allemand ,par la police
 de la première localité allemande ou il est venu travailler .La délivrance a lieu sur la demande ou avec le
@@ -1498,14 +1618,16 @@ une
 par
 de
 
+### Article 110
 
-Article.110
 Le livret (art.108) doit indiquer le nom de  l’ouvrier, le lieu et la date de naissance, le nom et le dernier
 domicile  de  son  représentant  légal  et  porter  la  signature  de  l’ouvrier.  Lors  de  la    délivrance  du  livret,
 l’autorité  y  appose  son  sceau  et  sa  signature  .Cette  autorité  doit  tenir  une  liste  des  livrets  de  travail
 délivrés par elle.
 La forme des livrets de travail est déterminée par le Chancelier de l’Empire.
-Article.111.
+
+### Article 111
+
 Lorsque l’ouvrier a commencé son travail, l’employeur doit inscrire, à une place réservée à cet effet dans
 le livret, la date de son entrée dans l’exploitation et la nature de son occupation ; à l’expiration du contrat
 de travail, la date du départ, et, quand le travail a subi des modifications, la nature du travail exécuté en
@@ -1518,7 +1640,9 @@ Lesdites  mentions  ne  pourront  être  accompagnées  de  marques  destinées 
 dans un sens favorable oud défavorable.
 Ilet  interdit  d’insérer,  dans  ou  sur  le  livret,  une  appréciation  relative  à  la  conduite  ou    au  travail  de
 l’ouvrier, ou d’autres mentions ou annotations non prévues par la présente loi.
-Article.112.
+
+### Article 112
+
 Si livret est devenu inutilisable, perdu ou détruit chez l’employeur, ou si dernier  y a apposé des marques,
 mentions ou annotations interdites  ou si l’employeur refuse, sans motif valable, de restituer le livret, la
 l’employeur.
@@ -1526,9 +1650,10 @@ délivrance  d’un  nouveau
 livret  peut  être  exigée  et  effectuée  au
 frais  de
 
-**V. - federations de corporations**
+**V. — FÉDÉRATIONS DE CORPORATIONS**
 
-Article. 120.
+### Article 120
+
 Les  employeurs  sont  tenus  d'accorder  à  leurs  employés  âgés  de  moins  de  18  ans  qui  fréquentent  un
 établissement reconnu par la commune ou l'Etat comme école de perfectionnement , le temps nécessaire à
 cette  fréquentation,  lequel,  le  cas  échéant,  sera  déterminé  par  l'autorité  compétente.  L'enseignement  ne
@@ -1550,7 +1675,6 @@ autre école de perfectionnement ou une école professionnelle, lorsque l'autori
 aura reconnu que l'enseignement donné dans ces institutions remplace d'une façon suffisante l'instruction
 donnée dans l'école de perfectionnement.
 
-
 L'obligation  mentionnée  à  l'alinéa  3,  phrase  1  pourra  être  introduite  pour  une  commune  ou  un
 département par ordonnance de l'autorité administrative  supérieure, lorsque,  nonobstant  une  sommation
 adressée,  à  la  requête  d'employeurs  ou  d'ouvriers  intéressés,  par  cette  autorité  à  la  commune  ou  au
@@ -1560,14 +1684,20 @@ La  sommation  et  les  dispositions  de  l'autorité  administrative  supérieu
 réclamation devant l'autorité centrale de l'Etat.
 Les  heures  des  cours  seront  fixées  et  publiées  par  les  autorités  compétentes  à  cet  effet  d'après  la
 législation.
-Article. 121.
+
+### Article 121
+
 Les  compagnons  et  commis  sont  tenus  de  se  conformer  aux  instructions  des  employeurs  en  ce  qui
 concerne les travaux que ceux-ci leur confient et l'organisation de la vie domestique ; ils ne peuvent pas
 être astreints à l'exécution de travaux domestiques.
-Article. 126.
+
+### Article 126
+
 Il  est  interdit  aux  personnes  qui  ne  jouissent  pas  de  leurs  droits  civiques  d'avoir  et  de  former  des
 apprentis.
-Article. 126 a.
+
+### Article 126 a
+
 Le droit d'avoir et de former des apprentis peut être retiré définitivement ou pour un temps seulement aux
 personnes qui, à plusieurs reprises,  ont  gravement  manqué  à  leurs  devoirs  envers les  apprentis  qui  leur
 étaient confiés, ou contre lesquelles existent des faits qui, au point de vue moral, sont de nature à les faire
@@ -1577,7 +1707,9 @@ ou mentale, ne sont pas aptes à former utilement des apprentis.
 Le retrait du droit est effectué par décision de l'autorité administrative  inférieure; un  recours  est ouvert
 contre cette décision.
 Le droit retiré peut être rendu, au bout d'une année, par l'autorité administrative supérieure.
-Article. 127.
+
+### Article 127
+
 Le maître d'apprentissage est tenu d'instruire l'apprenti, en tant que cela peut contribuer à sa formation,
 dans tous les travaux de la profession qui se présentent dans l'exploitation, de lui  faire  suivre  les  cours
 d'un centre de formation et de veiller à ce qu'il fréquente effectivement cet établissement. Il doit diriger
@@ -1588,16 +1720,18 @@ les travaux qui lui sont confiés n'excédent pas ses forces.
 Il doit laisser à l'apprenti le temps et les moyens nécessaires à son instruction ainsi qu'à la fréquentation
 des offices religieux les dimanches et jours de fêtes. Des travaux domestiques  ne peuvent être imposés
 aux apprentis qui ne sont ni logés, ni nourris par le maître d'apprentissage.
-Article. 127 c.
-- A l'issue de l'apprentissage, le maître d'apprentissage doit délivrer à l'apprenti un certificat indiquant le
+
+### Article 127 c
+
+* A l'issue de l'apprentissage, le maître d'apprentissage doit délivrer à l'apprenti un certificat indiquant le
 métier  dans  lequel  l'apprenti  a  été  formé,  la  durée  de  l'apprentissage,  les  connaissances  et  le  degré
 d'habileté  acquis  et  comportant  une  appréciation  sur  son  comportement;  ce  certificat  sera  légalisé  par
 l’autorité communale, sans frais ni timbre.
 Le  certificat  peut  être  remplacé,  le  cas  échéant,  par  les  diplômes  d'apprentissage  délivrés  par  les
 corporations ou d'autres organismes professionnels.
 
+### Article 127 g
 
-Article. 127 g.
 Lorsque  le  contrat  d'apprentissage  a  été  résolu  par  le  maître  à  raison  de  ce  que  l’apprenti    a  quitté
 l'apprentissage sans motif valable, l'indemnité réclamée par le maître, lorsqu' un taux moindre n'aura pas
 été fixé dans le contrat, sera fixée à une somme qui, pour chaque jour de la période d'apprentissage restant
@@ -1610,7 +1744,9 @@ service sachant que l'apprenti était encore engagé dans les liens d'un contrat
 le réclamant ne parvient à connaître qu'après résolution du contrat la personne qui à détourné l'apprenti ou
 qui  l'a  pris  à  son  service,  l'action  en  indemnité  contre  cette  personne  ne  s'éteint  que  si  elle  n'est  pas
 exercée dans les quatre semaines après que le réclamant sera venu à connaître cette personne.
-Article. 128.
+
+### Article 128
+
 Lorsque  le  maître  tient  un  nombre  d'apprentis  hors  de  proportion  avec  l'étendue  ou  la  nature  de  son
 entreprise et qu'ainsi leur instruction paraît compromise, l'autorité administrative   inférieure peut l'obliger
 à congédier une partie de ses apprentis et fixer le nombre  maximum qu'il pourra accepter à l'avenir. Les
@@ -1619,17 +1755,23 @@ Sans préjudice de la disposition précédente, le Conseil fédéral pourra édi
 des prescriptions en ce qui concerne le nombre maximum d'apprentis qu’il sera permis d'occuper dans les
 exploitations desdites  professions.  Aussi longtemps  que  de  telles  dispositions  n'auront  pas  été  édictées,
 elles pourront être prises par l'autorité centrale de l'Etat.
-Article. 129 b.
+
+### Article 129 b
+
 Si  le  maître  fait  partie  d'une  corporation,  il  est  tenu  de  faire  parvenir  à  celle-ci  une  copie  du  contrat
 d'apprentissage  dans  les  quatorze  jours  qui  suivent  la  conclusion  de  ce  contrat;  il  peut  être  contraint  à
 l'exécution de cette obligation par la police locale.
 Les corporations peuvent exiger que le contrat soit passé devant elles. Dans ce cas, copie du contrat sera
 remise au maître et au père ou tuteur de l'apprenti.
-Article. 130.
+
+### Article 130
+
 Aussi longtemps que le Conseil fédéral ou l'autorité centrale de l'Etat n'aura pas pris, en vertu de l'article
 128,  alinéa  2,  des  dispositions  au  sujet  du  nombre  maximum  d'apprentis  qu'il  sera  permis  de  tenir,  la
 chambre des artisans et la corporation auront le droit d'édicter des dispositions à cet égard.
-Article. 131.
+
+### Article 131
+
 A la fin de l'apprentissage, les apprentis doivent être admis à subir l'épreuve de Compagnon  (art. 129, al.
 1er).  L'autorité  centrale  de  l'Etat  peut  attribuer  la  valeur  du  certificat  de  l'épreuve  de  compagnon  aux
 certificats d'examen des ateliers d'apprentissage, des établissements d'enseignement professionnel ou aux
@@ -1643,8 +1785,8 @@ soit  par  les  ateliers  d'apprentissage,  établissements  d'enseignement  pro
 désignés  à  l'article  129,  alinéa  2,  il  sera  procédé  par  la  chambre  des  artisans  à  l'institution  des
 commissions d'examen nécessaires.
 
+### Article 131 a
 
-Article. 131 a.
 Les commissions d'examen se composent d'un président et de deux assesseurs au moins.
 Le  président  de  la  commission  est  désigné  par  la  chambre  des  artisans.  La  moitié  des  assesseurs  de  la
 commission d'examen corporative est nommée par la corporation elle-même; l'autre moitié est choisie par
@@ -1652,7 +1794,9 @@ la  commission  des  compagnons  parmi  les  compagnons  ayant  subi  l'épreuve
 commission d'examen est organisée par la chambre des artisans, les assesseurs sont également nommés
 par cette chambre; la moitié en sera prise parmi les compagnons.
 Les membres de la commission d'examen sont en règle générale nommés pour trois ans.
-Article. 131 b.
+
+### Article 131 b
+
 L'examen de compagnon, ou son équivalent, doit apporter la preuve que l'apprenti exerce sa profession
 avec  une  assurance  suffisante,  qu'’il  connaît  la  valeur,  l'origine,  les  méthodes  de  conservation  et
 d'utilisation des matières premières à mettre en œuvre, ainsi que les critères de leur bonne ou mauvaise
@@ -1667,7 +1811,9 @@ délibérative. A égalité de voix, celle du président est prépondérante.
 Les  frais  d'examen  sont  supportés  par  la  corporation  lorsque  l'examen  a  lieu  devant  une  commission
 corporative,  par  la  chambre  des  artisans  dans  les  autres  cas.  Les  droits  d'examen  sont  acquis  à  ces
 institutions.
-Article. 131 c.
+
+### Article 131 c
+
 A  l'issue  de  son  apprentissage,  l'apprenti  se  présente  à  l'examen  de  compagnon.  La  corporation  et  le
 maître d'apprentissage doivent veiller à ce qu'il le fasse.
 La demande d'admission à l'examen doit être adressée à la commission. Doivent y être joints le certificat
@@ -1675,17 +1821,21 @@ d'apprentissage (art. 127 c), ainsi qu'une attestation de suivi des cours du cen
 La commission d'examen doit consigner le résultat de l'examen par écrit. En cas d'échec, elle détermine le
 délai, pendant lequel l'intéressé ne pourra pas se présenter à l'examen.
 Les attestations d'examen sont délivrées sans frais ni timbre.
-Article. 132.
+
+### Article 132
+
 Le président peut opposer un veto suspensif aux décisions de la commission d'examen. La chambre des
 artisans statue sur ce veto (art. 103 e chiffre 6).
-Article. 132 a.
+
+### Article 132 a
+
 L'autorité centrale de l'Etat peut déroger aux règles prévues aux articles (131 à 132) en ce qui concerne la
 composition des commissions d'examen, son contenu, ainsi que les droits à percevoir ; toutefois, en ce qui
 concerne  les  connaissances  dont  l'intéressé  doit  justifier,  les  exigences  de  l’article  131  b  al.  1er
 constituent un minimum.
 
+### Article 133
 
-Article. 133.
 Le titre de maître accompagné de la désignation d'une activité relevant de l'artisanat ne peut être porté
 que  par  les  personnes  exerçant  une  activité  artisanale  qui  ont  été  reçues  aux  épreuves  du  brevet  de
 maîtrise correspondant et ont accompli leur vingt-quatrième année.
@@ -1712,25 +1862,31 @@ L'autorité  centrale  de  l'Etat  pourra  créer  une  équivalence  entre  le 
 dispositions  précédentes  et  les  examens  passés  dans  des  écoles  ou  devant  d'autres  jurys  d'examen;
 toutefois ces examens devront exiger au moins les mêmes connaissances que celles qui sont demandées
 pour le brevet de maîtrise.
-Article. 133 f.
+
+### Article 133 f
+
 Toute convention entre le chef d'industrie et un des employés désignés à L’article 133 a, par laquelle ce
 dernier  verrait  son  activité  professionnelle  restreinte  pour  le  temps  qui  suivra  l'expiration  de  son
 engagement, n'oblige l'employé que si ces restrictions, en ce qui concerne le temps, le lieu et l'objet, ne
 dépassent  pas  les  limites  au-delà  desquelles  l’avenir  de  l'employé  serait  entravé  d'une  manière  peu
 équitable.
 La convention sera nulle, quand l'employé était mineur à l'époque où elle a été conclue.
-Article. 133 g.
+
+### Article 133 g
+
 Les  dispositions  des  articles  133  h  à  139  aa  s'appliquent  aux  compagnons,  commis,  apprentis  et autres
 travailleurs,  à  l'exception  des  employés  d'exploitation,  contremaîtres,  agents  techniques  (mt.  133  a  à
 133 f).
-Article. 134 i.
+
+### Article 134 i
+
 Les dispositions des articles 135 à 139 aa ci-après s'appliquent, sans préjudice des dispositions de l'article
 133 h, aux exploitations où dix ouvriers au moins sont occupés normalement. Elles s'appliquent mêmes
 aux exploitations où, par suite d'un surcroît de travail se produisant régulièrement à certaines époques de
 l'année, dix ouvriers au moins se trouvent alors occupés.
 
+### Article 137 a
 
-Article. 137 a.
 Les  ouvrières  et  les  ouvriers  adolescents  ne  doivent  pas,  pour  les  jours  où  ils  ont  été  occupés  dans
 l'exploitation pendant toute la durée de travail autorisée par la loi, être chargés d'un travail à exécuter hors
 de l'exploitation pour le compte soit du patron soit de tiers.
@@ -1748,7 +1904,9 @@ ouvrières permanentes (art. 134 h), celles-ci, à exprimer leur avis.
 L'arrêté de la police peut être, dans un délai de deux semaines, frappé d'opposition par l'exploitant devant
 l'autorité administrative supérieure. La décision de l'autorité administrative supérieure peut être, dans un
 délai de quatre semaines, frappée d'opposition devant  l'autorité centrale; celle-ci statue définitivement.
-Article. 139.
+
+### Article 139
+
 Quand,  par  suite  de  phénomènes  naturels  ou  d'accidents,  la  marche  régulière  d’une  exploitation  a  été
 interrompue, des dérogations aux restrictions prévues à l'article 135, alinéas 2 et 3, 136 et 167, alinéas 1er
 à 4, peuvent être accordées pour une durée de quatre semaines par l'autorité administrative supérieure et,
@@ -1766,11 +1924,15 @@ Les décisions prises en vertu des dispositions précédentes doivent être form
 Avant  que  des  décisions  ne  soient  prises  conformément  l'alinéa  2,  les  ouvriers  et,  là  où,  en  vertu  de
 prescriptions de la législation d'Empire ou de la législation des Etats particuliers, il existe des délégations
 ouvrières permanentes, ces délégations doivent être invitées à exprimer leur avis.
-Article. 139 a.
+
+### Article 139 a
+
 Au reste, les dispositions des articles 121 à 125 ou, s'il s'agit d'ouvriers qui doivent être considérés comme
 des apprentis, les dispositions des articles 126 à 128, s'appliquent aux travailleurs des exploitations régies
 par la section IV.
-Article. 139 b.
+
+### Article 139 b
+
 La surveillance, en ce qui concerne l'application des dispositions des articles 105 a, 105 b, alinéa 1er, 105
 à 105 h, 120 a à 120f, 133 g à 139 aa, doit être confiée, soit exclusivement, soit conjointement avec les
 autorités  de  police  ordinaires,  à  des  fonctionnaires  spéciaux  nommés  par  les  Gouvernements  des  Etats
@@ -1780,14 +1942,15 @@ dont  sont  investies  les  autorités  de  police  locale  et,  notamment,  du 
 le secret sur tous les faits, concernant les affaires ou l'exploitation soumises à leur inspection, dont ils ont
 eu connaissance à raison de leurs fonctions.
 
-
 Les  rapports  de  compétence  entre  ces  fonctionnaires  et  les  autorités  de  police  ordinaires  sont  réglés
 d'après les dispositions de droit public en vigueur.
 Les  fonctionnaires  précités  devront  faire  des  rapports  annuels  sur  les  opérations  de  leur  service.  Ces
 rapports ou des extraits de ceux -ci devront être soumis au Conseil fédéral et au Reichstag.
 Les  employeurs  doivent  consentir  en  tout  temps,  et  notamment  aussi  pendant  la  nuit,  aux  inspections
 officielles effectuées en vertu des dispositions des articles 105 a à 105 h, 120 a à 120j, 133 g à 139 aa.
-Article. 139 c.
+
+### Article 139 c
+
 Dans les locaux de vente ouverts au public, ainsi que dans les bureaux (comptoirs ) et magasins qui en
 dépendent, il devra être accordé aux commis, apprentis et ouvriers, à l'expiration de la journée de travail,
 un repos ininterrompu d'au moins dix heures.
@@ -1798,7 +1961,9 @@ pourra être fixé par statut local.
 Au  cours  de  la  journée  de  travail,  il  devra  être  accordé  aux  commis,  apprentis  et  ouvriers,  un  repos
 convenable à midi. Pour les commis, apprentis et ouvriers qui prennent leur repas principal en dehors du
 bâtiment où se trouve le local de vente, ce repos devra être d'au moins une heure et demie.
-Article. 139 d.
+
+### Article 139 d
+
 Les dispositions de l'article 139 c ne sont pas applicables:
 1.  Aux  travaux  qui  doivent  être  effectués  sur-le-champ  dans  le  but  d'éviter  la  détérioration  des
 marchandises ;
@@ -1806,7 +1971,9 @@ marchandises ;
 déménagement;
 3. En outre, pendant trente jours par an au maximum, lesquels seront fixés par la police locale d'une façon
 générale ou pour certaines branches de commerce.
-Article. 139 e.
+
+### Article 139 e
+
 De  9  heures  du  soir à  5  heures  du  matin, les  locaux de  vente  ouverts  au public  doivent être  fermés  au
 trafic. Lors de la fermeture du local, les clients qui s'y trouveraient pourront encore être servis.
 Après 9 heures du soir, les locaux de vente pourront être ouverts au trafic:
@@ -1822,14 +1989,15 @@ marchandises  sur  les  voies,  rues,  places  ou  dans  d'autres  endroits  pub
 commande préalable, qu'il s'agisse d'une profession sédentaire (art. 42 b, al. 1er, n. 1) ou d'une profession
 ambulante  (art.  55,  al.  1er,  n.  1).  Des  dérogations  pourront  être  accordées  par  la  police  locale.  La
 disposition de l'article 55 a, alinéa 2, phrase 2, sera applicable.
-Article. 139 f.
+
+### Article 139 f
+
 Sur la demande des deux tiers au moins des commerçants intéressés, l'autorité administrative supérieure
 pourra,  pour  une  commune  ou  pour  plusieurs  communes  limitrophes,  les  autorités  communales
 entendues,  prescrire  que,  dans  toutes  les  branches  ou  certaines  branches  seulement  de  commerce,  les
 locaux de vente devront, à des périodes déterminées ou pendant toute l'année, être fermés également au
 trafic entre 8 et 9 heures du soir et entre 5 et 7 heures du matin. Ces dispositions ne portent pas atteinte
 aux prescriptions des articles l39 c et l39 d.
-
 
 Sur  la  demande  d'un  tiers  au  moins  des  commerçants  intéressés,  l'autorité  administrative  supérieure
 invitera  les  intéressés,  par  avis  publié  selon  le  mode  usité  dans  la  localité  ou  par  communication
@@ -1844,20 +2012,25 @@ places et dans d'autres endroits publics, ou de porte en porte sans commande pr�
 profession  sédentaire  (art.  42  b,  al.  1,  n.  1),  ou  d'une  profession  ambulante  (art.  55,  al.  1,  n.  1),  seront
 interdites. La police locale pourra autoriser des dérogations. Les dispositions de  l'article  55  a,  alinéa  2,
 phrase 2, seront applicables.
-Article. 139 i.
-- En ce qui concerne l'obligation imposée au commerçant par l'article 76, alinéa 4, du Code de commerce
+
+### Article 139 i
+
+* En ce qui concerne l'obligation imposée au commerçant par l'article 76, alinéa 4, du Code de commerce
 et par l'article 120, alinéa 1er de la présente loi, ces dispositions, dans les localités où il existe une école
 professionnelle reconnue par l'Etat ou la commune, s'appliqueront par analogie à la fréquentation de cette
 école.
 Le commerçant doit astreindre les commis et apprentis de moins de dix-huit ans à fréquenter l'école de
 perfectionnement et l'école professionnelle, et il doit veiller à cette fréquentation.
-Article. 139 m.
--  Les  dispositions  des  articles  139  c  à  139  i  seront  également  applicables  aux  sociétés  coopératives  de
+
+### Article 139 m
+
+*  Les  dispositions  des  articles  139  c  à  139  i  seront  également  applicables  aux  sociétés  coopératives  de
 consommation et autres analogues.
 
-**Titre ix. -dispositions statutaires**
+**TITRE IX. — DISPOSITIONS STATUTAIRES**
 
-Article. 142.
+### Article 142
+
 Une  commune  ou  un  département  peut  régler  par  dispositions  statutaires  ayant  force  obligatoire  les
 questions relatives aux entreprises qui leur ont été déléguées par la loi.
 Ces  dispositions  sont  adoptées  après  consultation  des  exploitants  et  des  salariés;  elles  doivent  être
@@ -1866,30 +2039,37 @@ pour la commune ou le département concernés.
 L'autorité centrale a le pouvoir d'annuler des dispositions statutaires contraires à la loi ou aux dispositions
 statutaires du département.
 
-**Titre x . -dispositions penales**
+**TITRE X. — DISPOSITIONS PÉNALES**
 
-Article. 143.
+### Article 143
+
 Nul ne peut, sauf dans les cas prévus par la loi, être privé par une décision judiciaire ou administrative du
 droit d'exercer une profession.
-Article. 144.
+
+### Article 144
+
 La  question  de  savoir  si,  en  dehors  des  dispositions  relatives  à  la  privation  du  droit  d'exercer  une
 profession  (al.  143),  la  violation  par  les  exploitants  de  leurs  devoirs  professionnels  est  passible  d'une
 peine dans des cas autres que ceux prévus par la présente loi, sera résolue d'après les lois concernant ces
 matières.
 
+### Article 144 a
 
-Article. 144 a.
 Les  personnes  qui,  en  violation  des  dispositions  des  articles  126,  126  a  et  129,  ont,  forment  ou  font
 instruire des apprentis, peuvent être contraintes par la police locale à congédier lesdits apprentis.
 Il  en  sera  de  même  en  ce  qui  concerne  le  renvoi  des  apprentis  qui  ont  été  engagés  contrairement  aux
 dispositions édictées en vertu des articles 81 a, n. 3, 128, alinéa 2 et l30.
-Article. 145.
+
+### Article 145
+
 En ce qui concerne le minimum des peines, l'équivalence entre l'amende et la peine privative de liberté et
 la  prescription  des  délits  spécifiés  aux  articles  145  a,  146  et  153,  les  dispositions  du  Code  pénal  local
 seront applicables.
 Les autres infractions frappées de peines par le présent  titre  se prescrivent  par trois  mois à  compter du
 jour où elles ont été commises.
-Article. 146 a.
+
+### Article 146 a
+
 Sera  puni  d'une  amende  jusqu'à  600  marks,  en  cas  d'insolvabilité,  de  la  détention    simple  quiconque,
 contrairement aux articles 105 b à 105 g ou aux arrêtés pris en vertu de ces articles, aura donné du travail
 aux ouvriers les dimanches et jours fériés, ou qui aura contrevenu aux articles 41 a, 55 a, 139 e ou 139 J,
@@ -1910,17 +2090,17 @@ autonome  d'une  profession  sédentaire  qui  ne  peut  être  commencée  sans
 police (licence, admission à exercer, nomination) ou qui n'aura pas observé les conditions formulées dans
 l'autorisation;
 2. Quiconque aura installé un établissement, pour lequel une autorisation spéciale est nécessaire (art. 16 et
-24) à raison de la situation ou de la nature des ateliers ou des locaux, sans avoir reçu cette autorisation, ou
+1) à raison de la situation ou de la nature des ateliers ou des locaux, sans avoir reçu cette autorisation, ou
 qui  ne  se  conformera  pas  aux  conditions  essentielles  formulées  dans  l'autorisation,  ou  effectuera  sans
 autorisation  nouvelle  une  modification  essentielle  aux  ateliers,  un  déplacement  des  locaux,  ou  un
 changement essentiel dans l’exploitation de l'établissement;
-3.  Quiconque,  sans  être  admis  à  exercer,  aura  pris  la  qualité  de  médecin  (chirurgien,  oculiste  dentiste,
+1.  Quiconque,  sans  être  admis  à  exercer,  aura  pris  la  qualité  de  médecin  (chirurgien,  oculiste  dentiste,
 vétérinaire)  ou  un  titre  semblable,  de  nature  à  faire  croire  que  le  titulaire  est  réellement  un  médecin
 diplômé;
-4.  Quiconque  aura  contrevenu  aux  arrêtés  devenus  définitifs  pris  en  vertu  des  articles  120  d,  137  a,
+2.  Quiconque  aura  contrevenu  aux  arrêtés  devenus  définitifs  pris  en  vertu  des  articles  120  d,  137  a,
 alinéa 3, 139 g ou, dans des cas autres que ceux prévus aux articles 146, alinéa 1er,  n.  2  et  150  a,  aux
 dispositions édictées en vertu des articles 120 e, 120 f, 139, 139 a, 139 h ;
-5. Quiconque exploitera un établissement industriel ou tiendra un local de vente ouvert au public où il n'y
+3. Quiconque exploitera un établissement industriel ou tiendra un local de vente ouvert au public où il n'y
 aura  point  de  règlement  d'atelier  ou  de  travail  (art.  134  a,  139  k),  ou  ne  se  sera  pas  conformé  aux
 injonctions  devenues  définitives  de  l'autorité  relativement  au  l'emplacement  ou  à  la  modification  dudit
 règlement.
@@ -1929,12 +2109,13 @@ peine fiscale; mais il y aura lieu d'en tenir compte dans la fixation de la pein
 Dans  le  cas  du  n°  2,  la  police  pourra  ordonner  la  suppression  de  l'établissement  ou  la  réalisation  des
 conditions imposées.
 
-
 Dans  le  cas  du  n°4,  la  police  pourra,  jusqu'à  l'établissement  d'installations  conformes  à  l'arrêté  ou  aux
 prescriptions édictées, ordonner la cessation de l'exploitation, en tant que celle-ci est visée par l'arrêté ou
 lesdites prescriptions, quand la continuation de l'exploitation serait de nature à entraîner un préjudice ou
 un danger graves.
-Article. 148.
+
+### Article 148
+
 Sera puni d'une amende jusqu'à 150 marks et, en cas d'insolvabilité, de la détention simple jusqu'à quatre
 semaines:
 1.  Quiconque,  en  dehors  des  cas  prévus  à  l'article  147,  aura  commencé  à  exploiter  une  profession
@@ -1945,53 +2126,54 @@ contre l'incendie, prescrite par l'article 14;
 l'exploitation;
 4. Quiconque aura contrevenu à l'interdiction d'exercer une profession, prononcée contre lui, aux  termes
 de l'article 35, ou qui aura négligé de faire la déclaration prescrite par l'article 35 ;
-4. a) Quiconque, en dehors des cas prévus aux articles 360, n° 12, 367, n° 16 du Code pénal local, aura
+5. a) Quiconque, en dehors des cas prévus aux articles 360, n° 12, 367, n° 16 du Code pénal local, aura
 contrevenu aux prescriptions prises en vertu de l'article 38 ;
-5. Quiconque aura contrevenu à l'article 33 b ou qui, en dehors des cas prévus à l'article 149, n. 1, aura
+6. Quiconque aura contrevenu à l'article 33 b ou qui, en dehors des cas prévus à l'article 149, n. 1, aura
 contrevenu aux articles 42 a à 44 a, ou qui aura cédé à autrui, pour en faire usage, sa carte d'identité (art.
 44 a) ou son permis de profession ambulante (art. 55) ;
-6.  Quiconque,  en  vue  d'obtenir  une  carte  d'identité,  un  permis  de  profession  ambulante,  ou  une
+7.  Quiconque,  en  vue  d'obtenir  une  carte  d'identité,  un  permis  de  profession  ambulante,  ou  une
 autorisation prévue par l'article 62, aura fourni sciemment  de  fausses  indications  en  ce  qui  concerne  sa
 propre personne ou les personnes qu'il se propose d'emmener avec lui;
-7.  Quiconque  exerce  une  profession  ambulante  sans  avoir  le  permis  prescrit  par  la  loi,  et  quiconque
+8.  Quiconque  exerce  une  profession  ambulante  sans  avoir  le  permis  prescrit  par  la  loi,  et  quiconque
 exploitera,  contrairement  à  l'interdiction  prononcée  en  vertu  de  l'article  59  a,  une  des  professions
 désignées à l'article 59, n. 1 à 3 ;
-7. a) Quiconque aura contrevenu à l'article 56, alinéa 1er, alinéa 2, n. 1 à 5,7 à II, alinéa 3, aux articles
+9. a) Quiconque aura contrevenu à l'article 56, alinéa 1er, alinéa 2, n. 1 à 5,7 à II, alinéa 3, aux articles
 56 a ou 56 b ;
-7. b) Quiconque aura contrevenu aux prescriptions des articles 56 c, 60 a, 60 b, alinéas 2,3 ou à l'article
+10. b) Quiconque aura contrevenu aux prescriptions des articles 56 c, 60 a, 60 b, alinéas 2,3 ou à l'article
 60 c, alinéas 2, 3 ;
-7. c) Quiconque aura contrevenu aux dispositions restrictives qui lui auront été imposées dans
+11. c) Quiconque aura contrevenu aux dispositions restrictives qui lui auront été imposées dans
 le permis de profession ambulante conformément aux articles 60, alinéa 1 el', 60 b, alinéa 1er ou 60 d,
 alinéa 3 ;
-7. d) Quiconque emmènera, dans une profession ambulante, des enfants de moins de quatorze ans, pour
+12. d) Quiconque emmènera, dans une profession ambulante, des enfants de moins de quatorze ans, pour
 leur  faire  exécuter  des  travaux  dans  cette  profession  ou  qui  instruira  ou  emploiera  des  enfants  âgés  de
 moins de quatorze ans pour une profession interdite en vertu de l'article 42, b, alinéa 5 ;
-7.  e)  L'étranger  qui  aura  contrevenu,  dans  l'exploitation  d'une  profession  ambulante,  aux  prescriptions
+13.  e)  L'étranger  qui  aura  contrevenu,  dans  l'exploitation  d'une  profession  ambulante,  aux  prescriptions
 édictées par le Conseil fédéral en vertu de l'article 56 d ;
-8. Quiconque, dans l'exercice de sa profession, aura contrevenu aux tarifs établis par l'autorité ou fixés par
+14. Quiconque, dans l'exercice de sa profession, aura contrevenu aux tarifs établis par l'autorité ou fixés par
 une déclaration faite près de celle-ci, ou aura négligé de fournir la liste 9. Quiconque aura contrevenu aux
 obligations que lui impose la loi vis-à-vis des apprentis qui lui sont confiés;
-9. a) Quiconque aura, formera ou fera instruire des apprentis en violation des articles 126 et 126 a;
-9.  b)  Quiconque  aura,  formera  ou  fera  instruire  des  apprentis  contrairement  à  l'article  129  ou  aux
+15. a) Quiconque aura, formera ou fera instruire des apprentis en violation des articles 126 et 126 a;
+16.  b)  Quiconque  aura,  formera  ou  fera  instruire  des  apprentis  contrairement  à  l'article  129  ou  aux
 prescriptions édictées en vertu des articles 128 et 13 0 ;
-9. c) Quiconque prendra, sans y avoir droit, le titre de maître;
-10.  Quiconque  sciemment  aura  occupé  un  apprenti  en  contrevenant  aux  dispositions  de  l'article  127  e,
+17. c) Quiconque prendra, sans y avoir droit, le titre de maître;
+18.  Quiconque  sciemment  aura  occupé  un  apprenti  en  contrevenant  aux  dispositions  de  l'article  127  e,
 alinéa 2 ;
 Il.  Quiconque,  contrairement  aux  dispositions  de  l'article  134  c,  alinéa  2,  infligera  à  des  ouvriers  des
 pénalités non prévues dans le règlement d'atelier, ou qui outrepassera le taux
 prévu par la loi, ou qui emploiera les amendes ou bien les sommes désignées à l'article 134 b, n. 5, d'une
 façon non prévue dans le règlement d'atelier;
-12. Quiconque négligera de se conformer à l'obligation qui lui est imposée par les articles 134 e, alinéa 1
+19. Quiconque négligera de se conformer à l'obligation qui lui est imposée par les articles 134 e, alinéa 1
 er, 134 g, 139 k, alinéa 5 de produire le règlement d'atelier ou de travail, les modifications et additions y
 relatives;
 
-
-13. Quiconque aura contrevenu à l’article 115 a ou aux dispositions statutaires prises en vertu de l'article
+20. Quiconque aura contrevenu à l’article 115 a ou aux dispositions statutaires prises en vertu de l'article
 119 a ;
-14. Quiconque aura contrevenu aux prescriptions de l'article 15 a.
+21. Quiconque aura contrevenu aux prescriptions de l'article 15 a.
 Dans  tous  ces  cas,  il  n'y  aura  pas  lieu  d'appliquer  la  peine  si  le  fait  constitue  en  même  temps  une
 infraction aux lois fiscales.
-Article. 149.
+
+### Article 149
+
 Sera  puni d'une  amende  jusqu'à  30  marks  et,  en  cas  d'insolvabilité,  de la  détention  simple jusqu'à  huit
 jours :
 1. Quiconque, en exerçant sa profession, ne portera pas sur lui l'autorisation prévue à l'article 42 b ou le
@@ -2011,8 +2193,10 @@ celle-ci ;
 7 a) Quiconque aura négligé d'afficher la liste des prix ainsi qu'il est prévu par l'article 75.
 Dans  tous  ces  cas,  il  n'y  aura  pas  lieu  d'appliquer  la  peine  si  le  fait  constitue  en  même  temps  une
 infraction aux lois fiscales.
-Article. 150.
-- Sera puni d'une amende jusqu'à 20 marks et, en cas d'insolvabilité, d'un emprisonnement jusqu'à trois
+
+### Article 150
+
+* Sera puni d'une amende jusqu'à 20 marks et, en cas d'insolvabilité, d'un emprisonnement jusqu'à trois
 jours, pour chaque infraction:
 1. Quiconque aura engagé ou continué d'employer un ouvrier contrairement aux dispositions des articles
 106 à 112 ;

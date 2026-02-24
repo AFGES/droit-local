@@ -6,9 +6,8 @@ type_texte: "Loi"
 categories: ["Droit pénal et urbanisme"]
 ---
 
-
 ### Article 3
 
 Les dispositions de la présente loi et de la loi du 21 mai 1879 pourront, par ordonnance
-impériale, être  étendues  à d’autres communes ou parties déterminées de  communes, lorsque  le
+impériale, être étendues à d'autres communes ou parties déterminées de communes, lorsque le
 conseil municipal le demande.

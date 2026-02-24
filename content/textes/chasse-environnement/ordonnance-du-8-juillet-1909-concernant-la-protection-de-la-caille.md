@@ -6,4 +6,4 @@ type_texte: "Ordonnance"
 categories: ["Chasse et environnement"]
 ---
 
-La caille n’est pas chassable du 17 novembre au 23 août.
+La caille n'est pas chassable du 17 novembre au 23 août.

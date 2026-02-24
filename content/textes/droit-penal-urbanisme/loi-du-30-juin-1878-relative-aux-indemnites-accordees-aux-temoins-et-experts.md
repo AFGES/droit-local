@@ -6,7 +6,6 @@ type_texte: "Loi"
 categories: ["Droit pénal et urbanisme"]
 ---
 
-
 ### Article 1er
 
 Dans les affaires qui sont de la compétence des tribunaux ordinaires et auxquelles le Code de procédure
@@ -20,7 +19,7 @@ commencée. L'indemnité sera calculée en tenant compte du gain perdu par le t�
 elle ne pourra dépasser l'indemnité correspondant à une perte supérieure à 10 heures. Il est à rechercher
 par libre appréciation et en tenant compte de la situation et de l'activité régulière du témoin, s'il y a  eu
 perte de gain. Les personnes, qui cherchent à gagner leur vie par des simples travaux manuels, par  des
-travaux d’artisan ou une petite entreprise industrielle, ou des personnes qui se trouvent dans des situations
+travaux d'artisan ou une petite entreprise industrielle, ou des personnes qui se trouvent dans des situations
 analogues, recevront l'indemnité calculée sur la base la plus basse, même si une perte de gain n'a pas eu
 lieu.
 
@@ -32,16 +31,22 @@ augmentée jusqu'à ( montant évalué chaque année ) par heure commencée. L'i
 tenant compte de la situation professionnelle de l'expert. En outre sont à rembourser  à l'expert  les  frais
 dépensés  en  vue  de  la  confection  de  son  expertise  ainsi  que  la  valeur  des  objets  et  des  outils  usés  à
 l'occasion d'une recherche.
-Article. 4
+
+### Article 4
+
 Lorsqu'il  existe  pour  les  travaux  à  exécuter  un  prix  courant,  ce  prix  doit  être  accordé  à  l'expert  s'il  le
 requiert  et  en  outre  pour  la  participation  aux  audiences,  l'indemnité  à  allouer  conformément  à  l'art.  3,
 alinéa 1, phrase 1, et alinéa 2. Lorsque l'expert ne fait que participer à des audiences, il ne recevra que
 l'indemnité fixée par l'article 3.
-Article. 4 a.
+
+### Article 4 a
+
 Lorsque  dans  des  instances  civiles  (et  commerciales)  les  parties  se  sont  déclarés  d'accord  devant  le
 tribunal  de  payer  une  somme  déterminée  pour  les  travaux  de  l'expert,  cette  indemnité  sera  à  allouer,  à
 condition qu'une caution suffisante aura été déposée au Trésor public.
-Article. 5
+
+### Article 5
+
 Est en outre à considérer comme perte de temps du témoin et de l'expert, le temps pendant lequel ils n'ont
 pas pu reprendre leurs occupations habituelles.
 
@@ -52,8 +57,6 @@ de sa résidence, il recevra, outre les indemnités fixées par les articles 2 �
 voyage et pour frais de séjour, occasionnés par son absence du lien de sa résidence, selon les prescriptions
 suivantes.
 
-
-
 ### Article 7
 
 En  tant  que  d'après  la  situation  personnelle  du  témoin  ou  de  l'expert  ou  d'après  des  circonstances
@@ -61,7 +64,9 @@ En  tant  que  d'après  la  situation  personnelle  du  témoin  ou  de  l'expe
 frais  qui,  dans  chaque  cas,  sont  équitablement  considérés  comme  devenus  nécessaires.  Dans  les  autres
 cas, les frais de voyage sont de [montant évalué chaque année] pour chaque kilomètre commencé tant à
 l'aller qu'au retour.
-Article. 8
+
+### Article 8
+
 L'indemnité pour frais de séjour occasionnés par l'absence du lieu de résidence est à calculer d'après la
 situation  du  témoin  ou  de  l'expert  ;  néanmoins  la  somme  pour  chaque  jour  d'absence  du  témoin  ou  de
 l'expert  ne  devra  dépasser  [montant  évalué  chaque  année]  et  celle  pour  chaque  nuit  en  dehors  de  la
@@ -71,17 +76,25 @@ résidence ne devra dépasser [montant évalué chaque année].
 
 Lorsque le témoin ou l'expert était obligé de se transporter à une distance de plus de 2 kilomètres de sa
 résidence,  il  lui  sera  alloué  une  indemnité  de  voyage  pour  tout  le  parcours  suivant  la  prescription  de
-l’article 7.
-Article. 10
+l'article 7.
+
+### Article 10
+
 Lorsque le témoin ou l'expert n'a pu faire le parcours nécessaire sans se servir d'un moyen de transport, il
 lui  sera  alloué,  même  en  dehors  des  cas  prévus  aux  articles  6  et  9,  les  frais  qui  équitablement  sont
 considérés comme devenus nécessaires.
-Article. 11
+
+### Article 11
+
 Les droits perçus pour l'usage d'un chemin sont à rembourser dans tous les cas.
-Article 12.
+
+### Article 12
+
 Lorsqu'à cause de sa jeunesse ou à cause de maladie le témoin a besoin d'être accompagné par une autre
 personne, les indemnités sont à allouer à tous les deux.
-Article 12 a
+
+### Article 12 a
+
 En  tant  qu'ils  ne  se  rapportent  pas  aux  frais  de  séjour  occasionnés  par  l'absence  en  dehors  du  lieu  de
 résidence,  les  déboursés  nécessaires  pourront  être  remboursés  au  témoin  et  à  l'expert  d'après  une
 appréciation  équitable.  Cette  prescription  s'applique  notamment  aux  frais  d'un  remplacement  devenu
@@ -92,14 +105,14 @@ nécessaire.
 Lorsque pour certaines catégories d'experts il existe des taxes spéciales qui seront calculées tant au lieu du
 tribunal  devant  lequel  l'expert  est  cité  qu'au  lieu  de  sa  résidence,  elles  seules  devront  être  allouées.
 Lorsque de telles taxes n'existent que pour l'un de ces lieux ou lorsque pour ce lieu il y a différentes taxes,
-l'expert pourra demander qu’il lui soit appliqué les taxes les plus favorables pour lui. Si l'expert n'est pas
+l'expert pourra demander qu'il lui soit appliqué les taxes les plus favorables pour lui. Si l'expert n'est pas
 fonctionnaire public, il pourra dans les cas prévus à l'alinéa 1 demander qu'au lieu de calculer l'indemnité
 totale suivant la taxation spéciale, il lui soit allouée l'indemnité totale conformément aux prescriptions de
 la présente loi.  Les interprètes recevront les indemnités des experts conformément aux prescriptions de la
 présente loi, à moins que leurs travaux ne tombent sous les devoirs d'une fonction qu'ils occupent.
 
+### Article 14
 
-Article. 14
 Les  fonctionnaires  publics  recevront  des  indemnités  de  séjour  et  de  voyage  conformément  aux
 prescriptions relatives aux déplacements de service, lorsqu'ils sont convoqués :
 1)  pour  être  entendus  comme  témoins  sur  des  faits  dont  ils  ont  eu  connaissance  en  exécution  de  leurs
@@ -127,7 +140,9 @@ affaires à traiter devant les tribunaux déterminés pourront être fixées d'u
 Les indemnités des témoins et experts ne seront allouées que sur leur demande. Leur action se prescrira
 par trois mois à compter du dernier acte de leur activité devant le tribunal ou du dépôt de l'expertise au
 tribunal compétent.
-Article17
+
+### Article 17
+
 Les indemnités à allouer à un témoin ou à un expert seront fixées par ordonnance du tribunal, si, soit le
 témoin ou l'expert, soit le Trésor public, en demandent la fixation ou si le Tribunal le juge convenable. La
 taxe pourra être rectifiée d'office lorsqu'après avoir été payés par le Trésor public, les montants n'auront

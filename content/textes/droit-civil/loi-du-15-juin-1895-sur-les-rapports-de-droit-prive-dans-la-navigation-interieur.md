@@ -6,8 +6,9 @@ type_texte: "Loi"
 categories: ["Droit civil"]
 ---
 
-Titre premier.
-Du propriétaire de bâtiment
+**Titre premier.**
+
+**Du propriétaire de bâtiment**
 
 ### Article 1er
 
@@ -53,19 +54,19 @@ de ce bâtiment. En .matière de remorquage le loyer des remorqueurs est assimil
 Le propriétaire du bâtiment est tenu personnellement, et non pas seulement jusqu'à concurrence du navire
 et du fret, à raison de créances nées au profit des personnes de l'équipage de leurs contrats d'engagement.
 
-
-
 ### Article 6
 
-Le  tribunal  du  lieu  d'où  la  navigation  est  exercée  avec  le  bâtiment  (lieu  d'attache)  est  compétent  pour
+Le tribunal  du  lieu  d'où  la  navigation  est  exercée  avec  le  bâtiment  (lieu  d'attache)  est  compétent  pour
 toutes les actions à exercer contre le propriétaire du bâtiment comme tel, qu’il soit tenu personnellement
 ou seulement jusqu'à concurrence du bâtiment et du fret. Entre plusieurs lieux à prendre en considération,
 on  doit  considérer  comme  lieu  d'attache,  le  lieu  où  se  trouve  le  siège  des  affaires  ou  s'il  y  a  plusieurs
 sièges  d'affaires,  le  siège  principal,  et  à  défaut  d'un  siège  d'affaires,  le  domicile  du  propriétaire  du
 bâtiment. Si l'on ne peut arriver à déterminer un lieu d'attache, on doit considérer comme tel, le lieu où le
 propriétaire du navire est taxé pour l'impôt sur l'industrie ou pour l'impôt sur le .revenu.
-Titre II.
-Du capitaine
+
+**Titre II.**
+
+**Du capitaine**
 
 ### Article 7
 
@@ -99,8 +100,6 @@ suspendre outre mesure le commencement ou la continuation du voyage; il doit plu
 les circonstances le permettent, prendre les ordres du propriétaire du bâtiment et recourir pour le temps
 intermédiaire aux mesures convenables; dans le cas contraire, il doit désigner un autre capitaine. Il n'est
 responsable de ce remplaçant que s'il a commis une faute en le choisissant.
-
-
 
 ### Article 10
 
@@ -151,8 +150,6 @@ introduite sur la demande d'un intéressé dans la cargaison, celui-ci doit supp
 droit  à  la  réparation  du  préjudice  causé  par  l'accident.  L'obligation  du  propriétaire  du  bâtiment  de
 rembourser au capitaine les frais, n'est pas modifiée par là. Dans les cas d'avarie grosse, la disposition de
 l'article 84 s'applique.
-
-
 
 ### Article 15
 
@@ -206,13 +203,9 @@ congédiement immédiat, le capitaine. peut sans doute être congédié, mais sa
 indemnité pour le temps à courir jusqu'à l'expiration du temps fixé par la convention ou jusqu'à celle du
 délai accordé pour prévenir le capitaine.
 
-
-
 **Titre iii**
 
-
 **De  l’equipage du batiment**
-
 
 ### Article 21
 
@@ -261,13 +254,9 @@ congédié sans doute à tout moment, mais sans préjudice de ses droits à inde
 jusqu'au  terme  de  la  durée  conventionnelle  du  contrat  d'engagement  ou  jusqu'à  l'expiration  du  délai
 accordé pour donner avis du congédiement.
 
-
-
 **Titre iv**
 
-
 **Du contrat d’affretement**
-
 
 ### Article 26
 
@@ -320,8 +309,6 @@ Quand l'expéditeur ne livre pas la cargaison assez à temps pour que le chargem
 fixé, le transporteur a droit à des surestaries  pour chacun des jours dont le délai du chargement a été, par
 suite, dépassé. Mais il ne peut en être réclamé pour les jours durant lesquels la navigation est fermée.
 
-
-
 ### Article 31
 
 La  disposition  de  l'art.  30  s'applique  même  quand  il  est  convenu  que le  transporteur  attendra  encore  la
@@ -370,8 +357,6 @@ Dans  ces  cas,  le  capitaine  n'a  pas  droit  seulement  au  fret  de  l'enti
 surestaries,  mais  il  peut  aussi  exiger,  s'il  n'a  pas,  à  raison  de  ce  que  le  chargement  est  incomplet,  une
 sécurité  suffisante  pour  le  payement  du  fret  entier,  une  autre  garantie.  En  outre,  les  dépenses
 supplémentaires provenant de ce que le chargement est incomplet doivent lui être remboursées.
-
-
 
 ### Article 36
 
@@ -428,8 +413,6 @@ le commencement du voyage. La disposition de l'art. 28, al. 3, s'applique à cet
 l'expéditeur de rompre le contrat, ainsi que son droit d'exiger le déchargement des marchandises sont régis
 par les dispositions de l'art. 38.
 
-
-
 ### Article 40
 
 Dans les cas des articles 38 et 39, le transporteur doit placer son bâtiment à un des endroits usités pour le
@@ -478,8 +461,6 @@ fait. Le fait qu'il a agi avec le consentement du transporteur n'exclut pas sa r
 personnes.  La  confiscation  des  marchandises  ne  permet  pas  de  refuser  le  paiement  du  fret.  Si  les
 marchandises mettent en danger le navire ou les autres parties de la cargaison, le transporteur a le droit de
 les mettre à terre ou, dans des cas urgents, de les jeter par-dessus bord.
-
-
 
 ### Article 46
 
@@ -531,8 +512,6 @@ préjudice dépassant les surestaries peut être réclamée à raison de l'inobs
 Le délai des surestaries commence à l'expiration du délai des staries. A la durée et au calcul du premier de
 ces délais s'appliquent les dispositions de l'article 29, alinéa 2, et de l'article 48, alinéas 3 et 4, avec cette
 restriction que le délai des surestaries, à défaut d'une convention spéciale, ne peut dépasser une semaine.
-
-
 
 ### Article 51
 
@@ -589,8 +568,6 @@ amples dommages intérêts
 Si, dans les cas des articles 53 et 54, le réceptionnaire tient de la convention le droit d'indiquer la place du
 déchargement, les dispositions de l'article 46, alinéa 2, s'appliquent.
 
-
-
 ### Article 56
 
 A  moins  d'une  convention  contraire,  le  réceptionnaire  doit  prendre  sur  le  navire  les  marchandises
@@ -646,7 +623,6 @@ dissémination, du dommage provenant de ce danger;
 5)  Pour  les  animaux  vivants,  du  dommage  provenant  du  danger  spécial  inhérent  au  transport  de  ces
 animaux.
 
-
 S'il s'est produit un dommage qui, d'après les circonstances de l'espèce, a pu provenir d'un des dangers ci-
 dessus visés, on présume, jusqu'à preuve du contraire, que le dommage provient du danger dont il s'agit.
 La non-responsabilité du transporteur, en vertu des dispositions précédentes, ne peut être invoquée quand
@@ -695,8 +671,6 @@ achevée du voyage et celle qui reste encore à accomplir.
 
 Pour les marchandises qui ont péri par vice propre, ou qui ont diminué de poids, le fret entier est dû. La
 même règle s'applique pour les animaux morts durant le trajet.
-
-
 
 ### Article 65
 
@@ -753,8 +727,6 @@ déchargement, et pour la partie accomplie du voyage, le fret de distance (art. 
 hiverner, l'expéditeur ne peut pas rompre le contrat en vertu de la disposition précédente. Dans ce cas, le
 droit de reprendre les marchandises ne lui appartient qu'en vertu des dispositions des articles 36 à 39.
 
-
-
 ### Article 71
 
 Sur la demande de l'expéditeur, le transporteur doit lui délivrer un certificat de prise en charge après que
@@ -805,8 +777,6 @@ Si le transporteur reçoit des marchandises dont la détérioration, le vice pro
 cas contraire, il est responsable envers le réceptionnaire de l'amoindrissement de valeur des marchandises
 résultant de ces vices.
 
-
-
 ### Article 77
 
 Le propriétaire de navire est responsable à raison de la perte ou de la détérioration des bagages, quand ils
@@ -814,7 +784,9 @@ ont  été  reçus  par  le  capitaine  ou  par  une  personne  préposée  à  
 transporteur est responsable pour les marchandises. Le transporteur a, pour le fret, un droit de gage sur les
 bagages tant que ceux-ci sont retenus par lui ou  déposés.  Les  effets  et  l’exercice  du  droit  de  gage  sont
 régis, du reste, par, les dispositions relatives au droit de gage du transporteur sur les marchandises.
-Titre V : Des avaries
+**Titre V.**
+
+**Des avaries**
 
 ### Article 78
 
@@ -835,58 +807,39 @@ est  imputable,  ne  peut  pourtant  réclamer  d’indemnité  à  raison  des 
 responsable  envers  les  contribuables  du  dommage  qu'ils  éprouvent  à  raison  de  ce  flue  le  dommage  est
 réparti  comme  avarie  grosse.  Si  le  danger  a  été  causé  par  la  faute  d'une  personne  de  l'équipage,  le
 propriétaire du bâtiment en supporte les conséquences, conformément aux articles 3 et 4.
-Article. 80
--L'obligation  pour  un  objet  sauvé  de  contribuer  n'est  tout  à  fait  supprimée  par  une  avarie  particulière
-postérieure que si cet objet périt complètement.
-Article. 81
-Le  droit  à  indemnité  pour  un  dommage  constituant  une  avarie  grosse  ne  cesse  à  raison  d'une  avarie
+
+### Article 80
+
+L'obligation pour un objet sauvé de contribuer n'est tout à fait supprimée par une avarie particulière postérieure que si cet objet périt complètement.
+
+### Article 81
+
+Le droit à indemnité pour un dommage constituant une avarie grosse ne cesse à raison d'une avarie
 particulière,  consistant  dans  une  détérioration  ou  une  perte  totale  atteignant  postérieurement  l'objet
 endommagé que s'il est prouvé que le second accident est sans' relation aucune avec le premier, mais qu'il
 aurait entraîné le même dommage si le premier accident n'était pas survenu. Le droit à indemnité subsiste
 pourtant quant aux dépenses déjà faites avant le second accident pour réparer la chose endommagée.
-Article. 82
-Pour  déterminer  l'étendue  des  avaries  grosses,  on  applique  les  règles  suivantes  lorsque  les  conditions
-constitutives des avaries grosses sont réunies :
-1) Quand des marchandises, des pièces du bâtiment ou des agrès ont été jetés par-dessus bord, des câbles
-ou des voiles ont été coupés, des mâts, des ancres, des cordages ou des chaînes d'ancres ont été rompus,
-les dommages sont des avaries grosses ainsi que les dommages causés par les mesures ainsi, prises, au
-bâtiment et à la cargaison;
 
+### Article 82
 
-2) Quand pour alléger le navire, la cargaison a été transbordée en tout ou en partie dans des allèges, sont
-avaries grosses à la fois le prix de location de ces allèges, le dommage causé à la cargaison ou au navire
-lors  du  transbordement  dans  les  allèges  ou  de  la  remise  à  bord  du  navire,  le  dommage  subi  par  la
-cargaison  sur  les  allèges.  Il  n'y  a  pas  avarie  grosse  quand  le  navire  a  été,  allégé  au  cours  régulier  du
-voyage;
-3)  Quand  le  bâtiment  a  été  échoué  volontairement  pour  éviter  qu'il  ne  coule  ou  quand  il  a  été  amené
-volontairement  à  couler  pour  empêcher  la  destruction  du  bâtiment  et  de  la  cargaison  par  le  feu,  les
-dommages provenant de la mesure ainsi prise avec les dépenses et les dommages se rattachant à la remise
-à flot et au relèvement du bâtiment, sont avaries communes. Si le bâtiment n'est pas remis à flot ou relevé
-ou si, après avoir été remis à flot ou relevé, il est reconnu innavigable, il n'y a pas lieu à la répartition des
-avaries. Si le bâtiment a coulé, sans que cela ait eu lieu volontairement pour le salut du bâtiment et de la
-cargaison,  les  dommages  causés  par  l'accident  ne  sont  plus  des  avaries  particulières;  mais  il  en  est
-autrement des frais faits pour relever à la fois le bâtiment et la cargaison ainsi que des dommages causés
-volontairement dans ce but au bâtiment et à la cargaison ;
-4)  Quand,  pour  échapper  à  un  danger  causé  par  les  glaces  ou  par  d'autres  circonstances  et  pour  lequel
-l'équipage  ordinaire  du  bâtiment  ne  suffit  pas,  on  recourt  à  des  marins  supplémentaires  ou  à  un
-remorqueur, les frais et dommages occasionnés par ces mesures constituent des avaries communes. Mais,
-il n'y a pas d'avarie commune quand le recours à des remorqueurs ou à des marins supplémentaires a lieu
-dans le cours ordinaire da voyage ;
-5)  Quand  le  bâtiment  est,  à  raison  de  la  gelée,  contraint  de  gagner  un  port  intermédiaire,  on  range  en
-avaries  communes  les  frais  d'entrée  et  de  sortie,  les  loyers  de  remorquage,  les  droits  de  port,  les  frais
-nécessités par la garde du bâtiment et, quand, pour alléger celui-ci, la cargaison est transbordée, en tout ou
-en partie, dans une allège, le loyer de l'allège ainsi que le dommage causé par l'allègement, conformément
-au n° 2.
-Article. 83
--  Quand  le  bâtiment  est,  en  dehors  du  cas  de  l'article  82,  alinéa  5,  dans  la  nécessité  d'interrompre  le
-voyage et de séjourner dans un port intermédiaire, les frais et dommages causés par le séjour dans ce lieu
-ne constituent pas des avaries communes.
-Article. 84.
--  Quand  la  répartition  entre  les  intéressés  occasionne  des  frais,  ceux-ci  sont  classés  aussi  en  avaries
-communes.  Cela  s'applique  spécialement  aux  frais  faits  pour  constater  les  dommages  et  pour  établir  le
-règlement d’avaries.
-Article. 85
-- Pour l'étendue et pour le calcul des sommes à réclamer au titre d'avaries communes et les contributions à
+Pour déterminer l'étendue des avaries grosses, on applique les règles suivantes lorsque les conditions constitutives des avaries grosses sont réunies :
+1) Quand des marchandises, des pièces du bâtiment ou des agrès ont été jetés par-dessus bord, des câbles ou des voiles ont été coupés, des mâts, des ancres, des cordages ou des chaînes d'ancres ont été rompus, les dommages sont des avaries grosses ainsi que les dommages causés par les mesures ainsi, prises, au bâtiment et à la cargaison;
+2) Quand pour alléger le navire, la cargaison a été transbordée en tout ou en partie dans des allèges, sont avaries grosses à la fois le prix de location de ces allèges, le dommage causé à la cargaison ou au navire lors du transbordement dans les allèges ou de la remise à bord du navire, le dommage subi par la cargaison sur les allèges. Il n'y a pas avarie grosse quand le navire a été, allégé au cours régulier du voyage;
+3) Quand le bâtiment a été échoué volontairement pour éviter qu'il ne coule ou quand il a été amené volontairement à couler pour empêcher la destruction du bâtiment et de la cargaison par le feu, les dommages provenant de la mesure ainsi prise avec les dépenses et les dommages se rattachant à la remise à flot et au relèvement du bâtiment, sont avaries communes. Si le bâtiment n'est pas remis à flot ou relevé ou si, après avoir été remis à flot ou relevé, il est reconnu innavigable, il n'y a pas lieu à la répartition des avaries. Si le bâtiment a coulé, sans que cela ait eu lieu volontairement pour le salut du bâtiment et de la cargaison, les dommages causés par l'accident ne sont plus des avaries particulières; mais il en est autrement des frais faits pour relever à la fois le bâtiment et la cargaison ainsi que des dommages causés volontairement dans ce but au bâtiment et à la cargaison ;
+4) Quand, pour échapper à un danger causé par les glaces ou par d'autres circonstances et pour lequel l'équipage ordinaire du bâtiment ne suffit pas, on recourt à des marins supplémentaires ou à un remorqueur, les frais et dommages occasionnés par ces mesures constituent des avaries communes. Mais, il n'y a pas d'avarie commune quand le recours à des remorqueurs ou à des marins supplémentaires a lieu dans le cours ordinaire da voyage ;
+5) Quand le bâtiment est, à raison de la gelée, contraint de gagner un port intermédiaire, on range en avaries communes les frais d'entrée et de sortie, les loyers de remorquage, les droits de port, les frais nécessités par la garde du bâtiment et, quand, pour alléger celui-ci, la cargaison est transbordée, en tout ou en partie, dans une allège, le loyer de l'allège ainsi que le dommage causé par l'allègement, conformément au n° 2.
+
+### Article 83
+
+Quand le bâtiment est, en dehors du cas de l'article 82, alinéa 5, dans la nécessité d'interrompre le voyage et de séjourner dans un port intermédiaire, les frais et dommages causés par le séjour dans ce lieu ne constituent pas des avaries communes.
+
+### Article 84
+
+Quand la répartition entre les intéressés occasionne des frais, ceux-ci sont classés aussi en avaries communes. Cela s'applique spécialement aux frais faits pour constater les dommages et pour établir le règlement d'avaries.
+
+### Article 85
+
+Pour l'étendue et pour le calcul des sommes à réclamer au titre d'avaries communes et les contributions à
 fournir pour elles, les dispositions des articles 711 à 722,724 à 726 du code de commerce reçoivent une
 application  correspondante.  Toutefois,  les  marchandises  qui,  au  moment  où  s'est  produite  l'avarie,  se
 trouvaient  dans  une  allège  (Code  de  commerce,  art.  720),  ne  sont  soumises  à  contribution  qu'autant
@@ -901,7 +854,6 @@ L'exception portée au n' 1 ne s'applique pas aux transports faits dans le port 
 Article. 86-
 La répartition des dommages se fait au lieu où finit le voyage.
 
-
 Article. 87
 Le règlement d'avaries doit être dressé immédiatement par le capitaine
 Celui-ci  a  la  faculté,  il  a  même  l'obligation  sur  la  demande  d'un  intéressé,  de  charger  un  expert  de  la
@@ -913,11 +865,11 @@ le règlement d'avaries qui sont à sa disposition, spécialement les lettres de
 en  charge  et  les  factures.  Il  est  réservé  aux  lois  des  Etats  particuliers  d'édicter  des  dispositions  sur  la
 procédure à suivre pour la confection du règlement d'avaries et sur l'exécution de ce règlement.
 Article. 88
-- Si un retard est apporté à la confection du règlement d'avaries, tout intéressé a la faculté, sans préjudice
+* Si un retard est apporté à la confection du règlement d'avaries, tout intéressé a la faculté, sans préjudice
 de  son  droit  à  la  réparation  du  préjudice  qui  lui  a  été  causé  par  le  retard,  de  faire  dresser  lui-même  le
 règlement par un dispacheur et de l'exécuter.
 Article. 89
--  Les  ayants  droit  ont,  à  raison  des  contributions  dues  par  le  bâtiment,  les  droits  des  créanciers  de
+*  Les  ayants  droit  ont,  à  raison  des  contributions  dues  par  le  bâtiment,  les  droits  des  créanciers  de
 bâtiments (art. 102 à 116). Les ayants droit à contribution ont aussi sur chacune des choses soumises à
 contribution,  pour  la  part  contributive  de  celles-ci,  un  droit  de  gage  auquel  sont  attachés  les  effets
 indiqués dans l'article 41 de la loi sur les faillites. Cependant le droit de gage ne peut, après la livraison
@@ -943,23 +895,21 @@ autre manière sûre.
 
 **Titre  vi.**
 
-
 **De  l’abordage   des batiments, du sauvetage et de l’assistance**
 
 Article. 92.
-- Les dispositions des articles 736 à 741 du Code de commerce s'appliquent à l'obligation de réparer le
+* Les dispositions des articles 736 à 741 du Code de commerce s'appliquent à l'obligation de réparer le
 dommage causé en cas d'abordage entre bâtiments sur les rivières ou dans les autres eaux intérieures, sauf
 que le propriétaire du bâtiment tient la place de l'armateur.
 
-
 Article. 93
-- Quand un bâtiment en détresse, abandonné par l'équipage ou la cargaison d'un navire est sauvé en tout
+* Quand un bâtiment en détresse, abandonné par l'équipage ou la cargaison d'un navire est sauvé en tout
 ou  en  partie,  le  sauveteur  a  droit  à  une  rémunération  de  sauvetage  quand,  en  dehors  de  ces  cas,  un
 bâtiment ou sa cargaison sont sauvés d'un péril de navigation par l'assistance de tiers, ceux-ci ont droit à
 une  rémunération  d'assistance.  L’équipage  du  navire  n'a  pas  droit  à  une  rémunération  de  sauvetage  ou
 d'assistance.
 Article. 94.
--  A  défaut  de  convention,  le  montant  de  la  rémunération  de  sauvetage  ou  d'assistance  est  fixé
+*  A  défaut  de  convention,  le  montant  de  la  rémunération  de  sauvetage  ou  d'assistance  est  fixé
 équitablement par le juge, en tenant compte des circonstances de l'espèce. La rémunération de sauvetage
 et d'assistance comprend en même temps le remboursement des dépenses faites en vue du sauvetage et de
 l'assistance.  Il  n'y  a  pas  à  y  comprendre  les  frais  et  les  taxes  à  payer  aux  autorités,  les  frais  de  garde,
@@ -977,7 +927,7 @@ sauvetage  des  personnes,  dans  le  même  péril,  ont  des  droits  corréla
 cargaison est sauvé ou assisté par un autre bâtiment, le propriétaire de ce dernier a le droit de réclamer
 une part de la rémunération.
 Article. 96.
-- N'a aucun droit à la rémunération de sauvetage et d'assistance:
+* N'a aucun droit à la rémunération de sauvetage et d'assistance:
 1)  Celui  qui  a  imposé  ses  services,  spécialement  celui  qui, sans  la  permission  du  capitaine  présent,  est
 monté sur  le bâtiment;
 2)  Celui  qui  n'a  pas  immédiatement  prévenu  le  propriétaire,  le  capitaine  ou  l'autorité  compétente  du
@@ -994,33 +944,31 @@ Après  la  livraison  des  marchandises,  le  droit  de  gage  ne  peut  être 
 acquéreur ayant reçu de bonne foi la possession des marchandises qui ont été l'objet du sauvetage ou de
 l'assistance.
 Article. 99.
--  Le  capitaine  ne  doit  pas  livrer  les  marchandises  avant  que  le  créancier  ait  été  payé  ou  ait  reçu  une
+*  Le  capitaine  ne  doit  pas  livrer  les  marchandises  avant  que  le  créancier  ait  été  payé  ou  ait  reçu  une
 garantie. Dans le cas contraire, le capitaine est responsable envers le créancier dans la mesure de ce que
 celui-ci  aurait  pu  retirer  des  marchandises.  Si  le  propriétaire  du  bâtiment  a  ordonné  la  livraison  des
 marchandises, les dispositions de l'article 7, alinéas 2 et 3, reçoivent leur application.
 Article. 100.
-- Aucune obligation personnelle de payer les frais de sauvetage et d'assistance ne naît du sauvetage ou de
+* Aucune obligation personnelle de payer les frais de sauvetage et d'assistance ne naît du sauvetage ou de
 l'assistance. Toutefois, le récepteur des marchandises qui sait au moment où il les reçoit qu'elles doivent
 des  frais  de  sauvetage  et  d'assistance,  est  tenu  personnellement  de  les  payer  dans  la  mesure  où  les
-
 
 marchandises auraient suffi pour les acquitter si la livraison n'en avait pas eu lieu. Si d'autres objets ont
 été sauvés avec les marchandises livrées auxquelles s'est appliqué le sauvetage ou l'assistance, l'obligation
 personnelle du récepteur ne dépasse pas la part afférente à ces marchandises par suite de la répartition des
 frais entre tous les objets.
 Article. 101.
-- Des ordonnances des gouvernements des Etats particuliers peuvent déclarer applicables pour les eaux
+* Des ordonnances des gouvernements des Etats particuliers peuvent déclarer applicables pour les eaux
 intérieures  touchant  immédiatement  à  la  mer  les  dispositions  relatives  à  la  navigation  maritime  sur  la
 procédure en matière de sauvetage et d'assistance, sur les autorités compétentes, sur la manière de traiter
 les objets sauvés et sur la fixation des frais de sauvetage et d'assistance,
 
 **Titre vii.**
 
-
 **Des créanciers de batiment**
 
 Article. 102
-- Les créances ci-après désignées confèrent les droits d'un créancier de bâtiment:
+* Les créances ci-après désignées confèrent les droits d'un créancier de bâtiment:
 1) Les taxes publiques concernant le navire et la navigation, spécialement les droits de pont, d'écluse, de
 canal et de port;
 2) Les créances nées des contrats de louage de services au profit des gens de l'équipage;
@@ -1041,12 +989,12 @@ créances nées de la faute d'une personne de l'équipage (art.
 vertu  des  lois  sur  l'assurance  contre  les  accidents,  ainsi  qu'au  profit  des  communes  et  aux  caisses  de
 maladies en vertu des lois sur l'assurance contre les maladies.
 Article. 103
--  Les  créanciers  de  bâtiment  ont  un  droit  de  gage  sur  le  bâtiment  et  ses  accessoires,  avec  les  effets
+*  Les  créanciers  de  bâtiment  ont  un  droit  de  gage  sur  le  bâtiment  et  ses  accessoires,  avec  les  effets
 déterminés par l'article 41 de la loi sur la faillite; Le droit de gage est opposable à tout tiers possesseur du
 bâtiment; La réalisation du gage a lieu en vertu d'un titre exécutoire conformément aux règles relatives à
 l'exécution forcée.
 Article. 104
-- Le droit de gage des créanciers de bâtiment s'étend, en outre, au fret brut du voyage à l'occasion duquel
+* Le droit de gage des créanciers de bâtiment s'étend, en outre, au fret brut du voyage à l'occasion duquel
 leur créance est née. Pour les créances des gens de l'équipage mentionnées dans l'article 102, alinéa 2, le
 droit de gage existe sur le fret de toutes les traversées auxquelles se rapporte le contrat d'engagement dont
 les créances sont nées. Est considéré comme traversée tout voyage qui est entrepris en vertu d'un nouveau
@@ -1054,28 +1002,27 @@ contrat  d'affrètement  ou  après  le  déchargement  de  la  cargaison.  Au  
 présent titre le prix de transport à payer pour le transport des personnes, et pour les remorqueurs le droit
 de remorquage.
 Article. 105
-- Le droit de gage appartenant à un créancier de bâtiment s'applique dans la même mesure au capital, aux
+* Le droit de gage appartenant à un créancier de bâtiment s'applique dans la même mesure au capital, aux
 intérêts et aux frais.
 
-
 Article. 106
-- Parmi les créances mentionnées dans l'article 102, n° 1 à 5, les créances relatives à un voyage antérieur
+* Parmi les créances mentionnées dans l'article 102, n° 1 à 5, les créances relatives à un voyage antérieur
 sont  primées  par  les  créances  relatives  à  un  voyage  postérieur.  Au  nombre  des  créances  concernant  le
 dernier  voyage,  on  compte  même  celles  qui  sont  nées après la fin  de  ce  voyage.  Pour  les  créances  des
 gens  de  l'équipage  mentionnées  dans  l'article  102,  n°  2,  le  droit  de  préférence  se  détermine  d'après  le
 dernier voyage auquel s'applique le contrat d'engagement d'où sont nées les créances.
 Article. 107.
--  Le  rang  des  créances  relatives  au  même  voyage  ou  qui  sont  à  considérer  comme  telles  (art.  106)  se
+*  Le  rang  des  créances  relatives  au  même  voyage  ou  qui  sont  à  considérer  comme  telles  (art.  106)  se
 détermine par l'ordre dans lequel elles sont énumérées dans l'article 102.
 Les créances indiquées sous les  n° 1, 2,4 et 5 ont le même rang, sans qu'il y ait à tenir compte de la date à
 laquelle  elles  ont  pris  naissance.  Parmi  les  créances  mentionnées  sous  le  n°  3,  celle  qui  est  née
 postérieurement prime la créance née antérieurement; les créances nées ensemble ont le même rang. Il en
 est de même de celles qui sont nées à l'occasion d'un seul et même accident.
 Article. 108.
--  Les  créances  indiquées  dans  l'article  102,  n°  6,  sont  primées  par  toutes  les  autres  créances  des
+*  Les  créances  indiquées  dans  l'article  102,  n°  6,  sont  primées  par  toutes  les  autres  créances  des
 créanciers de bâtiments, sans considération de la date à laquelle elles sont nées.
 Article. 109.
-- Le droit de gage du créancier de bâtiment est préféré aux autres droits de gage sur le bâtiment ou sur le
+* Le droit de gage du créancier de bâtiment est préféré aux autres droits de gage sur le bâtiment ou sur le
 fret pour les créances énumérées dans l'article 102, n° 4 à 6; mais, en ce qui concerne le bâtiment, pourvu
 que ces dernières créances n'aient pas pris naissance antérieurement. En tant que, d'après cette disposition,
 les autres droits de gage sur un bâtiment ont la préférence sur le droit d'un créancier de bâtiment, ils ont
@@ -1085,11 +1032,11 @@ Si un créancier de bâtiment envers lequel le propriétaire du bâtiment n'est 
 fret, supporte une perte sur sa créance à raison de ce qu'un créancier gagiste lui est préféré, le propriétaire
 du bâtiment est, dans la mesure de cette perte, obligé personnellement.
 Article. 110.
--  Le  droit  de  gage  du  créancier  de  bâtiment  s'éteint  par  la  vente  forcée  du  navire;  à  l'égard  de  ce
+*  Le  droit  de  gage  du  créancier  de  bâtiment  s'éteint  par  la  vente  forcée  du  navire;  à  l'égard  de  ce
 créancier, le prix remplace le bâtiment. La même règle s'applique aux autres droits de gage résultant d'un
 acte de volonté ou de la loi.
 Article. 111.
-- En cas d'aliénation volontaire d'un navire, à défaut de dispositions dans les lois des Etats particuliers
+* En cas d'aliénation volontaire d'un navire, à défaut de dispositions dans les lois des Etats particuliers
 admettant  que  les  droits  de  gage  des  créanciers  de  bâtiment  s'éteignent  quand  les  créanciers  ont  été
 inutilement appelés à se faire connaître, les règles suivantes sont applicables :
 L'acquéreur du bâtiment a le droit de demander qu'une procédure provocatoire soit ouverte à l'égard des
@@ -1101,7 +1048,6 @@ droits,
 Article. 112
 Les articles 110 et 111 ne reçoivent pas d'application quand c'est seulement une part de copropriété dans
 un bâtiment qui est l'objet d'une vente forcée ou volontaire.
-
 
 Article. 113
 Le droit de gage sur le fret produit ses effets tant que le fret existe encore ou que le montant s'en trouve
@@ -1121,7 +1067,7 @@ la  suite  d’une  vente  forcée  ou  d'une  sommation  publique  faite  sans 
 particulier  (art.  111,  al.  1)  ou  de  la  procédure  indiquée  dans  l'article  111,  alinéas  2  et  3,  de  la  même
 manière qu'en cas de paiement du fret.
 Article. 115.
-- Le propriétaire d'un bâtiment qui, après avoir eu connaissance d'une créance sur le bâtiment, à raison
+* Le propriétaire d'un bâtiment qui, après avoir eu connaissance d'une créance sur le bâtiment, à raison
 duquel il n'est tenu que sur le navire et le fret, lui fait faire un nouveau voyage sans qu'il fût commandé en
 même temps par l'intérêt du créancier, est tenu personnellement pour cette créance jusqu'à concurrence de
 la  somme  que  le  créancier  aurait  obtenue  si  la  valeur  qu'avait  le  bâtiment  lors  du  commencement  du
@@ -1147,7 +1093,6 @@ l'article 116 s'appliquent.
 
 **Titre viii.**
 
-
 **De la prescription.**
 
 Article. 118.
@@ -1156,7 +1101,6 @@ Se prescrivent par un an:
 de canal, de port ;
 2) Les créances des gens de l'équipage provenant des contrats d'engagement ;
 3) Les droits de pilotage ;
-
 
 4) Les frais de sauvetage et de pilotage, y compris la rémunération due au sauveteur et à l'assistant ;
 5) Les contributions dues pour avarie grosse ;
@@ -1167,4 +1111,4 @@ vertu d'une procuration ;
 8) Les créances du transporteur nées du contrat d'affrètement, spécialement le fret et ses accessoires, les
 surestaries et les dépenses, ainsi que les créances relatives au prix de transport des passagers.
 Article. 119 .
-- La prescription court à partir de la fin de l'année où la créance est devenue exigible.
+* La prescription court à partir de la fin de l'année où la créance est devenue exigible.
