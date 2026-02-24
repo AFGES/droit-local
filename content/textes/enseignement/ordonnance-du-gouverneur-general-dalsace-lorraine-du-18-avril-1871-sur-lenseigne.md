@@ -64,7 +64,7 @@ les facteurs des postes.
 ## Art. 8
 
 Si l'inculpé comparait, il est procédé au débat oral ; le jugement est immédiatement prononcé en sa
-présence .S'il ne comparait pas, le jugement est rendu sur pièces et signifié. Le jugement doit être
+présence. S'il ne comparait pas, le jugement est rendu sur pièces et signifié. Le jugement doit être
 brièvement motivé.
 Si le directeur de cercle refuse son approbation à un jugement d'acquittement qui, aux termes de l'article
 5 phrase dernière, doit être approuvé par lui, il fixe lui-même la peine.

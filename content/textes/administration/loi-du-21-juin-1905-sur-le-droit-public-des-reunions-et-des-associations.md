@@ -49,9 +49,9 @@ Le comité peut interjeter appel de cet arrêt auprès du Conseil impérial dans
 
 Quiconque veut organiser une réunion publique doit en faire la déclaration au moins 24 heures à l'avance au directeur de l'arrondissement où se trouve le lieu de réunion. Celui qui convoque doit être citoyen de l'Empire, majeur et en possession de ses droits civiques.
 La déclaration doit porter les données suivantes :
-1° nom, profession et domicile de celui qui convoque la réunion ;
-2° endroit, jour et heure de l'ouverture de la réunion, ainsi que les locaux où elle doit avoir lieu ;
-3° but de la réunion et sujet des débats ; les autorités doivent délivrer aussitôt une attestation accusant réception de la déclaration prescrite.
+1. nom, profession et domicile de celui qui convoque la réunion ;
+2. endroit, jour et heure de l'ouverture de la réunion, ainsi que les locaux où elle doit avoir lieu ;
+3. but de la réunion et sujet des débats ; les autorités doivent délivrer aussitôt une attestation accusant réception de la déclaration prescrite.
 
 ### Article 10
 
@@ -68,12 +68,12 @@ Le ministère peut interdire une réunion publique s'il est à craindre qu'elle 
 ### Article 16
 
 Le fonctionnaire de police chargé de la surveillance a le droit de dissoudre la réunion :
-1° si on ne lui présente pas, au cas où il l'exige, le récépissé de la déclaration prescrite ou l'autorisation ;
-2° si des personnes auxquelles il est interdit d'assister à la réunion ne s'éloignent pas après en avoir été requises ;
-3° si l'admission des fonctionnaires délégués par le directeur d'arrondissement est refusé ;
-4° si la personne responsable qui dirige les débats laisse discuter des questions étrangères à l'objet indiqué dans la déclaration ;
-5° s'il se produit des excès qui peuvent être dangereux pour la sécurité ou l'ordre publics et que le bureau ne parvienne pas à les réprimer ;
-6° si les orateurs excitent à des actes répréhensibles, à la désobéissance aux lois ou à des violences.
+1. si on ne lui présente pas, au cas où il l'exige, le récépissé de la déclaration prescrite ou l'autorisation ;
+2. si des personnes auxquelles il est interdit d'assister à la réunion ne s'éloignent pas après en avoir été requises ;
+3. si l'admission des fonctionnaires délégués par le directeur d'arrondissement est refusé ;
+4. si la personne responsable qui dirige les débats laisse discuter des questions étrangères à l'objet indiqué dans la déclaration ;
+5. s'il se produit des excès qui peuvent être dangereux pour la sécurité ou l'ordre publics et que le bureau ne parvienne pas à les réprimer ;
+6. si les orateurs excitent à des actes répréhensibles, à la désobéissance aux lois ou à des violences.
 Le droit des autorités d'empêcher ou de dissoudre des réunions qui sont défendues par les lois et qui n'ont pas été autorisées reste intact. Dès qu'une réunion est dissoute par la police, tous les participants ont à se retirer immédiatement.
 
 ### Article 17

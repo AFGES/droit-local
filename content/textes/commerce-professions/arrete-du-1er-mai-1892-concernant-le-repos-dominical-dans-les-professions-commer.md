@@ -22,17 +22,17 @@ Dans le cas où le Conseil municipal prescrit des restrictions, il fixera en mê
 
 **II.** Les autorités de police auront à observer les règles suivantes :
 
-1° Les cinq heures pendant lesquelles les employés, apprentis et ouvriers peuvent être occupés et pendant lesquelles les magasins peuvent être ouverts, seront fixées, autant que possible, uniformément pour toutes les branches du commerce ;
+1. Les cinq heures pendant lesquelles les employés, apprentis et ouvriers peuvent être occupés et pendant lesquelles les magasins peuvent être ouverts, seront fixées, autant que possible, uniformément pour toutes les branches du commerce ;
 
-2° Pour la fixation des heures du travail, il devra être tenu compte de l'heure du service religieux public, de manière à ce que, dans la règle, les heures de travail ne tombent pas sur l'heure du service religieux principal du matin ;
+2. Pour la fixation des heures du travail, il devra être tenu compte de l'heure du service religieux public, de manière à ce que, dans la règle, les heures de travail ne tombent pas sur l'heure du service religieux principal du matin ;
 
-3° Afin que les vendeurs, employés et ouvriers puissent jouir d'un repos dominical effectif, le commencement des heures de travail permises sera fixé aussi tôt que possible et la fin sera fixée de manière à ce que l'après-midi et la soirée restent libres. Donc, dans la règle, le travail commencera à 6, 6 ½ ou 7 heures du matin pour se terminer à 12, 12 ½, 1 ½ ou 2 heures de l'après-midi, avec une interruption d'une heure et demie ou de deux heures pendant le service religieux principal (qui commence généralement à 9 heures). La vente de pain et de viande, là où besoin en sera, pourra commencer plus tôt (par exemple à 5 heures) ;
+3. Afin que les vendeurs, employés et ouvriers puissent jouir d'un repos dominical effectif, le commencement des heures de travail permises sera fixé aussi tôt que possible et la fin sera fixée de manière à ce que l'après-midi et la soirée restent libres. Donc, dans la règle, le travail commencera à 6, 6 ½ ou 7 heures du matin pour se terminer à 12, 12 ½, 1 ½ ou 2 heures de l'après-midi, avec une interruption d'une heure et demie ou de deux heures pendant le service religieux principal (qui commence généralement à 9 heures). La vente de pain et de viande, là où besoin en sera, pourra commencer plus tôt (par exemple à 5 heures) ;
 
 Des exceptions ne seront tolérées, selon les circonstances, que là où, en raison de l'usage mixte des églises pour les divers cultes, il est nécessaire d'accorder dans la matinée une interruption des heures de travail plus longue ;
 
-4° Les dimanches pour lesquels les heures de travail et de vente peuvent être augmentées jusqu'à 10, sont les derniers quatre dimanches avant Noël et le jour de la fête patronale ;
+4. Les dimanches pour lesquels les heures de travail et de vente peuvent être augmentées jusqu'à 10, sont les derniers quatre dimanches avant Noël et le jour de la fête patronale ;
 
-5° Les décisions seront prises et publiées sous la forme d'une ordonnance de police locale dont copie sera adressée au directeur d'arrondissement ainsi qu'au tribunal cantonal et au premier procureur du ministère public, conformément à l'arrêté ministériel du 19 décembre 1887. Il en sera de même des modifications qui pourraient avoir lieu ultérieurement.
+5. Les décisions seront prises et publiées sous la forme d'une ordonnance de police locale dont copie sera adressée au directeur d'arrondissement ainsi qu'au tribunal cantonal et au premier procureur du ministère public, conformément à l'arrêté ministériel du 19 décembre 1887. Il en sera de même des modifications qui pourraient avoir lieu ultérieurement.
 
 **III.** Les directeurs d'arrondissement veilleront à ce que les décisions à prendre par les autorités de la police locale soient conformes aux principes indiqués plus haut. S'il n'y a pas de violation flagrante des dispositions légales, les modifications ne seront pas ordonnées d'office ; mais uniquement si une plainte fondée a été portée par les industriels ou les ouvriers que cela concerne. Il faudra surtout se garder de contrevenir à l'intention du législateur en accordant des heures supplémentaires de travail là où le besoin exceptionnel ne s'en fait pas sentir.
 

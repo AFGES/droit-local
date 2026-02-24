@@ -45,7 +45,7 @@ plus.
 ## Article 361
 
 Seront punis de la détention simple:
-9° Ceux qui laissent commettre par leurs enfants ou d'autres personnes sur lesquelles ils ont autorité alors
+9. Ceux qui laissent commettre par leurs enfants ou d'autres personnes sur lesquelles ils ont autorité alors
 que ces enfants ou ces personnes sont soumis à leur surveillance et demeurent avec eux, des vols ainsi que
 des infractions aux lois de douane ou d'impôts, aux lois relatives à la protection des forêts, des récoltes de
 la chasse ou de la pêche. Les dispositions de ces lois relatives à la responsabilité pour les amendes et

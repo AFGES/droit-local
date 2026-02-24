@@ -123,24 +123,24 @@ sur pied, ou des ceps, en tant qu'il n'est pas punissable comme vol forestier ;
 ### Article 12
 
 Le vol champêtre est puni de l'emprisonnement jusqu'à trois mois :
-1°Lorsque l'auteur était porteur d'armes ;
-2°Lorsque le vol a été commis avec effraction dans un endroit clos ;
-3°Lorsque, pour s'ouvrir l'accès d'un endroit clos, l'auteur a employé de fausses clefs ou d'autres outils
+1. Lorsque l'auteur était porteur d'armes ;
+2. Lorsque le vol a été commis avec effraction dans un endroit clos ;
+3. Lorsque, pour s'ouvrir l'accès d'un endroit clos, l'auteur a employé de fausses clefs ou d'autres outils
 dont on ne se sert pas régulièrement pour ouvrir ;
-4° Lorsque le vol a été commis en commun par trois personnes ou plus ;
-5° Lorsqu'il a été commis dans le but de vendre les produits du vol ou les objets fabriqués avec ces
+4. Lorsque le vol a été commis en commun par trois personnes ou plus ;
+5. Lorsqu'il a été commis dans le but de vendre les produits du vol ou les objets fabriqués avec ces
 produits;
-6° Lorsque le vol pour objet des arbres, arbrisseaux à fruits ou d'ornement sur pied, s'il n'est pas
+6. Lorsque le vol pour objet des arbres, arbrisseaux à fruits ou d'ornement sur pied, s'il n'est pas
 punissable comme vol forestier ;
-7° Lorsqu'il a été commis par un surveillant dans le fonds confié à sa surveillance ;
-8° En cas de seconde récidive.
+7. Lorsqu'il a été commis par un surveillant dans le fonds confié à sa surveillance ;
+8. En cas de seconde récidive.
 
 ### Article 13
 
 L'emprisonnement prononcé sera d'une semaine jusqu'à une année :
-1° Lorsqu'en cas de vol champêtre le coupable se trouve en état de troisième récidive ou de récidive
+1. Lorsqu'en cas de vol champêtre le coupable se trouve en état de troisième récidive ou de récidive
 ultérieure
-2° Lorsque le recel est commis par profession ou habitude ;
+2. Lorsque le recel est commis par profession ou habitude ;
 
 ### Article 14
 
@@ -171,26 +171,26 @@ contre une personne déterminée; la confiscation peut néanmoins être ordonné
 
 Est puni de l'amende, jusqu'à30 marks ou de la détention simple jusqu'à huit jours quiconque, sans y être
 autorisé :
-1° Ramasse des" matières" d'engrais dans les champs, prés, prairies, jardins, vergers ou vignobles ;
-2° Fait usage d'instruments agricoles, ne lui appartenant pas laissés dans les champs.
+1. Ramasse des" matières" d'engrais dans les champs, prés, prairies, jardins, vergers ou vignobles ;
+2. Fait usage d'instruments agricoles, ne lui appartenant pas laissés dans les champs.
 Dans le cas du n°2, la poursuite n'a lieu que sur plainte. La plainte peut être retirée.
 
 ### Article 18
 
 Est puni de l'amende jusqu'à 10 marks ou de la détention simple jusqu'à trois jours quiconque, sans y être
 autorisé :
-1° Coupe ou arrache des herbes ou autres fourrages poussant sur ou dans les limites, chemins, pacages ou
+1. Coupe ou arrache des herbes ou autres fourrages poussant sur ou dans les limites, chemins, pacages ou
 fossés, ou des roseaux dans les étangs ou autres propriétés privées ;
-2° Cueille des feuilles ou brise des branches d'arbres, arbustes ou haies, en tant qu'il en résulte un
+2. Cueille des feuilles ou brise des branches d'arbres, arbustes ou haies, en tant qu'il en résulte un
 dommage.
 La poursuite n'a lieu que sur plainte. La plainte peut être retirée.
 
 ### Article 19
 
 Est puni de l'amende jusqu'à 50 marks ou de la détention simple jusqu'à dix jours quiconque :
-1° Dans les endroits où la coutume du glanage n'existe pas, ou sur des fonds enclos, ou dans des
+1. Dans les endroits où la coutume du glanage n'existe pas, ou sur des fonds enclos, ou dans des
 vignobles contrairement à une décision du Conseil municipal, pratique le glanage ;
-2°Dans les endroits où la coutume existe, pratique le glanage, mais sans observer les arrêtés de police
+2.Dans les endroits où la coutume existe, pratique le glanage, mais sans observer les arrêtés de police
 locale qui en réglementent l'exercice, ou avant que la moisson soit complètement terminée et enlevée, ou
 entre le coucher et le lever du soleil.
 
@@ -262,16 +262,16 @@ l'exercice de ses droits de pâturage communal, de vaine pâture ou de parcours 
 
 Est puni de l'amende jusqu'à 150 marks ou de la détention simple jusqu'à trois jours quiconque, sans y
 être autorisé :
-1° En dehors des cas de l'article 30.5 du Code pénal, endommage des chemins publics de toute nature ou
+1. En dehors des cas de l'article 30.5 du Code pénal, endommage des chemins publics de toute nature ou
 des chemins privés appartenant à autrui on leurs dépendances ;
-2° En dehors des cas de l'article 274, n°2 du Code pénal et de l'article 59 de la loi sur le cadastre du 31
+2. En dehors des cas de l'article 274, n°2 du Code pénal et de l'article 59 de la loi sur le cadastre du 31
 mats 1884 enlève, détruit, renverse; endommage ou rend méconnaissables des pierres, poteaux, écriteaux,
 bouchons de paille, ou signes de défend, buttes, fossés ou autres marques ou signes analogues servant à
 délimiter, interdire ou mesurer des fonds ou chemins, de même des indices destinés à marquer un niveau
 d'eau, ainsi que des poteaux indicateurs de routes ;
-3° Endommage ou détruit des clôtures naturelles ou artificielles, des barrières ou des installations servant
+3. Endommage ou détruit des clôtures naturelles ou artificielles, des barrières ou des installations servant
 à interdire des voies ou des accès dans des fonds enclos ;
-4° En dehors des cas de l'article 304 du Code Pénal, endommage des arbres, arbustes, plantes ou produits
+4. En dehors des cas de l'article 304 du Code Pénal, endommage des arbres, arbustes, plantes ou produits
 du sol, des poteaux ou autres installations servant à la protection d'arbres, vignes ou houblons.
 
 ### Dépôts sur les chemins
@@ -280,13 +280,13 @@ du sol, des poteaux ou autres installations servant à la protection d'arbres, v
 
 Est puni de l'amende jusqu'à 50 marks ou de la détention simple jusqu'à trois jours quatorze jours
 quiconque :
-1° En dehors des cas de l'article 366 n°9 du Code Pénal, sur des chemins publics ou des chemins privés
+1. En dehors des cas de l'article 366 n°9 du Code Pénal, sur des chemins publics ou des chemins privés
 appartenant à autrui, ou leur dépendances, dépose, sans y être autorisé et sans qu'il y ait nécessité, de la
 terre, des pierre, du bois, des décombres, du fumier ou d'autres matières, ou répand de la paille, des
 feuilles, de la litière, ou jette sur de tels chemins des amas de pierres, ou d'autre manière dépose des
 immondices, ou rend leur utilisation plus difficile ;
-2° Sur les chemins spécifiés au n°1, conduit une charrue dont le soc n'est pas relevé ;
-3° Sur les chemins spécifiés au n°1, éloigne ou dérange les pierres, fascines ou autres marques posées
+2. Sur les chemins spécifiés au n°1, conduit une charrue dont le soc n'est pas relevé ;
+3. Sur les chemins spécifiés au n°1, éloigne ou dérange les pierres, fascines ou autres marques posées
 pour indiquer la voie.
 
 ### Troubles de la possession
@@ -295,23 +295,23 @@ pour indiquer la voie.
 
 Est puni de l'amende jusqu'à 80 marks ou de la détention simple jusqu'à huit jours quiconque, sans y être
 autorisé :
-1° En dehors des cas de l'article 366 n°7 du Code Pénal, jette ou supporte sur des fonds des pierres,
+1. En dehors des cas de l'article 366 n°7 du Code Pénal, jette ou supporte sur des fonds des pierres,
 débris, décombres ou ordures ;
-2° Etend ou dépose de la toile, du linge ou des objets analogues pour les blanchir, les sécher ou pour
+2. Etend ou dépose de la toile, du linge ou des objets analogues pour les blanchir, les sécher ou pour
 d'autres buts de ce genre ;
-3° Creuse des fossés sur des fonds appartenant à autrui, ou perce des trous dans la glace sur des étangs
+3. Creuse des fossés sur des fonds appartenant à autrui, ou perce des trous dans la glace sur des étangs
 appartenant à autrui
-4° S'introduit avec escalade ou effraction dans des jardins ou autres fonds appartenant à autrui, entourés
+4. S'introduit avec escalade ou effraction dans des jardins ou autres fonds appartenant à autrui, entourés
 de murs, de haies ou de clôtures ;
-5° Ouvre ou laisse ouverte les installations servant à interdire ;
-6°jette des pierres ou d'autres objets sur des arbres appartenant à autrui.
+5. Ouvre ou laisse ouverte les installations servant à interdire ;
+6.jette des pierres ou d'autres objets sur des arbres appartenant à autrui.
 
 ### Article 29
 
 Est puni de l'amende jusqu'à 10 marks ou de la détention simple jusqu'à trois jours quiconque :
-1° En dehors des cas de l'article 123 du Code Pénal, se trouvant sans autorisation sur un fonds, ne s'en
+1. En dehors des cas de l'article 123 du Code Pénal, se trouvant sans autorisation sur un fonds, ne s'en
 éloigne pas sur l'invitation qui lui en est faite par l'ayant droit ;
-2°En dehors des cas de l'article 368, n° 9, du Code pénal, sans autorisation, va à cheval, charrie, conduit
+2.En dehors des cas de l'article 368, n° 9, du Code pénal, sans autorisation, va à cheval, charrie, conduit
 ou mène du bétail, traine du bois, tourne sa charrue sur des fonds, ou passe sur des champs dont la façon
 est préparée ou commencée ;
 La poursuite n'a lieu que sur plainte. La plainte peut être retirée.
@@ -511,14 +511,14 @@ charrois.
 
 Par arrêté du président de district rendu, après avis du conseil de district, pour tout le district ou pour des
 communes déterminées, il pourra être décidé, relativement à l'exercice de la vaine pâture et du parcours :
-1° Que des modes de clôture autres que ceux spécifiés à l'article 6 de la section lV du titre l de la loi des
+1. Que des modes de clôture autres que ceux spécifiés à l'article 6 de la section lV du titre l de la loi des
 28 septembre-6 octobre 1791 concernant les biens et usages ruraux et la police rurale, seront aussi de
 nature à exclure l'exercice de ces droits ;
-2° Qu'en outre des fonds déjà exceptés par l'article 9 de la section IV du titre I de la loi des 28 septembre
+2. Qu'en outre des fonds déjà exceptés par l'article 9 de la section IV du titre I de la loi des 28 septembre
 – 6 octobre 1791 et par l'article 6 de la loi du 11 mai 1877, devront aussi être exceptés de l'exercice de
 ces droits les fonds qui, par un travail spécial du sol, auront été transformées en prairies, ou encore les
 prairies sur lesquelles des installations artificielles de drainage ou d'irrigation sont en voie d'exécution ;
-3° Que l'exercice en sera prohibé à certaines époques déterminées.
+3. Que l'exercice en sera prohibé à certaines époques déterminées.
 
 ### Police des campagnes en général – Inspection des foyers
 
@@ -538,13 +538,13 @@ du Code pénal pourront être ordonnés.
 ### Article 51
 
 Sont abrogés :
-1° L'arrêt du Conseil d'Etat du 16 décembre 1759, qui défend à tous pâtres ou conducteurs de bestiaux de
+1. L'arrêt du Conseil d'Etat du 16 décembre 1759, qui défend à tous pâtres ou conducteurs de bestiaux de
 les conduire en pâturage ou de les laisser répandre sur les bords des grands chemins plantés d'arbres et de
 haies d'épines ;
-2° L'article 8 de la section VII du Titre I et le titre II de la loi concernant les biens et usages ruraux des 28
+2. L'article 8 de la section VII du Titre I et le titre II de la loi concernant les biens et usages ruraux des 28
 septembre – 6 octobre 1791 ;
-3° La loi sur l'échenillage des arbres du 26 ventôse an IV ;
-4° Les articles 457,471 n°7,9, 10 n les articles 472, 473, 475, n° 1 et 15, l'article 479 n°10, 11, 12 du
+3. La loi sur l'échenillage des arbres du 26 ventôse an IV ;
+4. Les articles 457,471 n°7,9, 10 n les articles 472, 473, 475, n° 1 et 15, l'article 479 n°10, 11, 12 du
 Code pénal.
 Les dispositions de la loi du 28 avril 1880 concernant le droit pénal forestier et la procédure pénale
 forestière ne sont pas modifiées par la présente loi.

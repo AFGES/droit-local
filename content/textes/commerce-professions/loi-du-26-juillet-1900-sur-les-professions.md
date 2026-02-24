@@ -80,12 +80,13 @@ cette profession a été commencée sans cette autorisation.
 Quiconque veut exploiter une hôtellerie, un débit de boissons ou un commerce au détail d'eau de vie ou
 de spiritueux, doit obtenir une licence à cet effet. Cette licence ne peut être refusée que dans les cas
 suivants:
-1° Lorsqu'il existe contre le requérant des faits qui permettent de supposer qu'il fera un mauvais usage de
+1. Lorsqu'il existe contre le requérant des faits qui permettent de supposer qu'il fera un mauvais usage de
 sa profession en favorisant l'ivrognerie, les jeux prohibés, le recel ou la débauche;
-2° Lorsque le local destiné à l'exploitation ne satisfait pas, par sa disposition ou sa situation, aux
+2. Lorsque le local destiné à l'exploitation ne satisfait pas, par sa disposition ou sa situation, aux
 exigences de la police.
+
 Les Gouvernements des Etats particuliers pourront disposer en outre;
-a)Que, d'une manière générale, la licence pour les débits d'eau-de-vie ou pour le commerce
+a) Que, d'une manière générale, la licence pour les débits d'eau-de-vie ou pour le commerce
 au détail d'eau-de vie ou de spiritueux ;
 b) Que, dans les localités de moins de 15 000 habitants, de même que, s'il en est ainsi décidé par un statut
 local (art. 142), dans celles possédant un nombre d'habitants plus élevé, la licence pour l'exploitation
@@ -233,11 +234,11 @@ communes, qu'une autorisation sera nécessaire pour les personnes, possédant un
 à l'intérieur de la commune, sur les rues, chemins, places et autres lieux publics, ou bien de porte en
 porte :
 1 ° D'offrir des marchandises en vente;
-2° Ou d'acheter, en vue de les revendre, des marchandises chez d'autres personnes que des commerçants
+2. Ou d'acheter, en vue de les revendre, des marchandises chez d'autres personnes que des commerçants
 ou que les producteurs de ces marchandises, ou dans d'autres endroits que les locaux de vente ouverts au
 public, ou de rechercher des commandes de marchandises chez des personnes qui, dans leur exploitation,
 n'emploient pas des marchandises de la nature de celles offertes ;
-3° Ou d'offrir les services de leur industrie, alors que ce n'est pas l'usage du pays. L'application de cette
+3. Ou d'offrir les services de leur industrie, alors que ce n'est pas l'usage du pays. L'application de cette
 disposition peut être limitée à certaines parties de la commune, ainsi qu'à certaines catégories de
 marchandises et de services.
 En ce qui concerne l'octroi, le refus et le retrait de l'autorisation, on appliquera les dispositions des articles
@@ -590,9 +591,9 @@ L'autorité de surveillance fixe les règles à observer en matière de conserva
 
 La corporation doit obtenir une autorisation de l'autorité de surveillance pour:
 1 ° acquérir, aliéner un immeuble ou le grever d'une charge réelle;
-2° contracter un emprunt sauf si ce dernier est destiné à faire face à un besoin passager et que son
+2. contracter un emprunt sauf si ce dernier est destiné à faire face à un besoin passager et que son
 montant peut être entièrement remboursé, avec les excédents de recettes courants d'un seul exercice;
-3° aliéner des objets ayant une valeur historique, scientifique ou artistique.
+3. aliéner des objets ayant une valeur historique, scientifique ou artistique.
 
 ## Article 92
 
@@ -839,10 +840,10 @@ devra, sur requête des intéressés, ordonner que tous les patrons d’une circ
 obligés de s’affilier à une nouvelle corporation à créer , le tout pour autant que les conditions suivantes se
 trouvent réunies ;
 1 ° la majorité des exploitants intéressés doit consentir à l'introduction de l'affiliation obligatoire ;
-2° la circonscription de la corporation doit être délimitée de telle sorte qu'aucun de ses membres ne soit
+2. la circonscription de la corporation doit être délimitée de telle sorte qu'aucun de ses membres ne soit
 empêché, du fait de la distance séparant son domicile du siège de la corporation de participer à la vie
 corporative et de bénéficier des institutions créées par elle;
-3° le nombre des artisans se trouvant dans la circonscription doit être suffisant pour assurer la création
+3. le nombre des artisans se trouvant dans la circonscription doit être suffisant pour assurer la création
 d’une corporation capable de remplir efficacement sa mission.
 La requête peut également se borner à demander que la mesure visée à l’alinéa 1er soit ordonnée pour
 ceux des patrons désignés qui occupent habituellement des compagnons ou des apprentis.
@@ -904,8 +905,8 @@ Sont autorisés à s’affilier personnellement à une corporation créée pour 
 1 ° les personnes désignées à l' article 87, alinéa 1, n° 2 et 3, ainsi que les artisans occupés moyennant
 rétribution dans les exploitations agricoles ou industrielles, qui n’emploient régulièrement ni ouvriers ni
 apprentis;
-2° moyennant autorisation de l'assemblée corporative, ceux qui exploitent leur industrie en fabrique ;
-3° les exploitants qui n'emploient habituellement ni compagnons ni apprentis.
+2. moyennant autorisation de l'assemblée corporative, ceux qui exploitent leur industrie en fabrique ;
+3. les exploitants qui n'emploient habituellement ni compagnons ni apprentis.
 Les droits de ces affiliés volontaires sont réglementés par les statuts.
 Ils peuvent se retirer à la fin de chaque exercice. Un avis préalable de leur démission peut être exigé sans
 que le délai de préavis puisse être supérieur à six mois.
@@ -1105,7 +1106,7 @@ Le nombre des membres de la chambre des artisans est fixé par les statuts.
 Des suppléants seront élus pour remplacer, dans l’ordre de l’élection, les membres effectifs empêchés ou
 qui viendraient à faire défaut ; dans ce dernier cas, les suppléants achèveront le mandat des membres
 effectifs. Les membres sont élus :
-1° Par des corporations de métiers qui ont leur siège dans la circonscription de la chambre des artisans,
+1. Par des corporations de métiers qui ont leur siège dans la circonscription de la chambre des artisans,
 parmi les membres de la corporation ;
 2. Par les associations professionnelles et autres unions similaires qui poursuivent le développement des
 intérêts professionnels des métiers, lorsqu’au moins la moitié de leurs membres sont des artisans établis
@@ -1116,10 +1117,10 @@ d’éligibilité requises par la présente loi.
 
 Pour être éligible, il faut :
 1 ° Avoir les qualités requises pour les fonctions d’échevin ;
-2° Avoir 30 ans accomplis ;
-3° Exercer un métier en son propre nom depuis trois ans au moins dans la circonscription de la chambre
+2. Avoir 30 ans accomplis ;
+3. Exercer un métier en son propre nom depuis trois ans au moins dans la circonscription de la chambre
 des artisans ;
-4°avoir le droit de former des apprentis.
+4.avoir le droit de former des apprentis.
 
 ## Article 103 c
 
@@ -1140,14 +1141,14 @@ délibérations des personnes compétentes avec voix consultative.
 
 La chambre des artisans a spécialement pour mission:
 1 ° de réglementer en détail l'apprentissage ;
-2° de veiller à l'application des règles régissant l'apprentissage ;
-3° de prêter son concours aux autorités de l'Etat ou des communes en vue de favoriser le développement
+2. de veiller à l'application des règles régissant l'apprentissage ;
+3. de prêter son concours aux autorités de l'Etat ou des communes en vue de favoriser le développement
 des métiers, à l’aide de renseignements de fait et de rapports sur les questions qui intéressent les
 métiers ;
-4° de délibérer sur les vœux et les projets concernant la situation des métiers, et de les transmettre aux
+4. de délibérer sur les vœux et les projets concernant la situation des métiers, et de les transmettre aux
 autorités compétentes ainsi que de rédiger des rapports annuels sur les informations recueillis sur la
 situation des métiers.
-5° de créer des commissions d'examen pour l’épreuve de compagnon.
+5. de créer des commissions d'examen pour l’épreuve de compagnon.
 La chambre des artisans doit être entendue sur toutes les circonstances importantes qui mettent en jeu les
 intérêts généraux des métiers , ou les intérêts de certaines de branches déterminées.
 Elle peut établir des institutions pour le développement professionnel, technique et moral des maitres,
@@ -1169,12 +1170,12 @@ courante et à l’expédition des affaires, selon qu’il sera déterminé par 
 Les dispositions des articles 92, alinéa 2 et 92 b sont applicables à la direction de la chambre des artisans.
 Les matières réservées aux délibérations de la chambre des artisans comprennent au minimum :
 1 ° l'élection du bureau et des commissions;
-2° l'établissement du budget, la vérification et l'apurement des comptes annuels, le consentement aux
+2. l'établissement du budget, la vérification et l'apurement des comptes annuels, le consentement aux
 dépenses non prévues au budget ainsi que la conclusion d'emprunts;
-3° la présentation aux autorités et aux corps législatifs d'avis et de propositions sur les matières qui
+3. la présentation aux autorités et aux corps législatifs d'avis et de propositions sur les matières qui
 touchent les intérêts généraux des métiers et spécialement la législation sur les métiers ;
-4° la réglementation de l'apprentissage;
-5° l'élection du secrétaire. Si ses fonctions lui sont conférées pour plus de six ans, son élection sera
+4. la réglementation de l'apprentissage;
+5. l'élection du secrétaire. Si ses fonctions lui sont conférées pour plus de six ans, son élection sera
 soumise à l'approbation de l'autorité de surveillance.
 Les dispositions ayant pour objet la réglementation de l'apprentissage doivent être ratifiées par l'autorité
 centrale de l'Etat.
@@ -1208,9 +1209,9 @@ présente loi.
 
 La commission de compagnons doit collaborer:
 1 ° aux dispositions édictées pour la réglementation de l'apprentissage;
-2° à la préparation d'avis et de rapports sur des matières concernant la situation des compagnons et des
+2. à la préparation d'avis et de rapports sur des matières concernant la situation des compagnons et des
 apprentis;
-3° au jugement des réclamations contre les décisions des commissions d'examen (art. 132).
+3. au jugement des réclamations contre les décisions des commissions d'examen (art. 132).
 Les dispositions de l'article 95, alinéa 3, sont applicables par analogie; dans le cas prévu au n° 2, la
 commission des compagnons est autorisée à présenter un rapport ou à émettre un avis séparément.
 
@@ -1221,17 +1222,17 @@ chambre d'y apporter les modifications à introduire dans ces statuts. Sa décis
 l'autorité centrale de l'Etat.
 Les statuts renfermeront des dispositions concernant :
 1 ° le nom, le siège et le ressort géographique de la chambre des artisans ;
-2° le nombre des membres de cette chambre;
+2. le nombre des membres de cette chambre;
 3 ° l'augmentation éventuelle du nombre des membres par voie de cooptation;
 4 ° le mode suivant lequel les résolutions seront prises;
-5° la désignation et la compétence du bureau ;
-6° les formalités et les conditions relatives à la convocation de la chambre et de ses organes;
-7° la rédaction des procès-verbaux sur les résolutions prises par la chambre et le bureau ;
-8° la préparation et l'adoption du projet de budget ;
-9° l'établissement et l'apurement des comptes annuels;
-10° les conditions de fond et de forme d'une modification des statuts;
-11° la création de commissions d'examen;
-12° les feuilles publiques ou les publications de la chambre des artisans doivent avoir lieu.
+5. la désignation et la compétence du bureau ;
+6. les formalités et les conditions relatives à la convocation de la chambre et de ses organes;
+7. la rédaction des procès-verbaux sur les résolutions prises par la chambre et le bureau ;
+8. la préparation et l'adoption du projet de budget ;
+9. l'établissement et l'apurement des comptes annuels;
+10. les conditions de fond et de forme d'une modification des statuts;
+11. la création de commissions d'examen;
+12. les feuilles publiques ou les publications de la chambre des artisans doivent avoir lieu.
 Les dispositions de l'article 83, alinéa 3, et de l'article 100 d, alinéa 3, seront applicables par analogie.
 Les statuts ainsi que les modifications qui leur sont apportées doivent être publiés dans les feuilles
 désignées pour les publications officielles des autorités administratives supérieures sur les ressorts
@@ -1319,8 +1320,8 @@ s’étend pas au-delà du ressort d’un département ;
 b) pour les fédérations dont la circonscription s’étend sur les ressorts de plusieurs autorités
 administratives supérieurs d’un même Etat confédéré, par l’autorité centrale de l’Etat ;
 L’approbation doit être refusée :
-1° quand les buts de la fédération sortent des limites imposées par la loi ;
-2° quand les statuts de la fédération ne répondent pas aux conditions exigées par la loi.
+1. quand les buts de la fédération sortent des limites imposées par la loi ;
+2. quand les statuts de la fédération ne répondent pas aux conditions exigées par la loi.
 En dehors de ces cas, l’approbation ne peut être refusée que si le nombre des corporations qui composent
 la fédération ne paraît pas suffisant pour poursuivre efficacement les buts de la fédération.
 Un recours est possible contre le refus d’approbation
@@ -1359,10 +1360,10 @@ Ils sont tenus, sur réquisition de la même autorité, de donner leur avis sur 
 ## Article 104 f
 
 Les fédérations de corporations peuvent être dissoutes par décision administrative :
-1° lorsqu’il apparaît que l’approbation des statuts aurait dû être refusée aux termes de l’article 104 b n° 1
+1. lorsqu’il apparaît que l’approbation des statuts aurait dû être refusée aux termes de l’article 104 b n° 1
 et 2 et que les modifications nécessaires n’ont pas été apportées à ceux-ci dans un délai déterminé ;
-2° lorsqu’il n’a pas été donné de suite aux injonctions faites en vertu de l’article 104 d ;
-3° lorsque le bureau de la fédération ou ses représentants se rendent coupables d’actes contraires à la loi
+2. lorsqu’il n’a pas été donné de suite aux injonctions faites en vertu de l’article 104 d ;
+3. lorsque le bureau de la fédération ou ses représentants se rendent coupables d’actes contraires à la loi
 qui mettent en danger le bien public, ou lorsqu’ils poursuivent d’autres buts que ceux qui sont autorisés
 par la loi.
 La dissolution a lieu par décision de l’autorité qui a dans ses attributions l’approbation des statuts de la
@@ -1491,16 +1492,16 @@ commis, apprentis et ouvriers dans les sociétés coopératives de consommation 
 ## Article 105.c
 
 Les dispositions de l’article 105 b ne seront pas applicables :
-1° Aux travaux qui en cas de calamité ou dans l’intérêt public, doivent être immédiatement entrepris ;
-2° Pour un seul dimanche, aux travaux relatifs à la confection d’un inventaire prescrit par la loi ;
-3°A la garde des établissements de l’exploitation, aux travaux de nettoyage et de préparation nécessaire à
+1. Aux travaux qui en cas de calamité ou dans l’intérêt public, doivent être immédiatement entrepris ;
+2. Pour un seul dimanche, aux travaux relatifs à la confection d’un inventaire prescrit par la loi ;
+3.A la garde des établissements de l’exploitation, aux travaux de nettoyage et de préparation nécessaire à
 la continuation régulière de l ‘entreprise elle- même ou d’une autre exploitation, ni non plus aux travaux
 dont dépend la reprise de la pleine exploitation les jours ouvrables, à moins que ces travaux ne puissent
 être exécutés un jour ouvrable ;
-4° Aux travaux sans lesquels des matières premières pourraient se gâter ou les résultats d’une fabrication
+4. Aux travaux sans lesquels des matières premières pourraient se gâter ou les résultats d’une fabrication
 en cours risqueraient d’être compromis, à moins que ces travaux ne puissent être exécutés un jour
 ouvrable ;
-5° A la surveillance de l ‘exploitation, lorsqu’on y travaille les dimanches et jours fériés conformément
+5. A la surveillance de l ‘exploitation, lorsqu’on y travaille les dimanches et jours fériés conformément
 n°1 à 4.
 Les patrons qui occupent, les dimanches et jours fériés, des travailleurs à des travaux de la nature
 indiquée aux n°1 à 5, sont tenus dresser un tableau ou seront indiqués, pour chaque dimanche et jour

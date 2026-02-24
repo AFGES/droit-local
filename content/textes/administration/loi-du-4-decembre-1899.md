@@ -36,15 +36,15 @@ Si l'opération entraîne des déboursés effectifs, le demandeur doit, même lo
 
 Dans les cas où le droit se calcule sur la valeur de 1'objet, celle-ci sera fixée par le tribunal d'après sa libre appréciation en tenant compte des dispositions suivantes :
 
-1° Le calcul sera fait selon la valeur de l'objet au moment où les droits seront exigibles ;
+1. Le calcul sera fait selon la valeur de l'objet au moment où les droits seront exigibles ;
 
-2° Pour la valeur à mettre en compte, on ne considérera que l'objet principal de l'affaire. Il ne sera tenu compte des fruits, jouissance, intérêts, dommages, peines conventionnelles et frais, que s'ils forment l'objet d'une affaire distincte ;
+2. Pour la valeur à mettre en compte, on ne considérera que l'objet principal de l'affaire. Il ne sera tenu compte des fruits, jouissance, intérêts, dommages, peines conventionnelles et frais, que s'ils forment l'objet d'une affaire distincte ;
 
-3° Les dispositions des articles 6, 7 et 9 du code de procédure civile et de l'article 9 a, alinéa 2, phrase première de la loi d'Empire sur les frais de justice trouvent application correspondante, sous réserve, toutefois, des dispositions des articles 66, alinéas 2 et 70 de la présente loi ;
+3. Les dispositions des articles 6, 7 et 9 du code de procédure civile et de l'article 9 a, alinéa 2, phrase première de la loi d'Empire sur les frais de justice trouvent application correspondante, sous réserve, toutefois, des dispositions des articles 66, alinéas 2 et 70 de la présente loi ;
 
-5° Pour les affaires ne portant pas sur des droits patrimoniaux, la valeur de l'objet sera fixée à 2 000 marks, exceptionnellement à plus ou moins, mais toutefois ni au-dessous de 200 marks, ni au-dessus de 50 000 marks ;
+5. Pour les affaires ne portant pas sur des droits patrimoniaux, la valeur de l'objet sera fixée à 2 000 marks, exceptionnellement à plus ou moins, mais toutefois ni au-dessous de 200 marks, ni au-dessus de 50 000 marks ;
 
-6° Si à une affaire ne portant pas sur des droits patrimoniaux est jointe une affaire connexe, portant sur de tels droits, une seule valeur, à savoir la plus élevée, sera prise en considération.
+6. Si à une affaire ne portant pas sur des droits patrimoniaux est jointe une affaire connexe, portant sur de tels droits, une seule valeur, à savoir la plus élevée, sera prise en considération.
 
 ### Article 12
 
@@ -74,9 +74,9 @@ La présente loi n'est pas applicable aux opérations des notaires. Il y aura li
 
 Seront perçus comme déboursés effectifs :
 
-3° Les sommes payées à titre de rétribution à un gardien commis ;
+3. Les sommes payées à titre de rétribution à un gardien commis ;
 
-4° Les déboursés énumérés à l'article 79, alinéa 1, n° 3, 4, 6 de la loi d'Empire sur les frais de justice.
+4. Les déboursés énumérés à l'article 79, alinéa 1, n° 3, 4, 6 de la loi d'Empire sur les frais de justice.
 
 ### Article 150
 

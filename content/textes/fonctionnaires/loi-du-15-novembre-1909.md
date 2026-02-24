@@ -62,9 +62,9 @@ Le montant annuel de la pension de veuve sera augmenté de telle manière que so
 
 La pension des orphelins s'élève:
 
-1° Au cinquième de la pension de veuve pour chacun des enfants, lorsque la mère vit encore et qu'elle a droit à une pension ;
+1. Au cinquième de la pension de veuve pour chacun des enfants, lorsque la mère vit encore et qu'elle a droit à une pension ;
 
-2° Au tiers de la pension de veuve pour chacun des enfants, lorsque la mère ne vit plus ou n'a pas droit à une pension.
+2. Au tiers de la pension de veuve pour chacun des enfants, lorsque la mère ne vit plus ou n'a pas droit à une pension.
 
 Le montant annuel de la pension des orphelins sera augmenté de telle manière que son chiffre, divisé par trois, donne comme quotient des marks entiers.
 
@@ -86,11 +86,11 @@ S'il y a lieu de procéder à une réduction tant en vertu de l'article 10 qu'en
 
 Le payement de la pension cesse:
 
-1° Pour la veuve, à l'expiration du mois au cours duquel elle meurt ou se remarie ;
+1. Pour la veuve, à l'expiration du mois au cours duquel elle meurt ou se remarie ;
 
-2° Pour chacun des enfants, à l'expiration du mois au cours duquel il meurt ou accomplit sa dix-huitième année ;
+2. Pour chacun des enfants, à l'expiration du mois au cours duquel il meurt ou accomplit sa dix-huitième année ;
 
-3° Pour les filles qui se marient avant l'accomplissement de leur dix-huitième année, à l'expiration du mois au cours duquel est célébré leur mariage.
+3. Pour les filles qui se marient avant l'accomplissement de leur dix-huitième année, à l'expiration du mois au cours duquel est célébré leur mariage.
 
 ### Article 13
 
@@ -102,13 +102,13 @@ Au cas où le droit d'un enfant à une pension vient à prendre fin, sa pension,
 
 Le droit de la veuve et des orphelins à la pension est suspendu :
 
-1° Quand l'ayant droit perd la nationalité allemande, - jusqu'au jour où, il l'aura recouvrée ;
+1. Quand l'ayant droit perd la nationalité allemande, - jusqu'au jour où, il l'aura recouvrée ;
 
-2° Quand et aussi longtemps que l'ayant droit touche une pension à raison d'une nouvelle nomination ou occupation du défunt, en dehors du service d'Alsace-Lorraine, dans un des emplois désignés à l'article 57, n° 2, de la loi sur le statut des fonctionnaires d'Empire, - dans la mesure où l'ensemble des sommes allouées à l'intéressé dépasseraient le montant auquel ce dernier pourrait prétendre si la pension du défunt était calculée conformément à l'article 59 de la loi sur le statut des fonctionnaires d'Empire ;
+2. Quand et aussi longtemps que l'ayant droit touche une pension à raison d'une nouvelle nomination ou occupation du défunt, en dehors du service d'Alsace-Lorraine, dans un des emplois désignés à l'article 57, n° 2, de la loi sur le statut des fonctionnaires d'Empire, - dans la mesure où l'ensemble des sommes allouées à l'intéressé dépasseraient le montant auquel ce dernier pourrait prétendre si la pension du défunt était calculée conformément à l'article 59 de la loi sur le statut des fonctionnaires d'Empire ;
 
-3° Quand et aussi longtemps que l'intéressé, en qualité ou avec les attributions de fonctionnaire, touche dans un emploi de l'Alsace-Lorraine, de l'Empire ou d'un État confédéré au sens de l'article 57, n° 2, de la loi sur le statut des fonctionnaires d'Empire ou dans un emploi de l'enseignement public, des émoluments dépassant 2 000 marks pour une veuve ou 1 000 marks pour un orphelin, - dans la mesure où ces émoluments dépassent ces chiffres. Pour le calcul des émoluments, on appliquera l'article 57, n° 2, alinéa 3, de la loi sur le statut des fonctionnaires d'Empire ;
+3. Quand et aussi longtemps que l'intéressé, en qualité ou avec les attributions de fonctionnaire, touche dans un emploi de l'Alsace-Lorraine, de l'Empire ou d'un État confédéré au sens de l'article 57, n° 2, de la loi sur le statut des fonctionnaires d'Empire ou dans un emploi de l'enseignement public, des émoluments dépassant 2 000 marks pour une veuve ou 1 000 marks pour un orphelin, - dans la mesure où ces émoluments dépassent ces chiffres. Pour le calcul des émoluments, on appliquera l'article 57, n° 2, alinéa 3, de la loi sur le statut des fonctionnaires d'Empire ;
 
-4° Quand l'intéressé aura acquis dans son emploi de l'Alsace-Lorraine, de l'Empire ou d'un État confédéré au sens de l'article 57, n° 2, de la loi sur le statut des fonctionnaires d'Empire ou dans un emploi de l'enseignement public le droit à une pension supérieure à 1 500 marks, et tant qu'il touchera cette pension, - dans la mesure où celle-ci dépasse ce chiffre.
+4. Quand l'intéressé aura acquis dans son emploi de l'Alsace-Lorraine, de l'Empire ou d'un État confédéré au sens de l'article 57, n° 2, de la loi sur le statut des fonctionnaires d'Empire ou dans un emploi de l'enseignement public le droit à une pension supérieure à 1 500 marks, et tant qu'il touchera cette pension, - dans la mesure où celle-ci dépasse ce chiffre.
 
 ### Article 15
 
@@ -134,13 +134,10 @@ Les dispositions de la présente loi concernant les veuves et orphelins des fonc
 
 La présente loi entrera en vigueur au lendemain de sa promulgation, sous les modalités ci-après:
 
-1° Elle sera applicable aux veuves et orphelins des fonctionnaires décédés après le 31 mars 1908 ; toutefois, les augmentations de pension pouvant résulter de l'application de la présente loi ne seront pas payées rétroactivement pour l'époque antérieure au 1er avril 1909 ;
-
-2° Les pensions des veuves et orphelins des fonctionnaires décédés avant l'entrée en vigueurs de la présente loi ne seront suspendues, postérieurement au 1er avril 1909, que conformément aux articles 14 et 15 ;
-
-3° Les sommes à payer à titre de pension aux veuves et orphelins des fonctionnaires décédés avant l'entrée en vigueur de la présente loi ne pourront être inférieures à celles auxquelles la législation antérieure leur donne droit ;
-
-4° Les dispositions de l'article 2, alinéa 3, et de l'article 11 ne sont pas applicables, lorsque le mariage du défunt et sa nomination sont antérieurs à l'entrée en vigueur de la présente loi.
+1. Elle sera applicable aux veuves et orphelins des fonctionnaires décédés après le 31 mars 1908 ; toutefois, les augmentations de pension pouvant résulter de l'application de la présente loi ne seront pas payées rétroactivement pour l'époque antérieure au 1er avril 1909 ;
+2. Les pensions des veuves et orphelins des fonctionnaires décédés avant l'entrée en vigueurs de la présente loi ne seront suspendues, postérieurement au 1er avril 1909, que conformément aux articles 14 et 15 ;
+3. Les sommes à payer à titre de pension aux veuves et orphelins des fonctionnaires décédés avant l'entrée en vigueur de la présente loi ne pourront être inférieures à celles auxquelles la législation antérieure leur donne droit ;
+4. Les dispositions de l'article 2, alinéa 3, et de l'article 11 ne sont pas applicables, lorsque le mariage du défunt et sa nomination sont antérieurs à l'entrée en vigueur de la présente loi.
 
 ### Article 20
 

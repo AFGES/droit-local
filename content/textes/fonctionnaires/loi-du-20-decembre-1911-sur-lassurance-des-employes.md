@@ -39,6 +39,5 @@ qui les entretenait.
 ## Article 48
 
 La période d'attente est :
-
 1. pour la retraite de 120 mois de cotisations pour les assurés et de 60 mois pour les assurées;
 2. pour les rentes de survivants de 120 mois de cotisations.

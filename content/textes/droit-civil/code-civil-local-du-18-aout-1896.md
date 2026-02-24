@@ -191,18 +191,18 @@ Il faut que le nom se distingue nettement des noms des associations inscrites qu
 ### Article 58
 
 Il y a lieu de faire figurer dans les statuts des dispositions relatives :
-1° à l'entrée et au retrait des membres ;
-2° à l'existence et à la nature des contributions qui devront être fournies par les membres de l'association ;
-3° à la formation de la direction ;
-4° aux conditions de convocation de l'assemblée des membres, à la forme de la convocation et au mode de constatation des résolutions de l'assemblée.
+1. à l'entrée et au retrait des membres ;
+2. à l'existence et à la nature des contributions qui devront être fournies par les membres de l'association ;
+3. à la formation de la direction ;
+4. aux conditions de convocation de l'assemblée des membres, à la forme de la convocation et au mode de constatation des résolutions de l'assemblée.
 
 ### Article 59
 
 La direction est chargée de déclarer l'association en vue de l'inscription.
 
 Il y a lieu de joindre à la déclaration :
-1° l'original et la copie des statuts
-2° une copie des titres relatifs à la constitution de la direction.
+1. l'original et la copie des statuts
+2. une copie des titres relatifs à la constitution de la direction.
 
 Il faut que les statuts comportent la signature de sept membres au moins et l'indication du jour de leur établissement.
 
@@ -475,11 +475,11 @@ Le tuteur doit placer à intérêts les fonds faisant partie du patrimoine du pu
 ### Article 1807
 
 Le placement des fonds pupillaires prescrit à l'article 1806 ne doit être fait que de la manière suivante :
-1° En créances garanties par hypothèque sûre grevant un immeuble situé en Allemagne ou en dettes foncières ou en rente foncières grevant des immeubles situés en Allemagne ;
-2° En créances établies par acte authentique contre l'Empire ou d'un Etat confédéré, comme aussi en créances inscrites sur le grand livre de la dette publique ;
-3° En créances établies par acte authentique, dont le service des intérêts est garanti par l'Empire ou un Etat confédéré ;
-4° En valeurs, spécialement en lettres de gage, comme aussi en créances de toutes sortes établies par acte authentique contre une corporation communale ou l'établissement de crédit d'une semblable corporation pourvu que valeurs ou créances soient déclarées par le Conseil fédéral, de nature à servir au placement des deniers pupillaires ;
-5° Dans une caisse d'épargne publique allemande, pourvu qu'elle soit déclarée, par l'autorité compétente de l'Etat, de nature à servir au placement des deniers pupillaires.
+1. En créances garanties par hypothèque sûre grevant un immeuble situé en Allemagne ou en dettes foncières ou en rente foncières grevant des immeubles situés en Allemagne ;
+2. En créances établies par acte authentique contre l'Empire ou d'un Etat confédéré, comme aussi en créances inscrites sur le grand livre de la dette publique ;
+3. En créances établies par acte authentique, dont le service des intérêts est garanti par l'Empire ou un Etat confédéré ;
+4. En valeurs, spécialement en lettres de gage, comme aussi en créances de toutes sortes établies par acte authentique contre une corporation communale ou l'établissement de crédit d'une semblable corporation pourvu que valeurs ou créances soient déclarées par le Conseil fédéral, de nature à servir au placement des deniers pupillaires ;
+5. Dans une caisse d'épargne publique allemande, pourvu qu'elle soit déclarée, par l'autorité compétente de l'Etat, de nature à servir au placement des deniers pupillaires.
 
 ### Article 1808
 

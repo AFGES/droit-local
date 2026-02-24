@@ -13,8 +13,8 @@ categories: ["Chasse et environnement"]
 Ne sera pas considéré comme acte de chasse le fait par les propriétaires, possesseurs ou
 fermiers, de détruire sur leurs terres les animaux nuisibles.
 Le ministère déterminera :
-1° Quels sont les animaux réputés nuisibles ;
-2° Par quels moyens et sous quelles conditions ces animaux peuvent être détruits.
+1. Quels sont les animaux réputés nuisibles ;
+2. Par quels moyens et sous quelles conditions ces animaux peuvent être détruits.
 
 ### Article 5
 

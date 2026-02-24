@@ -112,13 +112,13 @@ l'Empire.
 
 Dans le calcul du temps de service, il sera tenu compte du temps pendant lequel un
 fonctionnaire :
-1° Est resté en disponibilité avec un traitement de disponibilité ;
-2° A été au service d'un des États confédérés, ou du Gouvernement d'un territoire faisant
+1. Est resté en disponibilité avec un traitement de disponibilité ;
+2. A été au service d'un des États confédérés, ou du Gouvernement d'un territoire faisant
 partie d'un des États confédérés ;
-3° A été, en qualité d'ancien militaire ayant droit à un emploi, occupé, provisoirement ou
+3. A été, en qualité d'ancien militaire ayant droit à un emploi, occupé, provisoirement ou
 à l'essai, au service civil de l'Empire ou d'un État confédéré ou du Gouvernement d'un territoire
 faisant partie d'un des États confédérés ;
-4° A accompli un stage pratique en dehors du service de l'Empire ou d'un des États
+4. A accompli un stage pratique en dehors du service de l'Empire ou d'un des États
 confédérés, en tant que ce stage a été expressément prévu par les règlements des examens
 comme moyen d'obtenir la formation technique exigée pour pouvoir être nommé à un emploi de
 l'Empire ou à un emploi immédiat de l'État.
@@ -175,15 +175,14 @@ règle précédente.
 
 Peut être compté, avec l'autorisation du Conseil fédéral, et conformément aux
 prescriptions des articles 45 à 49, le temps pendant lequel un fonctionnaire :
-1° A exercé, en Allemagne ou à l'étranger, les fonctions de notaire, d'avocat, avoué, etc.,
+1. A exercé, en Allemagne ou à l'étranger, les fonctions de notaire, d'avocat, avoué, etc.,
 ou a été au service d'une commune, d'un culte ou de l'enseignement, ou de l'administration de la
 maison ou de la cour d'un souverain ;
-2° A été au service d'un État ne faisant pas partie de l'Empire ;
-3° A accompli un stage pratique, en dehors du service de l'Empire ou d'un État
+2. A été au service d'un État ne faisant pas partie de l'Empire ;
+3. A accompli un stage pratique, en dehors du service de l'Empire ou d'un État
 confédéré, en tant que ce stage était de tradition pour pouvoir être nommé à un emploi de
 l'Empire ou à l'emploi immédiat d'un État ;
-
-4° A, avant sa nomination, en vertu d'un engagement de droit privé, rendu, d'une manière
+4. A, avant sa nomination, en vertu d'un engagement de droit privé, rendu, d'une manière
 continue, des services à l'Empire ou à un État confédéré contre rémunération directe sur les
 fonds de l'Empire ou de l'État, à condition que, dans l'attente d'un emploi définitif, il ait été
 chargé, d'une manière permanente et avec le caractère d'occupation principale, du service d'un
@@ -214,12 +213,13 @@ par brevet impérial, l'approbation de l'Empereur est nécessaire.
 ### Article 57
 
 Le droit à la pension est suspendu :
-1° Quand un pensionné perd la nationalité allemande, – jusqu'au jour où il l'aura
+1. Quand un pensionné perd la nationalité allemande, – jusqu'au jour où il l'aura
 retrouvée ;
-2° Quand, et aussi longtemps qu'un pensionné touche, au service de l'Empire ou d'un
+2. Quand, et aussi longtemps qu'un pensionné touche, au service de l'Empire ou d'un
 État, des émoluments de service, – dans la mesure où le montant de ces nouveaux émoluments,
 ajouté à la pension, dépasse le montant des émoluments touchés par le fonctionnaire avant son
 admission à la retraite.
+
 Comme service d'Empire ou d'État, au sens de la présente disposition, on entendra, outre
 le service militaire, tout emploi ou toute occupation en qualité ou avec les attributions de
 fonctionnaire, au service de l'Empire, d'un État ou des communes, dans les établissements
@@ -252,6 +252,7 @@ La suppression ou réduction de la pension en vertu des articles 57 à 59 produi
 l'expiration du mois au cours duquel s'est réalisé l'événement qui entraîne la modification ; si cet
 événement se produit le premier jour du mois, le payement prend fin au commencement de ce
 mois.
+
 En cas de réemploi temporaire moyennant indemnité journalière ou autre, la suppression
 ou la réduction ne produit effet qu'à l'expiration des six mois qui suivent le premier jour du mois
 au cours duquel l'occupation a commencé.
@@ -349,14 +350,14 @@ Le montant ainsi alloué au-delà du mois du décès ne peut être saisi.
 ### Article 75
 
 Le retrait d'emploi peut consister :
-1° En déplacement par mesure disciplinaire.
+1. En déplacement par mesure disciplinaire.
 Ce déplacement s'effectue par le transfert dans un autre emploi de rang égal, mais avec
 réduction de traitement qui ne pourra dépasser 1/5e. La réduction de traitement peut être
 remplacée par une amende ne dépassant pas le tiers des émoluments d'une année.
 Le déplacement par mesure disciplinaire est mis à exécution par l'autorité centrale
 (oberste Reichsbehörde).
 
-2° La destitution.
+2. La destitution.
 Celle-ci entraîne de plein droit la perte du titre et du droit à la pension. Lorsque l'inculpé
 a déjà quitté le service avant la fin de la procédure disciplinaire, la perte du titre et du droit à la
 pension, au cas où il n'y aurait pas renoncé volontairement en prenant les frais à sa charge, sera
@@ -372,4 +373,5 @@ de la pension légale sera laissée à l'inculpé, soit à vie, soit pour un cer
 Le retrait d'emploi doit être précédé d'une procédure disciplinaire régulière. Cette
 procédure est mise en mouvement par une décision de l'autorité centrale (oberste
 Reichsbehörde).
+
 La procédure disciplinaire comporte une instruction préliminaire écrite et un débat oral.

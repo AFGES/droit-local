@@ -44,21 +44,21 @@ Les propriétaires, possesseurs, usufruitiers, fermiers et autres détenteurs d'
 
 Les détenteurs d'immeubles sont tenus, en conformité des prescriptions qui seront précisées dans le règlement d'exécution :
 
-1° d'indiquer parcelle par parcelle, dans le délai de trois jours qui suit la sommation qui leur est faite dans les formes fixées par l'usage local, les immeubles qu'ils détiennent ;
+1. d'indiquer parcelle par parcelle, dans le délai de trois jours qui suit la sommation qui leur est faite dans les formes fixées par l'usage local, les immeubles qu'ils détiennent ;
 
-2° d'autoriser les agents chargés de l'exécution des travaux de révision à pénétrer sur les immeubles, y compris les cours et jardins clos ou attenant à une habitation, et à y exécuter des opérations d'arpentage ;
+2. d'autoriser les agents chargés de l'exécution des travaux de révision à pénétrer sur les immeubles, y compris les cours et jardins clos ou attenant à une habitation, et à y exécuter des opérations d'arpentage ;
 
-3° de répondre, personnellement ou par l'intermédiaire d'un mandataire, aux invitations à comparaître soit sur le terrain, soit devant le maire, qui pourraient leur en être adressées, et de donner à cette occasion les éclaircissements de faits jugés nécessaires, en produisant au besoin les titres qu'ils possèdent.
+3. de répondre, personnellement ou par l'intermédiaire d'un mandataire, aux invitations à comparaître soit sur le terrain, soit devant le maire, qui pourraient leur en être adressées, et de donner à cette occasion les éclaircissements de faits jugés nécessaires, en produisant au besoin les titres qu'ils possèdent.
 
 ### Article 7
 
 Dès que les travaux de révision sont terminés dans une commune, on établit d'après les résultats obtenus :
 
-1° un état de sections et un registre parcellaire sur lesquels les divers immeubles sont rangés dans l'ordre topographique ;
+1. un état de sections et un registre parcellaire sur lesquels les divers immeubles sont rangés dans l'ordre topographique ;
 
-2° une matrice cadastrale, sur laquelle les immeubles réunis par contribuable sont inscrits dans l'ordre alphabétique de ces derniers ;
+2. une matrice cadastrale, sur laquelle les immeubles réunis par contribuable sont inscrits dans l'ordre alphabétique de ces derniers ;
 
-3° des plans cadastraux conformes à la situation actuelle.
+3. des plans cadastraux conformes à la situation actuelle.
 
 L'état de section et une expédition de la matrice cadastrale sont destinés à la commune, la minute de la matrice cadastrale et le registre parcellaire à l'administration des contributions directes. Cette dernière conserve la minute des plans cadastraux, la commune en reçoit une copie.
 
@@ -88,11 +88,11 @@ La situation des parties intéressées, au regard de la possession et de la prop
 
 Les dépenses suivantes occasionnées par la révision du cadastre sont à la charge des communes :
 
-1° les dommages-intérêts dus pour les dégâts causés aux cultures ;
+1. les dommages-intérêts dus pour les dégâts causés aux cultures ;
 
-2° les rétributions à allouer aux indicateurs ;
+2. les rétributions à allouer aux indicateurs ;
 
-3° les dépenses effectives de l'administration pour la confection des plans, états de sections et matrices cadastrales, destinés aux archives de la commune.
+3. les dépenses effectives de l'administration pour la confection des plans, états de sections et matrices cadastrales, destinés aux archives de la commune.
 
 Le droit à des dommages-intérêts pour les dégâts causés aux cultures (1°) ou à des rétributions d'indicateurs est prescrit, s'il n'est pas déclaré au maire de la commune dans le mois qui suit le jour où les dégâts ont été commis ou le jour de cessation des fonctions d'indicateur. Si une entente, approuvée par le conseil municipal ne peut être réalisée, le sous préfet décide après avoir entendu préalablement les parties et, en tant qu'il s'agit de dommages causés aux cultures, après avoir recueilli l'avis d'un expert. Le sous-préfet décide en dernier ressort.
 
@@ -166,23 +166,23 @@ La communication des nouveaux documents cadastraux ainsi que l'examen et la solu
 
 Des réclamations visant le contenu des documents cadastraux peuvent être produites en particulier contre :
 
-1° l'inscription d'un immeuble sous un nom inexact ;
+1. l'inscription d'un immeuble sous un nom inexact ;
 
-2° l'indication inexacte de la contenance d'un immeuble ;
+2. l'indication inexacte de la contenance d'un immeuble ;
 
-3° l'indication inexacte du mode d'exploitation durable (nature de culture) d'un immeuble ;
+3. l'indication inexacte du mode d'exploitation durable (nature de culture) d'un immeuble ;
 
-4° la désignation inexacte sur les cartes cadastrales de la situation ou des limites d'un immeuble ;
+4. la désignation inexacte sur les cartes cadastrales de la situation ou des limites d'un immeuble ;
 
-5° les erreurs de calcul et de plume ou autres erreurs matérielles.
+5. les erreurs de calcul et de plume ou autres erreurs matérielles.
 
 ### Article 21
 
 En plus de la prise en charge des rétributions de l'arbitre et des dépenses visées à l'article 9, n°1 et 2, la commune est tenue de rembourser au Trésor, pour l'arpentage parcellaire de son territoire :
 
-1° en cas d'arpentage ordonné d'office, trois dixièmes ;
+1. en cas d'arpentage ordonné d'office, trois dixièmes ;
 
-2° en cas d'arpentage sur demande, cinq dixièmes des frais déterminés par la commission du cadastre avant l'exécution des travaux de rénovation, sur la base d'un tarif à fixer par le ministère.
+2. en cas d'arpentage sur demande, cinq dixièmes des frais déterminés par la commission du cadastre avant l'exécution des travaux de rénovation, sur la base d'un tarif à fixer par le ministère.
 
 Les frais d'abornement (article 15) demeurent dans les deux cas à la charge de celui à qui incombe l'obligation d'aborner.
 

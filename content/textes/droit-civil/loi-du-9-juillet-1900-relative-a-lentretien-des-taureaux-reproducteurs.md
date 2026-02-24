@@ -12,10 +12,10 @@ Les municipalités sont tenues de réglementer l'entretien des taureaux reproduc
 
 ## Article 2
 
-Le conseil, municipal, pour satisfaire à cette obligation, décidera si les taureaux: reproducteurs:
-1° Seront acquis et entretenus par un ou plusieurs concessionnaires ;
-2°S'ils seront acquis par la commune et entretenus par plusieurs concessionnaires ;
-3°Ou s'ils seront acquis par la commune et entretenus par ses propres soins.
+Le conseil municipal, pour satisfaire à cette obligation, décidera si les taureaux reproducteurs :
+1. Seront acquis et entretenus par un ou plusieurs concessionnaires ;
+2. S'ils seront acquis par la commune et entretenus par plusieurs concessionnaires ;
+3. Ou s'ils seront acquis par la commune et entretenus par ses propres soins.
 Il sera passé des contrats par écrit avec les concessionnaires auxquels est laissé l'entretien des taureaux.
 L'entretien de taureaux reproducteurs ne pourra être concédé par voie d'adjudication au concessionnaire
 qui offrirait les conditions les plus avantageuses, ni être concédé par roulement à tous les possesseurs
@@ -43,12 +43,12 @@ année. Il pourra aussi décider la perception d'un droit de saillie pour l'util
 Le nombre des possesseurs d'animaux, ni celui de leurs bêtes prêtes à être saillies, n'entreront en ligne de
 compte pour le calcul du nombre des taureaux reproducteurs, non plus que pour la perception éventuelle
 de taxes.
-1° Lorsque les possesseurs entretiennent eux-mêmes d'une manière permanente le nombre de taureaux
+1. Lorsque les possesseurs entretiennent eux-mêmes d'une manière permanente le nombre de taureaux
 reproducteurs nécessaires à leur bétail.
-2° Lorsque d'une manière permanente ils ont organisé en tout ou en partie, leur exploitation pour la
+2. Lorsque d'une manière permanente ils ont organisé en tout ou en partie, leur exploitation pour la
 laiterie ou l'engraissement du bétail, si dans la mesure où l'utilisation d'un taureau reproducteur ne devient
 ainsi qu'exceptionnellement nécessaire.
-3° Lorsqu'i1s sont membres d'un syndicat d'élevage reconnu par le Ministère, comme société pour
+3. Lorsqu'i1s sont membres d'un syndicat d'élevage reconnu par le Ministère, comme société pour
 l'amélioration de la race bovine, si et dans la mesure où leurs bêtes propres à être saillies sont inscrites sur
 le herd-book du syndicat.
 

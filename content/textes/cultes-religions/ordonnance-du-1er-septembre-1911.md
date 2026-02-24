@@ -34,9 +34,8 @@ Si un employé de secrétariat d'une autorité supérieure du culte protestant p
 
 Le temps de service comptant pour la retraite de ceux des employés de secrétariat des autorités supérieures des cultes catholique, protestant et israélite qui ont obtenu la qualification pour être nommés à une charge de curé, au pastorat ou au rabbinat, est fixé conformément aux dispositions de l'ordonnance du 16 mars 1910 en ce sens que :
 
-1° le temps passé dans plusieurs postes au service du secrétariat sera additionné en y ajoutant le temps qui dans le premier poste au service du secrétariat a été compté pour la fixation de l'ancienneté de traitement ;
-
-2° le service de secrétariat est considéré comme service paroissial ou de rabbinat.
+1. le temps passé dans plusieurs postes au service du secrétariat sera additionné en y ajoutant le temps qui dans le premier poste au service du secrétariat a été compté pour la fixation de l'ancienneté de traitement ;
+2. le service de secrétariat est considéré comme service paroissial ou de rabbinat.
 
 ### Article 6
 

@@ -13,7 +13,7 @@ categories: ["Droit civil"]
 ### Article 1
 
 Dans les cours d'eau de toute nature, les travaux ayant pour objet d'en altérer, retarder ou précipiter les cours ont besoin d'une autorisation préalable. Ont notamment besoin de cette autorisation, outre les travaux ayant pour objet l'établissement, la suppression ou la modification de barrages pour usines hydrauliques :
-a)L'établissement de barrages pour l'irrigation et la formation de réservoirs ;
+a) L'établissement de barrages pour l'irrigation et la formation de réservoirs ;
 b) Les dérivations et prises d'eau de toute nature;
 c) Les adductions à un cours d'eau ou la modification d'ouvrages d'art désignés sous a),b),c) ;
 Une pareille autorisation est nécessaire pour tous travaux propres à modifier la qualité de l'eau par l'introduction de substances étrangères ou à en empêcher ou entraver l'usage de toute autre matière.
@@ -29,9 +29,9 @@ L'administration peut aussi dispenser la demande de la publicité, lorsqu'il ré
 ### Article 3
 
 Sur les cours d'eau navigables ou flottables une permission est en outre nécessaire:
-1 Pour toute installation particulière en vue de faire usage des eaux ou du lit du cours d'eau;
-2 Pour l'établissement de bacs;
-3 Pour l'extraction de pierres, sables, limon, plantes et autres matériaux, ainsi que pour l'enlèvement des glaces.
+1. Pour toute installation particulière en vue de faire usage des eaux ou du lit du cours d'eau;
+2. Pour l'établissement de bacs;
+3. Pour l'extraction de pierres, sables, limon, plantes et autres matériaux, ainsi que pour l'enlèvement des glaces.
 Un règlement d'exécution indiquera la procédure à suivre pour obtenir cette permission.
 
 ### Article 4
@@ -167,8 +167,8 @@ Lorsqu'il s'agit de travaux· d'entretien plus considérables ou encore du curag
 ### Article 26
 
 Dans la répartition individuelle des frais d'entretien qui incomberont aux intéressés visés à l'article 22, n° 1 et 2, il y a lieu de considérer :
-1°L'avantage que chacun des intéressés est appelé à retirer des travaux ;
-2 La proportion pour laquelle le mode d'usage des eaux pratiqué par chaque intéressé a contribué, par l'effet du remous à l'envasement du cours d'eau.
+1. L'avantage que chacun des intéressés est appelé à retirer des travaux ;
+2. La proportion pour laquelle le mode d'usage des eaux pratiqué par chaque intéressé a contribué, par l'effet du remous à l'envasement du cours d'eau.
 
 ### Article 27
 

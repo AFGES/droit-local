@@ -23,31 +23,31 @@ Le district de Lorraine, comprenant les parties devenues allemandes, de l'ancien
 
 Les districts sont divisés en cercles.
 I. Le district de Basse-Alsace comprend :
-1° Le cercle de Strasbourg-ville, formé par la commune de Strasbourg ;
-2° Le cercle de Strasbourg-campagne, formé des cantons de Brumath, Hochfelden, Schiltigheim, Truchtersheim ;
-3° Le cercle d'Erstein, formé des cantons de Benfeld, Erstein, Geispolsheim, Obernai ;
-4° Le cercle d'Haguenau, formé des cantons d'Haguenau, Bischwiller, Niederbronn ;
-5° Le cercle de Molsheim, formé des cantons de Molsheim, Rosheim, Wasselonne et des parties des cantons de Schirmeck et de Saales annexées à l'Allemagne ;
-6° Le cercle de Sélestat, formé des cantons de Barr, Marckolsheim, Sélestat et Villé ;
-7° Le cercle de Wissembourg, formé des cantons de Lauterbourg, Seltz, Soultz, Wissembourg, et Woerth ;
-8° Le cercle de Saverne, formé des cantons de Bouxwiller, Drulange, la Petite-Pierre, Marmoutier, Saverne et Sarre-Union.
+1. Le cercle de Strasbourg-ville, formé par la commune de Strasbourg ;
+2. Le cercle de Strasbourg-campagne, formé des cantons de Brumath, Hochfelden, Schiltigheim, Truchtersheim ;
+3. Le cercle d'Erstein, formé des cantons de Benfeld, Erstein, Geispolsheim, Obernai ;
+4. Le cercle d'Haguenau, formé des cantons d'Haguenau, Bischwiller, Niederbronn ;
+5. Le cercle de Molsheim, formé des cantons de Molsheim, Rosheim, Wasselonne et des parties des cantons de Schirmeck et de Saales annexées à l'Allemagne ;
+6. Le cercle de Sélestat, formé des cantons de Barr, Marckolsheim, Sélestat et Villé ;
+7. Le cercle de Wissembourg, formé des cantons de Lauterbourg, Seltz, Soultz, Wissembourg, et Woerth ;
+8. Le cercle de Saverne, formé des cantons de Bouxwiller, Drulange, la Petite-Pierre, Marmoutier, Saverne et Sarre-Union.
 II. Le district de Haute-Alsace comprend :
-1° Le cercle de Colmar, formé des cantons de Colmar, Andolsheim, Munster, Neufbrisach et Wintzenheim ;
-2° Le cercle de Ribeauvillé, formé des cantons de Ribeauvillé, Kaisersberg, Sainte-Marie-aux-Mines et La Poutroye ;
-3° Le cercle de Guebwiller, formé des cantons d'Ensisheim, Guebwiller, Rouffach et Soultz ;
-4° Le cercle de Thann, formé des cantons de Saint-Amarin, Thann, Sentheim, et des parties du canton de Masevaux annexées à l'Allemagne ;
-5° Le cercle de Mulhouse, formé des cantons de Mulhouse, Habsheim, Landser et Huningue ;
-6° Le cercle d'Altkirch, formé des cantons d'Altkirch, Hirsinger, Ferrette et des parties, devenues allemandes, des cantons de Dannemarie et Fontaine.
+1. Le cercle de Colmar, formé des cantons de Colmar, Andolsheim, Munster, Neufbrisach et Wintzenheim ;
+2. Le cercle de Ribeauvillé, formé des cantons de Ribeauvillé, Kaisersberg, Sainte-Marie-aux-Mines et La Poutroye ;
+3. Le cercle de Guebwiller, formé des cantons d'Ensisheim, Guebwiller, Rouffach et Soultz ;
+4. Le cercle de Thann, formé des cantons de Saint-Amarin, Thann, Sentheim, et des parties du canton de Masevaux annexées à l'Allemagne ;
+5. Le cercle de Mulhouse, formé des cantons de Mulhouse, Habsheim, Landser et Huningue ;
+6. Le cercle d'Altkirch, formé des cantons d'Altkirch, Hirsinger, Ferrette et des parties, devenues allemandes, des cantons de Dannemarie et Fontaine.
 
 III. Le district de Lorraine comprend :
-1° Le cercle de Metz-ville, formé par la commune de Metz ;
-2° Le cercle de Metz-campagne, formé des premier, deuxième et troisièmes cantons de Metz à l'exception de la ville, des cantons de Pange, Verny, Vigy et des parties, devenues allemandes, des cantons de Briey et de Gorze ;
-3° Le cercle de Thionville, formé des cantons de Thionville, Cattenom, Metzerwisse, Sierck et des parties, devenues allemandes, des cantons d'Audun et Longwy ;
-4° Le cercle de Sarrebourg, formé des cantons de Sarrebourg, Fénétrange, Phalsbourg et des parties, annexées à l'Allemagne, des cantons de Lorquin et Rechicourt ;
-5° Le cercle de Château-Salins, formé des cantons de Delme, Albestroff, Dieuze et des parties, devenues allemandes, des cantons de Château-Salins et Vic ;
-6° Le cercle de Boulay, formé des cantons de Boulay, Faulquemont et Bouzonville ;
-7° Le cercle de Sarreguemines, formé des cantons de Sarreguemines, Volmunster, Bitche et Rohrbach ;
-8° Le cercle de Forbach, formé des cantons de Forbach, Saint-Avold, Sarralbe et Grostenquin.
+1. Le cercle de Metz-ville, formé par la commune de Metz ;
+2. Le cercle de Metz-campagne, formé des premier, deuxième et troisièmes cantons de Metz à l'exception de la ville, des cantons de Pange, Verny, Vigy et des parties, devenues allemandes, des cantons de Briey et de Gorze ;
+3. Le cercle de Thionville, formé des cantons de Thionville, Cattenom, Metzerwisse, Sierck et des parties, devenues allemandes, des cantons d'Audun et Longwy ;
+4. Le cercle de Sarrebourg, formé des cantons de Sarrebourg, Fénétrange, Phalsbourg et des parties, annexées à l'Allemagne, des cantons de Lorquin et Rechicourt ;
+5. Le cercle de Château-Salins, formé des cantons de Delme, Albestroff, Dieuze et des parties, devenues allemandes, des cantons de Château-Salins et Vic ;
+6. Le cercle de Boulay, formé des cantons de Boulay, Faulquemont et Bouzonville ;
+7. Le cercle de Sarreguemines, formé des cantons de Sarreguemines, Volmunster, Bitche et Rohrbach ;
+8. Le cercle de Forbach, formé des cantons de Forbach, Saint-Avold, Sarralbe et Grostenquin.
 
 ### Article 3
 
@@ -71,10 +71,10 @@ Il lui appartient, en ce qui concerne le budget des recettes et dépenses du pay
 ### Article 6
 
 Le président supérieur a dans sa compétence directe :
-1° Toutes les affaires non réservées au Chancelier de l'Empire qui concernent plusieurs districts et qui ne sont pas susceptibles d'être divisées territorialement d'après la délimitation des districts
-2° Tous les établissements publics communs à plusieurs districts ;
-3° Les travaux du Rhin et de la Moselle, et les travaux des canaux de navigation qui n'ont pas été attribués par le Chancelier aux autorités de district ;
-4° Les affaires qui sont du ressort à la fois des autorités civiles et des autorités militaires ou qui intéressent en commun, et qui sont, au point de vue militaire, de la compétence du général commandant le corps d'armée.
+1. Toutes les affaires non réservées au Chancelier de l'Empire qui concernent plusieurs districts et qui ne sont pas susceptibles d'être divisées territorialement d'après la délimitation des districts
+2. Tous les établissements publics communs à plusieurs districts ;
+3. Les travaux du Rhin et de la Moselle, et les travaux des canaux de navigation qui n'ont pas été attribués par le Chancelier aux autorités de district ;
+4. Les affaires qui sont du ressort à la fois des autorités civiles et des autorités militaires ou qui intéressent en commun, et qui sont, au point de vue militaire, de la compétence du général commandant le corps d'armée.
 Le Chancelier peut en outre lui déléguer, en tout ou partie, les attributions qui, d'après les lois françaises restées en vigueur, appartenaient aux divers ministères.
 
 ### Article 7

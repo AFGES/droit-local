@@ -49,9 +49,8 @@ Est considéré comme temps de service valable pour la retraite des ministres de
 
 Entrent en compte comme temps de service valable pour la retraite des ministres de tous les cultes :
 
-1° le temps de service militaire actif pour autant qu'il n'a pas été compté pour la fixation de l'ancienneté de traitement (article 3, alinéa 2).
-
-2° jusqu'à la durée de deux ans, les années d'études exigées pour l'obtention du certificat d'aptitude à une charge de curé, au pastorat ou au rabbinat, en tant que la durée des études dépasse quatre ans et en tant que ce laps de temps n'est pas déjà pris en compte pour une autre raison. La période d'études de plus d'une année passée à l'étranger n'est prise en compte que pour autant qu'il en sera décidé ainsi dans chaque cas particulier.
+1. le temps de service militaire actif pour autant qu'il n'a pas été compté pour la fixation de l'ancienneté de traitement (article 3, alinéa 2).
+2. jusqu'à la durée de deux ans, les années d'études exigées pour l'obtention du certificat d'aptitude à une charge de curé, au pastorat ou au rabbinat, en tant que la durée des études dépasse quatre ans et en tant que ce laps de temps n'est pas déjà pris en compte pour une autre raison. La période d'études de plus d'une année passée à l'étranger n'est prise en compte que pour autant qu'il en sera décidé ainsi dans chaque cas particulier.
 
 ## III. - Dispositions finales
 
