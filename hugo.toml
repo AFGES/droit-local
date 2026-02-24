@@ -39,6 +39,11 @@ buildExpired = false
 
 [menu]
   [[menu.main]]
+    identifier = "menu-search"
+    name = "Recherche"
+    url = "/search/"
+    weight = 5
+  [[menu.main]]
     identifier = "menu-textes"
     name = "Tous les textes"
     url = "/textes/"
