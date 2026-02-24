@@ -8,7 +8,7 @@ categories: ["Droit pénal et urbanisme"]
 
 concernant la police des constructions
 
-### Article 1er
+## Article 1er
 
 Par arrêté local pris pour une commune, l'autorité de police locale pourra être autorisée,
 outre la réglementation de la police des constructions dans l'intérêt de la sécurité et de l'hygiène,
@@ -22,6 +22,6 @@ loi communale locale du 6 juin 1895 pour les communes de 25 000 habitants et au-
 plus imposés seront appelés, conformément à l'article 44 de la loi communale, à prendre part à
 la délibération du conseil municipal.
 
-### Article 2
+## Article 2
 
 La présente loi entre en vigueur le 1er septembre 1910.

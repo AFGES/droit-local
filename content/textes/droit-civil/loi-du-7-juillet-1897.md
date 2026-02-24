@@ -9,7 +9,7 @@ categories: ["Droit civil"]
 relative aux patrimoines des sections de communes
 et au patrimoine possédé indivisément par plusieurs communes ou sections de communes
 
-**Administration du patrimoine possédé indivisément par plusieurs communes**
+## Administration du patrimoine possédé indivisément par plusieurs communes
 
 ### Article 7
 
@@ -35,7 +35,7 @@ Les dépenses à la charge des communes sont des dépenses obligatoires, à l'é
 Si les communes intéressées sont soumises à des autorités de surveillance différentes, les fonctions de l'autorité de surveillance visées aux articles 7, 9 et 10 seront exercées par le président de district.
 Si les communes intéressées appartiennent à des districts différents, lesdites fonctions seront exercées par le Ministère.
 
-**Dispositions finales**
+## Dispositions finales
 
 ### Article 12
 

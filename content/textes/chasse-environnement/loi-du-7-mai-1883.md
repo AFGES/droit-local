@@ -6,7 +6,7 @@ type_texte: "Loi"
 categories: ["Chasse et environnement"]
 ---
 
-**sur la police de la chasse**
+## sur la police de la chasse
 
 ### Article 2
 

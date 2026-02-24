@@ -8,7 +8,7 @@ categories: ["Cultes et religions"]
 
 relative au budget d'Alsace-Lorraine pour l'exercice 1911.
 
-### Article 12
+## Article 12
 
 Les employés de secrétariat des autorités supérieures des cultes reconnus (secrétaires généraux, secrétaires, contrôleurs, expéditionnaires, garçons de bureau) recevront sur la Caisse d'Alsace-Lorraine des traitements dont le montant sera fixé par le budget.
 

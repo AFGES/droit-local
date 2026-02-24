@@ -8,11 +8,11 @@ categories: ["Justice"]
 
 relative à l'indemnisation des titulaires de charges judiciaires vénales
 
-### Article 1er
+## Article 1er
 
 Le droit des titulaires de charges judiciaires vénales de présenter un successeur est aboli.
 Il leur sera accordé une indemnité qui sera fixée dès à présent et qui sera payable au moment de la cessation de leurs fonctions.
 
-### Article 2
+## Article 2
 
 Sont traités comme charges judiciaires vénales les offices des notaires, avoués, greffiers, huissiers et commissaires-priseurs.

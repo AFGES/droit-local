@@ -6,7 +6,7 @@ type_texte: "Ordonnance"
 categories: ["Administration"]
 ---
 
-**relative à la nomination et à l'assermentation des interprètes**
+## relative à la nomination et à l'assermentation des interprètes
 
 ### Article 1
 

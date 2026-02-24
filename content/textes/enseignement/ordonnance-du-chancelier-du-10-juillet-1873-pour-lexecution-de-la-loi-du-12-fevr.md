@@ -8,6 +8,6 @@ categories: ["Enseignement"]
 
 sur l'enseignement
 
-### Article 10 a (ajouté par l'ordonnance du 16 novembre 1887)
+## Article 10 a (ajouté par l'ordonnance du 16 novembre 1887)
 
 Dans toutes les écoles, l'enseignement et l'éducation doivent tendre à développer la religion, la moralité et le respect des pouvoirs établis et des lois.

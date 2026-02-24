@@ -6,22 +6,21 @@ type_texte: "Code"
 categories: ["Droit civil"]
 ---
 
+## Livre premier
 
-**Livre premier**
+### Partie generale
 
-**Partie generale**
+### Section premiere
 
-**Section premiere**
+#### Des personnes
 
-**Des personnes**
+#### Titre deuxieme
 
-**Titre deuxieme**
+#### Des personnes juridiques
 
-**Des personnes juridiques**
+##### I. – Des associations
 
-**I. – Des associations**
-
-**1. Dispositions générales**
+##### 1. Dispositions générales
 
 ### Article 21
 
@@ -173,7 +172,7 @@ Les liquidateurs qui contreviennent aux obligations qui leur incombent en vertu 
 
 Seul le patrimoine affecté à l'association non inscrite garantit les dettes contractées au nom de cette association. Toutefois, l'auteur d'actes juridiques accomplis envers les tiers au nom d'une telle association est tenu personnellement ; si ces actes sont accomplis par plusieurs personnes, celles-ci sont tenues comme débiteurs solidaires. Pour le surplus, il y a lieu d'appliquer les règles régissant la société civile en participation.
 
-**2. Associations inscrites**
+#### 2. Associations inscrites
 
 ### Article 55
 
@@ -323,7 +322,7 @@ Chaque fois qu'une disposition législative ou réglementaire prévoit qu'une ac
 
 L'ensemble des droits et avantages attribués aux associations reconnues d'utilité publique bénéficie également aux associations régies par le code civil local dont la mission aura été reconnue d'utilité publique conformément au I de l'article 80 de la loi de finances pour 1985.
 
-**II. – Fondations**
+#### II. – Fondations
 
 ### Article 80
 
@@ -367,13 +366,13 @@ Avant de transformer le but et avant de modifier l'organisation, il faut entendr
 
 Lorsque la fondation prend fin, le patrimoine est dévolu aux personnes désignées par la constitution statutaire. Reçoivent application correspondante les dispositions des articles 46 à 53.
 
-**Section troisieme**
+### Section troisieme
 
-**Des actes juridiques**
+#### Des actes juridiques
 
-**Titre deuxieme**
+#### Titre deuxieme
 
-**De la declaration de volonte**
+#### De la declaration de volonte
 
 ### Article 126
 
@@ -385,19 +384,19 @@ Lorsque pour une déclaration la légalisation publique est prescrite par la loi
 
 La légalisation publique peut être remplacée par la constatation authentique sous forme judicaire ou notariée de la déclaration suppléée par un acte judiciaire ou notarié
 
-**Livre deuxieme**
+## Livre deuxieme
 
-**Droit des obligations**
+### Droit des obligations
 
-**Section septieme**
+### Section septieme
 
-**Des obligations diverses**
+#### Des obligations diverses
 
-**Titre troisieme**
+#### Titre troisieme
 
-**Du bail a loyer ou a ferme**
+#### Du bail a loyer ou a ferme
 
-**I. – Du bail à loyer**
+##### I. – Du bail à loyer
 
 ### Article 565
 
@@ -413,13 +412,13 @@ Les dispositions de l'alinéa 1, 1ère phrase et de l'alinéa 2 sont également 
 
 Les militaires, les fonctionnaires, les ecclésiastiques et les professeurs attachés aux établissements publics d'instruction peuvent, en cas de déplacement dans une autre localité, dénoncer le rapport de droit dérivant du bail en ce qui touche les locaux qu'ils ont loués dans le actuel de garnison ou de résidence pour eux ou leurs familles, moyennant observation du délai légal. La dénonciation ne peut être effectuée que pour le premier terme pour lequel elle est admissible.
 
-**Livre troisieme**
+## Livre troisieme
 
-**Des droits reels exerces sur les choses**
+### Des droits reels exerces sur les choses
 
-**Section septieme**
+### Section septieme
 
-**Des charges reelles**
+#### Des charges reelles
 
 ### Article 1105
 
@@ -435,13 +434,13 @@ Sauf convention contraire, le propriétaire est aussi tenu personnellement des p
 
 Si l'immeuble est divisé, les propriétaires des diverses parties sont tenus solidairement.
 
-**Section huitieme.**
+### Section huitieme
 
-**De l'hypotheque. de la dette fonciere. de la rente fonciere**
+#### De l'hypotheque. de la dette fonciere. de la rente fonciere
 
-**Titre premier**
+#### Titre premier
 
-**De l'hypotheque**
+#### De l'hypotheque
 
 ### Article 1127
 
@@ -455,19 +454,19 @@ Lorsqu'un bâtiment est assuré, le paiement de l'indemnité fait à l'assuré n
 
 Pour le surplus, on applique les prescriptions relatives aux créances données en gage ; toutefois, l'assureur ne peut exciper de ce qu'il n'aurait pas eu connaissance d'une hypothèque manifestée au Livre foncier.
 
-**Livre quatrieme**
+## Livre quatrieme
 
-**Du droit de la famille**
+### Du droit de la famille
 
-**Section troisieme**
+### Section troisieme
 
-**De la tutelle**
+#### De la tutelle
 
-**Titre premier**
+#### Titre premier
 
-**De la tutelle des mineurs**
+#### De la tutelle des mineurs
 
-**II. – De la gestion de la tutelle**
+##### II. – De la gestion de la tutelle
 
 ### Article 1806
 
@@ -486,7 +485,7 @@ Le placement des fonds pupillaires prescrit à l'article 1806 ne doit être fait
 
 Si le placement ne peut, à raison des circonstances, être fait en la manière prescrite à l'article 1807, les fonds doivent être placés à la Banque d'Empire, une banque d'Etat ou dans toute autre banque allemande déclarée par la loi régionale propre à cet emploi ou dans une caisse de Conseil fédéral.
 
-**III. – Des mesures préventives et de la surveillance du tribunal des tutelles**
+#### III. – Des mesures préventives et de la surveillance du tribunal des tutelles
 
 ### Article 1837
 
@@ -526,19 +525,19 @@ Lors de la constitution, de la modification ou de la suppression des sûretés, 
 
 Les frais de constitution, de modification ou de suppression des sûretés sont à la charge du pupille.
 
-**VII. De la fin de la tutelle**
+#### VII. De la fin de la tutelle
 
 ### Article 1886
 
 Le tribunal des tutelles doit destituer le tuteur lorsque la continuation de ses fonctions, notamment en raison de sa conduite contraire à ses devoirs, compromettrait les intérêts du pupille ou s'il existe dans la personne du tuteur l'un des faits déterminés à l'article 1781.
 
-**Livre cinquieme**
+## Livre cinquieme
 
-**Des successions**
+### Des successions
 
-**Section huitieme**
+### Section huitieme
 
-**Du certificat d'heritier**
+#### Du certificat d'heritier
 
 ### Article 2353
 
@@ -547,6 +546,7 @@ Le tribunal de la succession doit remettre à l'héritier, sur sa demande, un ti
 ### Article 2354
 
 Celui qui requiert, comme héritier légal, la délivrance d'un certificat d'héritier, doit indiquer :
+
 1. la date de la mort du de cujus ;
 2. le lien de parenté sur lequel repose son droit d'héritier ;
 3. s'il existe ou s'il a existé des personnes, par lesquelles il aurait été exclu de la succession ou sa part successorale serait réduite, et quelles sont ces personnes ;

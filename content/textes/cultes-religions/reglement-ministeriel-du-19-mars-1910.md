@@ -11,7 +11,7 @@ pour l'exécution de la loi du 15 novembre 1909
 relative aux traitements et pensions des ministres des cultes rétribués par l'Etat
 et de leurs ayants cause
 
-### Article 1
+## Article 1
 
 Les autorités supérieures ecclésiastiques des ministres des cultes désignés dans
 les articles 1er à 6 de la loi du 15 novembre 1909 doivent notifier au ministère la nomination et
@@ -28,7 +28,7 @@ b) le Directoire de la Confession d'Augsbourg ainsi que les consistoires réform
 israélites doivent notifier les changements chaque fois séparément, s'il y a lieu après la
 confirmation ou l'agrément du gouvernement.
 
-### Article 2
+## Article 2
 
 Aux notifications visées à l'article 1er et concernant les nominations, il y aura
 lieu de joindre:
@@ -45,7 +45,7 @@ d'une période passée en dehors du service ecclésiastique rétribué par l'Eta
 justifications peuvent être déjà produites avec les demandes de confirmation officielle des
 nominations.
 
-### Article 4
+## Article 4
 
 L'agrément du ministère pour l'octroi d'un congé à un ministre du culte doit
 d'abord être demandé et motivé par l'autorité supérieure, si le congé sollicité dépasse pour lui
@@ -60,14 +60,14 @@ reprise du service.
 Si un ministre du culte, sauf en cas de maladie, n'exerce pas ses fonctions sans congé
 régulier accordé par l'autorité supérieure, celle-ci doit en avertir le ministère.
 
-### Article 5
+## Article 5
 
 Si un ministre du culte est relevé temporairement de ses fonctions, l'autorité qui
 a prononcé cette suspension, doit en informer le ministère et lui indiquer, outre le motif et la
 durée de cette suspension de service, si elle propose la continuation du paiement du traitement
 ou du supplément de traitement ou d'une partie de ces émoluments.
 
-### Article 6
+## Article 6
 
 Dans le cas où un ministre du culte décédé en activité de service laisse une
 veuve ou des descendants légitimes ou légitimés, l'autorité supérieure communiquera aussitôt au
@@ -82,7 +82,7 @@ elle estime remplies les conditions énumérées à l'article 8 de la loi sur le
 doit faire, en outre, le nécessaire pour que les pièces justificatives exigées en pareil cas soient
 produites.
 
-### Article 7
+## Article 7
 
 Si un ministre du culte doit être mis à la retraite avec son consentement pour
 cause d'incapacité de service, il incombe à l'autorité compétente de demander l'agrément du
@@ -98,7 +98,7 @@ La décision qui prononce l'admission à la retraite doit être remise au minist
 une copie de la décision avec indication du jour de la remise à l'intéressé, sera adressée aussitôt
 au ministère, s'il y a lieu, avec la notification visée à l'article 1er, b).
 
-### Article 8
+## Article 8
 
 Si un ministre du culte catholique ou un rabbin doit être mis à la retraite pour
 incapacité de service, sans qu'il y ait consentement de la part de l'intéressé, les prescriptions de
@@ -115,7 +115,7 @@ Pour la mise à la retraite non volontaire d'un pasteur auxiliaire protestant oc
 poste budgétaire, les dispositions de l'arrêté concernant la mise à la retraite non volontaire des
 pasteurs protestants du 9 mars 1903 sont également applicables.
 
-### Article 9
+## Article 9
 
 Les indications nécessaires pour le décompte des services comptant pour la
 pension et du traitement servant de base pour le calcul de la pension, doivent être fournies avec
@@ -141,7 +141,7 @@ f) le lieu où le ministre du culte a l'intention de s'établir après sa mise �
 
 Dans le cas prévu sous e) il y aura lieu de produire toutes justifications utiles.
 
-### Article 10
+## Article 10
 
 Si un ministre du culte protestant ou israélite décédé en activité de service
 laisse une veuve ou des enfants pouvant prétendre à une pension, l'autorité supérieure doit
@@ -163,7 +163,7 @@ l'Alsace-Lorraine.
 De plus il y a lieu d'indiquer le lieu où s'établira la veuve et la personne autorisée à
 percevoir les pensions des orphelins.
 
-### Article 11
+## Article 11
 
 Si un ministre du culte protestant ou israélite décédé dans la position de
 retraite, laisse une veuve ou des enfants pouvant prétendre à une pension, l'autorité supérieure
@@ -174,7 +174,7 @@ En ce qui concerne le paiement de la pension aux ayants cause du pensionné pour
 période du trimestre qui suit le mois de décès, les prescriptions de l'article 6 sont applicables par
 analogie.
 
-### Article 12
+## Article 12
 
 En lieu et place des extraits des registres d'état-civil à produire d'après les
 dispositions des articles 9 à 11, il suffit de présenter le livret de famille, si ce document contient

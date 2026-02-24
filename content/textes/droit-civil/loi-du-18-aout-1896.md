@@ -8,13 +8,13 @@ categories: ["Droit civil"]
 
 d'introduction du Code civil local
 
-### Article 85
+## Article 85
 
 Il n'est pas dérogé aux lois des Etats d'après lesquelles, dans le cas de l'article 45, alinéa
 3, du Code civil, les biens de l'association dissoute sont dévolus, au lieu de l'être au fisc, à une
 corporation, fondation ou institution de droit public.
 
-### Article 86
+## Article 86
 
 Sont maintenues les dispositions législatives (des Etats) qui limitent l'acquisition de
 droits par des personnes juridiques ou qui la font dépendre de l'approbation de l'Etat, en tant
@@ -24,7 +24,7 @@ accordée, elle est réputée avoir été accordée antérieurement à l'ouvertu
 elle est refusée, la personne juridique, par rapport à la dévolution, est réputée ne pas exister ; il y
 a lieu d'appliquer par analogie les dispositions de l'article 2043 du Code civil.
 
-### Article 87
+## Article 87
 
 Il n'est pas dérogé aux lois des Etats qui font dépendre de l'autorisation de l'Etat la
 validité des donations aux membres des ordres religieux et des congrégations y assimilés.

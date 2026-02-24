@@ -6,7 +6,7 @@ type_texte: "Loi"
 categories: ["Fonctionnaires"]
 ---
 
-**d'Alsace-Lorraine relative aux veuves et orphelins des fonctionnaires**
+## d'Alsace-Lorraine relative aux veuves et orphelins des fonctionnaires
 
 ### Article 1er
 

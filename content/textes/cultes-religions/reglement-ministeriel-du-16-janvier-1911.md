@@ -13,28 +13,28 @@ auprès des autorités compétentes au sujet des dispositions qui sont en vigueu
 l'ouverture de nouveaux lieux de culte. Aussi a-t-on saisi l'occasion pour rassembler les
 dispositions relatives à cette matière.
 
-**A. Prescriptions matérielles**
+## A. Prescriptions matérielles
 
 Les lieux de culte se divisent en deux groupes principaux :
 
-**I. Les lieux de culte avec (ce qu'on est convenu d'appeler) un titre légal. Ce sont :**
+## I. Les lieux de culte avec (ce qu'on est convenu d'appeler) un titre légal. Ce sont
 
 1. les églises cathédrales catholiques ou églises épiscopales ;
 2. les églises consistoriales protestantes et les synagogues consistoriales israélites ;
 3. les églises paroissiales catholiques et protestantes ainsi que les synagogues rabbiniques
-israélites ;
+   israélites ;
 4. les églises catholiques annexes (en particulier dans le sens des articles 11, 12, 13 du
-décret du 10 septembre 1807).
+   décret du 10 septembre 1807).
 
 **II. Les lieux de culte sans titre légal. Ceux-ci sont appelés « oratoires » et classés en trois
 catégories :**
 
 1. les « oratoires publics », le plus souvent appelés « chapelles de secours ». Ce sont les
-églises succursales ordinaires qui se rencontrent dans tous les cultes (églises filiales, synagogues
-filiales).
+   églises succursales ordinaires qui se rencontrent dans tous les cultes (églises filiales, synagogues
+   filiales).
 2. les « oratoires particuliers ». Ce sont les églises et les chapelles d'institutions et
-d'établissements. Les établissements et les associations qui peuvent avoir des églises et des
-chapelles propres sont énumérés dans le décret du 22 décembre 1812.
+   d'établissements. Les établissements et les associations qui peuvent avoir des églises et des
+   chapelles propres sont énumérés dans le décret du 22 décembre 1812.
 3. les « oratoires domestiques (chapelles domestiques) ». Ce sont les chapelles privées.
 
 D'après les dispositions du droit public ecclésiastique en vigueur en Alsace-Lorraine (voir
@@ -89,9 +89,9 @@ lorsqu'un tel lieu de culte doit être :
 
 * soit nouvellement créé ;
 * soit transféré d'un endroit situé en dehors des limites de lieu désigné dans
-l'autorisation d'ouverture ;
+  l'autorisation d'ouverture ;
 * ou bien transformé en un « oratoire » d'un genre différent (de celui qui est désigné
-dans l'autorisation d'ouverture).
+  dans l'autorisation d'ouverture).
 
 Par contre, une église cathédrale, une église consistoriale (une synagogue consistoriale),
 une église paroissiale (une synagogue rabbinique) ou une église annexe catholique peut être
@@ -117,7 +117,7 @@ la délivrance d'une autorisation de l'Etat ne saurait se poser. Toutefois, dans
 Ministère se réserve le droit d'autoriser de telles congrégations, au moyen d'une décision de
 tolérance, à avoir des églises et des chapelles particulières.
 
-**B. Prescriptions formelles**
+## B. Prescriptions formelles
 
 En ce qui concerne l'érection de lieux de culte avec un titre légal, en particulier la
 création de paroisses, de rabbinats et d'annexes, il existe des prescriptions spéciales de procédure
@@ -134,23 +134,23 @@ d'établissement d'un tel lieu de culte, de rendre de façon appropriée les int
 nécessité de l'obtention préalable de l'autorisation de l'Etat. Pour le reste, il y a lieu de
 distinguer :
 
-**I. Eglises filiales**
+## I. Eglises filiales
 
 La demande en vue de l'obtention de l'autorisation d'ouverture d'un oratoire public est à
 formuler :
 
 * par le conseil de fabrique de l'église paroissiale lorsqu'il s'agit d'une église filiale
-catholique ;
+  catholique ;
 * par le consistoire, s'il s'agit d'une église filiale protestante ;
 * par le consistoire départemental, s'il s'agit d'une synagogue filiale.
 
 Il y a lieu d'annexer à la demande :
 
 1. la justification que le bâtiment cultuel existant ou à construire appartient ou
-appartiendra à la commune civile ou à la communauté de fidèles de la circonscription dans
-laquelle il se trouve ou se trouvera ;
+   appartiendra à la commune civile ou à la communauté de fidèles de la circonscription dans
+   laquelle il se trouve ou se trouvera ;
 2. un devis estimatif des frais à prévoir pour l'équipement du bâtiment, la célébration du
-service religieux dans celui-ci et l'entretien de l'immeuble et du mobilier ;
+   service religieux dans celui-ci et l'entretien de l'immeuble et du mobilier ;
 3. un exposé sur les moyens avec lesquels les frais désignés sous 2 seront couverts.
 
 La demande est à munir de l'avis de l'autorité épiscopale lorsqu'il s'agit d'églises filiales
@@ -159,7 +159,7 @@ d'Augsbourg.
 
 En plus sont nécessaires l'avis du conseil municipal, du sous-préfet et du préfet.
 
-**II. Eglises d'établissements et chapelles domestiques**
+## II. Eglises d'établissements et chapelles domestiques
 
 La demande tendant à la délivrance de l'autorisation d'ouverture d'une église dans un
 établissement ou une chapelle domestique est à présenter :
@@ -172,7 +172,7 @@ Il y a lieu de joindre à la demande :
 
 * pour une église d'établissement, une délibération du conseil d'administration ;
 * pour une chapelle domestique, un mémoire du propriétaire de la maison exposant les
-circonstances à prendre en considération.
+  circonstances à prendre en considération.
 
 Le maire, le sous-préfet et le préfet doivent revêtir cette demande de leur avis.
 

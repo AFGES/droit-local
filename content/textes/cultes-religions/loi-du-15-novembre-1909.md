@@ -9,19 +9,20 @@ categories: ["Cultes et religions"]
 relative aux traitements et pensions des ministres des cultes rétribués par l'État
 et de leurs veuves et orphelins
 
-### Article 1er
+## Article 1er
 
 Les vicaires généraux, chanoines, curés et desservants du culte catholique reçoivent, sur la Caisse d'Alsace-Lorraine, les traitements ci-après :
 
 I. Vicaires généraux …………………………..................................................4 600 marks.
 II. Chanoines.......................................................................................................3 800
 III. Curés:
+
 1. Jusqu'à 45 ans révolus ..................................................................2 100
 2. De 45 à 50 ans révolus ................................................................... 2 300
 3. De 50 à 55 ans révolus ................................................................... 2 400
 4. De 55 à 60 ans révolus ................................................................... 2 500
 5. Après 60 ans.................................................................................... 2 600
-IV. Desservants:
+   IV. Desservants:
 6. Jusqu'à 40 ans révolus .................................................................... 1 700
 7. De 40 à 50 ans révolus ....................................................................1 800
 8. De 50 à 60 ans révolus ....................................................................2 000
@@ -29,15 +30,15 @@ IV. Desservants:
 
 La distribution des curés en curés de 1ère classe et curés de 2ème classe est supprimée.
 
-### Article 2
+## Article 2
 
 Les remplaçants catholiques appelés à administrer une cure ou succursale lorsque le curé ou desservant est empêché d'exercer son ministère par suite de maladie, de suspension temporaire ou pour toute autre cause, reçoivent un traitement correspondant à leur âge, à savoir le traitement d'un curé, si, avant leur installation comme remplaçants, ils touchaient déjà comme curés un traitement de l'État en Alsace-Lorraine, et celui d'un desservant dans tous les autres cas.
 
-### Article 3
+## Article 3
 
 Les chapelains des chapelles paroissiales catholiques reçoivent sur la Caisse d'Alsace-Lorraine une allocation de 900 marks.
 
-### Article 4
+## Article 4
 
 La part qui incombe aux fabriques des églises ou aux communes dans le traitement des vicaires catholiques s'élève, dans les communes de moins de 25 000 habitants, à 600 marks au moins et, dans les autres, à 100 marks au moins.
 
@@ -45,7 +46,7 @@ Les vicaires nommés à titre définitif, dont l'emploi est prévu au budget d'A
 
 Un supplément de traitement de 600 marks pourra être accordé par le Ministère aux vicaires qui ont été adjoints à des curés ou desservants âgés ou infirmes pour les assister dans l'exercice de leur ministère.
 
-### Article 5
+## Article 5
 
 Les pasteurs protestants reçoivent sur la Caisse d'Alsace-Lorraine les traitements ci-après:
 
@@ -61,14 +62,15 @@ Les pasteurs protestants reçoivent sur la Caisse d'Alsace-Lorraine les traiteme
 
 Les ministres auxiliaires protestants dont l'emploi est prévu au budget reçoivent, sur la Caisse d'Alsace-Lorraine, un traitement de 2 200 marks.
 
-### Article 6
+## Article 6
 
 Les grands rabbins et rabbins reçoivent, sur la Caisse d'Alsace-Lorraine, les traitements ci-après:
 
 I. Grands rabbins :
+
 1. Jusqu'à 6 années de service..............................................................4 000 marks.
 2. Après 6 années de service ...............................................................4 400
-II. Rabbins :
+   II. Rabbins :
 3. Jusqu'à 3 années de service ............................................................ 2 000
 4. De 3 à 6 années de service ............................................................. 2 200
 5. De 6 à 9 ......................................................................................... 2 400
@@ -79,7 +81,7 @@ II. Rabbins :
 10. De 21 à 24....................................................................................... 3 300
 11. Au-delà de 24 années de service...................................................... 3 400
 
-### Article 7
+## Article 7
 
 Les traitements, allocations et suppléments de traitement sont payés par trimestre et d'avance.
 
@@ -89,15 +91,15 @@ Le droit au traitement est suspendu lorsque le ministre du culte est provisoirem
 
 Lorsque le droit au traitement est suspendu, le Ministère peut décider que le traitement, l'allocation ou le supplément continuera à être payé en tout ou en partie et qu'il n'y a pas lieu de faire restituer les sommes touchées l'avance.
 
-### Article 8
+## Article 8
 
 Une ordonnance du Statthalter arrêtera les dispositions relatives à l'ancienneté de traitement des ministres du culte protestant et du culte israélite.
 
-### Article 9
+## Article 9
 
 Les dispositions relatives au payement du trimestre de grâce édictées pour les fonctionnaires d'Alsace-Lorraine s'appliquent par analogie aux traitements des ministres du culte désignés aux articles 1er à 6. Le Ministre déterminera les personnes auxquelles le trimestre de grâce sera payé.
 
-### Article 10
+## Article 10
 
 Les ministres du culte désignés aux articles 1er à 6 reçoivent une pension sur la Caisse d'Alsace-Lorraine conformément aux dispositions en vigueur pour les fonctionnaires d'Alsace-Lorraine, lorsqu'après dix années au moins de service, ils deviennent d'une façon durable par suite d'une infirmité corporelle ou de l'affaiblissement de leurs facultés physiques ou intellectuelles incapables d'exercer leur ministère et sont pour cette raison mis à la retraite. Les dispositions des articles 36, 39 de la loi sur le statut des fonctionnaires d'Empire seront appliquées par analogie avec cette différence que, dans le cas de l'article 39, il appartient au Ministère d'accorder la pension.
 
@@ -111,11 +113,11 @@ Le Ministère peut, après avis des supérieurs de l'intéressé, laisser à un 
 
 Les dispositions relatives au payement des pensions des fonctionnaires pour le trimestre qui suit le mois du décès (art. 69 de la loi sur le statut des fonctionnaires) seront appliquées par analogie.
 
-### Article 11
+## Article 11
 
 Les veuves et les enfants légitimes ou légitimés des ministres du culte protestant et du culte israélite désignés aux articles 5, 6, reçoivent des pensions sur la Caisse d'Alsace-Lorraine, conformément aux dispositions applicables aux veuves et orphelins des fonctionnaires d'Alsace-Lorraine.
 
-### Article 12
+## Article 12
 
 Sont abrogées les dispositions en vigueur relatives aux traitements et pensions des ministres des cultes, en tant qu'elles ont trait aux ministres des cultes visés par la présente loi ainsi qu'à leurs veuves et orphelins.
 
@@ -147,14 +149,14 @@ Les dispositions de l'article 3 de la loi du 13 mai 1884 resteront en vigueur po
 
 Le payement des pensions dues en vertu de la loi du 6 juillet 1901 sera assuré de la même manière que celui des pensions dues en vertu de la présente loi aux ministres du culte et à leurs veuves et orphelins.
 
-### Article 13
+## Article 13
 
 Restent en vigueur les dispositions d'après lesquelles il y a lieu d'imputer sur le traitement accordé par l'État aux ministres des cultes les revenus des biens d'établissements ou corporations ecclésiastiques ou autres revenus.
 
-### Article 14
+## Article 14
 
 La présente loi entrera en vigueur le 1er avril 1910. Les dispositions relatives aux pensions s'appliqueront de ce jour également aux ministres des cultes mis à la retraite entre la date de la publication de cette loi et le 31 mars 1910, ainsi qu'aux veuves et orphelins des ministres du culte protestant et du culte israélite mis à la retraite ou décédés en service durant cette période. Pour le calcul de la pension il y a lieu de procéder comme si la présente loi avait déjà été en vigueur lors de la mise à la retraite ou de la mort de l'ecclésiastique.
 
 Les mesures d'exécution seront édictées par le Ministère.
 
-### Article 15
+## Article 15

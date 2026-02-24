@@ -6,7 +6,7 @@ type_texte: "Loi"
 categories: ["Administration"]
 ---
 
-**I. Droit d'association**
+## I. Droit d'association
 
 ### Article 1er
 
@@ -43,7 +43,7 @@ L'arrêté de dissolution doit être signé par écrit au comité et dûment mot
 
 Le comité peut interjeter appel de cet arrêt auprès du Conseil impérial dans un délai de quinze jours à partir du jour qui suit la notification.
 
-**II. Droit de réunion**
+## II. Droit de réunion
 
 ### Article 9
 
@@ -80,11 +80,12 @@ Le droit des autorités d'empêcher ou de dissoudre des réunions qui sont défe
 
 Les droits de la police locale concernant le maintien de l'ordre et de la sécurité dans des endroits publics ne sont pas touchés par les dispositions de la présente loi.
 
-**III. Dispositions pénales et transitoires**
+## III. Dispositions pénales et transitoires
 
 ### Article 18
 
 Sera puni d'une amende jusqu'à concurrence de 50 marks ou jusqu'à dix jours d'arrêts :
+
 1. Celui qui, en sa qualité de président d'une association ou de membre d'un comité a négligé de faire les déclarations prescrites à l'article 3 alinéa 1er ;
 2. celui qui, en sa qualité de président d'une association ou de membre d'un comité a négligé de faire les déclarations prescrites à l'article 3, alinéa 1er, 2° celui qui, en sa qualité de président d'une association ou de membre d'un Comité, a négligé malgré les sommations répétées, de remettre la liste prescrite des membres (§ 3, alinéa 4) ;
 3. Celui qui enfreint les prescriptions de l'article 4 relatives aux uniformes, drapeaux et insignes ou celles de l'article 5 relative à la langue des affaires de l'association ;
@@ -102,9 +103,10 @@ l. Celui qui continue à être membre d'une association dissoute conformément �
 ### Article 20
 
 Sera puni d'une amende jusqu'à concurrence de 300 marks ou à l'emprisonnement pouvant aller jusqu'à trois mois :
+
 1. Celui qui tient une réunion interdite en vertu de l'article 12 ou y assiste ;
 2. Celui qui assiste armé à une réunion publique sans y avoir le droit, contrairement à la prescription de l'article 11, .alinéa 1 ;
-3 Celui qui, contrairement à l'article 16 alinéa 3, ne se retire pas aussitôt après la dissolution de la réunion.
+   3 Celui qui, contrairement à l'article 16 alinéa 3, ne se retire pas aussitôt après la dissolution de la réunion.
 
 ### Article 21
 

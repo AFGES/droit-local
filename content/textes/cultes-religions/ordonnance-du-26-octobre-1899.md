@@ -16,23 +16,23 @@ Ordonnons au nom de l'Empire, en exécution des articles 15 et 33 des articles o
 
 § 2. - Les Consistoires de l'Eglise Réformée comprennent les circonscriptions suivantes :
 
-**1. Le Consistoire de Strasbourg**
+## 1. Le Consistoire de Strasbourg
 
 L'arrondissement de Strasbourg-Ville ainsi que toutes les communes de l'arrondissement d'Erstein, Molsheim, Sélestat et Saverne et les cantons de Hochfelden, Schiltigheim et Truchtersheim avec les paroisses Strasbourg (2 postes), Altwiller, Asswiller, Burbach, Diedendorf, Hohwald, Cosswiller et Rauwiller ;
 
-**2. Le Consistoire de Bischwiller**
+## 2. Le Consistoire de Bischwiller
 
 Toutes les communes de l'arrondissement de Haguenau et Wissembourg et du canton de Brumath avec les paroisses Bischwiller (2 postes) Hunspach, Oléebourg Oberseebach et Steinzeltz ;
 
-**3. Le Consistoire de Sainte-Marie-aux-Mines**
+## 3. Le Consistoire de Sainte-Marie-aux-Mines
 
 Toutes les communes de l'arrondissement Ribeauvillé et du canton d'Andolsheim avec les paroisses Sainte-Marie-aux-Mines (2 postes) ;
 
-**4. Le Consistoire de Metz**
+## 4. Le Consistoire de Metz
 
 Toutes les communes du département de la Moselle avec les paroisses de Metz (3 postes), Ars, Audun-le-Tiche, Thionville, Dieuze, Hayange, Hellering, Courcelles-Chaussy, Lixheim et Surrebourg ;
 
-**5. Le Consistoire de Mulhouse**
+## 5. Le Consistoire de Mulhouse
 
 Toutes les communes du département du Haut-Rhin qui ne sont pas comprises dans la circonscription de Sainte-Marie-aux-Mines avec les paroisses Mulhouse (7 postes), Altkirch, Guebwiller, Illzach, Saint-Louis, Cernay et Thann.
 

@@ -9,7 +9,7 @@ categories: ["Droit civil"]
 portant des restrictions à la liberté de construire
 dans les nouveaux quartiers de la ville de Strasbourg
 
-### Article 4
+## Article 4
 
 Les propriétaires riverains d'une voie sont tenus, en proportion de la longueur de la
 façade de leurs terrains, de supporter, outre le prix du terrain nécessaire pour la voie, les frais du
@@ -27,4 +27,4 @@ que des bâtiments y sont élevés.
 Le recouvrement a lieu comme en matière de contributions communales directes.
 
 [^1]: Le texte allemand porte par erreur 30 septembre. Il ne peut s'agir que de la loi du 16 septembre 1807
-relative au dessèchement des marais, dont l'article 30 contient le principe d'une indemnité pour plus-value.
+    relative au dessèchement des marais, dont l'article 30 contient le principe d'une indemnité pour plus-value.

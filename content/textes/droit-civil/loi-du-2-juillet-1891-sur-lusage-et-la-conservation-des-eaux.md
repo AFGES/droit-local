@@ -6,9 +6,9 @@ type_texte: "Loi"
 categories: ["Droit civil"]
 ---
 
-**I. De l'usage des eaux**
+## I. De l'usage des eaux
 
-**A. De l'autorisation**
+## A. De l'autorisation
 
 ### Article 1
 
@@ -49,7 +49,7 @@ Il en est de même pour les cours d'eau non navigables ni flottables lorsque le 
 Toute demande d'indemnité doit, à peine de forclusion, être présentée dans l'année qui suivra la réalisation du nouvel état de fait correspondant aux injonctions de l'administration.
 A défaut d'accord amiable, l'administration statue sur le bien-fondé et le chiffre de l'indemnité, les intéressés entendus. Contre la décision de l'administration, la voie judiciaire est ouverte au demandeur ; l'action devra être intentée à peine de forclusion, dans les six mois qui suivront la remise à l'intéressé de la décision administrative.
 
-**B. Du repère.**
+## B. Du repère
 
 ### Article 7
 
@@ -63,7 +63,7 @@ Les repères ne pourront être modifiés, remplacés, réparés ou consolidés, 
 Lorsqu'un repère est endommagé, le chef de l'exploitation est tenu d'en aviser dans les quatorze jours le service qui a donné l'autorisation et ensuite de pourvoir à la remise en état conformément aux instructions du service.
 Le propriétaire est tenu de veiller· à ce que le repère reste accessible et visible.
 
-**C. De la distribution des eaux.**
+## C. De la distribution des eaux
 
 Le partage des eaux entre les divers riverains ayant droit à l'irrigation, ou entre ces derniers d'une part et les usiniers et autres usagers d'autre part, a lieu conformément aux usages locaux ou règlements existants.
 A défaut, si l'intérêt public l'exige, la distribution des eaux est réglée par une ordonnance du Statthalter.
@@ -75,17 +75,18 @@ Toute réglementation nouvelle doit être précédée d'une enquête dont les fo
 L'autorité administrative édictera les mesures nécessaires pour l'application des usages locaux ou des règlements. Dans ces mesures sont comprises également les dispositions nécessaires pour la répartition des frais éventuels entre les intéressés.
 En ce qui concerne le recouvrement de ces frais et les voies recours contre leur répartition, on appliquera les dispositions relatives aux impôts directs.
 
-**D. Obligations spécialement imposées aux propriétaires riverains.**
+## D. Obligations spécialement imposées aux propriétaires riverains
 
 ### Article 11
 
 Tout propriétaire qui, pour l'irrigation de ses terres, voudra amener des eaux dont il a le droit ou l'autorisation de disposer peut obliger les propriétaires des fonds intermédiaires à supporter, contre juste et préalable indemnité, les travaux pour la conduite de l'eau. Le domaine public de l'État n'est pas soumis à cette servitude.
 Pour que l'exercice de cette servitude puisse être invoqué, il faut :
+
 1. Que les travaux soient de nature à procurer un avantage important au point de vue agricole ;
 2. Que le dommage subi par les propriétaires des fonds intermédiaires ne soit pas hors de proportion avec l'avantage que les travaux d'irrigation sont susceptibles de procurer ;
-3 Que l'irrigation ne puisse être obtenue utilement d'une autre manière ;
-4 Que sur le tracé des travaux projetés il n'y ait pas de bâtiments, cours, jardins, parcs ou autres enclos attenant aux habitations.
-Le même droit appartient aux associations syndicales créées en vertu de la loi du 21 juin 1865 et de la loi du 11 mai 1877, qui ont besoin d'amener l'eau pour l'irrigation des propriétés de leurs membres.
+   3 Que l'irrigation ne puisse être obtenue utilement d'une autre manière ;
+   4 Que sur le tracé des travaux projetés il n'y ait pas de bâtiments, cours, jardins, parcs ou autres enclos attenant aux habitations.
+   Le même droit appartient aux associations syndicales créées en vertu de la loi du 21 juin 1865 et de la loi du 11 mai 1877, qui ont besoin d'amener l'eau pour l'irrigation des propriétés de leurs membres.
 
 ### Article 12
 
@@ -123,17 +124,17 @@ Le long des cours d'eau actuellement déclarés navigables et flottables, les pr
 Les mêmes principes sont applicables dans les cas où un cours d'eau non navigable ni flottable d'après les ordonnances souveraines actuellement en vigueur serait dans la suite déclaré navigable ou flottable; il en sera de même lorsque le halage des bateaux sera établi le long d'une rive sur laquelle il n'avait pas été précédemment en usage.
 Dans tous les cas, le propriétaire riverain aura droit à une indemnité; les demandes d'indemnité tombent sous l'application de l'article 6.
 
-**Procédure d'expropriation.**
+## Procédure d'expropriation
 
 ### Article 20
 
 Toutes les fois qu'une procédure d'expropriation sera motivée par des entreprises d'irrigation ou de drainage, il sera procédé à la fixation de l'indemnité conformément à l'article 16 de la loi du 21 mai 1836 sur les chemins vicinaux, alors même que l'entreprise serait poursuivie par d'autres associations que les associations syndicales autorisées (art 18 de la loi du 21 juin 1865)
 
-**II. DE LA CONSERVATION DES COURS D'EAU.**
+## II. DE LA CONSERVATION DES COURS D'EAU
 
-**A. De l'entretien des cours d'eau.**
+## A. De l'entretien des cours d'eau
 
-**1 ° Généralités.**
+## 1 ° Généralités
 
 ### Article 21
 
@@ -142,6 +143,7 @@ L'obligation d'entretien d'un cours d'eau comprend le curage du lit (enlèvement
 ### Article 22
 
 L'obligation d'entretien des cours d'eau non navigables ni flottables incombe en commun :
+
 1. Aux propriétaires fonciers dont cet entretien protège les terrains contre l'érosion, l'inondation ou l'infiltration des eaux;
 2. Aux particuliers et associations qui utilisent l'eau comme force motrice ou à d'autres buts pour une entreprise de caractère durable
 
@@ -184,7 +186,7 @@ Les riverains sont tenus de donner passage sur leurs terres pour les travaux de 
 Les riverains sont en outre tenus de supporter, moyennant indemnité, le dépôt momentané sur leurs fonds des matériaux nécessaires à l'entretien de rives. Les dispositions de l'article 6 de la présente loi sont applicables à la demande d'indemnité.
 L'autorité compétente peut imposer aux usiniers l'arrêt sans indemnité de leurs machines hydrauliques, lorsque cette mesure est indispensable pour l'exécution des travaux d'entretien.
 
-**2. Des associations syndicales pour les travaux à exécuter sur les cours d'eau**
+## 2. Des associations syndicales pour les travaux à exécuter sur les cours d'eau
 
 ### Article 30
 
@@ -198,6 +200,7 @@ Les associations syndicales peuvent, en leur nom propre, acquérir des droits et
 ### Article 32
 
 L'arrêté qui crée une association syndicale doit régler les points suivants :
+
 1. L'objet de l'entreprise ;
 2. La délimitation du territoire auquel s'étend l'association ;
 3. Le mode de répartition des frais ;
@@ -206,7 +209,7 @@ L'arrêté qui crée une association syndicale doit régler les points suivants 
 6. La comptabilité et la désignation de l'autorité compétente pour rendre exécutoires les rôles de répartition ;
 7. La part de collaboration et de surveillance qui appartiendra à l'autorité administrative dans les affaires de l'association ;
 8. Les restrictions au droit de propriété à imposer éventuellement aux propriétaires sur leurs fonds dans ou hors le territoire auquel s'étend l'association.
-Le projet d'arrêté, avec les plans y relatifs, fera l'objet d'une enquête. La forme en sera réglée par le règlement d'exécution. Les contestations relatives à la question de savoir si un terrain fait partie du territoire le l'association sont portées devant le conseil de district et, en deuxième instance, devant le conseil impérial.
+   Le projet d'arrêté, avec les plans y relatifs, fera l'objet d'une enquête. La forme en sera réglée par le règlement d'exécution. Les contestations relatives à la question de savoir si un terrain fait partie du territoire le l'association sont portées devant le conseil de district et, en deuxième instance, devant le conseil impérial.
 
 ### Article 33
 
@@ -217,7 +220,7 @@ L'obligation de les supporter se transmet à tout nouvel acquéreur d'un fonds, 
 
 Pour les expropriations forcées devenues nécessaires dans l'intérêt d'une association syndicale, on appliquera, en ce qui concerne les formes de la procédure pour une fixation de l'indemnité, l'article 16 de la loi du 21 mai 1836 sur les chemins vicinaux.
 
-**B Des mesures destinées à assurer l'écoulement des eaux**
+## B Des mesures destinées à assurer l'écoulement des eaux
 
 ### Article 35
 
@@ -231,13 +234,14 @@ En cas de non-exécution, l'arrêt des machines hydrauliques pourra être ordonn
 ### Article 37
 
 A moins d'autorisation administrative préalable, il est interdit :
+
 1. De faire des travaux sur les rives, d'élever toutes autres constructions sur els rives, dans le lit ou au-dessus d'un cours d'eau, ou d'y construire des ponts ;
 2. De modifier les ouvrages de cette nature déjà établis ;
 3. De déposer des pierres, déblais ou terres et de planter dans un cours d'eau des arbres ou arbustes.
-Un règlement d'exécution fixera les formes dans lesquelles l'autorisation pourra être accordée.
-En cas de désaccord, il appartient à l'administration de délimiter les rives du cours d'eau au sens du n° 1 du présent article.
+   Un règlement d'exécution fixera les formes dans lesquelles l'autorisation pourra être accordée.
+   En cas de désaccord, il appartient à l'administration de délimiter les rives du cours d'eau au sens du n° 1 du présent article.
 
-**C Dispositions spéciales pour le Rhin**
+## C Dispositions spéciales pour le Rhin
 
 ### Article 38
 
@@ -259,7 +263,7 @@ Le service des secours pourra être organisé d'avance; les dispositions de dét
 Dans la zone menacée par les inondations du Rhin, les propriétaires sont obligés de supporter sur leurs fonds la construction ou le renforcement de digues d'inondation par l'État, l'extraction des matériaux nécessaires pour exécuter, améliorer et entretenir ces ouvrages, le dépôt et le charroi des matériaux, le passage des ouvriers employés aux travaux, le tout contre indemnité. L'article 6 sera appliqué par analogie en ce qui concerne la fixation de cette indemnité.
 Le ministère peut édicter des prescriptions pour la protection des ouvrages de correction et des digues d'inondation, Il peut notamment limiter l'usage des digues et de leurs talus ainsi que l'usage d'une bande de protection d'une largeur de deux mètres au plus le long de ces ouvrages
 
-**III Infractions aux dispositions relatives à l'usage et à la conservation des eaux**
+## III Infractions aux dispositions relatives à l'usage et à la conservation des eaux
 
 ### Article 42
 
@@ -274,6 +278,7 @@ Sera puni d'une amende de 150 marks au plus ou à de la détention simple, à mo
 ### Article 44
 
 Sera puni d'une amende de 150 marks au plus, à moins que d'autres dispositions ne soient applicables en vertu du droit pénal commun :
+
 1. Quiconque, de sa propre autorité, aura modifié un repère (art.7) ou quiconque aura, sans autorisation, remplacé, réparé ou consolide un repère endommagé ;
 2. Quiconque, aura contrevenu aux prescriptions concernant la liberté du chemin de halage (art. ,8 et 9);
 3. Quiconque, contrairement aux dispositions des articles 37 et 39, et des arrêtés rendus en conformité de l'article 32, n° 8, aura, sans autorisation, ou en ne se conformant pas aux conditions de l'autorisation, procédé à des travaux de la nature de ceux qui sont visés dans lesdits articles pas aux prescriptions et règlements rendus en conformité des articles 40, alinéa 3, et 41 alinéa 2.
@@ -281,6 +286,7 @@ Sera puni d'une amende de 150 marks au plus, à moins que d'autres dispositions 
 ### Article 45
 
 Sera puni d'une amende jusqu'à 60 marks, à moins qu'en vertu d'autres lois pénales une peine plus sévère ne soit encourue:
+
 1. Quiconque, contrairement à l'article 3, aura, sans permission ou en ne se conformant pas aux conditions de la permission, fait un des actes d'usage prévus dans cet article;
 2. Quiconque, intentionnellement, aura pris des dispositions en vue d'empêcher ou d'entraver l'accès d'un repère ;
 3. Quiconque aura omis d'aviser l'autorité, conformément à l'article 8, alinéa 2, que le repère est endommagé.
@@ -295,7 +301,7 @@ Les ouvrages entrepris contrairement aux prescriptions de la présente loi ou ma
 En cas de contestation sur la question de savoir si un ouvrage est contraire aux prescriptions de la loi, il est loisible aux intéressés dans les deux semaines à compter du jour de la sommation, de former une opposition devant le conseil de district; contre la décision de ce conseil un recours est ouvert devant le Conseil impérial.
 L'opposition et le recours ont un effet suspensif; toutefois l'administration peut, le cas échéant, si l'intérêt général ou un intérêt important se trouve menacé, ordonner des mesures préventives provisoires.
 
-**IV Dispositions générales et finales**
+## IV Dispositions générales et finales
 
 ### Article 48
 
@@ -313,11 +319,12 @@ Dans les autres cas de déplacement du lit d'un cours d'eau, le ministère peut 
 ### Article 51
 
 Les dispositions actuellement en vigueur sur l'usage et la conservation des cours d'eau en tant qu'elles concernent les matières réglées par la présente loi sont abrogées. Ne sont pas modifiées :
+
 1. Les prescriptions spéciales relatives au Rhin, ainsi que les règlements et ordonnances rendus spécialement pour certains cours d'eau, qui, dans le but de régler l'usage de l'eau et d'assurer la protection contre l'eau imposent des restrictions plus étendues ;
 2. Les prescriptions spéciales en vigueur en ce qui concerne le desséchement et l'utilisation des marais ;
 3. Les dispositions existantes concernant les sources d'eaux minérales ;
 4. Les dispositions de la loi du 21 juin 1865 sur les associations et des lois complémentaires postérieures sur la même matière ;
-5 Les dispositions légales sur les indemnités de chômage qui peuvent être dues aux usiniers pour le passage des bateaux ou trains d'eau ;
+   5 Les dispositions légales sur les indemnités de chômage qui peuvent être dues aux usiniers pour le passage des bateaux ou trains d'eau ;
 5. Les articles 30 et 31 de la loi du 9 juillet 1888 sur la police rurale.
 
 ### Article 52

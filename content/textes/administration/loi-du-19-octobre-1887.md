@@ -6,6 +6,6 @@ type_texte: "Loi"
 categories: ["Administration"]
 ---
 
-**sur les jours fériés légaux**
+## sur les jours fériés légaux
 
 En dehors des jours fériés légaux, à savoir Noël, le jour de l'An, l'Ascension, l'Assomption et la Toussaint, sont à considérer comme jours fériés et chômés au sens du Code de procédure civile et de la loi sur l'enregistrement du 22 frimaire an VII, le Vendredi-Saint, le lundi de Pâques et le lundi de Pentecôte.

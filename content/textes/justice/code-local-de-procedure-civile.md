@@ -8,17 +8,11 @@ categories: ["Justice"]
 
 du 30 janvier 1877
 
-**LIVRE 1er**
+## LIVRE 1er - DISPOSITIONS GÉNÉRALES
 
-**DISPOSITIONS GÉNÉRALES**
+### SECTION 1 - DES TRIBUNAUX
 
-**SECTION 1**
-
-**DES TRIBUNAUX**
-
-**TITRE 1**
-
-**DE LA COMPÉTENCE D'ATTRIBUTION DES TRIBUNAUX**
+#### TITRE 1 - DE LA COMPÉTENCE D'ATTRIBUTION DES TRIBUNAUX
 
 ### Article 3
 
@@ -72,13 +66,9 @@ Par vingt-cinq, lorsque la durée du droit est indéfinie ou dès à présent fi
 droit dont la durée est limitée par un délai fixe, on prend pour base le montant cumulé des
 annuités à échoir, s'il est inférieur au chiffre résultant de la règle qui précède.
 
-**SECTION II**
+### SECTION II - DES PARTIES
 
-**DES PARTIES**
-
-**TITRE 1er**
-
-**DE LA CAPACITÉ D'ÊTRE PARTIE. DE LA CAPACITÉ D'ESTER EN JUSTICE**
+#### TITRE 1er - DE LA CAPACITÉ D'ÊTRE PARTIE. DE LA CAPACITÉ D'ESTER EN JUSTICE
 
 ### Article 50
 
@@ -88,9 +78,7 @@ Une association qui n'est pas capable quant à la jouissance des droits peut êt
 dans ce cas, elle a au procès la situation d'une association capable quant à la jouissance des
 droits.
 
-**TITRE V**
-
-**DES DÉPENS**
+#### TITRE V - DES DÉPENS
 
 ### Article 91
 
@@ -171,17 +159,11 @@ résolution qui fixe la valeur de l'objet du litige.
 
 On appliquera les prescriptions de l'article 104, alinéa 3.
 
-**LIVRE II**
+## LIVRE II - DE LA PROCÉDURE DE PREMIÈRE INSTANCE
 
-**DE LA PROCÉDURE DE PREMIÈRE INSTANCE**
+### SECTION 1 - DE LA PROCÉDURE DEVANT LES TRIBUNAUX RÉGIONAUX
 
-**SECTION 1**
-
-**DE LA PROCÉDURE DEVANT LES TRIBUNAUX RÉGIONAUX**
-
-**TITRE 1er**
-
-**DE LA PROCÉDURE JUSQU'AU JUGEMENT**
+#### TITRE 1er - DE LA PROCÉDURE JUSQU'AU JUGEMENT
 
 ### Article 256
 
@@ -197,9 +179,7 @@ demande en évacuation d'un fonds, d'une habitation ou d'un autre local ne peuve
 réclamées qu'à l'échéance d'une certaine date du calendrier, il peut être formé une demande en
 payement ou en évacuation futurs.
 
-**LIVRE V**
-
-**DE LA PROCÉDURE SUR TITRES OU LETTRES DE CHANGE ET BILLETS À ORDRE**
+## LIVRE V - DE LA PROCÉDURE SUR TITRES OU LETTRES DE CHANGE ET BILLETS À ORDRE
 
 ### Article 592
 
@@ -333,13 +313,9 @@ preuve pour établir que la lettre a été présenté.
 Pour qu'une créance accessoire soit prise en considération, il suffit qu'elle soit rendue
 vraisemblable.
 
-**LIVRE VIII**
+## LIVRE VIII - DE L'EXÉCUTION FORCÉE
 
-**DE L'EXÉCUTION FORCÉE**
-
-**SECTION I**
-
-**DISPOSITIONS GÉNÉRALES**
+### SECTION I - DISPOSITIONS GÉNÉRALES
 
 ### Article 797
 
@@ -362,13 +338,9 @@ créancier, la signification des actes authentiques ou authentiquement certifié
 qualité de l'ayant cause n'est pas nécessaire, quand celui-ci est inscrit comme créancier au livre
 foncier.
 
-**SECTION II**
+### SECTION II - DE L'EXÉCUTION FORCÉE POUR DES CRÉANCES D'ARGENT
 
-**DE L'EXÉCUTION FORCÉE POUR DES CRÉANCES D'ARGENT**
-
-**TITRE II**
-
-**DE L'EXÉCUTION FORCÉE SUR LES IMMEUBLES**
+#### TITRE II - DE L'EXÉCUTION FORCÉE SUR LES IMMEUBLES
 
 ### Article 864
 
@@ -424,9 +396,7 @@ analogie à l'exécution forcée sur un droit régi par les prescriptions relati
 L'exécution forcée sur un navire inscrit au registre des navires ne peut avoir lieu que par
 voie de la vente forcée.
 
-**LIVRE X**
-
-**DE LA PROCÉDURE ARBITRALE**
+## LIVRE X - DE LA PROCÉDURE ARBITRALE
 
 ### Article 1025
 

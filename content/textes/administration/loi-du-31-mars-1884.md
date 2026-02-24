@@ -8,7 +8,7 @@ categories: ["Administration"]
 
 concernant le renouvellement du cadastre, la péréquation de l'impôt foncier et la conservation du cadastre
 
-**I. Renouvellement du cadastre**
+## I. Renouvellement du cadastre
 
 ### Article 1er
 
@@ -22,7 +22,7 @@ La direction et la surveillance des travaux sont confiées à la commission du c
 
 L'époque à laquelle les opérations de renouvellement seront engagées est portée pour chaque commune au préalable à la connaissance du public.
 
-**a) De la révision**
+## a) De la révision
 
 ### Article 3
 
@@ -112,7 +112,7 @@ Les frais d'abornement incombent, sous réserve des dispositions de l'alinéa 2 
 
 Les arpentages privés, effectués après l'entrée en vigueur de la présente loi, ne pourront être utilisés pour la révision ou la conservation du cadastre, que s'ils ont été exécutés par des personnes assermentées ayant justifié de leur capacités et obtenu l'autorisation de l'autorité compétente. Les opérations d'arpentage sont soumises à la surveillance et à la vérification de l'autorité chargée du service d'arpentage ; leurs résultats sont reportés sur le cadastre de la même manière et dans les mêmes conditions que les levés de plans effectués en vue de la conservation régulière des documents cadastraux.
 
-**b) De l'arpentage parcellaire**
+## b) De l'arpentage parcellaire
 
 ### Article 12
 
@@ -210,7 +210,7 @@ On ne peut se prévaloir des empiètements au-delà des limites indiquées sur l
 
 Les cartes reposant sur un arpentage parcellaire commencé ou terminé depuis le 1er avril 1879 jusqu'à l'entrée en vigueur de la présente loi doivent être communiquées conformément aux prescriptions de l'article 8 ; les limites indiquées sur ces cartes, en tant que ces limites demeurent contestées, y sont caractérisées comme provisoires (article 11). Les dispositions des alinéas 1 et 3 s'appliquent aux limites tracées sur la carte, et les dispositions de l'alinéa 2 à la publication relative à la communication de la carte.
 
-**III. De la conservation du cadastre**
+## III. De la conservation du cadastre
 
 ### Article 49
 
@@ -264,7 +264,7 @@ Il en est de même des extraits cadastraux, des procès-verbaux d'arpentage et d
 
 L'inscription au cadastre d'un nouveau propriétaire faite à l'occasion du renouvellement du cadastre ne peut être invoquée par l'administration de l'enregistrement comme preuve d'une mutation des immeubles en cause. La découverte par des preuves quelconques recueillies au cours des opérations de renouvellement, de mutations dont l'origine remonte à une époque antérieure au 1er décembre 1883 ne peut donner lieu à la perception d'aucun droit ni amende.
 
-**V. Dispositions finales**
+## V. Dispositions finales
 
 ### Article 61
 

@@ -16,48 +16,48 @@ Nous Guillaume, Empereur allemand par la grâce de Dieu, Roi de Prusse, Ordonnon
 
 § 3. - Les 31 rabbinats d'Alsace-Lorraine comprennent les circonscriptions suivantes :
 
-**A. Bas-Rhin.**
+## A. Bas-Rhin
 
-1) Barr
+1. Barr
 
 a. le canton de Barr à l'exception des communes d'Itterswiller et de Stotzheim,
 b. le canton de Villé.
 
-1) Bischheim
+1. Bischheim
 
 a. les communes de Bischheim, Hoenheim, Reichstett, Schiltigheim et Souffelweyersheim du canton de Schiltigheim,
 b. les communes de Gambsheim, Kilstett et La Wantzenau du canton de Brumath.
 
-1) Bischwiller
+1. Bischwiller
 
 a. le canton de Bischwiller,
 b. les communes de Gries et de Kurtzenhouse du canton de Brumath.
 
-1) Brumath
+1. Brumath
 
 a. le canton de Brumath à l'exception des communes de Gambsheim, Gries, Kilstett, Kurtzenhouse et La Wantzenau,
 b. les communes d'Alteckendorf, Bossendorf, Geiswiller, Gingsheim, Hohatzenheim, Minversheim, Mittelhausen, Mutzenhouse, Waltenheim et Wingersheim du canton de Hochfelden,
 c. les communes de Berstheim, Hochstett, Huttendorf, Morschwiller, Wahlenheim et Wittersheim du canton de Haguenau.
 
-1) Bouxwiller
+1. Bouxwiller
 
 a. le canton de Bouxwiller,
 b. les communes d'Ettendorf, Grassendorf, Issenhausen, Ringeldorf et Ringendorf du canton de Hochfelden,
 c. le canton de La Petite-Pierre à l'exception des communes de Struth et de Tieffenbach,
 d. les communes de Bitschhoffen, Kindwiller, Offwiller, Rothbach, Uberach, Uhrwiller et La Walck du canton de Niederbronn.
 
-1) Fegersheim
+1. Fegersheim
 
 a. le canton de Geispolsheim à l'exception des communes de Duppigheim, Duttlenheim, Entzheim, Holtzheim et Lingolsheim,
 b. le canton d'Erstein à l'exception des communes de Bolsenheim, Gerstheim, Osthouse, Uttenheim et Westhouse,
 c. le canton de Benfeld.
 
-1) Haguenau
+1. Haguenau
 
 a. le canton de Haguenau à l'exception des communes de Berstheim, Hochstett, Huttendorf, Morschwiller, Wahlenheim et Wittersheim,
 b. le canton de Niederbronn à l'exception des communes de Bitschhoffen, Kindwiller, Offwiller, Rothbach, Uberach, Uhrwiller et La Walck.
 
-1) Mutzig
+1. Mutzig
 
 a. le canton de Molsheim,
 b. le canton de Schirmeck,
@@ -66,105 +66,105 @@ d. le canton de Rosheim à l'exception des communes de Boersch, Ottrott et Saint
 e. les communes de Duppigheim, Duttlenheim et Entzheim du canton de Geispolsheim,
 f. les communes de Hangenbieten et de Kolbsheim du canton de Schiltigheim.
 
-1) Obernai
+1. Obernai
 
 a. le canton d'Obernai,
 b. les communes de Boersch, Ottrott et Saint-Nabor du canton de Rosheim,
 c. les communes d'Itterswiller et de Stotzheim du canton de Barr,
 d. les communes de Bolsenheim, Gerstheim, Osthouse, Uttenheim et Westhouse du canton d'Erstein.
 
-1) Sarre-Union
+1. Sarre-Union
 
 a. le canton de Sarre-Union,
 b. le canton de Drulingen,
 c. les communes de Struth et de Tieffenbach du canton de La Petite-Pierre,
 d. la commune de Sarralbe du canton de Sarralbe.
 
-1) Sélestat
+1. Sélestat
 
 a. le canton de Sélestat,
 b. le canton de Marckolsheim.
 
-1) Strasbourg
+1. Strasbourg
 
 a. la ville de Strasbourg,
 b. les communes de Holtzheim et de Lingolsheim du canton de Geispolsheim,
 c. le canton de Schiltigheim à l'exception des communes de Bischheim, Hangenbieten, Hoenheim, Kolbsheim, Reichstett, Schiltigheim et Souffelweyersheim.
 
-1) Soultz-sous-Forêts
+1. Soultz-sous-Forêts
 
 a. le canton de Soultz-sous-Forêts à l'exception des communes de Bremmelbach et de Drachenbronn,
 b. le canton de Woerth,
 c. les communes d'Aschbach, Beinheim, Buhl, Eberbach, Kesseldorf, Niederroedern, Schaffhouse, Seltz et Stundwiller du canton de Seltz.
 
-1) Wissembourg
+1. Wissembourg
 
 a. le canton de Wissembourg,
 b. le canton de Lauterbourg,
 c. les communes de Bremmelbach et de Drachenbronn du canton de Soultz-sous-Forêts,
 d. les communes de Croettwiller, Mothern, Munchhausen, Oberlauterbach, Siegen, Trimbach et Wintzenbach du canton de Seltz.
 
-1) Westhoffen
+1. Westhoffen
 
 a. le canton de Wasselonne à l'exception de la commune de Romanswiller,
 b. le canton de Truchtersheim.
 
-1) Saverne
+1. Saverne
 
 a. le canton de Saverne,
 b. le canton de Marmoutier,
 c. les communes de Duntzenheim, Friedolsheim, Hochfelden, Hohfrankenheim, Ingenheim, Lixhausen, Melsheim, Saessolsheim, Schaffhouse, Scherlenheim, Schwindratzheim, Wickersheim, Wilshausen, Wilwisheim et Zoebersdorf du canton de Hochfelden,
 d. la commune de Romanswiller du canton de Wasselonne.
 
-**B. Haut-Rhin.**
+## B. Haut-Rhin
 
-1) Altkirch
+1. Altkirch
 
 l'arrondissement d'Altkirch.
 
-1) Bollwiller
+1. Bollwiller
 
 a. le canton d'Ensisheim,
 b. le canton de Rouffach,
 c. les communes de Bollwiller, Feldkirch, Merxheim, Raedersheim et Ungersheim du canton de Soultz.
 
-1) Colmar
+1. Colmar
 
 a. le canton de Colmar,
 b. le canton d'Andolsheim à l'exception des communes de Grussenheim et de Sundhoffen.
 
-1) Dornach
+1. Dornach
 
 a. les cantons de Mulhouse-Nord et de Mulhouse-Sud à l'exception de la circonscription de Mulhouse,
 b. le canton d'Habsheim à l'exception de la commune de Riedisheim,
 c. le canton de Landser à l'exception des communes de Bartenheim, Brinckheim, Helfrantzkirch, Kappelen et Stetten.
 
-1) Guebwiller
+1. Guebwiller
 
 a. le canton de Guebwiller,
 b. le canton de Soultz à l'exception des communes de Bollwiller, Feldkirch, Merxheim, Raedersheim et Ungersheim.
 
-1) Mulhouse
+1. Mulhouse
 
 a. la circonscription de Mulhouse,
 b. la commune de Riedisheim du canton d'Habsheim.
 
-1) Ribeauvillé
+1. Ribeauvillé
 
 a. le canton de Ribeauvillé,
 b. le canton de Sainte-Marie-aux-Mines,
 c. la commune de Grussenheim du canton d'Andolsheim.
 
-1) Saint-Louis
+1. Saint-Louis
 
 a. le canton de Huningue,
 b. les communes de Bartenheim, Brinckheim, Helfrantzkirch, Kappelen et Stetten du canton de Landser.
 
-1) Thann
+1. Thann
 
 l'arrondissement de Thann.
 
-1) Wintzenheim
+1. Wintzenheim
 
 a. le canton de Wintzenheim,
 b. le canton de Munster,
@@ -173,31 +173,31 @@ d. le canton de Kaysersberg,
 e. le canton de Lapoutroie,
 f. la commune de Sundhoffen du canton d'Andolsheim.
 
-**C. Lorraine.**
+## C. Lorraine
 
-1) Thionville
+1. Thionville
 
 a. l'arrondissement de Thionville-Est,
 b. l'arrondissement de Thionville-Ouest.
 
-1) Metz
+1. Metz
 
 a. la ville de Metz,
 b. l'arrondissement de Metz,
 c. le canton de Boulay,
 d. le canton de Bouzonville.
 
-1) Morhange
+1. Morhange
 
 a. l'arrondissement de Château-Salins,
 b. le canton de Grostenquin,
 c. le canton de Faulquemont.
 
-1) Sarrebourg
+1. Sarrebourg
 
 l'arrondissement de Sarrebourg.
 
-1) Sarreguemines
+1. Sarreguemines
 
 a. l'arrondissement de Sarreguemines,
 b. le canton de Forbach,

@@ -14,11 +14,11 @@ et 61 de l'ordonnance portant règlement pour l'organisation du culte israélite
 modification de l'ordonnance du 19 mars 1910, en vue d'une nouvelle répartition des rabbinats, -
 bulletin des lois pour l'Alsace-Lorraine n° 11 -, ce qui suit :
 
-### § 1
+## § 1
 
 Le rabbinat de Mutzig est supprimé.
 
-### § 2
+## § 2
 
 Les rabbinats de Barr, Fegersheim et Obernai comprennent les circonscriptions
 suivantes :
@@ -56,11 +56,11 @@ f) les communes de Duppigheim, Duttlenheim et Entzheim du canton de Geispolsheim
 
 g) les communes de Hangenbieten et de Kolbsheim du canton de Schiltigheim.
 
-### § 3
+## § 3
 
 Cette ordonnance entre en vigueur le 1er juin 1915.
 
-### § 4
+## § 4
 
 Le ministère est chargé de l'exécution de cette ordonnance.
 

@@ -7,7 +7,22 @@
       "command": ["bunx", "@sylphx/pdf-reader-mcp"]
     }
   },
-  "permissions": {
+  "lsp": {
+    "rumdl": {
+      "command": ["rumdl", "server"],
+      "extensions": [".md"]
+    },
+    "ltex-plus": {
+      "command": ["ltex-ls-plus", "."],
+      "extensions": [".md", ".txt", ".tex"],
+      "initialization": {
+        "ltex": {
+          "language": "fr-FR",
+        }
+      }
+    }
+  },
+  "permission": {
     "pdf-reader_*": "allow"
   }
 }

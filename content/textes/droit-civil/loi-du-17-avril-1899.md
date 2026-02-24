@@ -8,11 +8,11 @@ categories: ["Droit civil"]
 
 d'application du Code civil local
 
-**Section première**
+## Section première
 
-**Dispositions relatives à la partie générale**
+## Dispositions relatives à la partie générale
 
-**Personnes juridiques**
+## Personnes juridiques
 
 Art. 7. – Lorsqu'une fondation prend fin (C. civ., art. 80), le patrimoine est dévolu aux héritiers légaux du fondateur, si l'acte de fondation ne contient pas de disposition sur l'attribution des biens.
 
@@ -26,11 +26,11 @@ Sont applicables à la surveillance de l'autorité les dispositions des articles
 
 A moins que le contraire ne résulte de l'acte de fondation ou du but de la fondation, la direction est tenue de placer les fonds appartenant à la fondation conformément aux prescriptions des articles 1806 à 1808 du Code civil et de déposer les titres au porteur avec les talons de renouvellement dans une caisse de dépôts ou à la Banque de France. Elle peut, au lieu d'en effectuer le dépôt, faire transférer les titres au nom de la fondation, ou lorsqu'il s'agit de titres émis par l'Etat, les convertir en inscriptions nominatives sur l'émetteur. Des dispositions différentes peuvent être fixées par l'autorité chargée de la surveillance.
 
-**Section troisième**
+## Section troisième
 
-**Dispositions relatives au droit des choses**
+## Dispositions relatives au droit des choses
 
-**Redevances foncières**
+## Redevances foncières
 
 Art. 75. – Un immeuble ne peut être grevé d'une redevance foncière que lorsque les prestations périodiques auxquelles s'engage l'acquéreur de l'immeuble ne doivent pas dépasser la durée de la vie de l'aliénateur ou d'un tiers (Altenteil, Leibgedinge).
 

@@ -6,7 +6,6 @@ type_texte: "Loi"
 categories: ["Enseignement"]
 ---
 
-
-### Article 4
+## Article 4
 
 La présente loi ne porte pas atteinte au droit qui, en vertu des usages établis appartient au ministre du culte de la commune de surveiller la manière dont l'enseignement religieux, en ce qui concerne ce culte, est donné à l'école.

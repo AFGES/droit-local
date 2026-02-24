@@ -9,7 +9,7 @@ categories: ["Droit pénal et urbanisme"]
 relative à l'exécution forcée pour le recouvrement des sommes d'argent
 par voie administrative
 
-### Article 16
+## Article 16
 
 Si la résidence du débiteur est inconnue, la signification peut se faire par
 affichage de la pièce à signifier à l'endroit destiné à recevoir les affiches du bureau d'exécution

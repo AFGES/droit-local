@@ -6,7 +6,7 @@ type_texte: "Ordonnance"
 categories: ["Commerce et professions"]
 ---
 
-**Dispositions générales**
+## Dispositions générales
 
 Les autorités administratives autoriseront le travail dominical pour l'art. 105 e al. 1 du code des professions dans la mesure des nécessités locales. Il n'est pas nécessaire que la réglementation soit la même pour tout l'arrondissement ; il peut y avoir des différences.
 
@@ -16,7 +16,7 @@ Certaines activités peuvent être ininterrompues sans préjudice. Dans le cas c
 
 Les travailleurs dont l'activité est décrite à l'article 105e al. 1 ne peuvent, quand il n'y a pas péril en la demeure, être employés dans les travaux de l'art. 105e al. 1 ou assimilés. Des modifications peuvent être apportées par les autorités administratives supérieures.
 
-**Utilisation de l'eau et du vent comme force motrice**
+## Utilisation de l'eau et du vent comme force motrice
 
 Des dérogations aux dispositions générales peuvent être apportées lorsque l'eau ou le vent constitue la force motrice principale. Les usines qui s'en servent comme force auxiliaire ne pourront en bénéficier.
 
@@ -26,7 +26,7 @@ L'autorité administrative supérieure (sous-préfet) peut accorder des dérogat
 
 Chaque entrepreneur peut pour son usine obtenir certaines exceptions dans la limite des prescriptions légales (art. 20 et 21 du code des professions).
 
-**V. Exceptions édictées en vue d'éviter de grosses pertes**
+## V. Exceptions édictées en vue d'éviter de grosses pertes
 
 ### Article 105f
 

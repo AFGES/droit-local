@@ -6,7 +6,7 @@ type_texte: "Loi"
 categories: ["Commerce et professions"]
 ---
 
-### Article 3
+## Article 3
 
 Les cotisations qui sont à verser par les membres des Corporations conformément à l'article 989 du Code des assurances sociales sont réparties et perçues sur les bases ci-après, sous réserve des dispositions spéciales de l'article 4 :
 
@@ -20,6 +20,6 @@ Les cotisations qui sont à verser par les membres des Corporations conformémen
 
 5° Le montant total des cotisations fixé pour la commune est, en tant qu'il n'est couvert par le produit des locations de chasse, réparti proportionnellement revenu net de l'impôt foncier sur tous les redevables de l'impôt foncier de la commune. La taxation et la perception se font de la même manière que pour les centimes communaux additionnels à l'impôt foncier et avec application, par analogie, aux dispositions y relatives. N'entrent pas en considération les entreprises agricoles qui, conformément articles 540 n° 1 et 542 du Code des assurances sociales sont affiliées à une corporation industrielle.
 
-### Article 4
+## Article 4
 
 Les cotisations à verser pour les employés techniques et les ouvriers qualifiés sont les entreprises agricoles ne comportant pas l'exploitation du sol.

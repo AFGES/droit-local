@@ -6,16 +6,16 @@ type_texte: "Loi"
 categories: ["Chasse et environnement"]
 ---
 
-**Titre premier – Dispositions pénales**
+## Titre premier – Dispositions pénales
 
-**Règles générales du Code pénal**
+### Règles générales du Code pénal
 
 ### Article 1er
 
 Les faits déclarés punissables par la présente loi sont soumis aux dispositions suivantes et, en tant que les
 dites dispositions n'y apportent pas de dérogation, à celles du Code pénal.
 
-**Délinquants juvéniles**
+### Délinquants juvéniles
 
 ### Article 2
 
@@ -23,7 +23,7 @@ La réduction de peine prévue à l'article 57, n° 3, du Code pénal en cas de 
 l'époque où l'acte a été commis, avaient plus de 12 ans révolus et moins de 18 ans révolus ne s'applique
 pas en cas d'infractions à 1a présente loi.
 
-**Responsabilité des tiers**
+### Responsabilité des tiers
 
 ### Article 3
 
@@ -47,7 +47,7 @@ Il en sera de même si l'auteur a plus de 12 ans, mais moins de 18 ans révolus 
 faute d'avoir acquis le discernement nécessaire pour comprendre la culpabilité de son acte, ou s'il doit
 échapper à la peine à raison d'un état excluant le libre exercice de sa volonté.
 
-**Réparation pécuniaire (Busse)**
+### Réparation pécuniaire (Busse)
 
 ### Article 5
 
@@ -64,14 +64,14 @@ les dommages champêtres causés illicitement et volontairement et la complicit�
 concerne lesdits dommages, ne tombent sous le coup de la présente loi que lorsque la valeur des objets
 dérobés ou le dommage ne dépasse pas 10 marks.
 
-**Complicité par assistance**
+### Complicité par assistance
 
 ### Article 7
 
 La complicité par assistance à un vol champêtre ou à un dommage volontaire est punie de la même peine
 que l'infraction.
 
-**Tentative, complicité subséquente, recel**
+### Tentative, complicité subséquente, recel
 
 ### Article 8
 
@@ -79,7 +79,7 @@ La tentative de vol champêtre, la complicité subséquente et le recel en ce qu
 que la complicité subséquente en ce qui concerne un dommage volontaire et punissable d'après la loi,
 sont punis de la même peine que le vol champêtre ou, respectivement, le dommage volontaire.
 
-**Vol Champêtre**
+### Vol Champêtre
 
 ### Article 9
 
@@ -101,16 +101,17 @@ nouveau, dans les deux années qui suivront, un des faits susmentionnés.
 ### Article 11
 
 Le vol champêtre est puni de l'amende de 5 à 150 marks ou de la détention simple :
+
 1. Lorsqu'il est commis un dimanche ou un jour de fête, entre le coucher et le lever du soleil ;
 2. Lorsque l'auteur a employé des manœuvres pour ne pas être reconnu ;
 3. Lorsque l'auteur refuse de faire connaître son nom ou son domicile au garde champêtre ou autre agent
-compétent ou à la partie lésée, ou donne de fausses indications sur ses nom ou domicile ou ceux de ses
-complices, ou que, au lieu de s'arrêter sur l'appel des personnes susmentionnées, il prend la fuite ou
-continue de fuir ;
+   compétent ou à la partie lésée, ou donne de fausses indications sur ses nom ou domicile ou ceux de ses
+   complices, ou que, au lieu de s'arrêter sur l'appel des personnes susmentionnées, il prend la fuite ou
+   continue de fuir ;
 4. Lorsque l'auteur s'est servi de cognées, scies, couteaux, bêches ou instruments analogues ;
 5. Lorsque l'auteur a refusé de remettre les instruments destinés à commettre le vol champêtre ;
 6. Lorsque, en vue du vol champêtre, un outil, un véhicule ou un animal de charge, permettant
-m'enlèvement de grandes quantités, ont été amenés.
+   m'enlèvement de grandes quantités, ont été amenés.
 
 En outre, lorsque le vol champêtre :
 7. Est commis avec escalade dans un endroit clos
@@ -164,7 +165,7 @@ animaux et les autres objets destinés à l'enlèvement des choses volées, et q
 ne sont pas soumis à la confiscation, Si la poursuite peut être exercée ou la condamnation prononcée
 contre une personne déterminée; la confiscation peut néanmoins être ordonnée.
 
-**Autres cas d'appropriation.**
+### Autres cas d'appropriation
 
 ### Article 17
 
@@ -193,7 +194,7 @@ vignobles contrairement à une décision du Conseil municipal, pratique le glana
 locale qui en réglementent l'exercice, ou avant que la moisson soit complètement terminée et enlevée, ou
 entre le coucher et le lever du soleil.
 
-**Contraventions de pâturage**
+### Contraventions de pâturage
 
 ### Article 20
 
@@ -204,23 +205,24 @@ bétail sur un fonds sans y être autorisé.
 
 La peine sera l'amende de 5 à 150 marks ou la détention simple lorsque la contravention de pâturage est
 commise :
+
 1. Sur des fonds dont l'accès est interdit par des signes de défend ;
 2. Sur des fonds enclos ;
 3. Dans des champs labourés ou dans les prairies sur lesquelles des installations artificielles pour
-l'irrigation ou pour le drainage ont été exécutées ou sont en voie d'exécution, dans les jardins, pépinières,
-vignobles, sur les talus des fossés ou des canaux ;
+   l'irrigation ou pour le drainage ont été exécutées ou sont en voie d'exécution, dans les jardins, pépinières,
+   vignobles, sur les talus des fossés ou des canaux ;
 4. Entre le coucher et le lever du soleil ;
 5. Lorsque l'auteur, dans les deux années qui ont précédé l'infraction, a été, en Alsace-Lorraine, en vertu
-du présent article ou de l'article précédent, l'objet d'une condamnation passée en force de chose jugée.
+   du présent article ou de l'article précédent, l'objet d'une condamnation passée en force de chose jugée.
 
-**Négligence du pâtre**
+### Négligence du pâtre
 
 ### Article 22
 
 Est puni de l'amende jusqu'à 10 marks ou de la détention simple jusqu'à trois jours le pâtre qui laisse
 sans surveillance ou met sous la surveillance d'une personne inapte les bestiaux confiés à ses soins.
 
-**Responsabilité pour la faute du pâtre**
+### Responsabilité pour la faute du pâtre
 
 ### Article 23
 
@@ -228,31 +230,33 @@ En ce qui concerne l'amende, l'indemnité et les frais auxquels le pâtre est co
 20, 21 et 22, le possesseur des bestiaux est responsable aux termes des articles 3 et 4, alors même que le
 pâtre ne vivrait pas dans la famille dudit possesseur
 
-**Bétail non surveillé. Pigeons**
+### Bétail non surveillé. Pigeons
 
 ### Article 24
 
 Est puni de l'amende jusqu'à 10 marks ou de la détention simple jusqu'à trois jours quiconque :
+
 1. Laisse circuler sans la surveillance convenable, en dehors des fonds enclos, du bétail ou des volailles,
-en tant que les circonstances ne permettent pas de supposer qu'il n'en résultera pour les tiers aucun
-danger de dommage :
+   en tant que les circonstances ne permettent pas de supposer qu'il n'en résultera pour les tiers aucun
+   danger de dommage :
 2. Ne tient pas enfermés ses pigeons au temps des semailles ou des moissons pendant la période
-déterminée par la police locale et annoncée au public.
-Les pigeons qui, contrairement à la prescription du n°2, seront trouvés sur un fonds appartenant à autrui
-seront considérés comme gibier nuisible au sens de l'article 2 de la loi sur la police de la chasse du 7 mai
+   déterminée par la police locale et annoncée au public.
+   Les pigeons qui, contrairement à la prescription du n°2, seront trouvés sur un fonds appartenant à autrui
+   seront considérés comme gibier nuisible au sens de l'article 2 de la loi sur la police de la chasse du 7 mai
 3.
 
-**Droits de pâturage**
+### Droits de pâturage
 
 ### Article 25
 
 Est puni de l'amende jusqu'à 30 marks ou de la détention simple jusqu'à huit jours quiconque, dans
 l'exercice de ses droits de pâturage communal, de vaine pâture ou de parcours :
+
 1. Contrevient aux arrêtés de police rendus à cet égard ;
 2. Fait pâturer autrement qu'attachées des chèvres non conduites en troupeau ;
 3. Fait sortir des taureaux reproducteurs avec le troupeau communal.
 
-**Dommages**
+### Dommages
 
 ### Article 26
 
@@ -270,7 +274,7 @@ d'eau, ainsi que des poteaux indicateurs de routes ;
 4° En dehors des cas de l'article 304 du Code Pénal, endommage des arbres, arbustes, plantes ou produits
 du sol, des poteaux ou autres installations servant à la protection d'arbres, vignes ou houblons.
 
-**Dépôts sur les chemins**
+### Dépôts sur les chemins
 
 ### Article 27
 
@@ -285,7 +289,7 @@ immondices, ou rend leur utilisation plus difficile ;
 3° Sur les chemins spécifiés au n°1, éloigne ou dérange les pierres, fascines ou autres marques posées
 pour indiquer la voie.
 
-**Troubles de la possession**
+### Troubles de la possession
 
 ### Article 28
 
@@ -315,17 +319,18 @@ Dans le cas du n°2, le contrevenant n'est pas passible de peine, lorsque le mau
 traversant un fonds et destiné à l'usage commun ou un autre obstacle se trouvant sur le chemin l'a obligé à
 pénétrer sur le fonds, ou lorsque, en tournant sa charrue, il n'a causé aucun dommage.
 
-**Trouble du régime des eaux**
+### Trouble du régime des eaux
 
 ### Article 30
 
 Est puni d'amende jusqu'à 150 marks on ou à de la détention simple :
+
 1. Quiconque, en empêchant ou modifiant le cours naturel et régulier de l'eau, inonde un fonds
-appartenant à autrui ou le rend marécageux, ou, d'une manière nuisible, retire l'eau d'un fonds appartenant
-à autrui ou d'un établissement, appartenant à autrui, ayant droit à l'usage de l'eau ;
+   appartenant à autrui ou le rend marécageux, ou, d'une manière nuisible, retire l'eau d'un fonds appartenant
+   à autrui ou d'un établissement, appartenant à autrui, ayant droit à l'usage de l'eau ;
 2. Quiconque, en dehors des cas des articles 321 et 326 du Code pénal, sans autorisation, détourne l'eau
-servant à l'irrigation de fonds, ou créé, modifie, endommage, ouvre ,bouche ou supprime des fossés,
-rigoles ou autres installations servant à amener ou enlever l'eau.
+   servant à l'irrigation de fonds, ou créé, modifie, endommage, ouvre ,bouche ou supprime des fossés,
+   rigoles ou autres installations servant à amener ou enlever l'eau.
 
 ### Article 31
 
@@ -338,60 +343,63 @@ l'irrigation ou entre l'agriculture et l'industrie ,ou d'assurer l'entretien ou 
 Si l'infraction a eu pour conséquence de produire l'un des effets mentionnés à l'article 30, n°1, la peine
 prononcée sera l'amende de 150 marks ou la détention simple.
 
-**Carrières**
+### Carrières
 
 ### Article 32
 
 Est puni de l'amende jusqu'à .50 marks, ou de la détention simple quiconque, en dehors des cas de l'article
 367, n°12 du Code pénal, contrevient aux arrêtés des autorités en omettant:
-1. De clore ou de combler les carrières, argilières, sablonnières, ballastières, marnières, fosses à
-chaux, glaisières, puits de mine, trous de fouille ou trous provenant du déracinement des souches,
-lorsqu'il était tenu de les clore ou de les boucher ;
-2. et de marquer par des signes visibles pour en empêcher l'approche, les trous qu'il a faits aux
-endroits indiqués par l'autorité.
 
-**Ruches**
+1. De clore ou de combler les carrières, argilières, sablonnières, ballastières, marnières, fosses à
+   chaux, glaisières, puits de mine, trous de fouille ou trous provenant du déracinement des souches,
+   lorsqu'il était tenu de les clore ou de les boucher ;
+2. et de marquer par des signes visibles pour en empêcher l'approche, les trous qu'il a faits aux
+   endroits indiqués par l'autorité.
+
+### Ruches
 
 ### Article 33
 
 Est puni de l'amende jusqu'à 150 marks ou de la détention simple jusqu'à quatorze jours quiconque
 établit des ruches contrairement aux arrêtés de police.
 
-**Cadavres d'animaux**
+### Cadavres d'animaux
 
 ### Article 34
 
 Est puni de l'amende jusqu'à 30 marks ou de la détention simple à huit jours quiconque :
-1 Contrevient aux arrêtés de police relatif à l'enfouissement d'animaux morts ou abattus, ou, à défaut de
-tels arrêtés, néglige, dans les vingt-quatre heures de leur mort, d'enfouir dans sa propriété désigné par la
-police locale de tels animaux lui appartenant, en les recouvrant d'une épaisseur de terre d'au moins 1
-mètre ;
-2 Laisse à l'air libre des cadavres de taupes, chats, chiens, des tas de souris morte, ou des cadavres
-d'autres animaux de ce genre tués par lui ou lui appartenant;
-3 Déterre sans la permission de la police locale des animaux ou des os d'animaux qui ont été enfouis.
 
-**Bans de récoltes**
+1. Contrevient aux arrêtés de police relatif à l'enfouissement d'animaux morts ou abattus, ou, à défaut de
+   tels arrêtés, néglige, dans les vingt-quatre heures de leur mort, d'enfouir dans sa propriété désigné par la
+   police locale de tels animaux lui appartenant, en les recouvrant d'une épaisseur de terre d'au moins 1
+   mètre ;
+2. Laisse à l'air libre des cadavres de taupes, chats, chiens, des tas de souris morte, ou des cadavres
+   d'autres animaux de ce genre tués par lui ou lui appartenant;
+3. Déterre sans la permission de la police locale des animaux ou des os d'animaux qui ont été enfouis.
+
+### Bans de récoltes (le titre ne semble pas correspondre)
 
 ### Article 35
 
 Est puni de l'amende jusqu'à 50 marks ou de la détention simple jusqu'à quatorze jours quiconque, sans y
 être autorisé :
-1° Fait tremper des peaux dans les cours d'eau pour les amollir ou les nettoyer ;
-2° En dehors des cas de l'article 366 n°10 du Code pénal, souille des cours d'eau ;
-3° Souille l'eau d'une source ou l'eau de réservoirs destinés à l'usage public ;
-La même peine est applicable à quiconque :
-4° Contrevient aux arrêtés de police interdisant de jeter dans les cours d'eau des cadavres d'animaux.
 
-**Saillie d'animaux**
+1. Fait tremper des peaux dans les cours d'eau pour les amollir ou les nettoyer ;
+2. En dehors des cas de l'article 366 n°10 du Code pénal, souille des cours d'eau ;
+3. Souille l'eau d'une source ou l'eau de réservoirs destinés à l'usage public ;
+   La même peine est applicable à quiconque :
+4. Contrevient aux arrêtés de police interdisant de jeter dans les cours d'eau des cadavres d'animaux.
+
+### Saillie d'animaux
 
 ### Article 36
 
 Est puni de l'amende jusqu'à 10 marks ou de la détention simple jusqu'à trois jours quiconque contrevient
 aux arrêtés de la police locale sur la disposition des endroits où la saillie des chevaux ou bovins peut être
-effectuée ou, à défaut de tels arrêtés, laisse, dans l'intérieur d'une localité, effectuer ,sur des voies ou
+effectuée ou, à défaut de tels arrêtés, laisse, dans l'intérieur d'une localité, effectuer, sur des voies ou
 places publique la saillie des chevaux ou bovins.
 
-**Animaux et plantes utiles et nuisibles**
+### Animaux et plantes utiles et nuisibles
 
 ### Article 37
 
@@ -400,7 +408,7 @@ punissables en vertu de l'article 368 n° 2 du Code pénal, ou d'autres loi spé
 de police ayant pour objet la protection des animaux ou plantes utiles ou la destruction des animaux ou
 plantes nuisibles.
 
-**Bans de récoltes**
+### Bans de récoltes
 
 ### Article 38
 
@@ -408,9 +416,9 @@ Est puni de l'amende jusqu'à 10 marks ou de la détention simple jusqu'à trois
 des cas de l'article 368 n°1 du Code pénal, contrevient aux arrêtés de la police locale sur l'époque des
 récoltes.
 
-**Titre II : Procédure pénale et saisie**
+## Titre II : Procédure pénale et saisie
 
-**Tribunaux d'échevins – Chambre d'appel**
+### Tribunaux d'échevins – Chambre d'appel
 
 ### Article 39
 
@@ -418,21 +426,21 @@ Les infractions à la présente loi sont de 1a compétence des tribunaux d'éche
 12 et 13, il peut être procédé au débat principal sans la présence du prévenu. Dans ces cas, les chambres
 correctionnelles, composées de trois membres y compris le président, jugent et statuent sur l'appel.
 
-**Confiscation**
+### Confiscation
 
 ### Article 40
 
 Les tribunaux de baillage, sans l'adjonction d'échevins, jugent et statuent sur la confiscation dans le cas
 de l'article 16 alinéa 3.
 
-**Ordonnance pénale**
+### Ordonnance pénale
 
 ### Article 41
 
 Pour la condamnation concernant la responsabilité aux termes des articles 3, 4 et 23 ainsi que pour la
 réparation pécuniaire, il peut être procédé par ordonnance pénale.
 
-**Saisie**
+### Saisie
 
 ### Article 42
 
@@ -473,9 +481,9 @@ au domicile du propriétaire des animaux lorsqu'il est connu. Les frais de garde
 par le juge de baillage et prélevés sur le montant de la vente ; le surplus est retenu et déposé jusqu'à ce
 qu'il ait été statué sur l'infraction par une décision passée en force de chose jugée.
 
-**Titre III ; Arrêtés de police**
+## Titre III ; Arrêtés de police
 
-**Ruches, cadavres d'animaux, mauvaises herbes.**
+### Ruches, cadavres d'animaux, mauvaises herbes
 
 ### Article 47
 
@@ -485,7 +493,7 @@ plusieurs communes par les présidents de districts. Les autorités susindiquée
 exécuter aux frais des parties en retard les mesures ordonnées et à recouvrer les frais par la voie
 administrative d'après les dispositions applicables au recouvrement des deniers publics.
 
-**Bans de récoltes**
+### Bans de récoltes
 
 ### Article 48
 
@@ -497,7 +505,7 @@ concernant les vignobles, il ne pourra être pris d'arrêtés pour l'époque des
 communes où l'usage en existait antérieurement et seulement pour réglementer l'accès et la sortie des
 charrois.
 
-**Limitation de la vaine pâture et du parcours**
+### Limitation de la vaine pâture et du parcours
 
 ### Article 49
 
@@ -512,7 +520,7 @@ ces droits les fonds qui, par un travail spécial du sol, auront été transform
 prairies sur lesquelles des installations artificielles de drainage ou d'irrigation sont en voie d'exécution ;
 3° Que l'exercice en sera prohibé à certaines époques déterminées.
 
-**Police des campagnes en général – Inspection des foyers**
+### Police des campagnes en général – Inspection des foyers
 
 ### Article 50
 
@@ -523,9 +531,9 @@ au moins une semaine à l'avance. Après l'inspection, le nettoyage, la réparat
 foyers ou cheminées qui ne répondent pas aux prescriptions de l'article 368, n°4, ou de l'article 369, n° 3,
 du Code pénal pourront être ordonnés.
 
-**Titre IV : Disposition finales**
+## Titre IV : Disposition finales
 
-**Lois abrogées**
+### Lois abrogées
 
 ### Article 51
 
@@ -541,7 +549,7 @@ Code pénal.
 Les dispositions de la loi du 28 avril 1880 concernant le droit pénal forestier et la procédure pénale
 forestière ne sont pas modifiées par la présente loi.
 
-**Entrée en vigueur de la loi**
+### Entrée en vigueur de la loi
 
 ### Article 52
 

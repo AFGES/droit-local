@@ -12,9 +12,9 @@ Les modifications suivantes ont été apportées à l'ordonnance du 5 février 1
 
 Groupe 7 § 7, aciéries Bessemer, Thomas, Martin. On lira : dans la mesure où plus de deux équipes travailleront le dimanche, l'exploitation sera interrompue de 6 h du matin à 6 h du soir. Ces exceptions ne seront pas appliquées à Noël, Pâques, Pentecôte, Ascension.
 
-**B. Entreprises minières et carrières (travail de la pierre)**
+## B. Entreprises minières et carrières (travail de la pierre)
 
-**1) Fabrication du verre**
+## 1) Fabrication du verre
 
 Parmi les activités concernées il faut tout d'abord mentionner le travail auprès des fours. Les ouvriers de cette catégorie bénéficieront des temps de repos de l'art. 105c, al. 3 ou 105c, al. 4 avec autorisation administrative.
 

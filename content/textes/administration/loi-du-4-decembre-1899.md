@@ -6,7 +6,7 @@ type_texte: "Loi"
 categories: ["Administration"]
 ---
 
-**sur les honoraires des notaires**
+## sur les honoraires des notaires
 
 ### Article 2
 
@@ -26,7 +26,7 @@ L'ordonnance de taxe passée en force de chose jugée (art. 3) établie définit
 
 Cette loi entre en vigueur simultanément avec le Code civil local.
 
-**Loi d'Alsace-Lorraine sur les frais de justice du 6 décembre 1899**
+## Loi d'Alsace-Lorraine sur les frais de justice du 6 décembre 1899
 
 ### Article 7
 

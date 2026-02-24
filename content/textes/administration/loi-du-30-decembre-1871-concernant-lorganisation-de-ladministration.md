@@ -6,9 +6,9 @@ type_texte: "Loi"
 categories: ["Administration"]
 ---
 
-**Division territoriale administrative**
+## Division territoriale administrative
 
-**Districts**
+## Districts
 
 ### Article 1er
 
@@ -17,7 +17,7 @@ Le district de Basse-Alsace, comprenant l'ancien département du Bas-Rhin et les
 Le district de Haute-Alsace, comprenant les parties de l'ancien département du Haut-Rhin annexées à l'Allemagne ;
 Le district de Lorraine, comprenant les parties devenues allemandes, de l'ancien département de la Moselle et les anciens arrondissements de Château-Salins et de Sarrebourg
 
-**Cercles**
+## Cercles
 
 ### Article 2
 
@@ -95,7 +95,7 @@ Les appels comme d'abus en matière ecclésiastique qui, d'après la loi du 18 g
 Un règlement spécial interviendra sur les conflits de compétence entre les autorités judiciaires et administratives.
 Les fonctions administratives du Conseil d'Etat, à l'exception de celles attribuées par les lois à d'autres autorités, sont dévolues au président supérieur.
 
-**Président de district**
+## Président de district
 
 ### Article 11
 
@@ -105,7 +105,7 @@ Sous ses ordres, un directeur des contributions dirigera l'administration des im
 Le président de district décidera des mesures à prendre en attendant cette décision.
 Le président de district déterminera, avec l'approbation du président supérieur, les règles de son remplacement en cas d'empêchement.
 
-**Administration des impôts directs**
+## Administration des impôts directs
 
 ### Article 12
 
@@ -113,7 +113,7 @@ Le directeur des contributions exercera les fonctions qui, d'après les lois exi
 Il sera nommé des contrôleurs des contributions pour surveiller la perception des impôts et la tenue du cadastre. Le nombre de ces contrôleurs sera fixé par la loi de finances, l'étendue et les limites de leurs circonscriptions seront déterminées par le président supérieur.
 Les attributions des percepteurs et l'étendue de leurs ressorts seront déterminées par le président supérieur.
 
-**Conseils de districts**
+## Conseils de districts
 
 ### Article 13
 
@@ -123,7 +123,7 @@ Trois membres au moins, y compris le président, doivent prendre part aux décis
 Les séances des conseils de district sont publiques pour toutes les affaires qui étaient jusqu'ici débattues publiquement devant les conseils de préfecture.
 Le Chancelier de l'Empire arrêtera le règlement des travaux des conseils de district, déterminera la procédure à suivre devant ces conseils, les règles pour l'exercice des fonctions du ministère public, les délais et la forme des recours contre les décisions rendues, ainsi que le tarif des frais.
 
-**Directeurs de cercle**
+## Directeurs de cercle
 
 ### Article 14
 
@@ -133,13 +133,13 @@ Dans la ville de Mulhouse, un directeur de police dirigera la police dans les co
 Les directeurs de cercle auront les fonctions attribuées par les lois existantes aux sous-préfets. Ils ont leur résidence dans la localité dont leur cercle porte le nom.
 Le Chancelier de l'Empire pourra leur conférer certaines des fonctions qui, en vertu de la loi, appartiennent actuellement aux autorités de district.
 
-**Enseignement.**
+## Enseignement
 
 ### Article 15
 
 En ce qui concerne l'enseignement, le président supérieur exerce les pouvoirs qui, d'après les lois existantes, appartiennent, pour la discipline et la nomination des maîtres et des employés dans tous les établissements d'enseignement de l'Etat et dans les établissements de l'enseignement secondaire, au ministre de l'instruction publique, et, pour la discipline et la surveillance, aux recteurs et inspecteurs d'académie et au conseil académique. En ce qui concerne l'enseignement primaire, les présidents de district exercent les fonctions des inspecteurs départementaux. Des conseillers compétents seront adjoints au président supérieur et aux présidents de districts pour surveiller l'enseignement ; la surveillance de l'enseignement primaire sera exercée, dans les cercles, par des inspecteurs scolaires de cercle.
 
-**Travaux publics**
+## Travaux publics
 
 ### Article 16
 
@@ -155,7 +155,7 @@ Il lui sera adjoint le personnel subsidiaire nécessaire. Un règlement du Chanc
 
 Une ordonnance impériale pourra transférer aux autorités centrales et de district certains des pouvoirs qui, d'après les lois françaises, appartiennent au chef de l'Etat.
 
-**Caisse principale de district. Caisse centrale d'Alsace-Lorraine.**
+## Caisse principale de district. Caisse centrale d'Alsace-Lorraine
 
 ### Article 19
 
@@ -170,7 +170,7 @@ Le fonctionnement des caisses sera réglementé par le Chancelier.
 Pour les années 1871 et 1872, la Cour des comptes de l'Empire assurera le contrôle des opérations budgétaires en examinant et arrêtant les comptes de recettes et dépenses. Les dispositions de la loi du 28 octobre 1871 relatives à cette Cour seront applicables au contrôle du budget d'Alsace-Lorraine.
 Les comptes des receveurs des communes et des corps publics seront examinés et arrêtés en dernier ressort par les conseils de district. Leurs décisions sont susceptibles de recours devant le Conseil impérial dans les cas où les décisions de la Cour des comptes pouvaient, d'après les lois existantes, faire l'objet d'un recours devant le Conseil d'Etat.
 
-**Désignation et nomination des fonctionnaires**
+## Désignation et nomination des fonctionnaires
 
 ### Article 21
 

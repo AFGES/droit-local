@@ -10,7 +10,7 @@ relative aux traitements et pensions des employés de secrétariat des autorité
 
 En vertu de l'article 12, alinéa 3, de la loi du 20 mai 1911 relative au budget d'Alsace-Lorraine pour l'exercice 1911, il est arrêté ce qui suit en ce qui concerne les traitements et les pensions des employés de secrétariat au service des autorités supérieures des cultes reconnus.
 
-**A. - Dispositions relatives à l'ancienneté de traitement et à l'ancienneté de service comptant pour la retraite**
+## A. - Dispositions relatives à l'ancienneté de traitement et à l'ancienneté de service comptant pour la retraite
 
 ### Article 1
 
@@ -44,13 +44,13 @@ Lorsque les dispositions de l'article 5 ne sont pas applicables, le temps de ser
 
 Le service militaire actif ainsi que le temps pris en compte pour la fixation de l'ancienneté de traitement s'ajoutent au temps de service valable pour la retraite. Le temps visé à l'article 4 de l'ordonnance du 16 mars 1910 peut être pris en compte pour la fixation dudit temps de service des employés de secrétariat des autorités supérieures des cultes catholique et israélite. La même règle est applicable aux employés de secrétariat du culte protestant, en tant que l'ancienneté de traitement n'a pas été fixée dans les conditions prévues à l'article 3, alinéa 2.
 
-**B. - Dispositions relatives au paiement des traitements des expéditionnaires et garçons de bureau**
+## B. - Dispositions relatives au paiement des traitements des expéditionnaires et garçons de bureau
 
 ### Article 7
 
 Le paiement du traitement des expéditionnaires et garçons de bureau commence à compter du jour de l'entrée au service. L'avancement à un échelon de traitement plus élevé a lieu avec effet du premier du mois qui suit celui au cours duquel l'intéressé a atteint l'âge ou l'ancienneté de service prescrite en pareil cas.
 
-**C. - Dispositions diverses**
+## C. - Dispositions diverses
 
 ### Article 8
 

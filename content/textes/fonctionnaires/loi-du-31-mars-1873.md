@@ -6,9 +6,9 @@ type_texte: "Loi"
 categories: ["Fonctionnaires"]
 ---
 
-**relative au statut des fonctionnaires d'Empire**
+## relative au statut des fonctionnaires d'Empire
 
-**Dispositions générales**
+## Dispositions générales
 
 ### Article 5
 
@@ -46,7 +46,7 @@ dans la mesure où, sa succession ne suffit pas à couvrir les frais de sa derni
 funérailles. L'autorité centrale peut déléguer à d'autres autorités le droit de donner cette
 autorisation.
 
-**Admission à la retraite des fonctionnaires. Droit à une pension.**
+## Admission à la retraite des fonctionnaires. Droit à une pension
 
 ### Article 34
 
@@ -69,7 +69,7 @@ Lorsque, en dehors du cas prévu à l'article 36, un fonctionnaire, mis à la re
 incapacité de service avant ses dix années de services, se trouve dans le besoin, il peut lui être
 accordé, par décision du Conseil fédéral, une pension, soit temporaire, soit viagère.
 
-**Montant de la pension.**
+## Montant de la pension
 
 ### Article 41
 
@@ -94,7 +94,7 @@ propre demande, ou à titre disciplinaire en vertu de l'article 75. En aucun cas
 pension ne pourra dépasser les émoluments de service, comptant pour la pension, touchés en
 dernier lieu.
 
-**Calcul du temps de service**
+## Calcul du temps de service
 
 ### Article 45
 
@@ -189,7 +189,7 @@ fonds de l'Empire ou de l'État, à condition que, dans l'attente d'un emploi d�
 chargé, d'une manière permanente et avec le caractère d'occupation principale, du service d'un
 fonctionnaire, et qu'en fait sa nomination ait suivi.
 
-**Preuve de l'incapacité de service**
+## Preuve de l'incapacité de service
 
 ### Article 53
 
@@ -209,7 +209,7 @@ appartient à l'autorité centrale (oberste Reichsbehörde), qui peut déléguer
 l'autorité supérieure (höhere Reichsbehörde). Pour la mise à la retraite d'un fonctionnaire nommé
 par brevet impérial, l'approbation de l'Empereur est nécessaire.
 
-**Réduction, suppression et rétablissement des pensions**
+## Réduction, suppression et rétablissement des pensions
 
 ### Article 57
 
@@ -258,7 +258,7 @@ au cours duquel l'occupation a commencé.
 Le payement de la pension reprend au commencement du mois au cours duquel s'est
 réalisé l'événement qui entraîne la modification.
 
-**Mise à la retraite d'office**
+## Mise à la retraite d'office
 
 ### Article 61
 
@@ -325,7 +325,7 @@ lieu d'accorder au fonctionnaire une pension égale à celle à laquelle il aura
 accompli le temps de service prescrit, sa mise à la retraite d'office peut être effectuée selon les
 formes des articles 61 à 67.
 
-**Allocations aux survivants**
+## Allocations aux survivants
 
 ### Article 69
 
@@ -344,7 +344,7 @@ couvrir les frais de sa dernière maladie et de ses funérailles.
 L'autorité centrale peut déléguer ses pouvoirs à d'autres autorités.
 Le montant ainsi alloué au-delà du mois du décès ne peut être saisi.
 
-**Dispositions générales concernant les fautes professionnelles et leur punition disciplinaire**
+## Dispositions générales concernant les fautes professionnelles et leur punition disciplinaire
 
 ### Article 75
 
@@ -365,7 +365,7 @@ Si l'inculpé est un fonctionnaire ayant droit à une pension, et si son cas com
 circonstances atténuantes, l'autorité disciplinaire peut, dans sa décision, ordonner qu'une partie
 de la pension légale sera laissée à l'inculpé, soit à vie, soit pour un certain nombre d'années.
 
-**De la procédure disciplinaire**
+## De la procédure disciplinaire
 
 ### Article 84
 

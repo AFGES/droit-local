@@ -6,41 +6,41 @@ type_texte: "Ordonnance"
 categories: ["Commerce et professions"]
 ---
 
-1) Farine de poisson et huile de baleine
+1. Farine de poisson et huile de baleine
 
 Ces activités sont autorisées du 1er septembre au 1er mars, sauf à Noël. On accordera aux ouvriers soit 24 h un dimanche sur deux, soit 36 h un dimanche sur trois, ou encore si les autres dimanches les jours de travail ne dépassent pas 12 h on accordera 36 h un dimanche sur quatre.
 
-**F. Papier et cuir**
+## F. Papier et cuir
 
-1) Fabrication de cellulose
+1. Fabrication de cellulose
 
 Parmi les activités autorisées les dimanches et jours de fête il faut citer la cuisson, opérations de lessivage, mis à part le lessivage de la sulfite à l'aide d'acide sulfurique on ne travaillera pas à Noël, Pâques et Pentecôte. On y ajoutera les opérations d'étuvage des lessives.
 
 Les temps de repos sont les suivants : 24 h de repos un dimanche sur deux, 36 h un dimanche sur trois, ou encore si les autres dimanches les ouvriers n'ont pas travaillé plus de 12 h, ils bénéficieront de 36 h de repos un dimanche sur quatre.
 
-1) Fabrication de papier et de pâte (à papier)
+1. Fabrication de papier et de pâte (à papier)
 
 On autorisera les dimanches et jour de fête l'exploitation des meules à papier pendant 12 h. On y ajoutera le séchage du carton à l'air libre et la chauffe des séchoirs. Ces dispositions ne s'appliqueront pas à Noël, Pâques et Pentecôte. Dans l'hypothèse d'un travail dominical, les ouvriers bénéficieront au minimum de 36 h de repos pour deux jours –dimanche et fêtes consécutifs- et pour les autres dimanches soit 24 h, soit 36 h un dimanche sur deux.
 
 D'autre part, pour les opérations de séchage les temps de repos sont fixés par l'art. 105c, al. 3 et 4 avec autorisation administrative.
 
-1) Fabrication de cuirs vernis et cuirs chamoisés
+1. Fabrication de cuirs vernis et cuirs chamoisés
 
 Il ne s'agira ici que du séchage des cuirs, et du blanchissage du cuir chamoisé par exposition au soleil. Pour les temps de repos accordés aux ouvriers on se réfère à l'article 105c al. 3 et 4.
 
-**G. Industrie alimentaire et moyens de subsistance**
+## G. Industrie alimentaire et moyens de subsistance
 
-1) Fabrication de sucre brut
+1. Fabrication de sucre brut
 
 Sont autorisées les dimanches et jours de fêtes les opérations de nettoyage et de découpage des betteraves, sauf de 6 h du matin à 6 h du soir. Le repos minimum accordé aux ouvriers sera de 18 h ou 24 h alternativement.
 
 Pour le séchage et le travail au four les temps de repos sont les suivants : 24 h de repos un dimanche sur deux, 36 h un dimanche sur trois, ou encore si les autres dimanches les ouvriers n'ont pas travaillé plus de 12 heures, ils bénéficieront de 36 h de repos un dimanche sur quatre. Les exceptions ne s'appliqueront pas à Noël, Pâques et Pentecôte.
 
-1) Raffineries de sucre
+1. Raffineries de sucre
 
 D'après le procédé de Steffenschen, il s'agira de nettoyage, affinage du sucre brut, exploitation des filtres et des fours à noir animal. Les temps de repos sont les suivants : 24 h de repos un dimanche sur deux, 36 h un dimanche sur trois, ou encore si les autres dimanches les ouvriers n'ont pas travaillé plus de 12 h, ils bénéficieront de 36 h de repos un dimanche sur quatre. Les exceptions ne s'appliqueront pas à Noël, Pâques et Pentecôte, où l'on ne travaillera pas.
 
-1) Sucrage de la mélasse
+1. Sucrage de la mélasse
 
 a) Procédé osmétique
 
@@ -62,68 +62,68 @@ d) Procédé strontiane et baryte
 
 On autorisera la fabrication de la saccharine sauf de 6 h du matin à 6 h du soir. Cette exploitation est interdite à Noël, Pâques et Pentecôte. Les ouvriers bénéficieront au minimum de 36 h de repos pour un dimanche et jour de fête consécutifs ou encore de 24 h pour chacun des deux jours, et pour les autres dimanches soit 24 h de repos, soit 36 h un dimanche sur deux.
 
-1) Nettoyage et découpage des betteraves jusqu'à midi les dimanches et jours de fête, sauf à Noël.
+1. Nettoyage et découpage des betteraves jusqu'à midi les dimanches et jours de fête, sauf à Noël.
 
-2) Raffineries d'alcool
+2. Raffineries d'alcool
 
 Est autorisée les dimanches et jours de fête l'exploitation des alambics, fours et filtres. Cette disposition ne s'appliquera pas à Noël, Pâques et Pentecôte. Pour les temps de repos, 24 h de repos un dimanche sur deux, 36 h un dimanche sur trois ou encore si les autres dimanches les ouvriers n'ont pas travaillé plus de 12 h, ils bénéficieront de 36 h de repos un dimanche sur quatre.
 
-1) Brasseries
+1. Brasseries
 
 Il s'agira ici des travaux de trempe et de brassin pour les entreprises qui n'emploient pas de procédé réfrigérant et qui ne travaillent pas plus de 6 mois l'an (du 1er novembre au 30 avril) les dispositions ne s'appliqueront pas à Noël, Pâques et pour les temps de repos ce sont les suivants : 24 h de repos un dimanche sur deux, 36 h un dimanche sur trois, ou encore si les autres dimanches les ouvriers n'ont pas travaillé plus de 12 h, ils bénéficieront de 36 h de repos un dimanche sur quatre.
 
 En ce qui concerne les brasseries qui travaillent la bière blonde berlinoise et qui ont produit de la bière fraîche la veille, la poursuite du travail est autorisée les dimanches et jours de fête sauf à Noël, Pâques et Pentecôte. Dans ce cas les temps de repos sont fixés par l'article 105c, al. 3 et 4 avec autorisation administrative.
 
-1) Laiteries
+1. Laiteries
 
-1. A l'exception de la fabrication du fromage
-2. Fabrication du fromage comprise
+1) A l'exception de la fabrication du fromage
+2) Fabrication du fromage comprise
 
-**Modification de l'ordonnance du 26 juin 1896 relative aux laiteries**
+## Modification de l'ordonnance du 26 juin 1896 relative aux laiteries
 
 a) à l'exception de celles qui fabriquent du fromage : on autorisera les dimanches et jours de fête la livraison du lait à domicile une fois par jour jusqu'à midi (5 h au total à compter de 7 h du matin). Au cas où la livraison de lait aurait lieu deux fois par jour elle ne serait autorisée que jusqu'à midi ou au plus tard une heure l'après-midi. Dans ce cas les employeurs devront accorder aux ouvriers le temps nécessaire à la fréquentation de l'office divin un dimanche sur trois.
 
 b) fabrication du fromage : l'exploitation dominicale est autorisée pour ces laiteries du 1er mars au 31 octobre. Conformément à l'article 105c du code des professions, les ouvriers bénéficieront de 30 h de repos ininterrompu un dimanche sur trois.
 
-**H. Des métiers dont l'activité s'accroît considérablement à certaines périodes de l'année**
+## H. Des métiers dont l'activité s'accroît considérablement à certaines périodes de l'année
 
-1) Chocolat, biscuits, sucreries, gâteau de miel
+1. Chocolat, biscuits, sucreries, gâteau de miel
 
 Le travail les dimanches et jours de fête ne sera autorisé que pendant six dimanches ou jours de fête par an. Cette disposition ne s'appliquera pas à Noël, Nouvel an, Pâques, Ascension ou Pentecôte. Les temps de repos accordés sont ceux de l'article 105c, al. 3 et 4. La police locale peut fixer les dimanches et jours de fête ouvrables. Au cas où les autorités locales ne seraient pas intervenues, il faut avant qu'on ne commence à travailler, demander leur avis sur l'activité projetée.
 
-1) Fabrication de jouets
+1. Fabrication de jouets
 
 Le travail dominical sera autorisé les six dimanches par an (ou jours de fête) jusqu'à midi. Ceci ne s'appliquera pas à Noël, Pâques, Ascension, Pentecôte, Nouvel an. L'autorité de police locale peut fixer les jours ouvrables. On doit recueillir leur avis avant toute activité.
 
-1) Tailleurs
+1. Tailleurs
 
 Mêmes dispositions que 2)
 
-1) Fabrique de chaussures
+1. Fabrique de chaussures
 
 Mêmes dispositions que 2)
 
-1) Mode
+1. Mode
 
 Idem
 
-1) Pelleterie
+1. Pelleterie
 
 Mêmes dispositions que 2), sauf exploitation pendant quatre dimanches au lieu de six.
 
-1) Fabrication de chaumières
+1. Fabrication de chaumières
 
 Mêmes dispositions que 6)
 
-1) Nettoyage chimique et teinturerie
+1. Nettoyage chimique et teinturerie
 
 Idem
 
-**IIème partie**
+## IIème partie
 
-**Directives relatives au repos dominical dans l'entreprise**
+## Directives relatives au repos dominical dans l'entreprise
 
-**A. Dispositions générales (art. 105b, a ; al. 1, g, h, al. 1 et i du code des professions)**
+## A. Dispositions générales (art. 105b, a ; al. 1, g, h, al. 1 et i du code des professions)
 
 L'interdiction formulée à l'article 105b du code des professions concernant le repos dominical ne s'applique pas à l'agriculture, sylviculture, horticulture, viticulture, élevage ; il en va de même pour l'exercice des professions de pharmacien, médecin, beaux arts (artistes…) et celles figurant à l'art. 6 al. 1 du code des professions.
 
@@ -141,7 +141,7 @@ Ne travaillent pas les dimanches et jours de fête les jeunes travailleurs et ce
 
 Le code des professions et plus spécialement l'article 105 ne contient que les dispositions générales. Il reviendra à la réglementation locale d'enserrer dans des limites plus étroites les prescriptions du code, c'est-à-dire soit d'étendre le repos dominical, soit d'interdire en totalité ou en partie seulement le travail dominical dans certaines industries.
 
-**B. Des exceptions aux stipulations législatives**
+## B. Des exceptions aux stipulations législatives
 
 Art. 105c à f et 105h 2°
 
@@ -163,7 +163,7 @@ a) Autorité administrative supérieure, le président d'arrondissement
 
 b) Autorité administrative inférieure, directeur de police
 
-**I. Exceptions en vertu de prescriptions légales - article 105c**
+## I. Exceptions en vertu de prescriptions légales - article 105c
 
 Parmi les travaux concernés il faut citer en premier lieu ceux qui se justifient par l'intérêt public et les travaux dits urgents ; ces travaux consisteront à écarter un danger ou à parer certaines éventualités. On conçoit donc qu'ils ne puissent être reportés ultérieurement ; par contre ne doivent pas être pris pour urgents des travaux qu'il faut terminer au plus vite. On entendra par intérêt public non seulement celui de l'Etat ou des communes, mais encore l'intérêt public.
 
@@ -181,11 +181,11 @@ Les autorités administratives inférieures (commissaire de police) peuvent, si 
 
 L'autorité en cause enverra son agrément ou sa copie au chef de l'arrondissement jusqu'au 15-1 de chaque année ; on l'adresse également au bureau de la main-d'œuvre.
 
-**II. Exceptions pour les exploitations où des travaux du fait de leur nature, ne peuvent être interrompus ou reportés (industrie saisonnière)**
+## II. Exceptions pour les exploitations où des travaux du fait de leur nature, ne peuvent être interrompus ou reportés (industrie saisonnière)
 
 Les décisions du conseil fédéral rattachent le consentement au travail dominical à des dispositions voulant assurer aux ouvriers un repos minimum. Quand il n'y a pas eu de demande, les ouvriers ne peuvent être contraints à travailler.
 
-**III. Exceptions pour les métiers qui nécessitent la satisfaction de besoins pressants même les dimanches et jours de fête**
+## III. Exceptions pour les métiers qui nécessitent la satisfaction de besoins pressants même les dimanches et jours de fête
 
 a) Bouquetterie
 
@@ -281,7 +281,7 @@ Dans l'hypothèse où seuls certains travailleurs pourraient bénéficier des di
 
 Il n'est pas vraiment nécessaire que la réglementation soit identique dans tout l'arrondissement : il se pratique dans des conditions différentes ; ces conditions particulières consistent par exemple dans l'existence d'une fête populaire, jour de marché, carnaval… Dans ce cas l'autorité administrative supérieure (sous-préfet) apporte des modifications temporaires aux dispositions antérieures.
 
-**IV. Exceptions pour les exploitations fonctionnant grâce au vent et à l'eau**
+## IV. Exceptions pour les exploitations fonctionnant grâce au vent et à l'eau
 
 Art. 105e al. 1 et 2
 
