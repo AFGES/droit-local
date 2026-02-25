@@ -39,6 +39,8 @@ params:
   comments: false
   hidesummary: false
   showtoc: true
+  assets:
+    favicon: "https://afges.org/wp-content/uploads/2023/07/cropped-AFGES-icon-192x192.png"
   homeInfoParams:
     Title: Droit local d'Alsace-Moselle
     Content: "Bienvenue sur le recueil en ligne des lois et règlements locaux
@@ -105,3 +107,7 @@ outputs:
     - HTML
     - RSS
     - JSON
+
+sitemap:
+  changeFreq: "monthly"
+  priority: 0.8
