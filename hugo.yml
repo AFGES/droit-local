@@ -3,7 +3,10 @@ languageCode: fr-FR
 defaultContentLanguage: fr
 title: Droit local d'Alsace-Moselle
 theme: PaperMod
+
 enableRobotsTXT: true
+enableGitInfo: true
+
 buildDrafts: false
 buildFuture: false
 buildExpired: false
