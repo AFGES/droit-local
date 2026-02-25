@@ -4,8 +4,9 @@
   {{ range where .Pages "Sitemap.Disable" "ne" true }}
     {{- if .Permalink -}}
   <url>
-    <loc>{{ .Permalink }}</loc>{{ if not .GitInfo.AuthorDate.IsZero }}
-    <lastmod>{{ safeHTML ( .GitInfo.AuthorDate.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>{{ end }}{{ with .Sitemap.ChangeFreq }}
+    <loc>{{ .Permalink }}</loc>{{ if and .GitInfo (not .GitInfo.AuthorDate.IsZero) }}
+    <lastmod>{{ safeHTML ( .GitInfo.AuthorDate.Format "2006-01-02T15:04:05-07Z" ) }}</lastmod>{{ else }}
+    <lastmod>{{ safeHTML ( time.Now.Format "2006-01-02T15:04:05-07Z") }}</lastmod>{{ end }}{{ with .Sitemap.ChangeFreq }}
     <changefreq>{{ . }}</changefreq>{{ end }}{{ if ge .Sitemap.Priority 0.0 }}
     <priority>{{ .Sitemap.Priority }}</priority>{{ end }}{{ if .IsTranslated }}{{ range .Translations }}
     <xhtml:link
