@@ -1,0 +1,499 @@
+{
+  "description": "Index des lois et textes juridiques de droit local - Département de la Moselle",
+  "pdfs": [
+    {
+      "filename": "moselle_15-05-2013.pdf",
+      "title": "Annexe à l'arrêté DCTAJ-C-01 du 15 mai 2013 portant publication de la traduction de lois et règlements locaux maintenus en vigueur dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+      "total_pages": 118,
+      "laws": [
+        {
+          "number": 1,
+          "title": "Loi du 10 juin 1872 relative à l'indemnisation des titulaires de charges judiciaires vénales",
+          "first_page": 4,
+          "last_page": 4
+        },
+        {
+          "number": 2,
+          "title": "Ordonnance du président supérieur du 22 juillet 1872 relative aux attributions du consistoire central",
+          "first_page": 5,
+          "last_page": 5
+        },
+        {
+          "number": 3,
+          "title": "Loi du 12 février 1873 sur l'enseignement",
+          "first_page": 6,
+          "last_page": 6
+        },
+        {
+          "number": 4,
+          "title": "Loi du 31 mars 1873 relative au statut des fonctionnaires d'Empire",
+          "first_page": 7,
+          "last_page": 15
+        },
+        {
+          "number": 5,
+          "title": "Ordonnance du Chancelier du 10 juillet 1873 pour l'exécution de la loi du 12 février 1873 sur l'enseignement",
+          "first_page": 16,
+          "last_page": 16
+        },
+        {
+          "number": 6,
+          "title": "Loi du 29 novembre 1873 relative aux fondations administrées par le séminaire protestant de Strasbourg",
+          "first_page": 16,
+          "last_page": 17
+        },
+        {
+          "number": 7,
+          "title": "Code local de procédure civile du 30 janvier 1877",
+          "first_page": 18,
+          "last_page": 27
+        },
+        {
+          "number": 8,
+          "title": "Loi d'Empire sur les frais de justice du 18 juin 1878",
+          "first_page": 28,
+          "last_page": 30
+        },
+        {
+          "number": 9,
+          "title": "Loi du 21 mai 1879 portant des restrictions à la liberté de construire dans les nouveaux quartiers de la ville de Strasbourg",
+          "first_page": 31,
+          "last_page": 31
+        },
+        {
+          "number": 10,
+          "title": "Loi du 7 mai 1883 sur la police de la chasse",
+          "first_page": 31,
+          "last_page": 32
+        },
+        {
+          "number": 11,
+          "title": "Loi du 31 mars 1884 concernant le renouvellement du cadastre, la péréquation de l'impôt foncier et la conservation du cadastre",
+          "first_page": 33,
+          "last_page": 43
+        },
+        {
+          "number": 12,
+          "title": "Ordonnance impériale du 12 mai 1886 concernant la représentation de l'ancien séminaire protestant au consistoire supérieur de l'Eglise de la confession d'Augsbourg",
+          "first_page": 45,
+          "last_page": 45
+        },
+        {
+          "number": 13,
+          "title": "Loi du 19 octobre 1887 sur les jours fériés légaux",
+          "first_page": 46,
+          "last_page": 46
+        },
+        {
+          "number": 14,
+          "title": "Arrêté ministériel du 7 décembre 1891 sur l'établissement du bulletin de vote en dehors du bureau de vote",
+          "first_page": 47,
+          "last_page": 47
+        },
+        {
+          "number": 15,
+          "title": "Loi du 6 janvier 1892 portant des restrictions à la liberté de construire",
+          "first_page": 48,
+          "last_page": 48
+        },
+        {
+          "number": 16,
+          "title": "Loi du 16 mai 1894 sur les ventes à tempérament",
+          "first_page": 48,
+          "last_page": 49
+        },
+        {
+          "number": 17,
+          "title": "Ordonnance du 7 juillet 1894 concernant la procédure de nomination des pasteurs et des inspecteurs ecclésiastiques dans l'église de la confession d'Augsbourg",
+          "first_page": 50,
+          "last_page": 50
+        },
+        {
+          "number": 18,
+          "title": "Loi communale du 6 juin 1895",
+          "first_page": 51,
+          "last_page": 54
+        },
+        {
+          "number": 19,
+          "title": "Loi du 18 août 1896 d'introduction du Code civil local",
+          "first_page": 55,
+          "last_page": 55
+        },
+        {
+          "number": 20,
+          "title": "Loi du 7 juillet 1897 relative aux patrimoines des sections de communes et au patrimoine possédé indivisément par plusieurs communes ou sections de communes",
+          "first_page": 57,
+          "last_page": 58
+        },
+        {
+          "number": 21,
+          "title": "Loi du 17 avril 1899 d'application du Code civil local",
+          "first_page": 59,
+          "last_page": 60
+        },
+        {
+          "number": 22,
+          "title": "Ordonnance du 26 octobre 1899 relative à la fixation des circonscriptions des Consistoires protestants",
+          "first_page": 61,
+          "last_page": 62
+        },
+        {
+          "number": 23,
+          "title": "Loi du 4 décembre 1899 sur les honoraires des notaires",
+          "first_page": 63,
+          "last_page": 63
+        },
+        {
+          "number": 24,
+          "title": "Loi d'Alsace-Lorraine sur les frais de justice du 6 décembre 1899",
+          "first_page": 64,
+          "last_page": 66
+        },
+        {
+          "number": 25,
+          "title": "Loi du 11 décembre 1899 relative au régime des associations",
+          "first_page": 67,
+          "last_page": 67
+        },
+        {
+          "number": 26,
+          "title": "Convention du 5 décembre 1902 en vue de l'érection d'une faculté de théologie catholique à l'université de Strasbourg",
+          "first_page": 68,
+          "last_page": 68
+        },
+        {
+          "number": 27,
+          "title": "Arrêté ministériel du 9 mars 1903 relatif à la mise à la retraite non volontaire des pasteurs protestants",
+          "first_page": 69,
+          "last_page": 70
+        },
+        {
+          "number": 28,
+          "title": "Ordonnance du 13 juin 1903 relative à la nomination et à l'assermentation des interprètes",
+          "first_page": 71,
+          "last_page": 71
+        },
+        {
+          "number": 29,
+          "title": "Loi du 14 juillet 1903 relative à l'impôt foncier",
+          "first_page": 71,
+          "last_page": 71
+        },
+        {
+          "number": 30,
+          "title": "Ordonnance du 26 mai 1905 relative à l'exécution forcée pour le recouvrement des sommes d'argent par voie administrative",
+          "first_page": 72,
+          "last_page": 72
+        },
+        {
+          "number": 31,
+          "title": "Loi du 21 juin 1905 relative à l'organisation synodale de l'église réformée en Alsace-Lorraine et portant abrogation de certaines dispositions de la loi du 18 Germinal An X",
+          "first_page": 73,
+          "last_page": 74
+        },
+        {
+          "number": 32,
+          "title": "Arrêté ministériel du 30 juin 1905 relatif à l'organisation du synode de l'Eglise réformée en Alsace-Lorraine",
+          "first_page": 75,
+          "last_page": 76
+        },
+        {
+          "number": 33,
+          "title": "Loi d'Alsace-Lorraine du 19 juin 1906 sur le certificat de non-dommageabilité",
+          "first_page": 77,
+          "last_page": 80
+        },
+        {
+          "number": 34,
+          "title": "Loi du 10 juillet 1906 concernant l'affichage",
+          "first_page": 80,
+          "last_page": 81
+        },
+        {
+          "number": 35,
+          "title": "Loi du 24 février 1908 relative à l'enseignement",
+          "first_page": 82,
+          "last_page": 82
+        },
+        {
+          "number": 36,
+          "title": "Arrêté ministériel local du 28 juin 1908 concernant la suppression de l'interdiction de l'utilisation de bulletins de vote imprimés pour les élections des membres des conseils presbytéraux protestants",
+          "first_page": 83,
+          "last_page": 83
+        },
+        {
+          "number": 37,
+          "title": "Loi du 15 novembre 1909 relative aux traitements et pensions des ministres des cultes rétribués par l'État et de leurs veuves et orphelins",
+          "first_page": 84,
+          "last_page": 89
+        },
+        {
+          "number": 38,
+          "title": "Loi du 15 novembre 1909 d'Alsace-Lorraine relative aux veuves et orphelins des fonctionnaires",
+          "first_page": 90,
+          "last_page": 95
+        },
+        {
+          "number": 39,
+          "title": "Ordonnance du 16 mars 1910 relative à la fixation de l'ancienneté de traitement et de l'ancienneté de pension des ministres des cultes",
+          "first_page": 96,
+          "last_page": 97
+        },
+        {
+          "number": 40,
+          "title": "Règlement ministériel du 19 mars 1910 portant règlement d'administration publique pour l'exécution de la loi du 15 novembre 1909 relative aux traitements et pensions des ministres des cultes rétribués par l'État et de leurs ayants cause",
+          "first_page": 98,
+          "last_page": 101
+        },
+        {
+          "number": 41,
+          "title": "Ordonnance du 19 mars 1910 concernant les circonscriptions rabbiniques",
+          "first_page": 102,
+          "last_page": 107
+        },
+        {
+          "number": 42,
+          "title": "Loi du 7 novembre 1910 concernant la police des constructions",
+          "first_page": 108,
+          "last_page": 108
+        },
+        {
+          "number": 43,
+          "title": "Règlement ministériel du 16 janvier 1911 concernant l'ouverture de nouveaux lieux de culte",
+          "first_page": 109,
+          "last_page": 113
+        },
+        {
+          "number": 44,
+          "title": "Loi du 20 mai 1911 relative au budget d'Alsace-Lorraine pour l'exercice 1911",
+          "first_page": 114,
+          "last_page": 114
+        },
+        {
+          "number": 45,
+          "title": "Ordonnance du 1er septembre 1911 relative aux traitements et pensions des employés de secrétariat des autorités supérieures des cultes reconnus",
+          "first_page": 115,
+          "last_page": 116
+        },
+        {
+          "number": 46,
+          "title": "Ordonnance du 14 mai 1915 concernant les circonscriptions rabbiniques",
+          "first_page": 117,
+          "last_page": 118
+        }
+      ]
+    },
+    {
+      "filename": "moselle_29-08-2013.pdf",
+      "title": "Annexe à l'arrêté DCTAJ-C-03 du 29 août 2013 (2ème publication) portant publication de la traduction de lois et règlements locaux maintenus en vigueur dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle",
+      "total_pages": 502,
+      "laws": [
+        {
+          "number": 1,
+          "title": "Ordonnance du Gouverneur général d'Alsace-Lorraine du 18 avril 1871 sur l'enseignement",
+          "first_page": 5,
+          "last_page": 6
+        },
+        {
+          "number": 2,
+          "title": "Code pénal local du 15 mai 1871",
+          "first_page": 7,
+          "last_page": 8
+        },
+        {
+          "number": 3,
+          "title": "Loi du 30 décembre 1871 concernant l'organisation de l'administration",
+          "first_page": 9,
+          "last_page": 15
+        },
+        {
+          "number": 4,
+          "title": "Instruction pour les écoles élémentaires du 4 janvier 1874, article 8",
+          "first_page": 16,
+          "last_page": 16
+        },
+        {
+          "number": 5,
+          "title": "Loi du 30 juin 1878 relative aux indemnités accordées aux témoins et experts",
+          "first_page": 17,
+          "last_page": 20
+        },
+        {
+          "number": 6,
+          "title": "Décision du 17 mai 1881 modifiant l'instruction pour les écoles élémentaires du 4 janvier 1881",
+          "first_page": 21,
+          "last_page": 21
+        },
+        {
+          "number": 7,
+          "title": "Loi d'Empire du 22 mars 1888 sur la protection des oiseaux",
+          "first_page": 22,
+          "last_page": 24
+        },
+        {
+          "number": 8,
+          "title": "Loi pénale du 9 juillet 1888 sur la police rurale",
+          "first_page": 25,
+          "last_page": 37
+        },
+        {
+          "number": 9,
+          "title": "Proclamation ministérielle du 12 juillet 1888 concernant le renouvellement de la location de la chasse par les communes",
+          "first_page": 38,
+          "last_page": 40
+        },
+        {
+          "number": 10,
+          "title": "Loi du 1er mai 1889 sur les associations coopératives de production et de consommation",
+          "first_page": 41,
+          "last_page": 82
+        },
+        {
+          "number": 11,
+          "title": "Loi du 2 juillet 1890 relative à l'exécution de la loi d'Empire du 22 mars 1888 sur la protection des oiseaux",
+          "first_page": 83,
+          "last_page": 83
+        },
+        {
+          "number": 12,
+          "title": "Ordonnance du 16 juillet 1890 concernant le gibier nuisible",
+          "first_page": 84,
+          "last_page": 84
+        },
+        {
+          "number": 13,
+          "title": "Loi du 2 juillet 1891 sur l'usage et la conservation des eaux",
+          "first_page": 85,
+          "last_page": 96
+        },
+        {
+          "number": 14,
+          "title": "Arrêté du 1er mai 1892 concernant le repos dominical dans les professions commerciales",
+          "first_page": 97,
+          "last_page": 99
+        },
+        {
+          "number": 15,
+          "title": "Ordonnance ministérielle du 1er avril 1893 concernant la protection du tétras-lyre",
+          "first_page": 100,
+          "last_page": 100
+        },
+        {
+          "number": 16,
+          "title": "Ordonnance du 5 février 1895 relative aux exceptions à l'interdiction du travail dominical dans l'industrie",
+          "first_page": 101,
+          "last_page": 126
+        },
+        {
+          "number": 17,
+          "title": "Ordonnance ministérielle du 24 avril 1895 concernant la capture des canards sauvages au moyen de filets rabattants et d'appelants",
+          "first_page": 127,
+          "last_page": 127
+        },
+        {
+          "number": 18,
+          "title": "Loi du 15 juin 1895 sur les rapports de droit privé dans la navigation intérieure",
+          "first_page": 128,
+          "last_page": 153
+        },
+        {
+          "number": 19,
+          "title": "Code civil local du 18 août 1896 (extraits)",
+          "first_page": 154,
+          "last_page": 172
+        },
+        {
+          "number": 20,
+          "title": "Loi du 10 mai 1897 d'introduction du code du commerce",
+          "first_page": 174,
+          "last_page": 177
+        },
+        {
+          "number": 21,
+          "title": "Ordonnance ministérielle du 4 février 1899 concernant l'exercice de la chasse",
+          "first_page": 178,
+          "last_page": 178
+        },
+        {
+          "number": 22,
+          "title": "Loi du 9 juillet 1900 relative à l'entretien des taureaux reproducteurs",
+          "first_page": 179,
+          "last_page": 181
+        },
+        {
+          "number": 23,
+          "title": "Loi du 26 juillet 1900 sur les professions",
+          "first_page": 182,
+          "last_page": 229
+        },
+        {
+          "number": 24,
+          "title": "Ordonnance du 22 avril 1902 étendant la compétence du Conseil impérial",
+          "first_page": 230,
+          "last_page": 231
+        },
+        {
+          "number": 25,
+          "title": "Loi du 22 avril 1902 relative à la compétence en matière d'eaux et d'améliorations hydrauliques",
+          "first_page": 232,
+          "last_page": 232
+        },
+        {
+          "number": 26,
+          "title": "Loi du 11 juin 1902 relative à l'exécution en commun, par plusieurs communes, de canalisations d'eau",
+          "first_page": 233,
+          "last_page": 233
+        },
+        {
+          "number": 27,
+          "title": "Loi du 21 juin 1905 relative au droit public des associations et des réunions",
+          "first_page": 234,
+          "last_page": 237
+        },
+        {
+          "number": 28,
+          "title": "Proclamation ministérielle du 9 juin 1906 concernant le renouvellement de la location des chasses communales",
+          "first_page": 238,
+          "last_page": 239
+        },
+        {
+          "number": 29,
+          "title": "Ordonnance du 8 juillet 1909 concernant la protection de la caille",
+          "first_page": 240,
+          "last_page": 240
+        },
+        {
+          "number": 30,
+          "title": "Loi du 11 décembre 1909 relative au traitement des instituteurs des écoles élémentaires publiques",
+          "first_page": 241,
+          "last_page": 244
+        },
+        {
+          "number": 31,
+          "title": "Code des assurances sociales du 19 juillet 1911",
+          "first_page": 245,
+          "last_page": 496
+        },
+        {
+          "number": 32,
+          "title": "Loi du 20 décembre 1911 sur l'assurance des employés",
+          "first_page": 497,
+          "last_page": 498
+        },
+        {
+          "number": 33,
+          "title": "Loi du 5 août 1912 d'exécution du code des assurances sociales",
+          "first_page": 499,
+          "last_page": 499
+        },
+        {
+          "number": 34,
+          "title": "Loi du 10 juin 1914 modifiant les articles 74, 75 et suivants du code de commerce allemand",
+          "first_page": 500,
+          "last_page": 502
+        }
+      ]
+    }
+  ]
+}
