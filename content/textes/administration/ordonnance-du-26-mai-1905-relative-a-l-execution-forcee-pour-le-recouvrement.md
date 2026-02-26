@@ -6,7 +6,6 @@ categories:
   - "administration"
 ---
 
-par voie administrative
 **Art. 16**. - Si la résidence du débiteur est inconnue, la signification peut se faire par
 affichage de la pièce à signifier à l’endroit destiné à recevoir les affiches du bureau d’exécution
 (locaux de la perception). Cette procédure doit également être observée lorsqu’au cas de l’article

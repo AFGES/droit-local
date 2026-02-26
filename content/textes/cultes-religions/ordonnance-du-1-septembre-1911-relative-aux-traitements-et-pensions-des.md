@@ -7,7 +7,6 @@ categories:
   - "fonctionnaires"
 ---
 
-de secrétariat des autorités supérieures des cultes reconnus
 En vertu de l'article 12, alinéa 3, de la loi du 20 mai 1911 relative au budget d'Alsace-
 Lorraine pour l'exercice 1911, il est arrêté ce qui suit en ce qui con corne les traitements et les
 pensions des employés de secrétariat au service des autorités supérieures des cultes reconnus.

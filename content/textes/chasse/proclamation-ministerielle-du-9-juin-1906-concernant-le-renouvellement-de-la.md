@@ -7,8 +7,6 @@ categories:
   - "administration"
 ---
 
-des chasses communales
-
 Le 1er février 1907 prochain expirera la période de location des chasses qui ont été adjugées
 conformément aux dispositions de la loi du 7 février 1881.
 Il est dans l’intérêt des communes et des fermiers de la chasse que la nouvelle location de la

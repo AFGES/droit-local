@@ -7,7 +7,6 @@ categories:
   - "cultes-religions"
 ---
 
-au consistoire supérieur de l'Eglise de la confession d'Augsbourg
 Nous, Guillaume, Empereur allemand par la grâce de Dieu, roi de Prusse, etc…
 en vue du remplacement du représentant de l'ancien séminaire protestant au consistoire
 supérieur de l'Eglise de la confession d'Augsbourg, après consultation et en tenant compte des

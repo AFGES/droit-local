@@ -6,8 +6,6 @@ categories:
   - "droit-social"
 ---
 
-dans l’industrie
-
 A. Exploitations minières, métallurgie, salines
 
 Ière partie

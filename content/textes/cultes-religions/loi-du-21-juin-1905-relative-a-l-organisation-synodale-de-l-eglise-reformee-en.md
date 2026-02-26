@@ -6,7 +6,6 @@ categories:
   - "cultes-religions"
 ---
 
-et portant abrogation de certaines dispositions de la loi du 18 Germinal An X
 **Article 1er**
 A la tête de l'église réformée en Alsace-Lorraine est placé un synode central.
 **Article 2**

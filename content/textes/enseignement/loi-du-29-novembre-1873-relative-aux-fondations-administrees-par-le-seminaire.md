@@ -8,12 +8,6 @@ categories:
   - "droit-civil"
 ---
 
-**Article 10** a (ajouté par l’ordonnance du 16 novembre 1887)
-Dans toutes les écoles, l’enseignement et l’éducation doivent tendre à développer la
-religion, la moralité et le respect des pouvoirs établis et des lois.
-Loi du 29 novembre 1873
-relative aux fondations administrées
-par le séminaire protestant de Strasbourg
 **Article 1er**
 Le chapitre de la fondation protestante Saint-Thomas à Strasbourg, assumera, au lieu et
 place du séminaire protestant de Strasbourg, l'administration des fondations relevant de ce

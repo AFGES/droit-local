@@ -7,8 +7,6 @@ categories:
   - "administration"
 ---
 
-hydrauliques
-
 **Article 2**
 
 Les affaires qui, d’après la loi du 21 juin 1865 relative aux associations syndicales, les articles

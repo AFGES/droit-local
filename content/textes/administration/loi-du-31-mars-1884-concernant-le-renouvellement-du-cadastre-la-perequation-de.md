@@ -6,7 +6,6 @@ categories:
   - "administration"
 ---
 
-et la conservation du cadastre
 I. Renouvellement du cadastre
 **Article 1er**
 Le cadastre est soumis à un renouvellement quant à ses indications sur la possession, la

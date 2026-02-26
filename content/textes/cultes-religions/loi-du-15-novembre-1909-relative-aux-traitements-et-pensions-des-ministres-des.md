@@ -7,7 +7,6 @@ categories:
   - "fonctionnaires"
 ---
 
-et de leurs veuves et orphelins
 **Article 1er**
 Les vicaires généraux, chanoines, curés et desservants du culte catholique reçoivent, sur la
 Caisse d'Alsace-Lorraine, les traitements ci-après :

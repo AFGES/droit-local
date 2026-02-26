@@ -6,7 +6,6 @@ categories:
   - "droit-civil"
 ---
 
-d’introduction du Code civil local
 **Article 85**
 Il n’est pas dérogé aux lois des Etats d’après lesquelles, dans le cas de l’article 45, alinéa
 3, du Code civil, les biens de l’association dissoute sont dévolus, au lieu de l’être au fisc, à une

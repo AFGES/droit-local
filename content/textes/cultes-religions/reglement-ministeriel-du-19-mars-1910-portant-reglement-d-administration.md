@@ -8,7 +8,6 @@ categories:
   - "administration"
 ---
 
-et de leurs ayants cause
 **Art. 1**.. - Les autorités supérieures ecclésiastiques des ministres des cultes désignés dans
 les articles 1er à 6 de la loi du 15 novembre 1909 doivent notifier au ministère la nomination et la
 révocation, la mise à 1a retraite, la démission ainsi que le décès des intéressés, conformément

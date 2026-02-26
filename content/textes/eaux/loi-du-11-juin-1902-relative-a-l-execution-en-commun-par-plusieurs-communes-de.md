@@ -7,8 +7,6 @@ categories:
   - "administration"
 ---
 
-de canalisations d’eau, de travaux de drainage et d’irrigation
-
 **Article 1er**
 
 Lorsque plusieurs communes ont décidé l’exécution en commun de canalisations d’eau, de

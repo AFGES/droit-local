@@ -7,8 +7,6 @@ categories:
   - "fonctionnaires"
 ---
 
-publiques
-
 **Article 1**
 
 Les instituteurs et institutrices des écoles élémentaires publiques recevront de la commune un

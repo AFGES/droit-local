@@ -6,7 +6,6 @@ categories:
   - "droit-civil"
 ---
 
-d’application du Code civil local
 SECTION PREMIERE
 DISPOSITIONS RELATIVES A LA PARTIE GENERALE
 Personnes juridiques

@@ -6,7 +6,6 @@ categories:
   - "droit-civil"
 ---
 
-du 30 janvier 1877
 LIVRE 1er
 DISPOSITIONS GENERALES
 SECTION 1

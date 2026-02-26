@@ -6,8 +6,6 @@ categories:
   - "commerce-professions"
 ---
 
-allemand
-
 **Article 74**
 
 Toute convention conclue entre un patron et un commis qui apporte des restrictions à l'activité

@@ -7,7 +7,6 @@ categories:
   - "fonctionnaires"
 ---
 
-et de l'ancienneté de pension des ministres des cultes
 **Art. 1**. - La fixation de l'ancienneté de traitement d'un pasteur protestant, d'un grand
 rabbin ou d'un rabbin, ainsi que le décompte du temps de services valable pour la retraite d'un
 ministre du culte (service rémunérable par une pension), sont effectués par le ministère

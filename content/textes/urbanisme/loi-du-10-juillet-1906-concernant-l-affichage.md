@@ -6,14 +6,6 @@ categories:
   - "urbanisme"
 ---
 
-Les inscriptions à opérer en vertu d’un certificat de non-dommageabilité sur le livre
-foncier, le livre de propriété ou le livre foncier provisoire, de même que sur les registres des
-anciens bureaux d’hypothèques, sont exonérées de tous droits.
-**Art. 11**. – Les dispositions de la présente loi s’appliquent également, si l’aliénation d’une
-partie d’un fonds ou la suppression d’un droit (art. 7) ont eu lieu avant l’entrée en vigueur de la
-loi, ou si une faculté de réclamer une indemnité (art. 8) a pris naissance avant ce moment.
-Loi du 10 juillet 1906
-concernant l’affichage
 **Article 1er**
 Dans chaque commune l’autorité de police locale désignera, sur les voies, rues ou places
 publiques, des lieux exclusivement destinés à l’affichage des avis officiels.

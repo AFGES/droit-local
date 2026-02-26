@@ -6,8 +6,6 @@ categories:
   - "fonctionnaires"
 ---
 
-d’Alsace-Lorraine
-relative aux veuves et orphelins des fonctionnaires
 **Article 1er**
 Auront droit à une pension du Trésor d'Alsace-Lorraine la veuve et les enfants légitimes
 ou légitimés du fonctionnaire qui, à l'époque de son décès, touchait une pension sur les fonds

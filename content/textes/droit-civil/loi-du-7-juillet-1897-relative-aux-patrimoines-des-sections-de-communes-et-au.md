@@ -7,7 +7,6 @@ categories:
   - "administration"
 ---
 
-et au patrimoine possédé indivisément par plusieurs communes ou sections de communes
 Administration du patrimoine possédé indivisément par plusieurs communes
 **Article 7**
 Si plusieurs communes possèdent indivisément des biens ou des droits, il pourra, à la

@@ -6,8 +6,6 @@ categories:
   - "chasse"
 ---
 
-moyen de filets rabattants et d’appelants
-
 **Article 1**
 
 La capture des canards sauvages à l’aide de filets rabattants et d’appelants n’est autorisée que

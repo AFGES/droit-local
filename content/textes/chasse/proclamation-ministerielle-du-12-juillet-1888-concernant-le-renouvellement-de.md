@@ -7,8 +7,6 @@ categories:
   - "administration"
 ---
 
-la chasse par les communes
-
 Le 1er février 1889, expirera le temps de la location des chasses louées conformément aux
 dispositions de la loi sur l’exercice du droit de chasse du 7 février 1881. Expireront également à
 la même date les contrats de location de la chasse conclus avant l’entrée en vigueur de cette loi et

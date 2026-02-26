@@ -6,7 +6,6 @@ categories:
   - "cultes-religions"
 ---
 
-et des inspecteurs ecclésiastiques dans l'église de la confession d'Augsbourg
 Après avoir pris connaissance des délibérations du consistoire supérieur de l'Eglise de la
 confession d'Augsbourg d'Alsace et de Lorraine du 2 au 5 mai 1893 et du 8 mai 1894, ainsi
 qu'après audition du directoire de la même Eglise et abrogation de l'ordonnance du 15 novembre

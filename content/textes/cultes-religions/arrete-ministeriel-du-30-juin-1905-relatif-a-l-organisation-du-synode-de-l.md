@@ -6,7 +6,6 @@ categories:
   - "cultes-religions"
 ---
 
-du synode de l'Eglise réformée en Alsace-Lorraine
 En application du § 7 de la loi du 21 juin de cette année, relatif à l'organisation du
 synode, les règlements suivants sont promulgués pour l'Eglise réformée en Alsace-Lorraine.
 **Art. 1**. - La durée du mandat des membres élus du synode est de six ans. Tous les 3 ans

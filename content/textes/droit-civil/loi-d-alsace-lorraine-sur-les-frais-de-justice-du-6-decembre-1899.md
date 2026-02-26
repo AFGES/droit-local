@@ -6,7 +6,6 @@ categories:
   - "droit-civil"
 ---
 
-du 6 décembre 1899
 **Article 7**
 Si l’opération entraîne des déboursés effectifs, le demandeur doit, même lorsqu’il n’est
 pas étranger, verser une avance suffisante pour les couvrir.

@@ -6,8 +6,6 @@ categories:
   - "chasse"
 ---
 
-protection des oiseaux
-
 **Article 1**
 
 Les espèces d’oiseaux auxquelles, aux termes de l’article 8, alinéa 1er, lettre b) de la loi du 22

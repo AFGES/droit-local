@@ -7,8 +7,6 @@ categories:
   - "administration"
 ---
 
-de l'utilisation de bulletins de vote imprimés
-pour les élections des membres des conseils presbytéraux protestants
 En application de l'article 14 du décret du 28 mars 1852, concernant la réorganisation du culte
 protestant, à la suite des délibérations du consistoire supérieur de l’Eglise de la Confession
 d'Augsbourg du 20 novembre 1907 et du Synode réformé du 2 juin 1908, il est arrêté :
