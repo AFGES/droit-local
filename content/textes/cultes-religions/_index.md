@@ -1,6 +1,4 @@
 ---
 title: "Cultes et religions"
-description: "Lois et règlements relatifs aux cultes reconnus en Alsace-Moselle."
+description: "Textes du droit local d'Alsace-Moselle relatifs aux cultes et religions."
 ---
-
-Textes régissant les cultes catholique, protestants (confession d'Augsbourg, Église réformée) et israélite, leurs consistoires, synodes, et le statut des ministres du culte.

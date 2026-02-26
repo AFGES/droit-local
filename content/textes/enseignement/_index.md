@@ -1,6 +1,4 @@
 ---
 title: "Enseignement"
-description: "Lois et règlements relatifs à l'enseignement en Alsace-Moselle."
+description: "Textes du droit local d'Alsace-Moselle relatifs à l'enseignement."
 ---
-
-Textes relatifs à l'organisation et à la surveillance de l'enseignement primaire et secondaire, aux obligations scolaires, et au statut des instituteurs.

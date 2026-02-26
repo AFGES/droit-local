@@ -1,6 +1,4 @@
 ---
 title: "Commerce et professions"
-description: "Lois relatives au commerce, aux professions réglementées et aux assurances sociales."
+description: "Textes du droit local d'Alsace-Moselle relatifs au commerce et aux professions."
 ---
-
-Textes régissant le code de commerce, les professions, le repos dominical, et les assurances sociales (maladie, invalidité, vieillesse).
