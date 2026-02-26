@@ -78,20 +78,32 @@ menu:
       url: /textes/fonctionnaires/
       weight: 40
     - identifier: menu-chasse
-      name: Chasse et environnement
-      url: /textes/chasse-environnement/
+      name: Chasse
+      url: /textes/chasse/
       weight: 50
+    - identifier: menu-eaux
+      name: Eaux
+      url: /textes/eaux/
+      weight: 55
     - identifier: menu-droit-civil
       name: Droit civil
       url: /textes/droit-civil/
       weight: 60
     - identifier: menu-droit-penal
-      name: Droit penal et urbanisme
-      url: /textes/droit-penal-urbanisme/
+      name: Droit pénal
+      url: /textes/droit-penal/
+      weight: 65
+    - identifier: menu-urbanisme
+      name: Urbanisme
+      url: /textes/urbanisme/
       weight: 70
     - identifier: menu-commerce
       name: Commerce et professions
       url: /textes/commerce-professions/
+      weight: 75
+    - identifier: menu-droit-social
+      name: Droit social
+      url: /textes/droit-social/
       weight: 80
     - identifier: menu-administration
       name: Administration
