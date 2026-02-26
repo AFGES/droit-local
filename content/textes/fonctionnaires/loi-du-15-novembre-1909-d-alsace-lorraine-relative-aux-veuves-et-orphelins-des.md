@@ -6,7 +6,7 @@ categories:
   - "fonctionnaires"
 ---
 
-d’Alsace-Lorraine 
+d’Alsace-Lorraine
 relative aux veuves et orphelins des fonctionnaires
 **Article 1er**
 Auront droit à une pension du Trésor d'Alsace-Lorraine la veuve et les enfants légitimes
@@ -35,7 +35,7 @@ service, dont les droits à une pension seraient suspendus par suite de la perte
 allemande (art. 57, n° 1 de la loi sur le statut des fonctionnaires d'Empire).
 **Article 4**
 La veuve n'a pas droit à une pension en cas de dissolution du mariage par suite de divorce
-ou en cas de suppression  de  la communauté de  vie conjugale. Il en est de même en cas de
+ou en cas de suppression de la communauté de vie conjugale. Il en est de même en cas de
 séparation de corps et de biens prononcée à la requête du mari sous l'empire de la législation
 antérieure.
 
@@ -60,7 +60,7 @@ Le montant de la pension de la veuve est de 40 % de la pension à laquelle avait
 défunt ou à laquelle il aurait eu droit, s'il avait quitté le service le jour de son décès.
 Toutefois, et sous réserve des restrictions prévues à l'article 10, la pension devra s'élever à
 300 marks au moins et ne pourra dépasser 5 000 marks.
-Si le défunt, après avoir été  pensionné,  était rentré au service de l'Alsace-Lorraine, la
+Si le défunt, après avoir été pensionné, était rentré au service de l'Alsace-Lorraine, la
 pension de sa veuve sera calculée d'après le montant total que le défunt touchait ou aurait pu
 toucher à titre de pension nouvelle et ancienne, mais, toutefois, dans le cas de l'article 2, alinéa 2,
 seulement d'après le montant de la nouvelle pension établie conformément à l'article 58, alinéa
@@ -87,7 +87,7 @@ s'il avait quitté le service le jour de son décès.
 Pour réaliser cette limitation, chacune des pensions sera réduite proportionnellement.
 **Article 11**
 Si la veuve était plus jeune que le défunt d'au moins quinze années, la pension calculée
-d'après  les règles  des articles  8  et  10 sera  réduite  d’un  vingtième  pour  toute année  dont
+d'après les règles des articles 8 et 10 sera réduite d’un vingtième pour toute année dont
 s’augmente la différence d'âge au-delà de quinze jusqu'à vingt-cinq inclusivement, toute année
 commencée comptant comme entière. Si le mariage a duré plus de cinq années, la pension ainsi
 réduite sera augmentée, pour chaque année commencée en sus, d'un dixième de la pension
@@ -118,8 +118,8 @@ dans la mesure où ceux-ci ne bénéficient pas encore entièrement des sommes a
 peuvent prétendre en vertu des articles 8 à 11.
 **Article 14**
 Le droit de la veuve et des orphelins à la pension est suspendu :
-1°  Quand  l'ayant  droit  perd  la  nationalité  allemande,  -  jusqu'au  jour  où,  il  l'aura
-recouvrée ; 
+1° Quand l'ayant droit perd la nationalité allemande, - jusqu'au jour où, il l'aura
+recouvrée ;
 2° Quand et aussi longtemps que l'ayant droit touche une pension à raison d'une nouvelle
 nomination ou occupation du défunt, en dehors du service d'Alsace-Lorraine, dans un des
 emplois désignés à l'article 57, n° 2, de la loi sur le statut des fonctionnaires d'Empire, - dans la
@@ -166,7 +166,7 @@ appliqué.
 Les dispositions de la présente loi concernant les veuves et orphelins des fonctionnaires
 s'appliquent également aux veuves ou orphelins des maîtres et maîtresses de l'enseignement
 public au sens de l'article 1er de la loi d'Alsace-Lorraine du 23 décembre 1873, relative au statut
-des fonctionnaires el des maîtres de l'enseignement (G. B., p. 479), ainsi qu'aux  veuves  et
+des fonctionnaires el des maîtres de l'enseignement (G. B., p. 479), ainsi qu'aux veuves et
 orphelins du personnel de la gendarmerie.
 **Article 19**
 La présente loi entrera en vigueur au lendemain de sa promulgation, sous les modalités ci-
@@ -174,12 +174,12 @@ après:
 1° Elle sera applicable aux veuves et orphelins des fonctionnaires décédés après le 31
 mars 1908 ; toutefois, les augmentations de pension pouvant résulter de l'application de la
 présente loi ne seront pas payées rétroactivement pour l'époque antérieure au 1er avril 1909 ;
-2° Les pensions des  veuves  et orphelins des fonctionnaires décédés avant l'entrée en
-vigueurs  de  la  présente  loi  ne  seront  suspendues,  postérieurement  au  1er avril  1909,  que
-conformément aux articles 14 et 15 ; 
+2° Les pensions des veuves et orphelins des fonctionnaires décédés avant l'entrée en
+vigueurs de la présente loi ne seront suspendues, postérieurement au 1er avril 1909, que
+conformément aux articles 14 et 15 ;
 
 3° Les sommes à payer à titre de pension aux veuves et orphelins des fonctionnaires
-décédés  avant  l'entrée  en  vigueur  de  la  présente  loi  ne  pourront  être  inférieures  à  celles
+décédés avant l'entrée en vigueur de la présente loi ne pourront être inférieures à celles
 auxquelles la législation antérieure leur donne droit ;
 4° Les dispositions de l'article 2, alinéa 3, et de l'article 11 ne sont pas applicables, lorsque
 le mariage du défunt et sa nomination sont antérieurs à l'entrée en vigueur de la présente loi.

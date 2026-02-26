@@ -6,11 +6,11 @@ categories:
   - "urbanisme"
 ---
 
-**Article 1er** 
+**Article 1er**
 Par arrêté local pris pour une commune, l’autorité de police locale pourra être autorisée,
 outre la réglementation de la police des constructions dans l’intérêt de la sécurité et de l’hygiène,
 à édicter des dispositions dans l’intérêt de l’esthétique locale en ce qui concerne la situation et
-l’aspect extérieur des constructions. 
+l’aspect extérieur des constructions.
 Les dispositions de l’article 142 de la loi sur les professions pour l’Empire allemand
 s’appliqueront à cet arrêté avec cette modalité qu’à la place des patrons et ouvriers intéressés on
 entendra des représentants des propriétaires fonciers intéressés et des experts désignés à raison

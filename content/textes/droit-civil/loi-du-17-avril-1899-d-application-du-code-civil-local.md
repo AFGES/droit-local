@@ -6,8 +6,8 @@ categories:
   - "droit-civil"
 ---
 
-d’application du Code civil local 
-SECTION PREMIERE 
+d’application du Code civil local
+SECTION PREMIERE
 DISPOSITIONS RELATIVES A LA PARTIE GENERALE
 Personnes juridiques
 **Art. 7**. – Lorsqu’une fondation prend fin (C. civ., art. 80), le patrimoine est dévolu aux
@@ -21,8 +21,8 @@ Ministère, sur proposition du fondateur.
 La surveillance d’une fondation, qui, aux termes de l’acte de fondation, est exclusivement
 affectée aux intérêts des membres d’une ou de plusieurs familles déterminées, est exercée par le
 tribunal d’instance dans le ressort duquel la fondation a son siège ; la surveillance de toute autre
-fondation est exercée par  le préfet du département. Conformément à ces prescriptions, le
-Ministère  désigne  l’autorité  compétente ;  il  peut  charger  de  la  surveillance  une  autorité
+fondation est exercée par le préfet du département. Conformément à ces prescriptions, le
+Ministère désigne l’autorité compétente ; il peut charger de la surveillance une autorité
 administrative autre que le préfet du département.
 Sont applicables à la surveillance de l’autorité les dispositions des articles 1837, 1839 à
 1841, 1843, 1844, 1886 du Code civil avec cette réserve que les époques auxquelles le compte
@@ -37,7 +37,7 @@ direction est tenue de placer les fonds appartenant à la fondation conformémen
 des articles 1806 à 1808 du Code civil et de déposer les titres au porteur avec les talons de
 renouvellement dans une caisse de dépôts ou à la Banque de France. Elle peut, au lieu d’en
 effectuer le dépôt, faire transférer les titres au nom de la fondation, ou lorsqu’il s’agit de titres
-émis  par  l’Etat,  les  convertir  en  inscriptions  nominatives  sur  l’émetteur.  Des  dispositions
+émis par l’Etat, les convertir en inscriptions nominatives sur l’émetteur. Des dispositions
 différentes peuvent être fixées par l’autorité chargée de la surveillance.
 
 SECTION TROISIEME

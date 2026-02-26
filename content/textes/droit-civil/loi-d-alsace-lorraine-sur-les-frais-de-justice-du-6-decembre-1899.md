@@ -16,7 +16,7 @@ tribunal d’après sa libre appréciation en tenant compte des dispositions sui
 1° Le calcul sera fait selon la valeur de l’objet au moment où les droits seront
 exigibles ;
 2° Pour la valeur à mettre en compte, on ne considérera que l’objet principal de
-l’affaire.  Il  ne  sera  tenu  compte  des  fruits,  jouissance,  intérêts,  dommages,  peines
+l’affaire. Il ne sera tenu compte des fruits, jouissance, intérêts, dommages, peines
 conventionnelles et frais, que s’ils forment l’objet d’une affaire distincte ;
 3° Les dispositions des articles 6, 7 et 9 du code de procédure civile et de l’article 9
 a, alinéa 2, phrase première de la loi d’Empire sur les frais de justice trouvent application
@@ -46,7 +46,7 @@ Les décisions statuant sur la fixation de la valeur ou sur les observations rel
 compte des frais pourront être modifiées d’office par le tribunal qui les a rendues ou par le
 tribunal de l’instance supérieure.
 **Article 15**
-Les  décisions  mentionnées  aux  articles  12  à  14  pourront  être  frappées  de  pourvoi
+Les décisions mentionnées aux articles 12 à 14 pourront être frappées de pourvoi
 conformément aux dispositions de la loi d’Empire sur les affaires de la juridiction gracieuse sous
 la réserve que les alinéas 2 et 3 de l’article 28 de ladite loi ne sont pas applicables. Les décisions
 rendues par le tribunal régional en première instance pourront être frappées d’un pourvoi devant
@@ -63,7 +63,7 @@ Seront perçus comme déboursés effectifs :
 sur les frais de justice.
 
 **Article 150**
-La  certification  d’actes  de  mainlevée,  la  certification  d’un  pouvoir  pour  contracter
+La certification d’actes de mainlevée, la certification d’un pouvoir pour contracter
 l’obligation de transférer la propriété d’un immeuble ou de consentir une hypothèque ou un droit
 de superficie,, ou pour consentir l’inscription ou la radiation d’une hypothèque ou d’un droit de
 superficie ne donnent pas lieu à la perception d’un droit pour l’Etat.

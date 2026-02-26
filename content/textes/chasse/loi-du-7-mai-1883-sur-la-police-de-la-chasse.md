@@ -10,7 +10,7 @@ dans les nouveaux quartiers de la ville de Strasbourg
 **Article 4**
 Les propriétaires riverains d’une voie sont tenus, en proportion de la longueur de la
 façade de leurs terrains, de supporter, outre le prix du terrain nécessaire pour la voie, les frais du
-premier établissement, du nivellement, de l’écoulement des eaux, du pavage et des trottoirs. 
+premier établissement, du nivellement, de l’écoulement des eaux, du pavage et des trottoirs.
 Toutefois aucun propriétaire ne peut être tenu de supporter les frais pour plus de la moitié
 de la voie ou, si celle-ci a plus de 20 mètres de largeur, pour plus de 10 mètres. La ville n’est pas
 autorisée à réclamer, en vertu de l’article 30 de la loi du 161 septembre 1807, aux propriétaires
@@ -29,7 +29,7 @@ Le ministère déterminera :
 2° Par quels moyens et sous quelles conditions ces animaux peuvent être détruits.
 **Article 5**
 Lorsque la multiplication excessive du gibier ou toute autre circonstance fera craindre
-que  le  gibier  ne  cause  aux  cultures  des  dommages  extraordinaires, le  directeur  de  cercle
+que le gibier ne cause aux cultures des dommages extraordinaires, le directeur de cercle
 imposera, même en temps prohibé, aux titulaires de la chasse, sur la demande des propriétaires
 lésés et après avoir examiné préalablement si la mesure est nécessaire, l’obligation d’en réduire
 1Le texte allemand porte par erreur 30 septembre. Il ne peut s’agir que de la loi du 16 septembre 1807 relative au

@@ -40,7 +40,7 @@ fonds dominant, ou, si le montant de la moins-value qui en résulte pour le fond
 En cas de contestation sur l’existence ou la durée d’un bail à ferme ou à loyer, la valeur de
 l’objet du litige est déterminée par le montant cumulé des fermages ou loyers pour toute la durée
 prétendue du bail, ou, si ce montant dépassait une somme égale à vingt-cinq fois le prix annuel du
-bail, par cette dernière somme seulement. 
+bail, par cette dernière somme seulement.
 **Article 9**
 Le droit à des jouissances ou prestations périodiques s’évalue d’après la valeur d’une
 annuité multipliée :
@@ -69,7 +69,7 @@ avocats-avoués qu’autant que ces frais n’excèdent pas ceux d’un seul avo
 changement dans la personne de l’avocat-avoué a dû nécessairement avoir lieu.
 
 **Article 98**
-Les  frais  d’une  transaction  intervenue  entre  les  parties  sont  à  considérer  comme
+Les frais d’une transaction intervenue entre les parties sont à considérer comme
 compensés lorsqu’il n’y a pas entre les parties de convention contraire. Il en est de même des
 frais du procès terminé par transaction s’ils n’ont pas été l’objet d’une décision ayant force de
 chose jugée.
@@ -89,7 +89,7 @@ compter du jour de la signification de la résolution sur la liquidation. Le tri
 débat oral préalable. Avant de rendre sa décision, le tribunal peut suspendre l’exécution de la
 résolution qui a liquidé les dépens. La décision du tribunal est susceptible de pourvoi immédiat.
 **Article 105**
-La  résolution  qui  liquide  les  dépenses  peut  être  portée  sur  le  jugement  et  sur  les
+La résolution qui liquide les dépenses peut être portée sur le jugement et sur les
 expéditions, pourvu qu’au moment de la présentation de la requête une expédition du jugement
 n’ait pas encore été délivrée et que, par là, cette délivrance n’en soit pas retardée. Il n’y a pas lieu,
 dans ce cas, à expédition ni signification spéciales de la résolution relative à la liquidation des
@@ -109,7 +109,7 @@ de bailliage, la sommation doit être délivrée par le greffier après présent
 liquidation. Les prescriptions de l’article 105 ne sont pas applicables.
 Le délai d’une semaine étant expiré sans qu’il ait été fait droit à la sommation, la décision
 est rendue sans égard aux dépens de l’adversaire, mais sans préjudice du droit pour ce dernier de
-faire valoir ultérieurement  sa prétention au remboursement. L’adversaire est tenu des  frais
+faire valoir ultérieurement sa prétention au remboursement. L’adversaire est tenu des frais
 supplémentaires auxquels donne lieu cette procédure.
 **Article 107**
 Lorsque, après la liquidation des dépens, il intervient une décision fixant la valeur de
@@ -133,7 +133,7 @@ un intérêt juridique à établir immédiatement, par décision judiciaire, le 
 sincérité (Echtheit) ou la fausseté du titre.
 **Article 257**
 Lorsqu’une créance de somme d’argent ne dépendant pas d’une contre-prestation, ou une
-demande  en  évacuation  d’un  fonds,  d’une  habitation ou  d’un  autre  local  ne  peuvent  être
+demande en évacuation d’un fonds, d’une habitation ou d’un autre local ne peuvent être
 réclamées qu’à l’échéance d’une certaine date du calendrier, il peut être formé une demande en
 payement ou en évacuation futurs.
 
@@ -148,7 +148,7 @@ prétention peuvent être établis par des titres. La prétention en vertu d’u
 dette foncière ou d’une rente foncière est aussi considérée comme une prétention ayant pour objet
 le paiement d’une somme d’argent.
 **Article 593**
-La demande doit nécessairement contenir  la déclaration qu’il s’agit d’une demande
+La demande doit nécessairement contenir la déclaration qu’il s’agit d’une demande
 relevant de la procédure sur titres.
 Les titres doivent nécessairement être annexés en original ou en copie soit à la demande,
 soit à une écriture préparatoire. Dans ce dernier cas, un délai égal au délai pour répondre doit
@@ -162,7 +162,7 @@ Les titres et la délation de serment sont seuls admis comme moyens de preuve po
 la sincérité ou la fausseté d’un titre ou pour établir des faits autres que ceux mentionnés à l’article
 592.
 L’offre de la preuve par titres ne peut se faire que par la production des titres.
-La  prestation  d’un  serment  doit  être  ordonnée  par  une  résolution  de  preuve
+La prestation d’un serment doit être ordonnée par une résolution de preuve
 (Beweisbeschluss).
 **Article 596**
 Jusqu’à la fin du débat oral, le demandeur peut, sans qu’il soit besoin du consentement du
@@ -175,7 +175,7 @@ d’une exception du défendeur, le demandeur doit en être débouté.
 S’il n’y a pas lieu à une procédure sur titres, notamment si la preuve qui incombe au
 demandeur n’est pas offerte par des moyens de preuve admissibles dans la procédure sur titres,
 ou si cette preuve n’est pas complètement poursuivie par de tels moyens, la demande doit être
-repoussée  comme  non  recevable  dans  la  forme  de  procédure  choisie,  alors  même  que  le
+repoussée comme non recevable dans la forme de procédure choisie, alors même que le
 défendeur n’aurait pas comparu au jour fixé pour le débat oral ou n’aurait contredit à la demande
 que par des exceptions mal fondées en droit ou non recevables dans la procédure sur titres.
 **Article 598**
@@ -185,7 +185,7 @@ admissibles dans cette procédure, ou lorsqu’elle n’est pas complètement po
 tels moyens.
 **Article 599**
 Dans tous les cas où le défendeur est condamné, s’il a contredit à la prétention réclamée,
-la faculté de faire valoir ses droits doit lui être réservée. 
+la faculté de faire valoir ses droits doit lui être réservée.
 Si le jugement ne contient pas de réserve à cet égard, on peut demander qu’il soit
 complété conformément aux prescriptions de l’article 321.
 Le jugement rendu sous réserve des droits est considéré, en ce qui concerne les voies de
@@ -207,11 +207,11 @@ lieu d’observer les prescriptions particulières qui suivent.
 **Article 603**
 Les demandes fondées sur une lettre de change peuvent être portées soit au tribunal du
 lieu du payement, soit au tribunal près lequel le défendeur a son statut général de juridiction.
-Si  plusieurs  signataires  d’une  lettre  de  change  sont  poursuivis  conjointement,  la
+Si plusieurs signataires d’une lettre de change sont poursuivis conjointement, la
 compétence appartient, non seulement au tribunal du lieu du payement, mais encore à tout
 tribunal près lequel un des défendeurs a son statut général de juridiction.
 **Article 604**
-La demande doit nécessairement contenir  la déclaration qu’il s’agit d’une demande
+La demande doit nécessairement contenir la déclaration qu’il s’agit d’une demande
 relevant de la procédure sur lettres de change.
 Le délai pour répondre est de vingt-quatre heures au moins quand la demande est signifié
 au lieu où siège le tribunal saisi de l’affaire ; de trois jours au moins quand l’acte introductif est
@@ -239,7 +239,7 @@ SECTION I
 DISPOSITIONS GENERALES
 **Article 797**
 L’expédition exécutoire d’actes notariés est délivrée par le notaire qui conserve ces actes.
-Lorsqu’une  autorité  publique  conserve  un  acte,  il  lui  appartient  d’en  délivrer  l’expédition
+Lorsqu’une autorité publique conserve un acte, il lui appartient d’en délivrer l’expédition
 exécutoire.
 La décision sur les exceptions relatives à l’admissibilité de la formule exécutoire, ainsi
 que la décision sur la délivrance d’une nouvelle expédition exécutoire sont rendues par le tribunal
@@ -254,14 +254,14 @@ créancier, la signification des actes authentiques ou authentiquement certifié
 qualité de l’ayant cause n’est pas nécessaire, quand celui-ci est inscrit comme créancier au livre
 foncier.
 SECTION II
- DE L’EXECUTION FORCEE POUR DES CREANCES D’ARGENT
+DE L’EXECUTION FORCEE POUR DES CREANCES D’ARGENT
 TITRE II
 DE L’EXECUTION FORCEE SUR LES IMMEUBLES
 **Article 864**
 Sont soumis aux règles relatives à l’exécution forcée sur les immeubles, outre les fonds de
 terre, les droits régis par les dispositions relatives à ces fonds ainsi que les navires inscrits au
 registre des navires.
-L’exécution forcée  sur  une  quote-part  d’un  fonds  ou  d’un  droit  ne  peut  avoir  lieu
+L’exécution forcée sur une quote-part d’un fonds ou d’un droit ne peut avoir lieu
 qu’autant que la quote-part consiste en une part de copropriété, ou lorsque la prétention du
 créancier est fondée sur un droit réel qui grève cette quote-part comme telle.
 **Article 865**
@@ -275,7 +275,7 @@ n’aura pas été opérée par la voie de l’exécution forcée sur les immeub
 **Article 866**
 L’exécution forcée sur un fonds s’opère, soit par l’inscription d’une hypothèque de
 garantie pour la créance, soit par la vente forcée aux enchères, soit par l’administration forcée.
-Le  créancier  peut  demander  que  l’une  de  ces  mesures  soit  exécutée  seule  ou
+Le créancier peut demander que l’une de ces mesures soit exécutée seule ou
 conjointement avec les autres.
 On ne peut prendre inscription d’une hypothèque de garantie, en vertu d’un titre de
 créance exécutoire, que si le montant de la créance dépasse 300 marks. Les prescriptions des
@@ -290,7 +290,7 @@ chaque part.
 **Article 869**
 La vente forcée et l’administration forcée sont réglées pan une loi spéciale.
 **Article 870**
-Les  prescriptions  relatives  à  l’exécution  forcée  sur  les  immeubles  s’appliquent  par
+Les prescriptions relatives à l’exécution forcée sur les immeubles s’appliquent par
 analogie à l’exécution forcée sur un droit régi par les prescriptions relatives aux fonds.
 L’exécution forcée sur un navire inscrit au registre des navires ne peut avoir lieu que par
 voie de la vente forcée.

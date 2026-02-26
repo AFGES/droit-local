@@ -10,7 +10,7 @@ Dispositions générales
 **Article 5**
 Les traitements sont payés chaque mois et d'avance. Il appartiendra au Conseil fédéral de
 designer les fonctionnaires dont los traitements sont payés par trimestre.
-Les  fonctionnaires  qui,  avant  la  promulgation  de  la  présente  loi,  touchaient  leurs
+Les fonctionnaires qui, avant la promulgation de la présente loi, touchaient leurs
 traitements par trimestre, continueront à les toucher de la même manière, au moins jusqu’à leur
 avancement à un emploi supérieur.
 **Article 7**
@@ -22,49 +22,49 @@ la promulgation de la présente loi et avant son entrée au service de l'Empire.
 (Besoldung) au sens de la disposition précédente, sont compris, outre le traitement proprement
 dit (Gehalt), les autres émoluments de service que le défunt touchait sur les fonds de l'Empire ;
 toutefois les émoluments prévus pour remboursement des dépenses de service n'y sont pas
-compris, et ceux pour frais de représentation sont réduits de 20 %. 
+compris, et ceux pour frais de représentation sont réduits de 20 %.
 En ce qui concerne les fonctionnaires n'occupant pas un emploi inscrit aux budgets des
 traitements, le trimestre de grâce pourra être accordé à leurs veuve ou orphelins par le chef de
 service (vorgesetzte Dienstbehörde).
 Le trimestre de grâce sera payé d'avance en une seule fois. Le chef de service déterminera
 les personnes auxquelles le payement doit être fait.
-Le trimestre de grâce ne peut être saisi. 
+Le trimestre de grâce ne peut être saisi.
 **Article 8**
 Avec l'autorisation de l'autorité centrale (oberste Reichsbehörde), le trimestre de grâce
 peut aussi être accordé si, à défaut des survivants désignés à l'article 7, le défunt laisse dans le
 besoin des ascendants, des frères ou sœurs, des enfants de frères ou sœurs, des enfants recueillis
 (Pflegekinder) dont t'entretien était en tout ou pour la plus grande partie à sa charge, ou si, et
 dans la mesure où, sa succession ne suffit pas à couvrir les frais de sa dernière maladie et de ses
-funérailles.  L'autorité  centrale  peut  déléguer  à  d'autres  autorités  le  droit  de  donner  cette
-autorisation. 
+funérailles. L'autorité centrale peut déléguer à d'autres autorités le droit de donner cette
+autorisation.
 
 Admission à la retraite des fonctionnaires. Droit à une pension.
 **Article 34**
 Tout fonctionnaire dont les émoluments de service sont payés par la caisse de l'Empire
 reçoit de celle-ci une pension viagère, lorsqu'après dix ans de services au moins il devient d'une
-manière  permanente incapable  de  remplir  les  devoirs  de  sa fonction,  par  suite  d'infirmité
+manière permanente incapable de remplir les devoirs de sa fonction, par suite d'infirmité
 corporelle ou d'affaiblissement de ses forces physiques ou intellectuelles, et que, pour cette
-raison, il est mis à la retraite. 
+raison, il est mis à la retraite.
 **Article 36**
 Si l'incapacité de service (article 34) résultant d'une maladie, d'une blessure ou d'un autre
 dommage a été contractée par le fonctionnaire dans l'exercice ou à l'occasion de ses fonctions,
 sans qu'il y ait faute de sa part, celui-ci a droit à la pension, même s'il ne compte pas encore dix
-ans de services. 
+ans de services.
 **Article 39**
 Lorsque, en dehors du cas prévu à l'article 36, un fonctionnaire, mis à la retraite pour
 incapacité de service avant ses dix années de services, se trouve dans le besoin, il peut lui être
-accordé, par décision du Conseil fédéral, une pension, soit temporaire, soit viagère. 
+accordé, par décision du Conseil fédéral, une pension, soit temporaire, soit viagère.
 Montant de la pension.
 **Article 41**
 La pension s'élève, si le fonctionnaire compte dix années entières de services ou moins,
 aux 20/60 des émoluments de service déterminés aux articles 42 à 44 ; elle s'augmente de 1/60
 desdits émoluments pour chaque année accomplie en plus après la dixième année jusqu'à la
-trentième révolue, et de 1/120 pour chaque année accomplie en sus de trente années. 
-Lorsqu'elle a atteint les 45/60 desdits émoluments, la pension ne s'augmente plus. 
-Dans  le  cas  prévu  à  l’article  39,  la  pension  s'élève  au  maximum  aux  20/60 des
-émoluments ci-dessus désignés. 
+trentième révolue, et de 1/120 pour chaque année accomplie en sus de trente années.
+Lorsqu'elle a atteint les 45/60 desdits émoluments, la pension ne s'augmente plus.
+Dans le cas prévu à l’article 39, la pension s'élève au maximum aux 20/60 des
+émoluments ci-dessus désignés.
 Le montant annuel de la pension doit être augmenté de telle manière que son chiffre
-divisé par 3 donne comme quotient des marks entiers. 
+divisé par 3 donne comme quotient des marks entiers.
 **Article 43**
 Un fonctionnaire qui. a occupé antérieurement un poste auquel étaient attachés des
 émoluments de service plus élevés et qui a touché ces émoluments pendant un an au moins,
@@ -74,7 +74,7 @@ tenant compte du temps entier qu'il a passé au service, à moins que sa nominat
 transfert dans un emploi de revenu inférieur n'ait eu lieu uniquement dans son intérêt, sur sa
 propre demande, ou à titre disciplinaire en vertu de l'article 75. En aucun cas, le total de la
 pension ne pourra dépasser les émoluments de service, comptant pour la pension, touchés en
-dernier lieu. 
+dernier lieu.
 Calcul du temps de service
 **Article 45**
 Le temps de service est compté à partir du jour de la première prestation de serment au
@@ -139,7 +139,7 @@ désignés ci-dessus, il appartiendra au Conseil fédéral de prendre une décis
 règle précédente.
 **Article 52**
 
-Peut  être  compté,  avec  l'autorisation  du  Conseil  fédéral,  et  conformément  aux
+Peut être compté, avec l'autorisation du Conseil fédéral, et conformément aux
 prescriptions des articles 45 à 49, le temps pendant lequel un fonctionnaire :
 1° A exercé, en Allemagne ou à l'étranger, les fonctions de notaire, d'avocat, avoué, etc.,
 ou a été au service d'une commune, d'un culte ou de l'enseignement, ou de l'administration de la
@@ -151,12 +151,12 @@ l'emploi immédiat d'un État ;
 4° A, avant sa nomination, en vertu d'un engagement de droit privé, rendu, d'une manière
 continue, des services à l'Empire ou à un État confédéré contre rémunération directe sur les fonds
 de l'Empire ou de l'État, à condition que, dans l'attente d'un emploi définitif, il ait été chargé,
-d'une  manière  permanente  et  avec  le  caractère  d'occupation  principale,  du  service  d'un
+d'une manière permanente et avec le caractère d'occupation principale, du service d'un
 fonctionnaire, et qu'en fait sa nomination ait suivi.
 Preuve de l’incapacité de service
 **Article 53**
 L'incapacité de service d'un fonctionnaire d'Empire qui demande sa mise à la retraite sera
-établie  par  un  avis  de  l'autorité  immédiatement  supérieure  (unmittelbar  vorgesetzte
+établie par un avis de l'autorité immédiatement supérieure (unmittelbar vorgesetzte
 Dienstbehörde), constatant que celle-ci le considère, en son âme et conscience, comme incapable
 de continuer à remplir les devoirs de sa charge.
 Il dépend de l'autorité appelée à statuer sur la mise à la retraite de décider si d'autres
@@ -172,7 +172,7 @@ Réduction, suppression et rétablissement des pensions
 **Article 57**
 Le droit à la pension est suspendu :
 
-1°  Quand  un  pensionné  perd la  nationalité  allemande, – jusqu'au jour où il  l'aura
+1° Quand un pensionné perd la nationalité allemande, – jusqu'au jour où il l'aura
 retrouvée ;
 2° Quand, et aussi longtemps qu'un pensionné touche, au service de l'Empire ou d'un
 État, des émoluments de service, – dans la mesure où le montant de ces nouveaux émoluments,
@@ -185,7 +185,7 @@ d'assurances de l'assurance-invalidité ou dans les établissements corporatifs 
 subventionnés en tout ou en partie par l'Empire, un État confédéré ou une commune.
 Dans le calcul des anciens et nouveaux émoluments de service ne doivent pas entrer en
 compte, ni les sommes prévues pour défrayer le fonctionnaire des dépenses de service ou frais de
-représentation, ni les  indemnités  exceptionnelles  pour  cherté de  vie, ni  les  indemnités  de
+représentation, ni les indemnités exceptionnelles pour cherté de vie, ni les indemnités de
 résidence des fonctionnaires à l'étranger ; le droit au logement doit être mis en compte pour la
 valeur comptant pour la pension ou autrement fixée ; l'indemnité de logement ou le supplément
 de traitement y correspondant doivent être mis en compte pour la somme comptant pour la
@@ -197,7 +197,7 @@ Un pensionné, qui est rentré au service de l'Empire dans un emploi donnant en 
 droit à la pension (art. 57, n° 2), n'acquerra, au cas où il est remis à la retraite, le droit à une
 pension calculée sur le temps de service global et les émoluments du nouvel emploi que lorsque
 la prolongation du temps de service, résultant du nouvel emploi, aura été d'au moins une année.
-Outre la  pension calculée sur ces  nouvelles  bases,  il n'y  aura lieu à payement  de
+Outre la pension calculée sur ces nouvelles bases, il n'y aura lieu à payement de
 l'ancienne pension que jusqu'à concurrence du montant correspondant à une pension calculée
 pour le temps global du service d'après les émoluments pris pour base de l'ancienne pension.
 **Article 60**
@@ -222,7 +222,7 @@ chef de service (vorgesetzte Dienstbehörde) lui notifie, à lui ou au curateur 
 à cet effet en cas de besoin, qu'il y a lieu de l'admettre à la retraite, en faisant connaître les motifs
 et le montant de la pension.
 **Article 63**
-Lorsque, dans  les six  semaines,  le  fonctionnaire  ne  soulève  aucune  objection à  la
+Lorsque, dans les six semaines, le fonctionnaire ne soulève aucune objection à la
 notification qui lui est faite (art. 62), il est procédé de la même manière que s'il avait lui-même
 demandé son admission à la retraite.
 Le traitement plein continue à être payé jusqu'à la fin du trimestre qui suit le mois au
@@ -283,23 +283,23 @@ Dispositions générales concernant les fautes professionnelles et leur punition
 disciplinaire
 **Article 75**
 Le retrait d'emploi peut consister :
-1° En déplacement par mesure disciplinaire. 
+1° En déplacement par mesure disciplinaire.
 Ce déplacement s'effectue par le transfert dans un autre emploi de rang égal, mais avec
 réduction de traitement qui ne pourra dépasser 1/5e. La réduction de traitement peut être
-remplacée par une amende ne dépassant pas le tiers des émoluments d'une année. 
-Le déplacement par mesure disciplinaire est mis  à exécution par l'autorité centrale
+remplacée par une amende ne dépassant pas le tiers des émoluments d'une année.
+Le déplacement par mesure disciplinaire est mis à exécution par l'autorité centrale
 (oberste Reichsbehörde).
-2° La destitution. 
+2° La destitution.
 Celle-ci entraîne de plein droit la perte du titre et du droit à la pension. Lorsque l'inculpé
 a déjà quitté le service avant la fin de la procédure disciplinaire, la perte du titre et du droit à la
 pension, au cas où il n'y aurait pas renoncé volontairement en prenant les frais à sa charge, sera
-prononcée à la place de la destitution. 
+prononcée à la place de la destitution.
 Si l'inculpé est un fonctionnaire ayant droit à une pension, et si son cas comporte des
 circonstances atténuantes, l'autorité disciplinaire peut, dans sa décision, ordonner qu'une partie
 de la pension légale sera laissée à l'inculpé, soit à vie, soit pour un certain nombre d'années.
 De la procédure disciplinaire
 **Article 84**
-Le  retrait  d'emploi  doit  être  précédé  d'une  procédure  disciplinaire  régulière.  Cette
-procédure  est  mise  en  mouvement  par  une  décision  de  l'autorité  centrale  (oberste
+Le retrait d'emploi doit être précédé d'une procédure disciplinaire régulière. Cette
+procédure est mise en mouvement par une décision de l'autorité centrale (oberste
 Reichsbehörde).
 La procédure disciplinaire comporte une instruction préliminaire écrite et un débat oral.

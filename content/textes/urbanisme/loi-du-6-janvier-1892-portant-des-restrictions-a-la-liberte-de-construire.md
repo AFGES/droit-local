@@ -11,7 +11,7 @@ Les dispositions de la présente loi et de la loi du 21 mai 1879 pourront, par o
 impériale, être étendues à d’autres communes ou parties déterminées de communes, lorsque le
 conseil municipal le demande.
 Loi du 16 mai 1894
- sur les ventes à tempérament
+sur les ventes à tempérament
 **Article 1er**
 Quand, lors de la vente d’une chose mobilière dont l’acheteur a reçu livraison, vente où le
 prix a été stipulé payable par acomptes, le vendeur, en prévision de l’inexécution des obligations

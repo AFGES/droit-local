@@ -43,7 +43,7 @@ l’Archéologie sacrée.
 Avant d’entrer en fonctions, les professeurs auront à faire la profession de foi entre les mains du
 Doyen, suivant les formes et règles de l’Eglise.
 **Art. 4**. – Les rapports entre la Faculté et ses membres, d’un côté, et l’Eglise et les autorités
-ecclésiastiques, de l’autre, sont déterminés par  les règlements  établis  pour les  Facultés  de
+ecclésiastiques, de l’autre, sont déterminés par les règlements établis pour les Facultés de
 Théologie catholique de Bonn et de Breslau.
 **Art. 5**. – Si la preuve est fournie par l’autorité ecclésiastique qu’un des professeurs doit
 être considéré comme incapable de continuer son professorat soit pour manque d’orthodoxie, soit

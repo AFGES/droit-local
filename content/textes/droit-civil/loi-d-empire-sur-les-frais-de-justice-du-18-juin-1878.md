@@ -40,7 +40,7 @@ Au cas de l’article 254 du code de procédure civile, il n’y a lieu de reten
 la valeur qu’une seule des demandes connexes, à savoir la plus élevée.
 
 **Article 11**
-Lorsqu’une  demande  principale  et  une  demande  reconventionnelle,  qui  ne  sont  pas
+Lorsqu’une demande principale et une demande reconventionnelle, qui ne sont pas
 poursuivies par des procédures distinctes, portent sur le même objet, les droits seront calculés
 d’après la valeur simple de cet objet. Si les deux demandes n’ont pas le même objet, les objets
 doivent être additionnés.
@@ -54,8 +54,8 @@ valeur du litige, à raison d’actes de procédure similaires, il ne pourra êt
 forte que si le droit avait été calculé sur le total de ces diverses parties ; si les taux à prélever à
 raison de ces actes sont différents, le plus élevé sera appliqué.
 **Article 13**
-Pour  les  actes  de  procédures  qui  ne  concernent  que  des  fruits,  jouissances,  intérêts,
-dommages  ou  frais,  demandés  en  tant  qu’accessoires  indépendamment  de  la  prétention
+Pour les actes de procédures qui ne concernent que des fruits, jouissances, intérêts,
+dommages ou frais, demandés en tant qu’accessoires indépendamment de la prétention
 principale, la valeur des demandes accessoires ne sera prise en considération qu’en tant qu’elle ne
 dépasse pas celle de la prétention principale.
 Pour les actes d’exécution forcée à raison d’une créance d’argent, il y a lieu d’ajouter les

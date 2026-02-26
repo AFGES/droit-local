@@ -7,11 +7,11 @@ categories:
 ---
 
 En vertu de l'article 23 de la loi du 30 décembre 1871 relative à l'organisation de
-l'administration, il est par la présente ordonné ce qui suit : 
+l'administration, il est par la présente ordonné ce qui suit :
 **Article 1er**
 Les attributions du consistoire central israélite, en tant qu'il n'est pas ci-après disposé
 autrement, seront jusqu'à nouvel ordre exercées par les consistoires israélites de district, chacun
-pour son district. 
+pour son district.
 **Article 2**
 Celles des attributions du consistoire central qui se rattachent au droit de surveillance de
 l'Etal seront jusqu'à nouvel ordre exercées par le président du district. Les présidents de district

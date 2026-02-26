@@ -12,7 +12,7 @@ Les dispositions de la présente loi et de la loi du 21 mai 1879 pourront, par o
 impériale, être étendues à d’autres communes ou parties déterminées de communes, lorsque le
 conseil municipal le demande.
 Loi du 16 mai 1894
- sur les ventes à tempérament
+sur les ventes à tempérament
 **Article 1er**
 Quand, lors de la vente d’une chose mobilière dont l’acheteur a reçu livraison, vente où le
 prix a été stipulé payable par acomptes, le vendeur, en prévision de l’inexécution des obligations
@@ -52,13 +52,13 @@ chose vendue, pareille reprise équivaut à l’exercice du droit de résiliatio
 Les prescriptions des articles 1 à 5 sont applicables par analogie à tous contrats qui, passés
 sous une forme juridique différente, tendent au même résultat que la vente à tempérament (art.
 1), spécialement à tout contrat en vertu duquel l’acquéreur serait investi de la possession de la
-chose  à  titre  de  locataire,  que  la  convention  lui  accorde  ou  non  le  droit  d’en  acquérir
+chose à titre de locataire, que la convention lui accorde ou non le droit d’en acquérir
 ultérieurement la propriété.
 **Article 7**
 Quiconque vend des billets de loterie ou des certificats d’acquisition ou de part de pareils
-billets  ou  titres  moyennant  un  prix  payable  par  acomptes, ou les  aliène  par  toutes  autres
+billets ou titres moyennant un prix payable par acomptes, ou les aliène par toutes autres
 conventions tendant au même but, sera puni d’une amende jusqu’à 500 marks.
 Il n’y a pas lieu de distinguer si la livraison du titre a précédé ou suivi le paiement du prix.
 **Article 8**
-Les  dispositions  de  la  présente  loi  ne  sont  pas  applicables  lorsque  l’acquéreur  des
+Les dispositions de la présente loi ne sont pas applicables lorsque l’acquéreur des
 marchandises figure comme commerçant sur le registre du commerce.

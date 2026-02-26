@@ -19,9 +19,9 @@ relative à l'impôt foncier
 La rectification (tenue à jour) annuelle des nouveaux registres du cadastre, prescrite par
 l'article 49 de la loi sur le cadastre du 31 mars 1884, en ce qui concerne les changements de
 culture (art. 54 de la même loi), aura lieu pour tous les finages de l’Alsace-Lorraine.
-Lorsqu'il  s'agit  de  changements  de  culture  qui  n'ont  pas  un  caractère  uniquement
+Lorsqu'il s'agit de changements de culture qui n'ont pas un caractère uniquement
 temporaire, on répartira en même temps les terres dans les natures de culture et les classes
-correspondantes,  et  on  procédera,  en  conséquence, à une  nouvelle fixation du revenu net
+correspondantes, et on procédera, en conséquence, à une nouvelle fixation du revenu net
 conformément à l'évaluation faite en vertu de la loi du 6 avril 1892.
 **Article 2**
 La recherche des changements de culture incombe aux jurés-champêtres qui seront

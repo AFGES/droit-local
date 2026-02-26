@@ -7,11 +7,11 @@ categories:
 ---
 
 **Article 9**
- 
+
 Dans le cas d’empêchement simultané du maire et des adjoints, le maire est suppléé par
 un membre du conseil municipal désigné par lui.
 **Article 14**
- 
+
 Le conseil municipal doit voter aux maires et adjoints les sommes nécessaires pour faire
 face aux dépenses de leurs fonctions ; il peut attacher à leurs fonctions un traitement convenable.
 **Article 18**
@@ -24,27 +24,27 @@ son traitement mensuel. Aucune amende ne pourra être prononcée sans que l’em
 préalablement mis à même de s’expliquer sur le manquement qui lui est reproché. Les amendes
 ne pourront être prononcées que par une décision motivée rédigée par écrit ou prise en procès-
 verbal. Les avertissements et blâmes décernés par le maire, de même que les décisions qui
-prononcent les amendes, ne sont susceptibles d’aucun recours. 
+prononcent les amendes, ne sont susceptibles d’aucun recours.
 Le maire peut accorder des congés aux employés municipaux placés sous ses ordres.
 **Article 19**
- 
+
 L’effet de l’approbation intervenue ultérieurement rétroagit au jour de l’acceptation par le
-maire. 
+maire.
 **Article 22**
- 
+
 Les maires et adjoints ne peuvent accepter, à l’occasion ou à raison de leurs fonctions,
 des cadeaux ou des rémunérations, sans l’autorisation de l’autorité de surveillance. La même
 autorisation est nécessaire aux maires et adjoints pourvus d’un traitement, pour accepter un
 emploi ou une occupation accessoire à laquelle une rémunération régulière est attachée, ou pour
 exercer une profession, ou pour entrer dans le conseil de direction, le conseil d’administration ou
-le conseil de surveillance d’une société ayant un but lucratif. 
+le conseil de surveillance d’une société ayant un but lucratif.
 **Article 23**
 Les maires et adjoints pourvus d’un traitement seront, pendant la durée de la suspension,
 soumis à une retenue de la moitié de leur traitement. Si la suspension n’est pas suivie de
 révocation, la moitié retenue sera payée ultérieurement.
 
 **Article 46**
-Les  conseillers  municipaux  exercent  leurs  fonctions  gratuitement.  Ils  ont  droit  au
+Les conseillers municipaux exercent leurs fonctions gratuitement. Ils ont droit au
 remboursement des déboursés faits au service de la commune.
 **Article 53**
 Le placement en titres des fonds communaux disponibles est soumis aux dispositions
@@ -55,7 +55,7 @@ Le conseil municipal délibère notamment sur les objets suivants :
 ou pour des fonctions déterminées de l’administration communale ;
 2° Les émoluments du maire et des adjoints ainsi que des employés communaux, sous
 réserve des dispositions de l’article 14 de la présente loi, l’allocation de pensions de retraite aux
-employés  communaux,  la  création  de  caisses  de  retraite  pour  ces  mêmes  employés  et  la
+employés communaux, la création de caisses de retraite pour ces mêmes employés et la
 modification des statuts de ces caisses ;
 **Article 59**
 Le conseil municipal est appelé à donner son avis :
@@ -70,7 +70,7 @@ dispositions de l’article 14 de la présente loi ;
 et aux feuilles officielles ;
 **Article 70**
 Dans les affaires qui, aux termes de la présente loi, doivent être jugées par la voie de la
-procédure contentieuse administrative, les dispositions suivantes sont applicables : 
+procédure contentieuse administrative, les dispositions suivantes sont applicables :
 1° Les demandes en fixation des limites litigieuses du territoire d’une commune (art. 8)
 seront introduites par le maire avec l’autorisation de son conseil municipal ;
 3° Les oppositions contre les arrêtés du maire ou les décisions du conseil municipal
@@ -82,11 +82,11 @@ districts, le conseil du troisième district statuera.
 **Article 79**
 Les amendes infligées, en vertu de la présente loi, à des employés municipaux seront
 versées dans la caisse municipale.
- 
+
 **Article 80**
-Toutes  les  dispositions  contraires  à  la  présente  loi  sont  abrogées.  Sont  abrogées
-notamment : 
-1°  La  loi  du  18  juillet  1837  sur  l’administration  municipale,  sans  préjudice  des
+Toutes les dispositions contraires à la présente loi sont abrogées. Sont abrogées
+notamment :
+1° La loi du 18 juillet 1837 sur l’administration municipale, sans préjudice des
 dispositions de l’article 81 de la présente loi ;
 2° La loi du 5 mai 1855 sur l’organisation municipale ;
 3° La loi du 24 juillet 1867 sur les conseils municipaux, à l’exception des articles 12 et

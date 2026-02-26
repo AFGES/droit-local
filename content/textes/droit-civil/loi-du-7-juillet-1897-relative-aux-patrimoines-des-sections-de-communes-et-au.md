@@ -11,13 +11,13 @@ et au patrimoine possédé indivisément par plusieurs communes ou sections de c
 Administration du patrimoine possédé indivisément par plusieurs communes
 **Article 7**
 Si plusieurs communes possèdent indivisément des biens ou des droits, il pourra, à la
-requête  d’une  des  communes  et  par  arrêté  du  président  du  district,  être  institué  pour
+requête d’une des communes et par arrêté du président du district, être institué pour
 l’administration de ce patrimoine indivis une commission syndicale composée de délégués des
 communes intéressées.
 Chaque conseil municipal nommera dans son sein, au vote secret, le nombre de délégués
 fixé par l’arrêté du président de district. Sont nommés les membres du conseil qui obtiennent le
 plus grand nombre de voix.
-Le  président  de  la  commission  sera  nommé  parmi  les  membres  par  l’autorité  de
+Le président de la commission sera nommé parmi les membres par l’autorité de
 surveillance.
 Par arrêté du président de district, la commission pourra à tout moment être dissoute.
 L’autorité de surveillance pourra suspendre ou révoquer le président de la commission.
@@ -37,7 +37,7 @@ syndicale se fera par les soins des conseils municipaux. Les décisions de ces d
 En cas de désaccord entre les conseils municipaux au sujet de la répartition, l’autorité de
 surveillance décidera.
 
-Les  dépenses  à la  charge  des  communes  sont des  dépenses  obligatoires, à  l’égard
+Les dépenses à la charge des communes sont des dépenses obligatoires, à l’égard
 desquelles il sera procédé, si besoin est, conformément aux dispositions de l’article 73 de la loi
 communale.
 **Article 11**
@@ -45,7 +45,7 @@ Si les communes intéressées sont soumises à des autorités de surveillance di
 fonctions de l’autorité de surveillance visées aux articles 7, 9 et 10 seront exercées par le
 président de district.
 Si les communes intéressées appartiennent à des districts différents, lesdites fonctions
-seront exercées par le Ministère. 
+seront exercées par le Ministère.
 Dispositions finales
 **Article 12**
 Toutes les dispositions contraires à la présente loi sont abrogées. Cesseront notamment

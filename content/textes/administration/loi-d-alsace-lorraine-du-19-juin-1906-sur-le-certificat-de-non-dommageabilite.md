@@ -18,7 +18,7 @@ fonds, et
 2° qu’il n’y ait pas lieu d’appréhender un préjudice pour les ayants droit, ou bien que le
 préjudice produit par la séparation franche de charges de la parcelle distraite se trouve compensé
 au moyen soit d’une charge établie sur un autre fonds, soit de quelque autre modification de droit,
-soit  d’une  prestation  en  argent.  La  compensation  en  argent  n’est  admissible  qu’à  l’égard
+soit d’une prestation en argent. La compensation en argent n’est admissible qu’à l’égard
 d’hypothèques, de dettes foncières et de rentes foncières. Son montant doit se déterminer d’après
 la diminution de valeur que la séparation occasionne au fonds.
 Le certificat de non-dommageabilité peut être limité à certaines charges.
@@ -32,7 +32,7 @@ d’appliquer la disposition de l’article 32, n° 2 de cette loi). On doit ré
 les frais et prestations accessoires.
 Si la répartition n’est pas demandée, l’auteur de la consignation doit être autorisé à
 reprendre la somme consignée.
-**Art.  3**.  –  Le  droit  de  demander  la  délivrance  du  certificat  de  non-dommageabilité
+**Art. 3**. – Le droit de demander la délivrance du certificat de non-dommageabilité
 appartient, à l’aliénateur avant le transfert de propriété et, après ce moment, à l’acquéreur de la
 parcelle distraite.
 Le requérant doit établir l’existence des conditions exigées pour la délivrance du certificat
@@ -73,7 +73,7 @@ compte, pour l’attestation de la non-dommageabilité, des droits qui prennent 
 l’inscription de la mention ; la parcelle distraite en est également affranchie.
 Si un autre fonds est grevé de charges au lieu et place de la parcelle distraite, ou si toute
 autre modification de droit est destinée à compenser le dégrèvement, il y a lieu, lors de la
-délivrance du certificat de non-dommageabilité, d’inscrire d’office  sur le  livre  foncier une
+délivrance du certificat de non-dommageabilité, d’inscrire d’office sur le livre foncier une
 prénotation (art. 883, C. civ. all.) pour garantir la prétention des ayants droit.
 **Art. 6**. – Si le fonds grevé d’une hypothèque, d’une dette foncière ou d’une rente foncière,
 pour lesquelles une cédule a été délivrée, ou bien d’une hypothèque garantissant la créance issue
@@ -104,7 +104,7 @@ propriété ou le livre foncier provisoire.
 Dans le cas où un autre fonds qui n’est pas inscrit au livre de propriété ou au livre foncier
 provisoire, doit servir à la compensation (art. 5, al . 5), il y a lieu de subordonner la délivrance du
 certificat de non-dommageabilité à l’inscription préalable de ce fonds.
-Les  opérations  incombant  d’après  la  présente  loi  au  tribunal  cantonal  peuvent  être
+Les opérations incombant d’après la présente loi au tribunal cantonal peuvent être
 accomplies également par les anciens conservateurs des hypothèques établis près les tribunaux
 cantonaux comme juges chargés de la tenue du livre foncier.
 **Art. 10**. – Les frais de la délivrance d’un certificat de non-dommageabilité, y compris la
@@ -112,7 +112,7 @@ procédure, sont fixés aux trois dixièmes des droits réglés par l’article 
 les frais de justice. Le calcul s’établit d’après la valeur de la parcelle distraite, du droit à faire
 disparaître, ou de la faculté de réclamer une indemnité, par rapport auxquels le certificat est
 délivré.
-Quand  l’aliénation  d’une  partie  de  fonds  ou  la  suppression  d’un  droit  ont  lieu
+Quand l’aliénation d’une partie de fonds ou la suppression d’un droit ont lieu
 gratuitement dans le but d’intérêt public, les droits ne sont pas réclamés.
 
 Les inscriptions à opérer en vertu d’un certificat de non-dommageabilité sur le livre
@@ -121,16 +121,16 @@ anciens bureaux d’hypothèques, sont exonérées de tous droits.
 **Art. 11**. – Les dispositions de la présente loi s’appliquent également, si l’aliénation d’une
 partie d’un fonds ou la suppression d’un droit (art. 7) ont eu lieu avant l’entrée en vigueur de la
 loi, ou si une faculté de réclamer une indemnité (art. 8) a pris naissance avant ce moment.
-Loi du 10 juillet 1906 
+Loi du 10 juillet 1906
 concernant l’affichage
 **Article 1er**
 Dans chaque commune l’autorité de police locale désignera, sur les voies, rues ou places
-publiques, des lieux exclusivement destinés à l’affichage des avis officiels. 
+publiques, des lieux exclusivement destinés à l’affichage des avis officiels.
 Le papier blanc ne pourra être employé dans l’affichage ou exposition sur des voies, rues
 ou places publiques que pour les seuls avis, placards et appels officiels.
 **Article 2**
 L’autorisation de la police locale est nécessaire en ce qui concerne les avis, placards et
-appels non officiels destinés à être publiquement affichés ou exposés. 
+appels non officiels destinés à être publiquement affichés ou exposés.
 Par ordonnance de la police locale, il pourra être prescrit que des avis, placards et appels
 de cette nature ne pourront être affichés ou exposés sur des voies, rues ou places publiques
 qu’aux lieux désignés par l’ordonnance.
@@ -140,7 +140,7 @@ officiels destinés à être distribués gratuitement au public auront besoin d�
 police locale.
 **Article 4**
 L’autorisation de la police locale prévue par la présente loi n’est pas nécessaire pour des
-imprimés  ayant  un  objet  électoral,  depuis  le  jour  où  la  date  de  l’élection  est  publiée
+imprimés ayant un objet électoral, depuis le jour où la date de l’élection est publiée
 officiellement jusqu’à la clôture des opérations électorales ; il en est de même pour l’annonce de
 réunions et cortèges déclarés ou autorisés.
 **Article 5**

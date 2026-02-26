@@ -18,7 +18,7 @@ L’autorisation de l’Etat est nécessaire :
 Toute école peut être fermée par les autorités administratives lorsqu’elle ne se conforme
 pas aux prescriptions officielles en ce qui concerne l’organisation et le programme.
 **Article 2**
-Quiconque,  sans  l’autorisation  prévue  à  l’article  1er,  donne  l’enseignement  à  titre
+Quiconque, sans l’autorisation prévue à l’article 1er, donne l’enseignement à titre
 professionnel ou dans un but lucratif, ouvre une école, engage un maître dans une école tenue ou
 dirigée par lui, et aussi quiconque continue à donner ou à faire donner l’enseignement dans une
 école fermée pour non-observation des règlements officiels, sera condamné à une amende de 100

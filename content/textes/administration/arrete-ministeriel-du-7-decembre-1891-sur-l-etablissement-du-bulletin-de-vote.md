@@ -12,6 +12,6 @@ septembre 1852, concernant la constitution des conseils presbytéraux et consist
 mesure où il s'applique à l'Eglise de la Confession d'Augsbourg, j'arrête ce qui suit :
 Les bulletins de vote peuvent être remplis en dehors du bureau de vote.
 Strasbourg, le 7 décembre 1891
-Ministère d'Alsace-Lorraine 
-Secrétariat à la justice et aux cultes 
+Ministère d'Alsace-Lorraine
+Secrétariat à la justice et aux cultes
 Puttkamer

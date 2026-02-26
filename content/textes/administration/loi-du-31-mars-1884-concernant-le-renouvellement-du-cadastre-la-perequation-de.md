@@ -42,7 +42,7 @@ la situation des lieux.
 **Article 6**
 Les propriétaires, possesseurs, usufruitiers, fermiers et autres détenteurs d’immeubles ont
 le droit d’assister aux constatations sur le terrain et de formuler leurs observations.
-Les  détenteurs  d’immeubles  sont  tenus,  en  conformité  des  prescriptions  qui  seront
+Les détenteurs d’immeubles sont tenus, en conformité des prescriptions qui seront
 précisées dans le règlement d’exécution :
 1° d’indiquer parcelle par parcelle, dans le délai de trois jours qui suit la sommation qui
 leur est faite dans les formes fixées par l’usage local, les immeubles qu’ils détiennent ;
@@ -87,7 +87,7 @@ sont, au besoin, invités par l’intermédiaire du maire à assister, personnel
 par un mandataire, à l’examen des réclamations qui ont été produites. Les non-comparants sont
 redevables des frais qui seraient occasionnés par un renouvellement de la procédure causé par
 eux. Le montant des ces frais est fixé par la commission du cadastre.
-Les  documents  cadastraux  qui  ont  été  communiqués  sont  rectifiés  en  tant  que  les
+Les documents cadastraux qui ont été communiqués sont rectifiés en tant que les
 réclamations sont reconnues fondées.
 Il peut être fait appel au ministère contre la fixation des frais ainsi que contre la décision
 de rejet de la commission du cadastre, dans un délai de rigueur d’un mois à partir du jour où les
@@ -136,18 +136,18 @@ manière et dans les mêmes conditions que les levés de plans effectués en vue
 régulière des documents cadastraux.
 b) De l’arpentage parcellaire
 **Article 12**
-L’arpentage  parcellaire  du  territoire  d’une  commune,  dans  le  but  de  renouveler  le
+L’arpentage parcellaire du territoire d’une commune, dans le but de renouveler le
 cadastre, est provoqué d’office si la commission du cadastre est d’avis qu’une simple révision ne
 peut être entreprise avec profit.
 **Article 13**
 
-L’arpentage  parcellaire  du  territoire  d’une  commune  est  effectué  également  sur  la
+L’arpentage parcellaire du territoire d’une commune est effectué également sur la
 demande, tant du conseil municipal que des propriétaires fonciers intéressés. La demande doit
 être présenté devant la commission du cadastre dans un délai de trois mois au plus tard après la
 publication officielle de l’avis annonçant qu’il va être procédé à la révision du cadastre de la
 commune.
 Si la majorité des propriétaires possédant des biens-fonds dans la commune, et qui
-représentent  également  les  deux  tiers  au  moins  de  la  superficie,  demandent  l’arpentage
+représentent également les deux tiers au moins de la superficie, demandent l’arpentage
 parcellaire de cette commune, cette demande oblige également les autres propriétaires intéressés.
 **Article 14**
 Avant de commencer l’arpentage parcellaire du territoire d’une commune, les limites
@@ -159,9 +159,9 @@ Avec l’approbation du ministère et en tant que les propriétaires fonciers et
 municipaux intéressés y consentent, des modifications peu importantes des limites des territoires
 communaux peuvent être effectuées à l’occasion de l’opération visée à l’alinéa précédent,
 notamment si ces modifications ont pour but d’obtenir des limites fixes naturelles.
-Les  dispositions  de  l’article  4  sont  également  applicables  s’il  s’agit  d’immeubles
+Les dispositions de l’article 4 sont également applicables s’il s’agit d’immeubles
 traversés par des limites de communes, ou d’immeubles formant emprises sur le territoire
-communal  voisin  ou  qui  se  trouvent  englobés  entièrement  dans  le  territoire  d’une  autre
+communal voisin ou qui se trouvent englobés entièrement dans le territoire d’une autre
 commune.
 **Article 15**
 Avant de commencer les opérations d’arpentage proprement dites, toutes les limites
@@ -180,7 +180,7 @@ indemnité.
 Le conseil municipal de chaque commune soumise à un arpentage parcellaire désigne un
 arbitre et un suppléant chargés de résoudre à l’amiable les différents qui pourraient exister en
 matière de limites et de fixer provisoirement les limites douteuses. En cas de besoin, on peut
-nommer  un  arbitre  et  un  suppléant  pour  des  parties  nettement  déterminées  du  territoire
+nommer un arbitre et un suppléant pour des parties nettement déterminées du territoire
 communal, ou plusieurs arbitres pour l’ensemble du territoire communal ou des parties nettement
 déterminées de celui-ci. La reconnaissance de l’état de possession et des autres matières entrant
 en ligne de compte s’effectue au surplus comme en cas de révision simple (article 3, alinéa 1).
@@ -192,11 +192,11 @@ et de tous autres renseignements, les limites qui, en vertu des dispositions de 
 **Article 18**
 Les dispositions de l’article 6 sont applicables à l’arpentage parcellaire de la commune.
 Les propriétaires, possesseurs usufruitiers, fermiers et autres détenteurs d’immeubles sont tenus,
-en  outre,  de  répondre  à  l’invitation  à  comparaître  devant  l’arbitre,  de  lui  fournir  les
+en outre, de répondre à l’invitation à comparaître devant l’arbitre, de lui fournir les
 renseignements de fait nécessaires et de produire, s’il l’exige, les titres qu’ils possèdent.
 **Article 19**
 Sur la base des résultats de l’arpentage, il est établi des nouveaux livres cadastraux, pour
-la  commune  et  l’administration  des  contributions  directes  ainsi  que  des  nouvelles  cartes
+la commune et l’administration des contributions directes ainsi que des nouvelles cartes
 cadastrales contenant l’inscription des cotes.
 La communication des nouveaux documents cadastraux ainsi que l’examen et la solution
 des réclamations éventuellement produites s’effectuent selon les dispositions de l’article 8.
@@ -205,7 +205,7 @@ Des réclamations visant le contenu des documents cadastraux peuvent être produ
 particulier contre :
 1° l’inscription d’un immeuble sous un nom inexact ;
 2° l’indication inexacte de la contenance d’un immeuble ;
-3°  l’indication  inexacte  du  mode  d’exploitation  durable  (nature  de  culture)  d’un
+3° l’indication inexacte du mode d’exploitation durable (nature de culture) d’un
 immeuble ;
 4° la désignation inexacte sur les cartes cadastrales de la situation ou des limites d’un
 immeuble ;
@@ -227,7 +227,7 @@ Les frais et parts de frais incombant aux communes sont avancés par le Trésor,
 intérêt dans le cas où l’arpentage parcellaire est exécuté d’office ; ils sont remboursés par les
 communes dans le délai fixé par le ministère, mais au plus tard dans dix ans.
 **Article 22**
-Dès l’entrée  en  vigueur  de  la  présente  loi  et  jusqu’à  la  clôture  des  opérations  de
+Dès l’entrée en vigueur de la présente loi et jusqu’à la clôture des opérations de
 renouvellement (article 1er), l’arpentage parcellaire du territoire d’une commune ne peut être
 effectué que par des spécialistes assermentés et désignés par l’autorité compétente et uniquement
 d’après les prescriptions des articles 2 et 12 à 21 de la présente loi.
@@ -268,7 +268,7 @@ III. De la conservation du cadastre
 Après que le cadastre d’une commune a été renouvelé par voie d’arpentage ou révisé
 (articles 7 et 19), il est tenu à jour annuellement (conservation).
 **Article 50**
-Pour  assurer  la  mise  à  jour  annuelle  du  cadastre,  les  propriétaires,  possesseurs,
+Pour assurer la mise à jour annuelle du cadastre, les propriétaires, possesseurs,
 usufruitiers, fermiers et autres détenteurs d’immeubles sont tenus de donner suite à l’invitation
 de comparaître à la mairie, devant l’agent chargé de la conservation du cadastre, d’y donner les
 renseignements de fait nécessaires pour la mise à jour des livres cadastraux, des cartes et des
@@ -289,7 +289,7 @@ textuellement dans les actes (alinéa 1).
 La péréquation de l’impôt foncier une fois terminée, les indications concernant le revenu
 net des immeubles doivent également être reproduites dans les actes.
 S’il s’agit d’un acte sous seing privé, l’extrait cadastral doit être produit au moment où
-l’acte  même  ou  une  expédition  est  présenté  à  l’enregistrement  ou  à  la  conservation  des
+l’acte même ou une expédition est présenté à l’enregistrement ou à la conservation des
 hypothèques.
 Lorsqu’une mutation d’immeuble en propriété ou en usufruit n’est pas constatée par un
 acte, l’extrait cadastral et, en outre, un procès-verbal d’arpentage ou une esquisse dans le cas
@@ -312,7 +312,7 @@ limites dans le territoire d’une commune dont le cadastre a été renouvelé p
 parcellaire. Son établissement doit être précédé d’un abornement des nouvelles limites en cause.
 Le procès-verbal d’arpentage doit représenter les nouvelles limites avec indication de toutes les
 cotes et inscription des nouvelles bornes.
-Une  esquisse  est  dressée  lorsqu’il  s’agit  de  nouvelles  limites  constituées  dans  des
+Une esquisse est dressée lorsqu’il s’agit de nouvelles limites constituées dans des
 territoires dont le cadastre à été renouvelé par voie de révision. Cette esquisse doit indiquer la
 répartition de la superficie cadastrale ainsi que la situation des nouvelles limites, en tant que ces
 indications sont nécessaires pour la mise à jour des plans cadastraux.
@@ -326,9 +326,9 @@ Les dispositions de l’article 24, alinéa 3 s’appliquent aux limites visées
 
 **Article 54**
 Le conseil municipal choisit, pour une durée illimitée, parmi les habitants possédant les
-aptitudes  requises,  au  moins  quatre  commissaires-jurés  (préposés  au  bornage)  chargés  de
+aptitudes requises, au moins quatre commissaires-jurés (préposés au bornage) chargés de
 surveiller les limites communales, des confins, des chemins et des propriétés privées, et de
-procéder  à  la  pose  des  pierres-bornes  ou  autres  marques  de  limites  et  de  déterminer  les
+procéder à la pose des pierres-bornes ou autres marques de limites et de déterminer les
 changements de culture. Ces commissaires-jurés sont assermentés par le juge cantonal, après
 confirmation de leur nomination par le sous-préfet. Ils peuvent être révoqués en tout temps par le
 sous-préfet pour des raisons administratives.
@@ -341,7 +341,7 @@ déplacer des bornes.
 Tous les actes, cartes, plans et autres documents dressés en conformité des dispositions
 ci-dessus pour servir au renouvellement et à la conservation du cadastre (ou à la péréquation de
 l’impôt foncier), sont dispensés des formalités du timbre et de l’enregistrement.
-Il  en  est  de  même  des  extraits  cadastraux,  des  procès-verbaux  d’arpentage  et  des
+Il en est de même des extraits cadastraux, des procès-verbaux d’arpentage et des
 esquisses annexés aux actes et documents désignés à l’article 51 ou dont ces actes et documents
 font mention.
 L’inscription au cadastre d’un nouveau propriétaire faite à l’occasion du renouvellement
