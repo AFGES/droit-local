@@ -62,6 +62,7 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
+          lfs: true
 
       - name: Setup Pages
         id: pages
