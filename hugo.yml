@@ -123,6 +123,12 @@ outputs:
     - RSS
     - JSON
 
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+
 sitemap:
   changeFreq: "monthly"
   priority: 0.8

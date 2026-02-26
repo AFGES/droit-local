@@ -444,7 +444,68 @@ def clean_law_text(raw_text: str, title: str) -> str:
     text = re.sub(r"^(Art\.\s+\d+\w*)", r"**\1**", text, flags=re.MULTILINE)
     text = re.sub(r"^(§\s*\d+\w*)", r"**\1**", text, flags=re.MULTILINE)
 
+    # Convert letter lists (a) ... b) ... c) ...) to markdown ordered lists
+    # with a block attribute for CSS styling (requires goldmark parser.attribute.block).
+    # Handles both indented letter lists (nested inside numbered lists, 3-space indent)
+    # and non-indented letter lists (standalone at article level).
+    text = _convert_letter_lists(text)
+
     return text.strip()
+
+
+def _convert_letter_lists(text: str) -> str:
+    """Convert letter-list items to markdown ordered lists with .liste-alpha attribute.
+
+    Detects consecutive lines of the form ``[indent]<letter>) <text>`` where the
+    letters form a contiguous alphabetic sequence starting at 'a', and rewrites
+    them as a Markdown ordered list followed by ``{.liste-alpha}`` so that Hugo's
+    Goldmark (with ``parser.attribute.block`` enabled) attaches the CSS class.
+
+    Two variants are handled:
+    - Non-indented (column 0):  ``a) text``
+    - Indented (3 spaces):      ``   a) text``  (nested inside numbered lists)
+    """
+    lines = text.split("\n")
+    result: list[str] = []
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+        # Try to detect the start of a letter-list block.
+        # A letter-list item starts with optional leading spaces followed by a
+        # single lowercase letter, a closing parenthesis and a space.
+        m = re.match(r"^( {0,3})([a-z])\) (.*)$", line)
+        if m and m.group(2) == "a":
+            indent = m.group(1)
+            # Collect all consecutive letter-list items that continue the sequence.
+            items: list[tuple[str, str]] = [(m.group(2), m.group(3))]
+            j = i + 1
+            expected_next = "b"
+            while j < len(lines):
+                next_line = lines[j]
+                # A continuation line is either an item of the sequence or a
+                # wrapped content line (same indent + more text, no new letter marker).
+                nm = re.match(r"^( {0,3})([a-z])\) (.*)$", next_line)
+                if nm and nm.group(1) == indent and nm.group(2) == expected_next:
+                    items.append((nm.group(2), nm.group(3)))
+                    expected_next = chr(ord(expected_next) + 1)
+                    j += 1
+                else:
+                    break
+
+            # Only treat as a letter list when there are at least 2 items.
+            if len(items) >= 2:
+                for _letter, content in items:
+                    result.append(f"{indent}1. {content}")
+                # Append the block attribute directly after the list (no blank line).
+                result.append(f"{indent}{{.liste-alpha}}")
+                i = j
+                continue
+
+        result.append(line)
+        i += 1
+
+    return "\n".join(result)
 
 
 def generate_markdown(
