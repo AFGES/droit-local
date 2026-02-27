@@ -13,13 +13,15 @@ commerciales, conformément à l’ordonnance du 28 mars 1892, le 1er juillet 18
 
 Sous la dénomination professions commerciales l’on comprend non seulement le négoce en
 grand et en détail, y compris le colportage, mais aussi les banques et les établissements de crédit,
-les Monts -de-Piété, les offices de journaux ainsi que les professions auxiliaires du commerce, les
+les Monts-de-Piété, les offices de journaux ainsi que les professions auxiliaires du commerce, les
 maisons de commission et d’expédition et les entrepôts. Les prescriptions en question
 s’appliquent en outre au personnel employé dans les bureaux de fabriques, dans les ateliers, etc.
 
 Pour assurer l’exécution conforme des dispositions légales en question, il est prescrit ce qui suit :
 
-I. Il ne sera pas rendu d’arrêté de police départemental ; les attributions conférées aux autorités de
+## Article I
+
+Il ne sera pas rendu d’arrêté de police départemental ; les attributions conférées aux autorités de
 police sont de la compétence des autorités désignées dans l’avis du 26 décembre 1888 p. 309),
 soit dans les villes de Strasbourg, Metz et Mulhouse, de la direction de police, dans les autres
 communes, du maire.
@@ -38,45 +40,46 @@ professions commerciales.
 Dans le cas où le Conseil municipal prescrit des restrictions, il fixera en même temps les heures
 pendant lesquelles le travail est permis dans les professions dont il s’agira.
 
-II. Les autorités de police auront à observer les règles suivantes :
+## Article II
 
-1° Les cinq heures pendant lesquelles les employés, apprentis et ouvriers peuvent être occupés et
-pendant lesquelles les magasins peuvent être ouverts, seront fixées, autant que possible,
-uniformément pour toutes les branches du commerce ;
+Les autorités de police auront à observer les règles suivantes :
 
-2° Pour la fixation des heures du travail, il devra être tenu compte de l’heure du service religieux
-public, de manière à ce que, dans la règle, les heures de travail ne tombent pas sur l’heure du
-service religieux principal du matin ;
+1. Les cinq heures pendant lesquelles les employés, apprentis et ouvriers peuvent être occupés et
+   pendant lesquelles les magasins peuvent être ouverts, seront fixées, autant que possible,
+   uniformément pour toutes les branches du commerce ;
+2. Pour la fixation des heures du travail, il devra être tenu compte de l’heure du service religieux
+   public, de manière à ce que, dans la règle, les heures de travail ne tombent pas sur l’heure du
+   service religieux principal du matin ;
+3. Afin que les vendeurs, employés et ouvriers puissent jouir d’un repos dominical effectif, le
+   commencement des heures de travail permises sera fixé aussi tôt que possible et la fin sera fixée
+   de manière à ce que l’après-midi et la soirée restent libres. Donc, dans la règle, le travail
+   commencera à 6, 6 ½ ou 7 heures du matin pour se terminer à 12, 12 ½, 1 ½ ou 2 heures de
+   l’après-midi, avec une interruption d’une heure et demie ou de deux heures pendant le service
+   religieux principal (qui commence généralement à 9 heures). La vente de pain et de viande, là où
+   besoin en sera, pourra commencer plus tôt (par exemple à 5 heures) ;
 
-3° Afin que les vendeurs, employés et ouvriers puissent jouir d’un repos dominical effectif, le
-commencement des heures de travail permises sera fixé aussi tôt que possible et la fin sera fixée
-de manière à ce que l’après-midi et la soirée restent libres. Donc, dans la règle, le travail
+   Des exceptions ne seront tolérées, selon les circonstances, que là où, en raison de l’usage mixte
+   des églises pour les divers cultes, il est nécessaire d’accorder dans la matinée une interruption des
+   heures de travail plus longue ;
+4. Les dimanches pour lesquels les heures de travail et de vente peuvent être augmentées jusqu’à
+   10, sont les derniers quatre dimanches avant Noël et le jour de la fête patronale ;
+5. Les décisions seront prises et publiées sous la forme d’une ordonnance de police locale dont
+   copie sera adressée au directeur d’arrondissement ainsi qu’au tribunal cantonal et au premier
+   procureur du ministère public, conformément à l’arrêté ministériel du 19 décembre 1887. Il en
+   sera de même des modifications qui pourraient avoir lieu ultérieurement.
 
-commencera à 6, 6 ½ ou 7 heures du matin pour se terminer à 12, 12 ½, 1 ½ ou 2 heures de
-l’après-midi, avec une interruption d’une heure et demie ou de deux heures pendant le service
-religieux principal (qui commence généralement à 9 heures). La vente de pain et de viande, là où
-besoin en sera, pourra commencer plus tôt (par exemple à 5 heures) ;
+## Article III
 
-Des exceptions ne seront tolérées, selon les circonstances, que là où, en raison de l’usage mixte
-des églises pour les divers cultes, il est nécessaire d’accorder dans la matinée une interruption des
-heures de travail plus longue ;
-
-4° Les dimanches pour lesquels les heures de travail et de vente peuvent être augmentées jusqu’à
-10, sont les derniers quatre dimanches avant Noël et le jour de la fête patronale ;
-
-5° Les décisions seront prises et publiées sous la forme d’une ordonnance de police locale dont
-copie sera adressée au directeur d’arrondissement ainsi qu’au tribunal cantonal et au premier
-procureur du ministère public, conformément à l’arrêté ministériel du 19 décembre 1887. Il en
-sera de même des modifications qui pourraient avoir lieu ultérieurement.
-
-III. Les directeurs d’arrondissement veilleront à ce que les décisions à prendre par les autorités
+Les directeurs d’arrondissement veilleront à ce que les décisions à prendre par les autorités
 de la police locale soient conformes aux principes indiqués plus haut. S’il n’y a pas de violation
 flagrante des dispositions légales, les modifications ne seront pas ordonnées d’office ; mais
 uniquement si une plainte fondée a été portée par les industriels ou les ouvriers que cela
 concerne. Il faudra surtout se garder de contrevenir à l’intention du législateur en accordant des
 heures supplémentaires de travail là où le besoin exceptionnel ne s’en fait pas sentir.
 
-IV. Les exceptions à accorder par les présidents de département en vertu du § 105e de la loi
+## Article IV
+
+Les exceptions à accorder par les présidents de département en vertu du § 105e de la loi
 organique sur l’industrie pour les professions dont l’exercice complet ou partiel les dimanches et
 jours de fête répond à un besoin journalier de la population ou à un besoin se faisant sentir
 surtout ces jours-là, seront aussi restreintes que possible. Il suffira en général d’accorder pour la
@@ -96,10 +99,11 @@ seront réglées de manière à ce que les marchands de pâtisseries, de viande,
 cigares, de denrées coloniales et de boissons soient autorisés à occuper leurs ouvriers de 7 à 9
 heures du matin et à tenir leurs magasins ouverts pendant ce temps.
 
-V. Le colportage, tel qu’il est défini au § 55, alinéa 1, chiffres 1 à 3 de la loi organique sur
+## Article V
+
+Le colportage, tel qu’il est défini au § 55, alinéa 1, chiffres 1 à 3 de la loi organique sur
 l’industrie est interdit les dimanches et jours de fête. Il en est de même de l’exercice de la
 profession des personnes qui en vertu du § 42b de la loi citée peuvent, en ce qui concerne le
-
 colportage dans la circonscription de la commune où elles sont domiciliées, être soumises à une
 autorisation, peu importe que cette prescription soit en vigueur dans la commune dont il s’agira
 ou non.
@@ -121,7 +125,9 @@ Des exceptions à l’interdiction du colportage les dimanches et jours de fête
 accordées par le directeur d’arrondissement (directeur de police) que si un besoin urgent se fait
 sentir. Des exceptions individuelles ne sont pas admises.
 
-VI. Les prescriptions sur le repos dominical exigent l’observation générale des dispositions de
+## Article VI
+
+Les prescriptions sur le repos dominical exigent l’observation générale des dispositions de
 l’article 3 de la loi du 18 novembre 1814 qui ont été insérées dans les ordonnances de police
 départementales de 1882 concernant la police des auberges d’après lesquelles, dans les villes de
 moins de 5000 habitants et dans les villages, les auberges ne sont ouvertes qu’aux voyageurs les
@@ -129,7 +135,9 @@ dimanches et jours de fête, pendant le service divin régulier. Conformément a
 prescription n’est pas atteinte par la loi organique sur l’industrie, d’après laquelle les dispositions
 des §§ 105a à 105g ne sont pas applicables à la profession d’aubergiste (§ 105i).
 
-VII. D’après le § 139 b de la loi organique sur l’industrie, les inspecteurs de fabrique ne sont pas
+## Article VII
+
+D’après le § 139 b de la loi organique sur l’industrie, les inspecteurs de fabrique ne sont pas
 chargés de surveiller l’exécution des prescriptions concernant le repos dominical dans les
 professions commerciales. Cette surveillance incombe aux autorités de la police locale et à leurs
 organes, en outre, aux commissaires de police et aux gendarmes.

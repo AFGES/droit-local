@@ -6,8 +6,11 @@ categories:
   - "justice"
 ---
 
-**Art. 1**. – Si dans l’acte authentique établi par un notaire suivant les dispositions légales,
+## Article 1
+
+Si dans l’acte authentique établi par un notaire suivant les dispositions légales,
 l’assermentation d’un interprète est requise, celle-ci est faite par le notaire.
+
 Dans le cas de la légalisation d’un acte juridique, le préposé désigné en vertu du § 45 de
 la loi d’introduction de la loi d’Empire sur les affaires de juridiction gracieuse est habilité à faire
 cette légalisation ; et dans le cas de l’établissement d’un testament privilégié (…) le maire de la

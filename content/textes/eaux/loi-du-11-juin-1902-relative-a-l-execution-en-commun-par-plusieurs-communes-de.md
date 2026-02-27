@@ -7,7 +7,7 @@ categories:
   - "administration"
 ---
 
-**Article 1er**
+## Article 1er
 
 Lorsque plusieurs communes ont décidé l’exécution en commun de canalisations d’eau, de
 travaux de drainage et d’irrigation, un arrêté du ministère pourra, à la requête d’une des
@@ -20,7 +20,7 @@ communes ou sections de commune, s’appliqueront à des commissions syndicales 
 modalité que le ministère exercera les attributions du président de district et de l’autorité de
 surveillance.
 
-**Article 2**
+## Article 2
 
 La présente loi entrera en vigueur le jour de sa publication. Le ministère édictera les mesures
 nécessaires pour son exécution.

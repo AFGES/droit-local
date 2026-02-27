@@ -6,6 +6,7 @@ categories:
   - "droit-civil"
 ---
 
-ARTICLE UNIQUE
+## Article unique
+
 Les associations de toute nature constituées sur le territoire de l’Empire peuvent se
 fédérer entre elles. Sont abrogées toutes dispositions contraires des législations particulières.

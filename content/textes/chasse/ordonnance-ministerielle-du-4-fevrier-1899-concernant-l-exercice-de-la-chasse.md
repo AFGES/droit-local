@@ -8,11 +8,11 @@ categories:
 
 est ordonné ce qui suit :
 
-**Article 1**
+## Article 1
 
 L’utilisation de poison comme mode de chasse est interdit.
 
-**Article 2**
+## Article 2
 
 Les directeurs de police sont autorisés à permettre exceptionnellement, dans des cas
 particuliers, l’utilisation du poison comme mode de chasse.

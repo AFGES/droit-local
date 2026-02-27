@@ -6,7 +6,7 @@ categories:
   - "chasse"
 ---
 
-**Article 1**
+## Article 1
 
 La capture des canards sauvages à l’aide de filets rabattants et d’appelants n’est autorisée que
 pendant les mois de novembre, décembre et janvier.

@@ -6,7 +6,7 @@ categories:
   - "chasse"
 ---
 
-**Article 7**
+## Article 7
 
 Lorsque l’autorisation de faire usage d’armes à feu ou de poser des pièges pour prendre des
 loups, renards et blaireaux, aura été accordée à des propriétaires, possesseurs et fermiers, soit
