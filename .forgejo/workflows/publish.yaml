@@ -1,0 +1,26 @@
+name: publish
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  publish:
+    runs-on: docker
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+      - name: Build
+        run: |
+          apt-get update -qq && apt-get install -y -qq git-lfs
+          git lfs pull
+          git submodule update --init --recursive
+          wget -qO- https://github.com/gohugoio/hugo/releases/download/v0.156.0/hugo_extended_0.156.0_linux-amd64.tar.gz | tar -xz -C /usr/local/bin hugo
+          TZ=Europe/Paris HUGO_ENV=production hugo --gc --minify --baseURL https://droit-local.afges.org/
+      - name: Publish
+        run: |
+          tar -C public -cf /tmp/site.tar .
+          curl -sS --fail-with-body --max-time 60 -X PUT https://droit-local.afges.org/ \
+            -H "Content-Type: application/x-tar" -H "Create-Parents: yes" -H "If-Problems: none" \
+            -H "Comment: ${{ forgejo.sha }}" \
+            -H "Forge-Authorization: token ${{ forgejo.token }}" --data-binary @/tmp/site.tar
