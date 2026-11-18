@@ -18,7 +18,7 @@ déposés, dans les trois mois, depuis son entrée en vigueur, conformément au 
 direction de l’arrondissement après avoir été enregistrés en bonne et due forme, en tant que ces
 contrats ne sont pas expirés plus tôt.
 
-J’invite Messieurs les présidents de département à donner aux directeurs d’arrondissement et
+J’invite Messieurs les {{< t "présidents de département" "préfets" >}} à donner aux directeurs d’arrondissement et
 dans les villes de Strasbourg et de Metz, également aux maires, les instructions nécessaires pour
 le renouvellement de la location de la chasse par les communes.
 

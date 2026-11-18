@@ -134,7 +134,7 @@ Sont assurés contre les accidents dans les entreprises ou occupations qui sont 
 l’assurance en vertu des §§ 537 à 542 (accidents du travail) :
 
 1. les ouvriers, aides, compagnons, apprentis ;
-2. les employés d’exploitation dont le traitement annuel ne dépasse pas 5000 marks lorsqu’ils sont
+2. les employés d’exploitation dont le traitement annuel ne dépasse pas {{< m "5000" "marks" >}} lorsqu’ils sont
    employés dans ces entreprises ou occupations.
 
 Un acte défendu ne constitue pas un obstacle à l’admissibilité d’un accident du travail.
@@ -159,11 +159,11 @@ relativement à l’exécution de cette disposition.
 
 Les statuts peuvent étendre l’obligation de l’assurance :
 
-1. aux chefs d’entreprises dont le gain annuel ne dépasse pas 3000 marks ou qui n’occupent
+1. aux chefs d’entreprises dont le gain annuel ne dépasse pas {{< m "3000" "marks" >}} ou qui n’occupent
    régulièrement aucun ou au plus deux ouvriers salariés assujettis à l’assurance ;
 2. sans considération du nombre d’ouvriers assujettis à l’assurance occupés par eux, aux artisans à
    domicile qui ont entrepris une exploitation désignée aux §§ 537, 538 ;
-3. aux employés d’exploitation dont le traitement annuel est supérieur à 5000 marks
+3. aux employés d’exploitation dont le traitement annuel est supérieur à {{< m "5000" "marks" >}}
 
 ###### Article 549
 
@@ -180,11 +180,11 @@ L’Office supérieur des assurances sociales statue définitivement sur les rec
 
 Les chefs d’entreprise (§ 633), ainsi que les pilotes de la navigation intérieure qui exercent
 leur industrie pour leur propre compte peuvent s’assurer eux-mêmes contre les suites des accidents du
-travail, à condition que leur gain annuel ne dépasse pas 3000 marks ou qu’ils n’occupent régulièrement
+travail, à condition que leur gain annuel ne dépasse pas {{< m "3000" "marks" >}} ou qu’ils n’occupent régulièrement
 aucun ou au plus deux ouvriers salariés assujettis à l’assurance.
 
 Ils peuvent être autorisés par les statuts à s’assurer pour leur personne même lorsque leur gain annuel
-dépasse 3000 marks ou lorsqu’ils occupent régulièrement au moins trois ouvriers salariés assujettis à
+dépasse {{< m "3000" "marks" >}} ou lorsqu’ils occupent régulièrement au moins trois ouvriers salariés assujettis à
 l’assurance.
 
 ###### Article 551
@@ -253,7 +253,7 @@ l’alinéa précédent.
 
 La rente peut être totalement ou partiellement transférée aux proches parents de la victime, qui
 habitent l’intérieur du pays et qui, dans le cas de son décès, auraient eu droit à une rente. Les possessions
-coloniales allemandes sont considérées comme faisant partie de l’intérieur au sens de cette disposition.
+coloniales {{< t "allemandes" "françaises" >}} sont considérées comme faisant partie de l’intérieur au sens de cette disposition.
 
 La réparation du dommage peut aussi être refusée lorsque, en cas de décès ou d’absence de la victime
 ou pour tout autre motif inhérent à sa personne, aucun jugement pénal n’est prononcé.
@@ -304,7 +304,7 @@ rente entière.
 La rente est calculée d’après le montant de la rémunération annuelle que la victime a
 touchée pendant la dernière année dans l’entreprise.
 
-Si la rémunération annuelle excède 1800 marks, le surplus n’est pris en compte que pour un tiers.
+Si la rémunération annuelle excède {{< m "1800" "marks" >}}, le surplus n’est pris en compte que pour un tiers.
 
 ###### Article 564
 
@@ -427,7 +427,7 @@ quotité des prestations et au remboursement de celles-ci. Le chef d’entrepris
 soins à la victime, conformément au § 185, alinéa 1, avec l’assentiment de celle-ci, et retenir de ce chef un
 quart au plus du secours pécuniaire de maladie. Est considéré comme salaire de base, le salaire local du lieu
 de l’occupation (§§ 149 à 152). Ces dispositions en sont applicables aux employés d’exploitation que si
-leur rémunération annuelle ne dépasse pas 2500 marks.
+leur rémunération annuelle ne dépasse pas {{< m "2500" "marks" >}}.
 
 Dans les cas des §§ 169, 418, 435, c’est l’employeur qui est tenu d’accorder à la victime, pendant les
 treize premières semaines, les allocations prévues à l’alinéa 1. Est pris comme salaire de base, celui qui est
@@ -483,7 +483,7 @@ caisse-maladie, à la caisse-maladie minière, à la caisse agréée, au médeci
 **§ 577**, au chef d’entreprise, des renseignements sur le traitement suivi et l’état de santé de la victime.
 
 A la demande de la Corporation, l’Office d’assurance peut obliger le chef d’entreprise à fournir ces
-renseignements dans un délai déterminé, en lui infligeant des amendes n’excédant pas 100 marks.
+renseignements dans un délai déterminé, en lui infligeant des amendes n’excédant pas {{< m "100" "marks" >}}.
 
 L’Office supérieur statue définitivement sur les recours contre la fixation de l’amende.
 
@@ -524,7 +524,7 @@ Les contestations qui s’élèvent au sujet des droits au remboursement visés 
 En cas de mort, il est en outre alloué :
 
 1. à titre d’indemnité funéraire, la quinzième partie de la rémunération annuelle, sans que cette
-   somme puisse être inférieure à 50 marks; le § 203 est applicable, dans ce cas, par analogie ;
+   somme puisse être inférieure à {{< m "50" "marks" >}}; le § 203 est applicable, dans ce cas, par analogie ;
 2. une rente aux survivants, à partir du jour du décès.
 
 Cette rente consiste en une fraction de la rémunération annuelle déterminée aux §§ 588 à 595.
@@ -617,9 +617,9 @@ habituelle dans le pays, n’ont aucun droit à la rente.
 
 Le Conseil Fédéral peut rendre cette disposition inapplicable à des districts frontières ou pour les
 ressortissants d’Etats étrangers, dont la législation garantit des secours correspondants, aux survivants des
-citoyens allemands tués par un accident du travail.
+citoyens {{< t "allemands" "français" >}} tués par un accident du travail.
 
-Les colonies allemandes sont considérées, aux termes de l’alinéa 1, comme faisant partie du pays.
+Les colonies {{< t "allemandes" "françaises" >}} sont considérées, aux termes de l’alinéa 1, comme faisant partie du pays.
 
 ###### Article 597
 
@@ -752,7 +752,7 @@ période postérieure à la demande.
 Les frais du traitement curatif et les indemnités funéraires sont payables dans la semaine qui
 suit leur fixation ; les rentes sont payables d’avance, par arrérages mensuels.
 
-Lorsque le montant annuel de la rente est de 60 marks au plus, celle-ci est payable d’avance par
+Lorsque le montant annuel de la rente est de {{< m "60" "marks" >}} au plus, celle-ci est payable d’avance par
 arrérages trimestriels pour autant qu’elle ne doive pas,
 selon les prévisions, prendre fin avant l’expiration du trimestre.
 
@@ -789,7 +789,7 @@ une rente, la rente doit leur être attribuée jusqu’à concurrence de son dro
 2. aussi longtemps que l’intéressé indigène séjourne à l’étranger, en négligeant :
    de faire connaître sa résidence à la Corporation ;
    et s’il s’agit d’un accidenté de se présenter, sur la demande de la Corporation, de temps à autre chez le
-   consul compétent ou une autre autorité allemande qui lui aura été désignée.
+   consul compétent ou une autre autorité {{< t "allemande" "française" >}} qui lui aura été désignée.
 
 L'Office impérial des assurances sociales arrête des prescriptions de détail relativement à la
 notification du lieu de la résidence et à la présentation personnelle.
@@ -800,18 +800,18 @@ suspendue de ce fait ;
 
 3. aussi longtemps que l'ayant droit étranger réside volontairement et habituellement à l'étranger ;
 4. aussi longtemps que l'ayant droit étranger est l'objet d'une interdiction de séjour en territoire
-   allemand, à la suite d'une condamnation à une peine criminelle. Cette disposition s'applique également à un
+   {{< t "allemand" "français" >}}, à la suite d'une condamnation à une peine criminelle. Cette disposition s'applique également à un
    étranger titulaire d'une rente qui, à raison d'une condamnation à une peine criminelle, s'est vu interdire le
    séjour sur le territoire d'un Etat Confédéré, pour autant qu'il ne réside pas dans un autre Etat Confédéré.
 
 Le Conseil Fédéral peut décider que la suspension de la rente n'aura pas lieu dans les cas des nos 3 et
 4, pour des régions frontières étrangères ou pour des ressortissants d'Etats étrangers dont la législation
-garantit aux Allemands et à leurs survivants des secours équivalents.
+garantit aux {{< t "Allemands" "Français" >}} et à leurs survivants des secours équivalents.
 
 Si l'expulsion de l'étranger titulaire de la rente (alinéa 1, n° 4) n'est pas ordonnée à la suite ou à raison
 de la condamnation à une peine criminelle, les dispositions de l'alinéa 1, n° 2, lui sont applicables.
 
-Les colonies allemandes sont considérées, au sens des présentes dispositions comme faisant partie du
+Les colonies {{< t "allemandes" "françaises" >}} sont considérées, au sens des présentes dispositions comme faisant partie du
 pays.
 
 ###### Article 616
@@ -1210,7 +1210,7 @@ envoie la déclaration au comité-directeur de la Corporation compétente.
 
 Si la déclaration est omise ou incomplète, l'Office d'assurance peut contraindre le chef
 d'entreprise à fournir les renseignements nécessaires dans un délai déterminé, en lui infligeant des amendes
-qui n'excéderont pas 100 marks
+qui n'excéderont pas {{< m "100" "marks" >}}
 L'Office supérieur des assurances sociales statue définitivement sur les recours contre la fixation de
 l'amende.
 
@@ -1433,7 +1433,7 @@ comités-directeurs de sections peut être confiée aux assemblées de sections.
 ###### Article 680
 
 Les statuts peuvent autoriser le comité-
-directeur de la Corporation à infliger des amendes pouvant atteindre 25 marks aux entrepreneurs et à ceux
+directeur de la Corporation à infliger des amendes pouvant atteindre {{< m "25" "marks" >}} aux entrepreneurs et à ceux
 qui
 leur sont assimilés par le §912, lorsqu'ils ne remplissent pas les
 obligations qui leur incombent en vertu de dispositions statutaires.
@@ -1636,7 +1636,7 @@ Corporation.
 Les contestations qui s'élèvent relativement au contrat d'emploi des agents auxquels le
 règlement de service s'applique, sont jugées sur recours par l'Office impérial des assurances sociales
 (conseil du contentieux administratif), lorsqu'elles ont trait au préavis, à la révocation, aux amendes de plus
-de 20 marks ou à des actions en revendication de biens.
+de {{< m "20" "marks" >}} ou à des actions en revendication de biens.
 
 Les prescriptions spéciales ci-après s'appliquent aux actions en revendication de biens.
 
@@ -1776,9 +1776,9 @@ L'Office impérial formule, pour les cas prévus à l'alinéa 1, numéro 2, des 
 
 L'approbation est requise ;
 
-- en cas d'acquisition d'immeubles d'une valeur de plus de 5000 marks ;
-- en cas de construction de bâtiments d'une valeur de plus de 10000 marks ;
-- en cas d'acquisition du matériel d'installation nécessaire, d'une valeur totale de plus de 5000 marks ;
+- en cas d'acquisition d'immeubles d'une valeur de plus de {{< m "5000" "marks" >}} ;
+- en cas de construction de bâtiments d'une valeur de plus de {{< m "10000" "marks" >}} ;
+- en cas d'acquisition du matériel d'installation nécessaire, d'une valeur totale de plus de {{< m "5000" "marks" >}} ;
 
 L'approbation n'est pas requise en cas d'acquisition, par voie de vente forcée, d'immeubles grevés au
 profit de la Corporation.
@@ -1916,7 +1916,7 @@ Les cotisations des membres sont annuellement réparties sur la base des rémun�
 obtenues dans leurs entreprises par les assurés, et au minimum d’après le salaire local des ouvriers adultes
 âgés de plus de 21 ans, ainsi que sur la base du tarif de risques.
 
-Les rémunérations qui, pendant la période de cotisation, dépassent le montant annuel de 1800 marks
+Les rémunérations qui, pendant la période de cotisation, dépassent le montant annuel de {{< m "1800" "marks" >}}
 ne sont prises en compte, pour le surplus, que pour un tiers
 
 ###### Article 733
@@ -2061,7 +2061,7 @@ Les intérêts du fonds de réserve qui courent pendant la période visée au §
 employés à couvrir les dépenses courantes. A l’expiration de ce délai, il doit être
 prélevé sur les intérêts à courir des sommes suffisantes
 pour empêcher tout accroissement des cotisations qui, d’après l’expérience acquise, devront être
-versées dorénavant par 100 marks en moyenne de salaire payé. Le surplus des intérêts doit être ajouté au
+versées dorénavant par {{< m "100" "marks" >}} en moyenne de salaire payé. Le surplus des intérêts doit être ajouté au
 fonds de réserve jusqu’à ce que celui-ci atteigne la moitié du capital nécessaire pour couvrir les indemnités
 en cours.
 
@@ -2286,8 +2286,8 @@ s’acquitter tout d’abord de la notification de la décision. Les entrepreneu
 donner immédiatement et par écrit connaissance au commettant de cette notification.
 
 En cas d’infraction, le contrevenant est passible d’une peine d’emprisonnement d’un an au maximum
-et en outre il peut être frappé d’une amende de 3000 marks au plus. S’il a agi par négligence, il est passible
-d’une amende de 100 marks au plus. La peine n’est prononcée que si le commettant a subi un préjudice par
+et en outre il peut être frappé d’une amende de {{< m "3000" "marks" >}} au plus. S’il a agi par négligence, il est passible
+d’une amende de {{< m "100" "marks" >}} au plus. La peine n’est prononcée que si le commettant a subi un préjudice par
 l’infraction.
 
 ###### Article 768
@@ -2542,7 +2542,7 @@ Si l’état n’a pas été produit en temps utile ou s’il est incomplet, l�
 tenue de le dresser elle-même ou de le compléter par la connaissance qu’elle peut avoir de la situation.
 
 Elle peut, à cet effet, contraindre les assurés à lui fournir des renseignements dans un délai à
-déterminer, sous peine d’amende n’excédant pas 100 marks.
+déterminer, sous peine d’amende n’excédant pas {{< m "100" "marks" >}}.
 
 ###### Article 801
 
@@ -2954,7 +2954,7 @@ vue de la prévention des accidents.
 ###### Article 851
 
 Les membres qui contreviennent aux prescriptions sont passibles d’une amende de
-1 000 marks au plus et les assurés d’une amende de 6 marks au plus.
+{{< m "1000" "marks" >}} au plus et les assurés d’une amende de {{< m "6" "marks" >}} au plus.
 
 ###### Article 852
 
@@ -3142,7 +3142,7 @@ agents de comptabilité, les livres et listes (§ 876).
 
 L’Office d’assurance peut mettre les chefs d’entreprises en demeure de satisfaire aux
 obligations que leur impose le § 878, à la requête de tout agent chargé du contrôle en leur infligeant une
-amende n’excédant pas 300 marks.
+amende n’excédant pas {{< m "300" "marks" >}}.
 
 En cas de recours, l’Office supérieur des assurances sociales statue en dernier ressort.
 
@@ -3207,7 +3207,7 @@ techniques précités.
 Si, par suite de l’inexécution des obligations qui lui incombent, un chef d’entreprise a
 occasionné des frais à la Corporation à propos de la surveillance de son entreprise et du contrôle de ses
 livres et listes, le comité-directeur peut mettre ces frais à la charge dudit chef d’entreprise et lui infliger, en
-outre, une amende de 100 marks au plus. Le recouvrement des frais s’opère aussi comme en matière de
+outre, une amende de {{< m "100" "marks" >}} au plus. Le recouvrement des frais s’opère aussi comme en matière de
 contributions communales.
 
 ###### Article 888
@@ -3223,7 +3223,7 @@ Les chefs d’entreprises sont tenus de permettre l’accès des locaux de l’e
 la durée du travail, aux membres permanents de l’Office impérial des assurances sociales qui sont chargés
 par cet Office de constater l’exécution et les effets des prescriptions préventives contre les accidents
 (§ 848). Ils peuvent y être contraints par l’Office impérial, sous peine d’une amende ne pouvant excéder
-300 marks.
+{{< m "300" "marks" >}}.
 
 III. — PRESCRIPTIONS SPECIALES POUR TRAVAUX DE CONSTRUCTION ET POUR
 DETENTION DE MONTURES
@@ -3245,7 +3245,7 @@ auxdites occupations.
 
 Les entrepreneurs de travaux de construction de courte durée doivent, en cas de contravention aux
 règlements de prévention des accidents, être avertis qu’ils s’exposent à une amende qui n’excédera pas
-100 marks.
+{{< m "100" "marks" >}}.
 
 Lorsqu’il s’agit d’une association d’assurance, les délégués des assurés sont élus par les assesseurs
 des Offices supérieurs, sur les circonscriptions desquels la Corporation ou la section s’étend ; le § 858,
@@ -3297,7 +3297,7 @@ l’exécution des dispositions du présent chapitre.
 ###### Article 896
 
 Les dispositions d’exécution peuvent étendre l’obligation de l’assurance aux employés
-d’exploitation dont la rémunération annuelle dépasse 5000 marks à moins que ces employés ne soient pas
+d’exploitation dont la rémunération annuelle dépasse {{< m "5000" "marks" >}} à moins que ces employés ne soient pas
 assujettis à l’assurance aux termes du § 554.
 
 ###### Article 897
@@ -3433,7 +3433,7 @@ Dispositions pénales
 ###### Article 908
 
 Le comité directeur de la Corporation peut prononcer contre les chefs d’entreprises des
-amendes pouvant s’élever à 500 marks au maximum :
+amendes pouvant s’élever à {{< m "500" "marks" >}} au maximum :
 
 1. lorsque les états présentés par eux en vertu d’une disposition légale ou statutaire et en vue du
    calcul des cotisations ou des primes ou de la classification des entreprises dans le tarif des risques,
@@ -3446,7 +3446,7 @@ amendes pouvant s’élever à 500 marks au maximum :
 
 ###### Article 909
 
-Le comité directeur de la Corporation peut également infliger des amendes de 300 marks au
+Le comité directeur de la Corporation peut également infliger des amendes de {{< m "300" "marks" >}} au
 plus aux employeurs qui ne remplissent pas en temps utile les obligations qui leur incombent en ce qui
 concerne :
 
@@ -3469,7 +3469,7 @@ ni dans le cas du § 891 en connexion avec les présentes dispositions.
 
 Le chef d’entreprise ou ses employés qui, intentionnellement, imputent ou font
 intentionnellement imputer sur la rémunération la totalité ou une partie des cotisations ou des primes sont
-passibles d’une amende n’excédant pas 300 marks ou de détention simple, à moins qu’ils n’encourent une
+passibles d’une amende n’excédant pas {{< m "300" "marks" >}} ou de détention simple, à moins qu’ils n’encourent une
 peine plus forte, en vertu d’autres dispositions légales.
 
 ###### Article 912
@@ -3601,7 +3601,7 @@ Sont assurés contre les accidents dans les exploitations qui sont soumises à l
 vertu des §§ 915 à 922 (accidents du travail) :
 
 1. les ouvriers ;
-2. les employés d’exploitation dont la rémunération annuelle ne dépasse pas 5000 marks ; s’ils sont
+2. les employés d’exploitation dont la rémunération annuelle ne dépasse pas {{< m "5000" "marks" >}} ; s’ils sont
    occupés dans ces exploitations.
 
 Sont assimilés aux ouvriers, les aides, compagnons et apprentis.
@@ -3627,9 +3627,9 @@ sont occupées par le chef d’exploitation ou ceux qui le remplacent.
 
 Les statuts peuvent étendre l’obligation de l’assurance :
 
-1. aux chefs d’exploitations dont le gain annuel ne dépasse pas 3000 marks ou qui n’occupent pas
+1. aux chefs d’exploitations dont le gain annuel ne dépasse pas {{< m "3000" "marks" >}} ou qui n’occupent pas
    régulièrement contre rémunération plus de deux ouvriers assujettis à l’assurance ;
-2. aux employés d’exploitations dont la rémunération annuelle dépasse 5000 marks.
+2. aux employés d’exploitations dont la rémunération annuelle dépasse {{< m "5000" "marks" >}}.
 
 ###### Article 926
 
@@ -3638,12 +3638,12 @@ peuvent étendre l’assurance aux travaux domestiques qui sont en rapport avec 
 
 ###### Article 927
 
-Les chefs d’exploitations dont le gain annuel ne dépasse pas 3000 marks ou qui n’occupent
+Les chefs d’exploitations dont le gain annuel ne dépasse pas {{< m "3000" "marks" >}} ou qui n’occupent
 pas régulièrement plus de deux assurés obligatoires, ont le droit de s’assurer eux-mêmes contre les
 accidents du travail. Le § 926 est également applicable dans ce cas.
 
 Les statuts peuvent étendre la faculté de l’assurance personnelle aux chefs d’exploitations dont le gain
-annuel est supérieur à 3000 marks ou qui occupent régulièrement au moins trois assurés salariés.
+annuel est supérieur à {{< m "3000" "marks" >}} ou qui occupent régulièrement au moins trois assurés salariés.
 
 ###### Article 928
 
@@ -3732,7 +3732,7 @@ l’exploitation. Les statuts peuvent prévoir des dispositions différentes.
 
 ###### Article 939
 
-Si la rémunération annuelle dépasse la somme de 1800 marks l’excédent n’entre dans tous les
+Si la rémunération annuelle dépasse la somme de {{< m "1800" "marks" >}} l’excédent n’entre dans tous les
 cas en compte que pour un tiers.
 
 ###### Article 940
@@ -4331,7 +4331,7 @@ détail.
 ###### Article 996
 
 L’autorité communale peut mettre les chefs d’exploitations en demeure, sous peine d’une
-amende maximum de 100 marks de lui fournir les renseignements nécessaires pour l’évaluation de la main-
+amende maximum de {{< m "100" "marks" >}} de lui fournir les renseignements nécessaires pour l’évaluation de la main-
 d’œuvre.
 
 Si les renseignements sont fournis par le chef d’exploitation d’une manière incomplète ou tardive,
@@ -4405,8 +4405,8 @@ recouvrement.
 
 ###### Article 1006
 
-Les statuts peuvent déterminer un minimum uniforme de cotisation de 1 mark au plus par
-année et si les chefs d’exploitations sont assurés ou compris dans l’assurance (§§ 925 à 928), de 2 marks au
+Les statuts peuvent déterminer un minimum uniforme de cotisation de {{< m "1" "mark" >}} au plus par
+année et si les chefs d’exploitations sont assurés ou compris dans l’assurance (§§ 925 à 928), de {{< m "2" "marks" >}} au
 plus par année.
 
 ###### Article 1007
@@ -4534,7 +4534,7 @@ Pour le calcul des cotisations, on prend comme base :
   moyenne fixée pour les ouvriers adultes de plus de 21 ans, au siège de l’exploitation ;
 - pour le chef d’exploitation la même rémunération annuelle, sauf disposition différente des statuts.
 
-La partie de la rémunération annuelle qui dépasse 1800 marks n’entre en compte que pour un tiers.
+La partie de la rémunération annuelle qui dépasse {{< m "1800" "marks" >}} n’entre en compte que pour un tiers.
 
 ###### Article 1018
 
@@ -4817,7 +4817,7 @@ Dispositions pénales
 ###### Article 1043
 
 Le comité directeur de la Corporation a le droit d’infliger aux chefs d’exploitations des
-amendes pouvant s’élever jusqu’à 500 marks si :
+amendes pouvant s’élever jusqu’à {{< m "500" "marks" >}} si :
 
 1. les états de traitements ou de salaires, qu’ils ont fournis en vertu des dispositions du § 1016 en vue
    de la répartition des cotisations ;
@@ -4839,7 +4839,7 @@ bases indiquées au § 1010.
 ###### Article 1044
 
 Le comité directeur de la Corporation a, en outre, le droit d’infliger des amendes pouvant
-s’élever jusqu’à 300 marks aux chefs d’exploitations qui ne remplissent pas, en temps utile, les obligations
+s’élever jusqu’à {{< m "300" "marks" >}} aux chefs d’exploitations qui ne remplissent pas, en temps utile, les obligations
 qui leur incombent :
 
 1. en matière de déclarations, dans les cas du § 1043, alinéa 1, nos 1 et 4 ;
@@ -4896,7 +4896,7 @@ prescriptions du § 93, alinéa 2, 3, et §§ 95 à 97 de la loi sur les gens de
 comme des délits au sens de la phrase précédente. Si l’assuré ou la veuve possède des proches parents
 demeurant à l’intérieur du pays, et à l’entretien desquels il ou elle a subvenu jusqu’alors en tout ou en
 grande partie par son salaire, la rente d’invalidité ou de veuve peut être, en tout ou partie, attribuée auxdits
-parents. Les colonies allemandes sont considérées comme le territoire national aux termes de la présente
+parents. Les colonies {{< t "allemandes" "françaises" >}} sont considérées comme le territoire national aux termes de la présente
 disposition.
 
 La rente peut encore être refusée, lorsque par suite de décès ou d’absence, ou de toute autre raison
@@ -5024,7 +5024,7 @@ Le Conseil Fédéral peut rendre cette disposition
 inapplicable à des régions frontières, ainsi qu’aux ressortissants
 d' Etats étrangers dont la législation garantit des secours équivalents.
 
-Les colonies allemandes sont considérées comme faisant partie du pays, au sens de l’alinéa 1.
+Les colonies {{< t "allemandes" "françaises" >}} sont considérées comme faisant partie du pays, au sens de l’alinéa 1.
 
 V. — TRAITEMENT CURATIF
 
@@ -5187,9 +5187,9 @@ chargées de l’assurance sont diminuées proportionnellement.
 
 ###### Article 1285
 
-Le subside de l’Empire consiste en une somme de 50 marks par an pour chaque rente
-d’invalidité, de vieillesse, de veuve, de veuf ; de 25 marks pour chaque rente d’orphelin ; en un versement
-unique de 50 marks pour chaque secours pécuniaire de veuve et de 16 marks 2/3 pour chaque dotation
+Le subside de l’Empire consiste en une somme de {{< m "50" "marks" >}} par an pour chaque rente
+d’invalidité, de vieillesse, de veuve, de veuf ; de {{< m "25" "marks" >}} pour chaque rente d’orphelin ; en un versement
+unique de {{< m "50" "marks" >}} pour chaque secours pécuniaire de veuve et de {{< m "16" "marks" >}} 2/3 pour chaque dotation
 d’orphelin.
 
 ###### Article 1286
@@ -5258,7 +5258,7 @@ La part de l’institut d’assurance comprend :
 ###### Article 1293
 
 La quote-part de la rente de vieillesse à fournir par l’institut d’assurance s’élève :
-dans la Ière classe de salaire à 60 marks
+dans la Ière classe de salaire à {{< m "60" "marks" >}}
 — IIe — à 90
 — IIIe — à 120
 — IVe — à 150
@@ -5405,7 +5405,7 @@ produit de son travail, la rente d’invalidité ou de vieillesse leur est accor
 La rente est suspendue :
 
 1. aussi longtemps que l’intéressé réside habituellement à l’étranger de sa libre volonté ;
-2. aussi longtemps qu’un étranger ayant droit à la rente est expulsé du territoire allemand à la suite
+2. aussi longtemps qu’un étranger ayant droit à la rente est expulsé du territoire {{< t "allemand" "français" >}} à la suite
    d’une condamnation pénale. Cette disposition s’applique également aux étrangers ayant droit à la rente
    qui, à la suite d’une condamnation pénale, ont été expulsés du territoire d’un Etat Confédéré à condition
    qu’ils ne résident pas dans un autre Etat Confédéré.
@@ -5413,12 +5413,12 @@ La rente est suspendue :
 ###### Article 1314
 
 Le Conseil Fédéral peut décider que la suspension de la rente n’aura pas lieu pour des
-régions frontières déterminées ou pour des Etats étrangers dont la législation garantit aux Allemands et à
+régions frontières déterminées ou pour des Etats étrangers dont la législation garantit aux {{< t "Allemands" "Français" >}} et à
 leurs survivants des avantages équivalents.
 
 ###### Article 1315
 
-Les colonies allemandes sont considérées comme territoire allemand au sens des §§ 1312
+Les colonies {{< t "allemandes" "françaises" >}} sont considérées comme territoire {{< t "allemand" "français" >}} au sens des §§ 1312
 et 1313.
 
 ###### Article 1316
@@ -5431,8 +5431,8 @@ une fois et demie le montant annuel de ladite rente.
 
 La même indemnisation peut, avec leur consentement, être appliquée aux étrangers qui,
 
-1. indépendamment des cas visés au § 1313, numéro 2, ont quitté le territoire allemand en vertu d’une
-   ordonnance d’une autorité allemande ;
+1. indépendamment des cas visés au § 1313, numéro 2, ont quitté le territoire {{< t "allemand" "français" >}} en vertu d’une
+   ordonnance d’une autorité {{< t "allemande" "française" >}} ;
 2. ont droit à la rente en vertu d’une décision prise par le Conseil Fédéral conformément au § 1314.
 
 ###### Article 1318
@@ -5822,7 +5822,7 @@ quittance de l’assuré.
 
 L’assuré est tenu de se faire délivrer la carte-quittance et de la présenter en temps utile, en
 vue de l’apposition et de l’oblitération des timbres. Il peut y être contraint, par une amende ne dépassant
-pas 10 marks par l’autorité de police locale. Si l’assuré n’est pas muni d’une carte-quittance ou s’il se
+pas {{< m "10" "marks" >}} par l’autorité de police locale. Si l’assuré n’est pas muni d’une carte-quittance ou s’il se
 refuse à la présenter, l’employeur a le droit de la faire établir et de retenir ses frais lors du paiement suivant
 du salaire.
 
@@ -5858,7 +5858,7 @@ première carte qui fait foi.
 L’autorité administrative suprême détermine, sans préjudice des dispositions du § 1456,
 les bureaux où s’effectuent la délivrance et l’échange des cartes.
 
-Le Chancelier de l’Empire détermine le bureau de distribution dans les colonies allemandes.
+Le Chancelier de l’Empire détermine le bureau de distribution dans les colonies {{< t "allemandes" "françaises" >}}.
 
 Les bureaux de distribution effectuent, d’après les timbres collés sur la carte au moment de sa remise,
 le décompte des semaines de cotisations pour chacune des classes de salaires. On relève, en même temps,
@@ -5870,7 +5870,7 @@ L’institut d’assurance du lieu de distribution supporte les frais des formul
 concernant le décompte des cotisations.
 
 Le Chancelier de l’Empire détermine qui doit supporter le coût des cartes-quittance et des formulaires
-d’attestation, dans les colonies allemandes.
+d’attestation, dans les colonies {{< t "allemandes" "françaises" >}}.
 
 ###### Article 1420
 
@@ -6030,7 +6030,7 @@ secours de maladie ou de l’assistance pendant la convalescence le comité-dire
 la caisse libre agréée, de l’association d’assurance mutuelle ou de la caisse de secours instituée en vertu de
 dispositions légales, doit délivrer le certificat. Dans les autres cas, c’est la municipalité. L’Office
 d’assurance peut mettre le comité-directeur de la caisse ou de l’association d’assurance mutuelle en
-demeure de remplir cette obligation sous peine d’une amende ne dépassant pas 100 marks.
+demeure de remplir cette obligation sous peine d’une amende ne dépassant pas {{< m "100" "marks" >}}.
 
 Pour les personnes occupées dans des exploitations de l’Empire ou de l’Etat, les certificats visés ci-
 dessus peuvent être délivrés par l’autorité préposée. En pareil cas, l’Office d’assurance décharge la caisse-
@@ -6229,7 +6229,7 @@ longtemps qu’il est assuré dans la circonscription de ce bureau.
 
 L’autorité administrative suprême peut, de concert avec l’institut d’assurance, prescrire l’obligation
 de ce dépôt. L’assuré peut être astreint à cette formalité par l’Office d’assurance, sous peine d’une amende
-ne dépassant pas 10 marks.
+ne dépassant pas {{< m "10" "marks" >}}.
 
 VIII. — ARRONDISSEMENT DES FRACTIONS
 
@@ -6312,7 +6312,7 @@ autorités et à leurs mandataires désignés, les cartes-quittance et les certi
 vérification et de rectification.
 
 L’Office d’assurance peut mettre les employeurs et les assurés en demeure d’exécuter leurs
-obligations (alinéa 1 et 2), sous peine d’une amende ne dépassant pas 150 marks.
+obligations (alinéa 1 et 2), sous peine d’une amende ne dépassant pas {{< m "150" "marks" >}}.
 
 ###### Article 1467
 
@@ -6321,7 +6321,7 @@ assurances sociales ou de l’Office d’Etat des assurances (§ 1382) des presc
 surveillance. Ces autorités peuvent ordonner que semblables prescriptions soient formulées, et lorsqu’il
 n’est pas donné suite à cet ordre, les arrêter elles-mêmes. Le comité-directeur de l’institut a le droit de
 contraindre les employeurs et les assurés à se conformer exactement à ces prescriptions, sous peine d’une
-amende ne dépassant pas 150 marks pour chaque cas.
+amende ne dépassant pas {{< m "150" "marks" >}} pour chaque cas.
 
 ###### Article 1468
 
@@ -6361,7 +6361,7 @@ facultativement peuvent, à volonté, coller en tout temps sur la carte-quittanc
 d’un institut d’assurance à leur choix. Ils acquièrent ainsi, en cas d’invalidité, un droit à une rente
 supplémentaire.
 
-La valeur de chaque timbre supplémentaire est de 1 mark.
+La valeur de chaque timbre supplémentaire est de {{< m "1" "mark" >}}.
 
 Le droit à la rente, acquis par les timbres supplémentaires, ne s’éteint pas.
 
@@ -6390,7 +6390,7 @@ temps que la rente d’invalidité, soit indépendamment de celle-ci, et les pfe
 
 ###### Article 1476
 
-Si la rente supplémentaire n’est pas supérieure à 60 marks par an, une somme globale,
+Si la rente supplémentaire n’est pas supérieure à {{< m "60" "marks" >}} par an, une somme globale,
 équivalant au capital représentatif, est payée en une fois à l’intéressé, sur sa demande.
 
 Si les titulaires de ces rentes quittent leur résidence à l’intérieur du pays, leurs droits peuvent être
@@ -6455,7 +6455,7 @@ III. — DISPOSITIONS PENALES
 ###### Article 1487
 
 Le comité-directeur de l’institut d’assurance peut infliger aux employeurs une amende ne
-dépassant pas 500 marks, si les états ou les déclarations qu’ils fournissent en vertu des dispositions de la loi
+dépassant pas {{< m "500" "marks" >}}, si les états ou les déclarations qu’ils fournissent en vertu des dispositions de la loi
 ou de prescriptions édictées par l’institut d’assurance, contiennent des indications de fait dont
 l’inexactitude leur était connue ou aurait dû leur être connue d’après les circonstances, ou s’ils négligent
 totalement ou partiellement de fournir les indications prescrites.
@@ -6464,7 +6464,7 @@ totalement ou partiellement de fournir les indications prescrites.
 
 Les employeurs qui omettent d’utiliser en temps voulu, pour les personnes assujetties à
 l’assurance qu’ils occupent, les timbres de cotisations prévus, ou de verser les cotisations, peuvent être
-frappés par le comité directeur de l’institut d’une amende ne dépassant pas 300 marks. Le comité directeur
+frappés par le comité directeur de l’institut d’une amende ne dépassant pas {{< m "300" "marks" >}}. Le comité directeur
 peut, indépendamment de l’amende et du recouvrement des arriérés, imposer le paiement d’une somme
 égale au montant ou au double au plus de ces arriérés. Cette somme est recouvrée de la même manière que
 les impositions communales.
@@ -6479,12 +6479,12 @@ Si l’employeur conteste qu’il y ait obligation de sa part de verser des coti
 
 Quiconque néglige, contrairement à ses obligations, de déclarer les personnes assujetties à
 l’assurance (§ 1447), peut être frappé par l’Office d’assurance, s’il agit intentionnellement, d’une amende
-ne pouvant dépasser 300 marks et s’il y a simple négligence d’une amende ne pouvant dépasser 100 marks
+ne pouvant dépasser {{< m "300" "marks" >}} et s’il y a simple négligence d’une amende ne pouvant dépasser {{< m "100" "marks" >}}
 .
 
 ###### Article 1490
 
-Sont passibles d’une amende de 300 marks au plus ou de détention simple, à moins
+Sont passibles d’une amende de {{< m "300" "marks" >}} au plus ou de détention simple, à moins
 qu’une pénalité plus forte ne soit prévue par d’autres dispositions légales :
 
 1. les employeurs qui déduisent intentionnellement, aux personnes qu’ils occupent, des cotisations
@@ -6498,7 +6498,7 @@ qu’une pénalité plus forte ne soit prévue par d’autres dispositions léga
 
 ###### Article 1491
 
-Sont passibles d’une amende de 300 marks au plus ou de détention simple, à moins
+Sont passibles d’une amende de {{< m "300" "marks" >}} au plus ou de détention simple, à moins
 qu’une pénalité plus forte ne soit prévue par d’autres dispositions légales, les assurés qui, pour des
 cotisations versées personnellement, réclament frauduleusement à l’employeur le remboursement de
 sommes supérieures à celles qui sont prévues, ou qui, pour la même semaine de cotisation, réclament à
@@ -6512,7 +6512,7 @@ Sont passibles de prison les employeurs qui omettent intentionnellement d’empl
 l’assurance des parts de cotisation retenues sur le salaire des personnes qu’ils occupent ou que ces dernières
 leur ont remises.
 
-En outre, une amende de 3000 marks au maximum, ainsi que la déchéance des droits civiques, peut
+En outre, une amende de {{< m "3000" "marks" >}} au maximum, ainsi que la déchéance des droits civiques, peut
 être prononcée
 S’il y a des circonstances atténuantes, l’amende peut être prononcée seule.
 
@@ -6549,14 +6549,14 @@ condamné conformément à l’alinéa 2.
 ###### Article 1495
 
 Quiconque porte sur des cartes-quittance des mentions non autorisées ou des signes
-spéciaux, peut être frappé par l’Office d’assurance d’une amende qui peut atteindre 20 marks.
+spéciaux, peut être frappé par l’Office d’assurance d’une amende qui peut atteindre {{< m "20" "marks" >}}.
 
 Peut être frappé de la même peine, quiconque remplit frauduleusement les blancs des cartes-quittance
 ou falsifie les mots ou les chiffres portés sur le formulaire imprimé ou fait sciemment usage d’une carte
 ainsi falsifiée.
 
 Quiconque effectue ces mentions, signes ou falsifications en vue de signaler aux employeurs le
-titulaire de la carte-quittance, sera passible d’une amende pouvant s’élever jusqu’à 2000 marks ou d’un
+titulaire de la carte-quittance, sera passible d’une amende pouvant s’élever jusqu’à {{< m "2000" "marks" >}} ou d’un
 emprisonnement de six mois au plus. S’il y a des circonstances atténuantes, la peine d’emprisonnement
 peut être remplacée par la détention simple.
 
@@ -6577,7 +6577,7 @@ Est passible de la même peine (§ 1496)
 quiconque fait sciemment usage de timbres déjà employés
 ou se procure, offre en vente ou met en circulation
 lesdits timbres en vue de les employer de nouveau. S’il y a des
-circonstances atténuantes, l’emprisonnement peut être remplacé par une amende de 300 marks (375
+circonstances atténuantes, l’emprisonnement peut être remplacé par une amende de {{< m "300" "marks" >}} (375
 au plus ou par la détention simple.
 
 ###### Article 1498
@@ -6588,7 +6588,7 @@ personne déterminée ne peut être poursuivie ou condamnée.
 
 ###### Article 1499
 
-Est passible d’une amende pouvant atteindre 150 marks ou de la détention simple,
+Est passible d’une amende pouvant atteindre {{< m "150" "marks" >}} ou de la détention simple,
 quiconque fabrique sans commande écrite d’un institut d’assurance ou d’une autorité, des estampilles,
 sceaux, gravures, plaques ou autres formes servant à la fabrication de timbres, prend des empreintes des
 dites formes, se les procure ou les délivre à d’autres qu’à l’institut d’assurance ou à l’autorité.
@@ -6718,7 +6718,7 @@ directeur ne charge pas une autre personne de cette formalité. La déclaration 
 divisée en sections, doit être remise au comité-directeur de la section.
 
 L’Office d’assurance peut, en cas d’omission de la déclaration, prononcer une amende qui peut
-atteindre 20 marks.L’Office supérieur des assurances sociales statue définitivement sur les recours.
+atteindre {{< m "20" "marks" >}}.L’Office supérieur des assurances sociales statue définitivement sur les recours.
 
 ###### Article 1513
 
@@ -7144,7 +7144,7 @@ L’Office impérial des assurances sociales arrête les modèles des déclarati
 ###### Article 1556
 
 A défaut de déclaration de l’accident ou en cas de déclaration tardive, les personnes
-responsables sont passibles d’une amende de 300 marks au plus, à prononcer par le comité-directeur de la
+responsables sont passibles d’une amende de {{< m "300" "marks" >}} au plus, à prononcer par le comité-directeur de la
 Corporation.
 
 Il en est de même dans le cas du § 913, alinéa 1, et de la prescription correspondante de l’assurance-
@@ -7340,7 +7340,7 @@ supérieur (chambre du contentieux administratif) statue définitivement.
 
 Contre les témoins ou experts, qui négligent de comparaître, ou qui refusent de déposer ou
 de prêter serment sans motif ou après que le motif invoqué a été jugé définitivement sans valeur, il ne peut
-être prononcé qu’une amende pouvant s’élever jusqu’à 300 marks La peine est prononcée par l’Office
+être prononcé qu’une amende pouvant s’élever jusqu’à {{< m "300" "marks" >}} La peine est prononcée par l’Office
 d’assurance. Le § 1576, phrases 2 et 3, s’applique à l’appel.
 
 ###### Article 1578
@@ -7382,9 +7382,9 @@ les états de salaires qui doivent servir de base au calcul de l’indemnité. A
 listes régulières des salaires de chaque assuré. Les statuts en régleront les détails.
 
 Si le chef d’entreprise refuse de fournir les états de salaires, il est passible d’une amende n’excédant
-pas 300 marks Si l’état des salaires contient des indications dont l’inexactitude était connue du chef de
+pas {{< m "300" "marks" >}} Si l’état des salaires contient des indications dont l’inexactitude était connue du chef de
 l’entreprise ou qu’il aurait dû connaître à raison des circonstances, il est passible d’une amende pouvant
-s’élever jusqu’à 500 marks.
+s’élever jusqu’à {{< m "500" "marks" >}}.
 
 C’est le comité directeur de la Corporation qui prononce les amendes. L’Office supérieur des
 assurances sociales statue définitivement sur recours.
@@ -8089,7 +8089,7 @@ l’assurance-maladie, lorsqu’il s’agit :
 1. du seul calcul de la durée et du montant des secours alloués en cas de maladie ;
 2. de l’hospitalisation en remplacement des secours de maladie ;
 3. de l’indemnité funéraire ;
-4. de prestations d’un montant total inférieur à 50 marks.
+4. de prestations d’un montant total inférieur à {{< m "50" "marks" >}}.
 
 ###### Article 1662
 
@@ -9081,7 +9081,7 @@ charge.
 
 Dans les affaires du contentieux judiciaire de l’assurance-maladie, l’Office supérieur impose
 le paiement d’une taxe à la partie succombant. Cette taxe s’élève, suivant la valeur du litige \[de 1 à
-20 marks\] ; elle est fixée dans la décision.
+{{< m "20" "marks" >}}\] ; elle est fixée dans la décision.
 
 L’ordonnance impériale concernant la procédure (§ 35, al. 2) arrête les prescriptions de détail à ce
 sujet.

@@ -57,7 +57,7 @@ acte, ou s'il doit échapper à la peine à raison d'un état excluant le libre 
 
 Dans les cas d'infractions à la présente loi, lorsqu'il en est résulté un dommage, la personne lésée
 pourra demander qu'indépendamment de la peine, une réparation pécuniaire lui soit allouée
-jusqu'à concurrence de 100 marks. L'allocation d'une réparation pécuniaire exclut tout droit à
+jusqu'à concurrence de {{< m "100" "marks" >}}. L'allocation d'une réparation pécuniaire exclut tout droit à
 réclamer ultérieurement des dommages-intérêts. Les personnes condamnées à la réparation
 pécuniaire répondent du paiement comme débiteurs solidaires.
 
@@ -66,7 +66,7 @@ pécuniaire répondent du paiement comme débiteurs solidaires.
 Les vols champêtres, la complicité subséquente et le recel en ce qui concerne lesdits vols, de
 même que les dommages champêtres causés illicitement et volontairement et la complicité
 subséquente en ce qui concerne lesdits dommages, ne tombent sous le coup de la présente loi que
-lorsque la valeur des objets dérobés ou le dommage ne dépasse pas 10 marks.
+lorsque la valeur des objets dérobés ou le dommage ne dépasse pas {{< m "10" "marks" >}}.
 
 ## Complicité par assistance
 
@@ -88,7 +88,7 @@ volontaire.
 
 ### Article 9
 
-Sera puni pour vol champêtre d’une amende jusqu’à 100 marks ou de la détention simple jusqu’à
+Sera puni pour vol champêtre d’une amende jusqu’à {{< m "100" "marks" >}} ou de la détention simple jusqu’à
 quatre semaines quiconque, dans des parcs et jardins de toute nature, vignobles, vergers,
 pépinières, clos ensemencés, prés, prairies, places, eaux, chemins ou fossés, dérobe des fruits,
 récoltes ou d’autres produits du sol non encore rentrés.
@@ -106,7 +106,7 @@ récidive, commettra de nouveau, dans les deux années qui suivront, un des fait
 
 ### Article 11
 
-Le vol champêtre est puni de l’amende de 5 à 150 marks ou de la détention simple :
+Le vol champêtre est puni de l’amende de 5 à {{< m "150" "marks" >}} ou de la détention simple :
 
 1. Lorsqu’il est commis un dimanche ou un jour de fête, entre le coucher et le lever du soleil ;
 2. Lorsque l’auteur a employé des manœuvres pour ne pas être reconnu ;
@@ -154,7 +154,7 @@ L'emprisonnement prononcé sera d'une semaine jusqu'à une année :
 ### Article 14
 
 S'il existe des circonstances atténuantes, la peine prononcée pourra, dans le cas de l’article 11 être
-une amende inférieure à 5 marks, dans le cas de l’article 12 une amende jusqu’à 150 marks ou la
+une amende inférieure à {{< m "5" "marks" >}}, dans le cas de l’article 12 une amende jusqu’à {{< m "150" "marks" >}} ou la
 détention simple, dans les cas de l’article 13 la détention simple.
 
 ### Article 15
@@ -179,7 +179,7 @@ confiscation peut néanmoins être ordonnée.
 
 ### Article 17
 
-Est puni de l'amende jusqu’à 30 marks ou de la détention simple jusqu'à huit jours quiconque,
+Est puni de l'amende jusqu’à {{< m "30" "marks" >}} ou de la détention simple jusqu'à huit jours quiconque,
 sans y être autorisé :
 
 1. Ramasse des "matières" d’engrais dans les champs, prés, prairies, jardins, vergers ou
@@ -190,7 +190,7 @@ Dans le cas du n°2, la poursuite n'a lieu que sur plainte. La plainte peut êtr
 
 ### Article 18
 
-Est puni de l'amende jusqu'à 10 marks ou de la détention simple jusqu'à trois jours quiconque,
+Est puni de l'amende jusqu'à {{< m "10" "marks" >}} ou de la détention simple jusqu'à trois jours quiconque,
 sans y être autorisé :
 
 1. Coupe ou arrache des herbes ou autres fourrages poussant sur ou dans les limites, chemins,
@@ -202,7 +202,7 @@ La poursuite n'a lieu que sur plainte. La plainte peut être retirée.
 
 ### Article 19
 
-Est puni de l'amende jusqu'à 50 marks ou de la détention simple jusqu'à dix jours quiconque :
+Est puni de l'amende jusqu'à {{< m "50" "marks" >}} ou de la détention simple jusqu'à dix jours quiconque :
 
 1. Dans les endroits où la coutume du glanage n'existe pas, ou sur des fonds enclos, ou dans des
    vignobles contrairement à une décision du Conseil municipal, pratique le glanage ;
@@ -214,12 +214,12 @@ Est puni de l'amende jusqu'à 50 marks ou de la détention simple jusqu'à dix j
 
 ### Article 20
 
-Est puni de l’amende jusqu’à 50 marks ou de la détention simple jusqu’à 14 jours quiconque fait
+Est puni de l’amende jusqu’à {{< m "50" "marks" >}} ou de la détention simple jusqu’à 14 jours quiconque fait
 paître du bétail sur un fonds sans y être autorisé.
 
 ### Article 21
 
-La peine sera l’amende de 5 à 150 marks ou la détention simple lorsque la contravention de
+La peine sera l’amende de 5 à {{< m "150" "marks" >}} ou la détention simple lorsque la contravention de
 pâturage est commise :
 
 1. Sur des fonds dont l’accès est interdit par des signes de défend ;
@@ -236,7 +236,7 @@ pâturage est commise :
 
 ### Article 22
 
-Est puni de l’amende jusqu’à 10 marks ou de la détention simple jusqu’à trois jours le pâtre qui
+Est puni de l’amende jusqu’à {{< m "10" "marks" >}} ou de la détention simple jusqu’à trois jours le pâtre qui
 laisse sans surveillance ou met sous la surveillance d’une personne inapte les bestiaux confiés à
 ses soins.
 
@@ -252,7 +252,7 @@ alors même que le pâtre ne vivrait pas dans la famille dudit possesseur.
 
 ### Article 24
 
-Est puni de l’amende jusqu’à 10 marks ou de la détention simple jusqu’à trois jours quiconque :
+Est puni de l’amende jusqu’à {{< m "10" "marks" >}} ou de la détention simple jusqu’à trois jours quiconque :
 
 1. Laisse circuler sans la surveillance convenable, en dehors des fonds enclos, du bétail ou des
    volailles, en tant que les circonstances ne permettent pas de supposer qu’il n’en résultera pour les
@@ -268,7 +268,7 @@ chasse du 7 mai 1883.
 
 ### Article 25
 
-Est puni de l’amende jusqu’à 30 marks ou de la détention simple jusqu’à huit jours quiconque,
+Est puni de l’amende jusqu’à {{< m "30" "marks" >}} ou de la détention simple jusqu’à huit jours quiconque,
 dans l’exercice de ses droits de pâturage communal, de vaine pâture ou de parcours :
 
 1. Contrevient aux arrêtés de police rendus à cet égard ;
@@ -279,7 +279,7 @@ dans l’exercice de ses droits de pâturage communal, de vaine pâture ou de pa
 
 ### Article 26
 
-Est puni de l'amende jusqu'à 150 marks ou de la détention simple jusqu'à trois jours quiconque,
+Est puni de l'amende jusqu'à {{< m "150" "marks" >}} ou de la détention simple jusqu'à trois jours quiconque,
 sans y être autorisé :
 
 1. En dehors des cas de l'article 30.5 du Code pénal, endommage des chemins publics de toute
@@ -299,7 +299,7 @@ sans y être autorisé :
 
 ### Article 27
 
-Est puni de l'amende jusqu'à 50 marks ou de la détention simple jusqu'à quatorze jours
+Est puni de l'amende jusqu'à {{< m "50" "marks" >}} ou de la détention simple jusqu'à quatorze jours
 quiconque :
 
 1. En dehors des cas de l’article 366 n°9 du Code Pénal, sur des chemins publics ou des chemins
@@ -315,7 +315,7 @@ quiconque :
 
 ### Article 28
 
-Est puni de l'amende jusqu'à 80 marks ou de la détention simple jusqu'à huit jours quiconque,
+Est puni de l'amende jusqu'à {{< m "80" "marks" >}} ou de la détention simple jusqu'à huit jours quiconque,
 sans y être autorisé :
 
 1. En dehors des cas de l’article 366 n°7 du Code Pénal, jette ou supporte sur des fonds des
@@ -331,7 +331,7 @@ sans y être autorisé :
 
 ### Article 29
 
-Est puni de l'amende jusqu'à 10 marks ou de la détention simple jusqu'à trois jours quiconque :
+Est puni de l'amende jusqu'à {{< m "10" "marks" >}} ou de la détention simple jusqu'à trois jours quiconque :
 
 1. En dehors des cas de l’article 123 du Code Pénal, se trouvant sans autorisation sur un fonds,
    ne s'en éloigne pas sur l’invitation qui lui en est faite par l'ayant droit ;
@@ -350,7 +350,7 @@ dommage.
 
 ### Article 30
 
-Est puni d'amende jusqu'à 150 marks ou à de la détention simple :
+Est puni d'amende jusqu'à {{< m "150" "marks" >}} ou à de la détention simple :
 
 1. Quiconque, en empêchant ou modifiant le cours naturel et régulier de l'eau, inonde un fonds
    appartenant à autrui ou le rend marécageux, ou, d'une manière nuisible, retire l'eau d'un fonds
@@ -361,7 +361,7 @@ Est puni d'amende jusqu'à 150 marks ou à de la détention simple :
 
 ### Article 31
 
-Est puni de l’amende jusqu’à 30 marks, ou de la détention simple jusqu’à huit jours quiconque
+Est puni de l’amende jusqu’à {{< m "30" "marks" >}}, ou de la détention simple jusqu’à huit jours quiconque
 contrevient aux clauses du titre de concession ou de l’arrêté de police relatives au droit aux eaux
 des usines ou autres établissements sur les cours d’eau, notamment en ce qui concerne la hauteur
 du niveau d’eau, les heures de retenue et de levée des eaux, ou aux arrêtés de police ayant pour
@@ -370,13 +370,13 @@ entre les ayants droit à l’irrigation ou entre l'agriculture et l’industrie
 le curage de ces cours d’eau.
 
 Si l’infraction ha eu pour conséquence de produire l’un des effets mentionnés à l'article 30, n°1, la
-peine prononcée sera l'amende de 150 marks ou la détention simple.
+peine prononcée sera l'amende de {{< m "150" "marks" >}} ou la détention simple.
 
 ## Carrières
 
 ### Article 32
 
-Est puni de l'amende jusqu'à 50 marks, ou de la détention simple quiconque, en dehors des cas
+Est puni de l'amende jusqu'à {{< m "50" "marks" >}}, ou de la détention simple quiconque, en dehors des cas
 de l'article 367, n°12 du Code pénal, contrevient aux arrêtés des autorités en omettant :
 
 1. De clore ou de combler les carrières, argilières, sablonnières, ballastières, marnières,
@@ -389,14 +389,14 @@ de l'article 367, n°12 du Code pénal, contrevient aux arrêtés des autorités
 
 ### Article 33
 
-Est puni de l'amende jusqu’à 150 marks ou de la détention simple jusqu’à quatorze jours
+Est puni de l'amende jusqu’à {{< m "150" "marks" >}} ou de la détention simple jusqu’à quatorze jours
 quiconque établit des ruches contrairement aux arrêtés de police.
 
 ## Cadavres d’animaux
 
 ### Article 34
 
-Est puni de l'amende jusqu'à 30 marks ou de la détention simple à huit jours quiconque :
+Est puni de l'amende jusqu'à {{< m "30" "marks" >}} ou de la détention simple à huit jours quiconque :
 
 1. Contrevient aux arrêtés de police relatif à l'enfouissement d'animaux morts ou abattus, ou, à
    défaut de tels arrêtés, néglige, dans les vingt-quatre heures de leur mort, d'enfouir dans sa
@@ -411,7 +411,7 @@ Est puni de l'amende jusqu'à 30 marks ou de la détention simple à huit jours 
 
 ### Article 35
 
-Est puni de l’amende jusqu’à 50 marks ou de la détention simple jusqu’à quatorze jours
+Est puni de l’amende jusqu’à {{< m "50" "marks" >}} ou de la détention simple jusqu’à quatorze jours
 quiconque, sans y être autorisé :
 
 1. Fait tremper des peaux dans les cours d’eau pour les amollir ou les nettoyer ;
@@ -427,7 +427,7 @@ La même peine est applicable à quiconque :
 
 ### Article 36
 
-Est puni de l’amende jusqu'à 10 marks ou de la détention simple jusqu'à trois jours quiconque
+Est puni de l’amende jusqu'à {{< m "10" "marks" >}} ou de la détention simple jusqu'à trois jours quiconque
 contrevient aux arrêtés de la police locale sur la disposition des endroits où la saillie des chevaux
 ou bovins peut être effectuée ou, à défaut de tels arrêtés, laisse, dans l’intérieur d'une localité,
 effectuer, sur des voies ou places publiques la saillie des chevaux ou bovins.
@@ -436,7 +436,7 @@ effectuer, sur des voies ou places publiques la saillie des chevaux ou bovins.
 
 ### Article 37
 
-Est puni de l’amende jusqu'à 150 marks ou de la détention simple quiconque, en dehors des cas
+Est puni de l’amende jusqu'à {{< m "150" "marks" >}} ou de la détention simple quiconque, en dehors des cas
 punissables en vertu de l’article 368 n° 2 du Code pénal, ou d'autres loi spéciales, contrevient aux
 arrêtés de police ayant pour objet la protection des animaux ou plantes utiles ou la destruction des
 animaux ou plantes nuisibles.
@@ -445,7 +445,7 @@ animaux ou plantes nuisibles.
 
 ### Article 38
 
-Est puni de l’amende jusqu'à 10 marks ou de la détention simple jusqu'à trois jours quiconque, en
+Est puni de l’amende jusqu'à {{< m "10" "marks" >}} ou de la détention simple jusqu'à trois jours quiconque, en
 dehors des cas de l’article 368 n°1 du Code pénal, contrevient aux arrêtés de la police locale sur
 l’époque des récoltes.
 
@@ -499,7 +499,9 @@ dommages.
 
 La saisie doit être dénoncée dans les vingt-quatre heures au juge de baillage, lequel doit en
 donner immédiatement connaissance aux intéressés connus s’ils n’étaient pas présents à la saisie.
+
 Si la dénonciation n’a pas été faite au juge de baillage, le saisi peut réclamer les animaux saisis.
+
 Le saisissant n’a dans ce cas aucun droit à demander le remboursement des frais occasionnés par
 la saisie.
 
@@ -530,7 +532,7 @@ en force de chose jugée.
 
 Les arrêtés de police prévus par les articles 34, 35 n°4 et 37 de la présente loi et par l’article 368,
 n°2 du Code pénal seront pris par les autorités de police locale et pour le territoire de tout le
-district ou de plusieurs communes par les présidents de districts. Les autorités susindiquées sont
+district ou de plusieurs communes par les {{< t "présidents de districts" "préfets" >}}. Les autorités susindiquées sont
 autorisées à faire exécuter aux frais des parties en retard les mesures ordonnées et à recouvrer les
 frais par la voie administrative d’après les dispositions applicables au recouvrement des deniers
 publics.
@@ -551,7 +553,7 @@ antérieurement et seulement pour réglementer l’accès et la sortie des charr
 
 ### Article 49
 
-Par arrêté du président de district rendu, après avis du conseil de district, pour tout le district ou
+Par arrêté du {{< t "président de district" "préfet" >}} rendu, après avis du conseil de district, pour tout le district ou
 pour des communes déterminées, il pourra être décidé, relativement à l'exercice de la vaine pâture
 et du parcours :
 

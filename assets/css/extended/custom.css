@@ -4,3 +4,13 @@
 .post-content ol.liste-alpha {
     list-style-type: lower-alpha;
 }
+
+/* Deux versions : texte original / termes actuels (shortcodes t et m). */
+.t { border-bottom: 1px dotted currentColor; }
+html:not([data-version="actuel"]) .t-new { display: none; }
+html[data-version="actuel"] .t-orig { display: none; }
+#toggle-version {
+    position: fixed; right: 16px; bottom: 16px; z-index: 10;
+    padding: 8px 14px; border-radius: 20px; border: 1px solid var(--border);
+    background: var(--entry); color: var(--primary); cursor: pointer; font-size: 14px;
+}

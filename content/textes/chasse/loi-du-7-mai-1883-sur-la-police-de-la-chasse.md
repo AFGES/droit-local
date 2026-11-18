@@ -19,11 +19,11 @@ Le ministère déterminera :
 ## Article 5
 
 Lorsque la multiplication excessive du gibier ou toute autre circonstance fera craindre
-que le gibier ne cause aux cultures des dommages extraordinaires, le directeur de cercle
+que le gibier ne cause aux cultures des dommages extraordinaires, le {{< t "directeur de cercle" "sous-préfet" >}}
 imposera, même en temps prohibé, aux titulaires de la chasse, sur la demande des propriétaires
 lésés et après avoir examiné préalablement si la mesure est nécessaire, l’obligation d’en réduire
 le nombre. Si le titulaire de la chasse ne se conforme pas, dans le délai fixé, à l’injonction qui lui
-est faite, ou ne s’y conforme pas d’une manière suffisante, le président du district sera autorisé à
+est faite, ou ne s’y conforme pas d’une manière suffisante, le {{< t "président du district" "préfet" >}} sera autorisé à
 prendre les mesures nécessaires. Il pourra notamment, sous certaines restrictions de lieu et de
 temps, permettre aux propriétaires fonciers de détruire, à l’aide des moyens autorisés pour la
 chasse, le gibier se trouvant sur leurs terres et, le cas échéant, ordonner des battues par voie
@@ -37,4 +37,5 @@ la chasse, dans la mesure où ces frais ne dépassent pas la valeur du gibier tu
 
 ---
 
-1. Le texte allemand porte par erreur 30 septembre. Il ne peut s’agir que de la loi du 16 septembre 1807 relative au dessèchement des marais, dont l’article 30 contient le principe d’une indemnité pour plus-value.
+1. Le texte allemand porte par erreur 30 septembre. Il ne peut s’agir que de la loi du 16 septembre 1807
+   relative au dessèchement des marais, dont l’article 30 contient le principe d’une indemnité pour plus-value.

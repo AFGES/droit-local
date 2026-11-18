@@ -477,7 +477,7 @@ l'usage d’une bande de protection d'une largeur de deux mètres au plus le lon
 
 ### Article 42
 
-Sera puni d'une amende jusqu'à 300 marks, en tant que les dispositions de la loi sur les
+Sera puni d'une amende jusqu'à {{< m "300" "marks" >}}, en tant que les dispositions de la loi sur les
 professions ne sont pas applicables :
 
 1. Quiconque aura, contrairement aux dispositions de l’article 1er, procédé à des travaux de la
@@ -489,7 +489,7 @@ professions ne sont pas applicables :
 
 ### Article 43
 
-Sera puni d'une amende de 150 marks au plus ou à de la détention simple, à moins que d'autres
+Sera puni d'une amende de {{< m "150" "marks" >}} au plus ou à de la détention simple, à moins que d'autres
 dispositions ne soient applicables en vertu du droit pénal commun, quiconque, dans les cas
 prévus par l’article 40 de la présente loi, étant sommé de prêter secours par les autorités
 communales, de police ou des tribunaux publics, s’ y sera refusé, bien qu’il eût pu obtempérer à
@@ -497,7 +497,7 @@ la sommation sans danger considérable pour lui-même.
 
 ### Article 44
 
-Sera puni d'une amende de 150 marks au plus, à moins que d’autres dispositions ne soient
+Sera puni d'une amende de {{< m "150" "marks" >}} au plus, à moins que d’autres dispositions ne soient
 applicables en vertu du droit pénal commun :
 
 1. Quiconque, de sa propre autorité, aura modifié un repère (art.7) ou quiconque aura, sans
@@ -511,7 +511,7 @@ applicables en vertu du droit pénal commun :
 
 ### Article 45
 
-Sera puni d'une amende jusqu’à 60 marks, à moins qu'en vertu d’autres lois pénales une peine
+Sera puni d'une amende jusqu’à {{< m "60" "marks" >}}, à moins qu'en vertu d’autres lois pénales une peine
 plus sévère ne soit encourue :
 
 1. Quiconque, contrairement à l'article 3, aura, sans permission ou en ne se conformant pas aux

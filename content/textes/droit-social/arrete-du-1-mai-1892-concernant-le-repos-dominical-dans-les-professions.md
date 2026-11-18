@@ -28,7 +28,7 @@ communes, du maire.
 
 Les instances supérieures des autorités de police dans le sens du § 105b, alinéa 2, de la loi
 organique sur l’industrie sont, en ce qui concerne les villes de Strasbourg, Metz et Mulhouse, les
-présidents de département ; en ce qui concerne les autres communes, les directeurs
+{{< t "présidents de département" "préfets" >}} ; en ce qui concerne les autres communes, les directeurs
 d’arrondissement.
 
 La compétence des autorités de police est exclue si des dispositions statutaires émanant du
@@ -79,7 +79,7 @@ heures supplémentaires de travail là où le besoin exceptionnel ne s’en fait
 
 ## Article IV
 
-Les exceptions à accorder par les présidents de département en vertu du § 105e de la loi
+Les exceptions à accorder par les {{< t "présidents de département" "préfets" >}} en vertu du § 105e de la loi
 organique sur l’industrie pour les professions dont l’exercice complet ou partiel les dimanches et
 jours de fête répond à un besoin journalier de la population ou à un besoin se faisant sentir
 surtout ces jours-là, seront aussi restreintes que possible. Il suffira en général d’accorder pour la

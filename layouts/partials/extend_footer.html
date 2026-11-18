@@ -1,0 +1,16 @@
+<button id="toggle-version" type="button" aria-live="polite"></button>
+<script>
+  (function () {
+    var b = document.getElementById('toggle-version'), h = document.documentElement;
+    function label() {
+      b.textContent = h.getAttribute('data-version') === 'actuel' ? 'Termes actuels : afficher l’original' : 'Texte original : afficher les termes actuels';
+    }
+    b.addEventListener('click', function () {
+      var v = h.getAttribute('data-version') === 'actuel' ? 'orig' : 'actuel';
+      h.setAttribute('data-version', v);
+      try { localStorage.setItem('version-texte', v); } catch (e) {}
+      label();
+    });
+    label();
+  })();
+</script>

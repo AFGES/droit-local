@@ -329,6 +329,7 @@ conventions existantes.
 Le Conseil d'administration doit manifester ses déclarations de volonté et signer pour la société
 dans la forme déterminée par les statuts. S'il n'a rien été stipulé à cet égard, la déclaration et la
 signature doivent nécessairement être données par tous les membres du Conseil d'administration.
+
 Le nombre des membres désignés à cet effet ne peut être inférieur à deux.
 
 La signature est donnée en cette forme que les signataires ajoutent l'apposition de leur nom à la
@@ -457,6 +458,7 @@ Les membres sortants du Conseil d'administration ne peuvent, avant d'avoir obten
 
 Le Conseil de surveillance doit contrôler la gestion du Conseil d'administration dans toutes les
 branches de l'administration, et, dans ce but, s'enquérir de la marche des affaires de l'association.
+
 Il peut en tout temps demander au Conseil d'administration la rédaction d'un rapport sur ces
 affaires et, par lui-même ou par quelques-uns de ses membres qu'il désignera, examiner les livres
 et écritures de l'association, ainsi que vérifier l'avoir en caisse et les avoirs en effets, papiers de
@@ -713,6 +715,7 @@ Avis de retrait devra être donné aux tribunaux désignés à l'article 58.
 
 Pour les associations qui ne font pas partie d'une union de révision le réviseur est nommé par le
 tribunal.
+
 Le Conseil d'administration de l'association doit provoquer la nomination.
 
 La nomination a lieu après que l'autorité administrative supérieure aura donné son avis sur la
@@ -1033,6 +1036,7 @@ Les liquidateurs qui contreviennent à des prescriptions sont, en outre de l'ass
 personnellement et solidairement, vis-à-vis des créanciers, de les indemniser du dommage qui en
 est résulté pour eux. La même obligation incombe aux membres du Conseil de surveillance,
 lorsqu'il a été contrevenu à ces prescriptions à leur connaissance et sans opposition de leur part.
+
 L'obligation n'est pas levée vis-à-vis des créanciers par le fait que la contravention reposerait sur
 une résolution de l'assemblée générale.
 
@@ -1150,6 +1154,7 @@ L'ouverture de la faillite emporte dissolution de l'association.
 ### Article 102
 
 L'ouverture de la faillite doit être inscrite sans retard au registre des associations coopératives.
+
 L'inscription ne sera pas publiée.
 
 ### Article 103
@@ -1604,7 +1609,7 @@ En même temps, la perte des droits civiques peut être prononcée.
 
 Les membres du Conseil d'administration et du Conseil de surveillance et les liquidateurs sont
 punis d'une peine d'emprisonnement jusqu'à une année et, en même temps d'une amende jusqu'à
-3 000 marks, s'ils fournissent sciemment de fausses indications pour les déclarations, avis et
+{{< m "3000" "marks" >}}, s'ils fournissent sciemment de fausses indications pour les déclarations, avis et
 affirmations qu'il leur incombe de faire au tribunal, ou si, dans leurs exposés, dans leurs tableaux
 sur l'actif social, sur les membres et sur les sommes dont ils sont tenus ou dans leurs déclarations
 faites à l'assemblée générale, ils présentent la situation de l'association sciemment d'une façon
@@ -1616,7 +1621,7 @@ S'il y a des circonstances atténuantes, l'amende est seule prononcée.
 
 ### Article 148
 
-Sont punis d'une amende jusqu'à 600 marks ou d'un emprisonnement jusqu'à trois mois, ou des
+Sont punis d'une amende jusqu'à {{< m "600" "marks" >}} ou d'un emprisonnement jusqu'à trois mois, ou des
 deux peines à la fois :
 
 1. Les membres du Conseil d'administration et du Conseil de surveillance et les liquidateurs, si
@@ -1630,7 +1635,7 @@ La peine n'est pas prononcée contre celui qui établit que l'omission a eu lieu
 
 ### Article 149
 
-Les membres du Conseil d'administration sont punis d'une peine d'amende jusqu'à 600 marks si
+Les membres du Conseil d'administration sont punis d'une peine d'amende jusqu'à {{< m "600" "marks" >}} si
 par leurs opérations ils poursuivent d'autres buts que ceux énumérés à l'article 1, ou si, dans
 l'assemblée générale, ils autorisent ou n'empêchent pas la discussion de propositions qui touchent
 des affaires publiques dont la discussion tombe sous les lois relatives au droit de réunion et
@@ -1639,7 +1644,7 @@ d'association.
 ### Article 150
 
 Les membres du Conseil d'administration d'une union de révision qui ont omis de déclarer la
-réunion conformément à l'article 59, alinéa 2 sont punis d'une amende jusqu'à 600 marks.
+réunion conformément à l'article 59, alinéa 2 sont punis d'une amende jusqu'à {{< m "600" "marks" >}}.
 
 La peine n'est pas prononcée contre celui qui établit que l'omission a eu lieu sans sa faute.
 
@@ -1694,6 +1699,7 @@ de faillite, doivent être communiquées au registre des associations de chaque 
 
 Pour les débats et la décision en première instance en ce qui concerne les requêtes mentionnées à
 l'article précédent, de même que pour les inscriptions et pré notations, il n'est perçu aucun droit.
+
 La perception des débours a lieu aux termes des articles 79, 80 et 80 b de la loi sur les frais de
 justice.
 

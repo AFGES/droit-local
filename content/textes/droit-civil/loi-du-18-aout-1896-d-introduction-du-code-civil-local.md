@@ -16,7 +16,7 @@ corporation, fondation ou institution de droit public.
 
 Sont maintenues les dispositions législatives (des Etats) qui limitent l’acquisition de
 droits par des personnes juridiques ou qui la font dépendre de l’approbation de l’Etat, en tant que
-ces dispositions concernent des objets d’une valeur de plus de (5000 marks). Si l’approbation
+ces dispositions concernent des objets d’une valeur de plus de ({{< m "5000" "marks" >}}). Si l’approbation
 nécessaire, d’après la loi (d’un Etat), pour une acquisition à cause de mort, est accordée, elle est
 réputée avoir été accordée antérieurement à l’ouverture de la succession ; si elle est refusée, la
 personne juridique, par rapport à la dévolution, est réputée ne pas exister ; il y a lieu d’appliquer

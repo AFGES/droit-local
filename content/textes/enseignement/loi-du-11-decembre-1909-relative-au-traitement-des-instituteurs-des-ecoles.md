@@ -16,9 +16,9 @@ traitement et un logement gratuit ou, à la place de celui-ci, une indemnité de
 ## Article 2
 
 Les instituteurs et institutrices nommés à titre définitif recevront comme traitement annuel un
-traitement de base de 1200 marks ainsi que des augmentations d’ancienneté conformément
+traitement de base de {{< m "1200" "marks" >}} ainsi que des augmentations d’ancienneté conformément
 aux articles 3 et 4. Les instituteurs et institutrices auxiliaires recevront comme traitement
-annuel une indemnité de 1100 marks.
+annuel une indemnité de {{< m "1100" "marks" >}}.
 
 ## Article 3
 
@@ -49,9 +49,9 @@ qui servira de point de départ à l’ancienneté de traitement.
 
 A partir de l’époque fixée à l’article 3, il sera accordé comme augmentation d’ancienneté aux
 instituteurs nommés à titre définitif :
-Après 3, 6, 9, 12, 15 et 16 années de service, chaque fois 100 marks ;
-Après 18 années de service, chaque fois 100 marks ;
-Après 21 et 24 années de service chaque fois 200 marks ;
+Après 3, 6, 9, 12, 15 et 16 années de service, chaque fois {{< m "100" "marks" >}} ;
+Après 18 années de service, chaque fois {{< m "100" "marks" >}} ;
+Après 21 et 24 années de service chaque fois {{< m "200" "marks" >}} ;
 
 Les instituteurs et institutrices ont une action pour faire reconnaître leur droit à l’obtention de
 ces augmentations d’ancienneté.
@@ -104,7 +104,7 @@ présente loi.
 En ce qui concerne les membres des associations religieuses remplissant des emplois dans les
 écoles élémentaires publiques, la rémunération continuera à être fixée de gré à gré. A défaut
 d'accord amiable, il sera alloué pour chaque instituteur et institutrice, qui se consacrent
-entièrement à leurs fonctions une rémunération annuelle de 800 marks et un logement gratuit
+entièrement à leurs fonctions une rémunération annuelle de {{< m "800" "marks" >}} et un logement gratuit
 ou; à la place de celui-ci; une indemnité de loyer équivalente.
 
 ## Article 7
@@ -132,8 +132,8 @@ Le trimestre de grâce et les pensions des veuves et orphelins d’instituteurs 
 d'Alsace-Lorraine et payés sur le Trésor·d'Alsace-Lorraine.
 
 Lors de la liquidation des pensions et traitements de disponibilité, la valeur du logement de
-service gratuit oui l'indemnité de loyer sera prise en compte pour une valeur de 500 marks en
-ce qui concerne les instituteurs et pour une valeur de 400 marks en ce qui concerne les
+service gratuit oui l'indemnité de loyer sera prise en compte pour une valeur de {{< m "500" "marks" >}} en
+ce qui concerne les instituteurs et pour une valeur de {{< m "400" "marks" >}} en ce qui concerne les
 institutrices; quel que soit le montant de l’indemnité fixée par le conseil municipal
 conformément à l’article 4 a.
 
@@ -141,7 +141,7 @@ conformément à l’article 4 a.
 
 Les instituteurs et institutrices chargés d’enseigner en allemand et en français dans les écoles
 communales du territoire où les deux langues sont en usage, recevront un supplément annuel,
-ne comptant pas pour la pension, qui s’élèvera à 200 marks pour les instituteurs et 150 marks
+ne comptant pas pour la pension, qui s’élèvera à {{< m "200" "marks" >}} pour les instituteurs et {{< m "150" "marks" >}}
 pour les institutrices.
 
 ## Article 10

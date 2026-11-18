@@ -53,7 +53,7 @@ params:
       alsacien-mosellan**, issu de la période allemande (1871-1918) et partiellement
       conservé après le retour à la France par les lois du 1er juin 1924. Le reccueil
       est basé sur les textes publiés **en 2013** dans les reccueils des actes
-      administratifs des prefectures. **Certains textes ont pu évoluer depuis.**"
+      administratifs des prefectures. **Certains textes ont pu évoluer depuis.** Un bouton permet d'afficher les [termes actuels](/textes/correspondances/) (ex. « président de district » devient « préfet »), à titre indicatif : seul le texte original fait foi."
 
 menu:
   main:
@@ -113,6 +113,10 @@ menu:
       name: Justice
       url: /textes/justice/
       weight: 100
+    - identifier: menu-correspondances
+      name: Correspondance des termes
+      url: /textes/correspondances/
+      weight: 110
 
 taxonomies:
   category: categories

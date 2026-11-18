@@ -6,10 +6,6 @@ categories:
   - "chasse"
 ---
 
-# Loi du 9 juillet 1900
-
-# relative à l'entretien des taureaux reproducteurs
-
 ## Article 1er
 
 Les municipalités sont tenues de réglementer l’entretien des taureaux reproducteurs dans la

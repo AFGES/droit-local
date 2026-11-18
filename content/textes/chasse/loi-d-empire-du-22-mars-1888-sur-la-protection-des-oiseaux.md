@@ -52,7 +52,8 @@ Sont interdits d’une manière générale, pendant la période comprise entre l
 octobre, la capture et la mise à mort d’oiseaux, ainsi que l’achat, la vente et la mise en vente,
 l’entremise pour l’achat et la vente prohibés, l’importation, l’exportation et le transit des oiseaux
 morts ou vivants appartenant à des espèces vivant en Europe ; est interdit également, pendant la
-même période, le transport de ces oiseaux dans un but commercial.\
+même période, le transport de ces oiseaux dans un but commercial.
+
 Cette interdiction, en ce qui concerne les mésanges, les sittelles et les grimpereaux, s’étend à
 l’année entière.
 
@@ -98,7 +99,7 @@ l’application de la disposition contenue dans l’article 2 a).
 ## Article 6
 
 Les contraventions aux dispositions de la présente loi ou à celles des règlements édictés par le
-Conseil fédéral en vertu de la présente loi seront punies d’une amende de 150 marks au plus ou
+Conseil fédéral en vertu de la présente loi seront punies d’une amende de {{< m "150" "marks" >}} au plus ou
 de la détention simple.
 
 La même peine sera encourue par ceux qui négligeront d’empêcher que des enfants ou d’autres

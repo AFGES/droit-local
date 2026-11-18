@@ -6,10 +6,6 @@ categories:
   - "chasse"
 ---
 
-# Loi du 2 juillet 1890
-
-# relative à l'exécution de la loi d'Empire du 22 mars 1888 sur la protection des oiseaux
-
 ## Article 1
 
 Les espèces d’oiseaux auxquelles, aux termes de l’article 8, alinéa 1er, lettre b) de la loi du 22
@@ -37,7 +33,7 @@ Le ministère est autorisé :
 {.liste-alpha}
 
 Les contraventions auxdites ordonnances seront punies, à défaut d’autres dispositions pénales,
-d’une amende de 60 marks au plus ou de la détention simple de quatorze jours au plus.
+d’une amende de {{< m "60" "marks" >}} au plus ou de la détention simple de quatorze jours au plus.
 
 ## Article 3
 

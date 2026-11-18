@@ -32,14 +32,14 @@ prescrite. Le montant du timbre à payer pour la délivrance du récépissé est
 qu’il s’agit de la déclaration relative à la fondation d’associations ou à la modification des
 statuts, d’après les taux prévus jusqu’à présent à l’article 25 pour l’approbation ou la
 modification des statuts, dans tout autre cas, d’après l’article 32 de la loi sur le timbre du 21
-juin 1897. Si le président du département l’exige, il faut en outre lui soumettre une liste des
+juin 1897. Si le {{< t "président du département" "préfet" >}} l’exige, il faut en outre lui soumettre une liste des
 membres de l’association, renseignant sur les noms, prénoms, âge, profession, domicile et
 nationalités des différents membres.
 
 **Article 4**
 
 Des uniformes, drapeaux et insignes ne peuvent être portés en public qu’après l’approbation
-du président du département.
+du {{< t "président du département" "préfet" >}}.
 
 **Article 5**
 
@@ -50,7 +50,7 @@ langue française, l’emploi de cette dernière, à côté de la langue alleman
 **Article 6**
 
 Les associations qui poursuivent un but politique, politico-social ou religieux, ne peuvent pas
-recevoir comme membres, des mineurs. Le président du département peut autoriser des
+recevoir comme membres, des mineurs. Le {{< t "président du département" "préfet" >}} peut autoriser des
 exceptions.
 
 **Article 7**
@@ -58,7 +58,7 @@ exceptions.
 Les associations dont la constitution, les buts ou l’activité sont en contradiction avec les lois,
 dont l’activité menace la sécurité ou la paix publique, ainsi que les associations qui
 poursuivent d’autres buts que ceux déterminés par les statuts, peuvent être dissoutes par le
-président du département.
+{{< t "président du département" "préfet" >}}.
 L’arrêté de dissolution doit être signé par écrit au comité et dûment motivé. Il peut être
 déclaré provisoirement exécutoire. La notification doit se faire par la remise de l’arrêté au
 comité contre récépissé ou par l’entremise de la poste. Si le comité se compose de plusieurs
@@ -134,7 +134,7 @@ endroits publics ne sont pas touchés par les dispositions de la présente loi.
 
 **Article 18**
 
-Sera puni d’une amende jusqu’à concurrence de 50 marks ou jusqu’à dix jours d’arrêts :
+Sera puni d’une amende jusqu’à concurrence de {{< m "50" "marks" >}} ou jusqu’à dix jours d’arrêts :
 
 1. Celui qui, en sa qualité de président d’une association ou de membre d’un comité a négligé
    de faire les déclarations prescrites à l’article 3 alinéa 1er ;
@@ -151,7 +151,7 @@ Sera puni d’une amende jusqu’à concurrence de 50 marks ou jusqu’à dix jo
 
 **Article 19**
 
-Sera puni d’une amende jusqu’à 150 marks ou des arrêts :
+Sera puni d’une amende jusqu’à {{< m "150" "marks" >}} ou des arrêts :
 l. Celui qui continue à être membre d'une association dissoute conformément à l’article 7 ;
 
 2. Celui qui convoque ou tient une réunion publique sans que la déclaration prévue à l’article
@@ -167,7 +167,7 @@ l. Celui qui continue à être membre d'une association dissoute conformément �
 
 **Article 20**
 
-Sera puni d’une amende jusqu’à concurrence de 300 marks ou à l’emprisonnement pouvant
+Sera puni d’une amende jusqu’à concurrence de {{< m "300" "marks" >}} ou à l’emprisonnement pouvant
 aller jusqu'à trois mois :
 
 1. Celui qui tient une réunion interdite en vertu de l’article 12 ou y assiste ;

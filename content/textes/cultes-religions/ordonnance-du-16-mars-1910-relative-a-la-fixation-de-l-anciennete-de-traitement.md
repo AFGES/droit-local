@@ -43,10 +43,10 @@ l’admission au service de l’Eglise en Alsace-Lorraine a été effectuée ava
 ### Article 4
 
 Peut être pris en compte pour l'ancienneté de traitement, le temps qu'un pasteur
-protestant ou un rabbin a passé, avant l'entrée en fonctions, au service du pays, de l’Empire, d'un
+protestant ou un rabbin a passé, avant l'entrée en fonctions, au service du pays, de {{< t "l’Empire" "l’Etat français" >}}, d'un
 Etat confédéré ou d'un pays de protectorat, d'une commune ou d'une institution intercommunale
-allemande, ou à l'intérieur du Reich ou d'un pays de protectorat au service de son Eglise, ou à
-l'étranger au service d'une communauté culturelle allemande ou à l'intérieur du pays ou à
+{{< t "allemande" "française" >}}, ou à l'intérieur du Reich ou d'un pays de protectorat au service de son Eglise, ou à
+l'étranger au service d'une communauté culturelle {{< t "allemande" "française" >}} ou à l'intérieur du pays ou à
 l'étranger au service d'un établissement d'instruction, d'une maison d'éducation, d'une maison de
 santé ou d'un hôpital ou au service des missions.
 
@@ -90,9 +90,7 @@ de tous les cultes :
 1. le temps de service militaire actif pour autant qu'il n'a pas été compté pour la fixation de l'ancienneté de traitement (article 3, alinéa 2).
 2. jusqu'à la durée de deux ans, les années d'études exigées pour l'obtention du certificat d'aptitude à une charge de curé, au pastorat ou au rabbinat, en tant que 1a durée des études dépasse quatre ans et en tant que ce laps de temps n'est pas déjà pris en compte pour une autre raison. La période d'études de plus d'une année passée à l'étranger n'est prise en compte que pour autant qu'il en sera décidé ainsi dans chaque cas particulier.
 
-## III.
-
-Dispositions finales
+## III. Dispositions finales
 
 ### Article 8
 

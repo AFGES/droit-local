@@ -715,7 +715,7 @@ responsabilité qu'un tuteur envers son pupille.
 
 En cas de contravention aux dispositions statutaires, le bureau a le droit
 d'infliger aux membres de la corporation des sanctions disciplinaires et spécialement des
-amendes ne dépassant pas 20 marks. En cas de recours, l'autorité de surveillance tranchera.
+amendes ne dépassant pas {{< m "20" "marks" >}}. En cas de recours, l'autorité de surveillance tranchera.
 Le produit des amendes est versé à la caisse corporative.
 
     Article. 93
@@ -1395,7 +1395,7 @@ sur les ressorts desquelles s'étend la circonscription de la chambre des artisa
 
 - Sont applicables aux chambres des artisans, par analogie, les dispositions des
   articles 86, 88, 89, alinéas 3 et 4, 89 a, 89 b, 94 , 99.
-  La chambre des artisans a le droit d’établir des amendes , de 20 marks au plus, pour les\
+  La chambre des artisans a le droit d’établir des amendes , de {{< m "20" "marks" >}} au plus, pour les\
   Contraventions aux dispositions qu'elle a prises dans les limites de sa compétence. Ces peines
   seront appliquées à la demande du bureau ou d'un délégué de la chambre par l'autorité
   administrative inférieure. Le condamné peut faire opposition , dans les deux semaines,
@@ -1785,7 +1785,7 @@ Article.108.
 
 Le livret est délivré à l’ouvrier ,sans frais ni timbre , par la police de la localité ou il a eu en
 dernier lieu sa résidence permanente ,et ,s’il n’a pas eu une pareille résidence sur le territoire
-allemand ,par la police de la première localité allemande ou il est venu travailler .La
+{{< t "allemand" "français" >}} ,par la police de la première localité {{< t "allemande" "française" >}} ou il est venu travailler .La
 délivrance a lieu sur la demande ou avec le consentement du représentant légal .S’il est
 impossible d’obtenir la déclaration du représentant légal, ou que le refus de celui –ci soit fait
 sans motifs suffisants et soit contraire à l’intérêt de l’ouvrier ,le consentement de l’autorité
@@ -2289,7 +2289,7 @@ compter du jour où elles ont été commises.
 
     Article. 146 a.
 
-Sera puni d'une amende jusqu'à 600 marks, en cas d'insolvabilité, de la
+Sera puni d'une amende jusqu'à {{< m "600" "marks" >}}, en cas d'insolvabilité, de la
 détention simple quiconque, contrairement aux articles 105 b à 105 g ou aux arrêtés pris en
 vertu de ces articles, aura donné du travail aux ouvriers les dimanches et jours fériés, ou qui
 aura contrevenu aux articles 41 a, 55 a, 139 e ou 139 J, alinéa 4, ou aux dispositions
@@ -2301,12 +2301,12 @@ ces prescriptions, aura donné, les dimanches et jours fériés, de l'occupation
 aura contrevenu aux dispositions statutaires édictées en vertu de l'article 105 b, alinéa 2, après
 avoir subi déjà, pour infractions aux prescriptions sus-indiquées, deux condamnations passées
 en force de chose jugée, sera puni, lorsque l'infraction aura été commise volontairement,
-d'une amende de 50 à 1000 marks ou de la détention simple. L'article 146, alinéa 2, phrase
+d'une amende de 50 à {{< m "1000" "marks" >}} ou de la détention simple. L'article 146, alinéa 2, phrase
 2, sera applicable par analogie.
 
 **Article 147**
 
-Sera puni d'une amende jusqu'à 300 marks et, en cas d'insolvabilité, de la
+Sera puni d'une amende jusqu'à {{< m "300" "marks" >}} et, en cas d'insolvabilité, de la
 détention simple:
 
 1. Quiconque aura entrepris ou continué, sans en avoir reçu l'autorisation prescrite,
@@ -2341,7 +2341,7 @@ serait de nature à entraîner un préjudice ou un danger graves.
 
     Article. 148.
 
-Sera puni d'une amende jusqu'à 150 marks et, en cas d'insolvabilité, de la
+Sera puni d'une amende jusqu'à {{< m "150" "marks" >}} et, en cas d'insolvabilité, de la
 détention simple jusqu'à quatre semaines:
 
 1. Quiconque, en dehors des cas prévus à l'article 147, aura commencé à exploiter une
@@ -2403,7 +2403,7 @@ détention simple jusqu'à quatre semaines:
 
         Article. 149.
 
-Sera puni d'une amende jusqu'à 30 marks et, en cas d'insolvabilité, de la
+Sera puni d'une amende jusqu'à {{< m "30" "marks" >}} et, en cas d'insolvabilité, de la
 détention simple jusqu'à huit jours :
 
 1. Quiconque, en exerçant sa profession, ne portera pas sur lui l'autorisation prévue à l'article
@@ -2429,7 +2429,7 @@ une infraction aux lois fiscales.
 
 Article. 150.
 
-- Sera puni d'une amende jusqu'à 20 marks et, en cas d'insolvabilité, d'un emprisonnement
+- Sera puni d'une amende jusqu'à {{< m "20" "marks" >}} et, en cas d'insolvabilité, d'un emprisonnement
   jusqu'à trois jours, pour chaque infraction:
 
 1. Quiconque aura engagé ou continué d'employer un ouvrier contrairement aux dispositions

@@ -13,7 +13,7 @@ outre la réglementation de la police des constructions dans l’intérêt de la
 à édicter des dispositions dans l’intérêt de l’esthétique locale en ce qui concerne la situation et
 l’aspect extérieur des constructions.
 
-Les dispositions de l’article 142 de la loi sur les professions pour l’Empire allemand
+Les dispositions de l’article 142 de la loi sur les professions pour l’{{< t "Empire allemand" "Etat français" >}}
 s’appliqueront à cet arrêté avec cette modalité qu’à la place des patrons et ouvriers intéressés on
 entendra des représentants des propriétaires fonciers intéressés et des experts désignés à raison
 de leur compétence. Dans les communes où ne s’appliquent pas les dispositions édictées par la

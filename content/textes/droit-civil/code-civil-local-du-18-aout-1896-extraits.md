@@ -81,6 +81,7 @@ de responsabilité, accompli dans l'exécution de ses fonctions.
 
 Les affaires de l'association qui ne relèvent pas des attributions de la direction ou d'un
 autre organe de l'association sont réglées par voie de résolution prise en assemblée des membres.
+
 Pour la validité de la résolution, il est exigé que son objet ait été désigné dans la convocation. La
 résolution est arrêtée à la majorité des membres présents. Une résolution est également valable en
 dehors de toute assemblée des membres de l'association, lorsque tous les membres donnent par
@@ -672,16 +673,16 @@ Le placement des fonds pupillaires prescrit à l’article 1806 ne doit être fa
 que de la manière suivante :
 
 1. En créances garanties par hypothèque sûre grevant un immeuble situé en Allemagne ou en dettes foncières ou en rente foncières grevant des immeubles situés en Allemagne ;
-2. En créances établies par acte authentique contre l’Empire ou d’un Etat confédéré, comme aussi en créances inscrites sur le grand livre de la dette publique ;
-3. En créances établies par acte authentique, dont le service des intérêts est garanti par l’Empire ou un Etat confédéré ;
+2. En créances établies par acte authentique contre {{< t "l’Empire" "l’Etat français" >}} ou d’un Etat confédéré, comme aussi en créances inscrites sur le grand livre de la dette publique ;
+3. En créances établies par acte authentique, dont le service des intérêts est garanti par {{< t "l’Empire" "l’Etat français" >}} ou un Etat confédéré ;
 4. En valeurs, spécialement en lettres de gage, comme aussi en créances de toutes sortes établies par acte authentique contre une corporation communale ou l’établissement de crédit d’une semblable corporation pourvu que valeurs ou créances soient déclarées par le Conseil fédéral, de nature à servir au placement des deniers pupillaires ;
-5. Dans une caisse d’épargne publique allemande, pourvu qu’elle soit déclarée, par l’autorité compétente de l’Etat, de nature à servir au placement des deniers pupillaires.
+5. Dans une {{< t "caisse d’épargne publique allemande" "caisse d’épargne publique française" >}}, pourvu qu’elle soit déclarée, par l’autorité compétente de l’Etat, de nature à servir au placement des deniers pupillaires.
 
 ## Article 1808
 
 Si le placement ne peut, à raison des circonstances, être fait en la manière
-prescrite à l’article 1807, les fonds doivent être placés à la Banque d’Empire, une banque d’Etat
-ou dans toute autre banque allemande déclarée par la loi régionale propre à cet emploi ou dans
+prescrite à l’article 1807, les fonds doivent être placés à la {{< t "Banque d’Empire" "Banque de France" >}}, une banque d’Etat
+ou dans toute autre {{< t "banque allemande" "banque française" >}} déclarée par la loi régionale propre à cet emploi ou dans
 une caisse de Conseil fédéral.
 
 # III. – Des mesures préventives et de la surveillance du tribunal des tutelles
@@ -695,7 +696,7 @@ contre tout acte contraire à leurs devoirs.
 Le tribunal des tutelles peut, par des peines d’ordre, contraindre le tuteur et le subrogé
 tuteur à obtempérer à ses prescriptions.
 
-Aucune amende ne peut s’élever à plus de 300 marks.
+Aucune amende ne peut s’élever à plus de {{< m "300" "marks" >}}.
 
 ## Article 1839
 

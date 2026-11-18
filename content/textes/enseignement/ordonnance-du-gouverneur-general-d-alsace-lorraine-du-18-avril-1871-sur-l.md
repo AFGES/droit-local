@@ -50,13 +50,13 @@ Le maitre peut accorder trois jours de congé au cours d’un mois. L’approbat
 cercle est nécessaire pour un congé d’une durée plus longue.
 
 La maladie et les empêchements tenant à des phénomènes naturels sont des causes d’excuse.
-Aucun autre motif d’excuse ne sera admis sans l’agrément du directeur du cercle.
+Aucun autre motif d’excuse ne sera admis sans l’agrément du {{< t "directeur du cercle" "sous-préfet" >}}.
 
 ## Article 6
 
 Chaque mois le maitre dressera la liste des absences et la présentera avec son avis et les
 pièces justificatives au chef de la commune (maire). Pour les élèves qui se rendent coupables
-d’absences continues, le directeur de cercle peut prescrire que la liste soit présentée tous les 14
+d’absences continues, le {{< t "directeur de cercle" "sous-préfet" >}} peut prescrire que la liste soit présentée tous les 14
 jours.
 
 ## Article 7
@@ -76,13 +76,13 @@ Si l’inculpé comparait, il est procédé au débat oral ; le jugement est imm
 prononcé en sa présence. S’il ne comparait pas, le jugement est rendu sur pièces et signifié. Le
 jugement doit être brièvement motivé.
 
-Si le directeur de cercle refuse son approbation à un jugement d’acquittement qui, aux termes de
+Si le {{< t "directeur de cercle" "sous-préfet" >}} refuse son approbation à un jugement d’acquittement qui, aux termes de
 l’article 5 phrase dernière, doit être approuvé par lui, il fixe lui-même la peine.
 
 ## Article 9
 
-La décision du chef de la commune peut être portée en appel devant le directeur de cercle ;
-les décisions du directeur de cercle ne peuvent être frappées d’appel devant l’autorité supérieure
+La décision du chef de la commune peut être portée en appel devant le {{< t "directeur de cercle" "sous-préfet" >}} ;
+les décisions du {{< t "directeur de cercle" "sous-préfet" >}} ne peuvent être frappées d’appel devant l’autorité supérieure
 que si une peine d’emprisonnement a été prononcée.
 
 L’appel doit être interjetée auprès du chef de la commune dans les trois jours à compter du
@@ -91,14 +91,14 @@ formulé par écrit ou par une déclaration orale prise en procès-verbal.
 
 ## Article 10
 
-Les décisions du directeur de cercle et des autorités supérieures sont prises sur le vu des
+Les décisions du {{< t "directeur de cercle" "sous-préfet" >}} et des autorités supérieures sont prises sur le vu des
 pièces du dossier ou après une nouvelle enquête par écrit qu’ils ordonneront.
 
 ## Article 11
 
 L’amende et les frais seront recouvrés de la même manière que les taxes communales.
 L’exécution de la peine d’emprisonnement a lieu sur un mandat d’arrêt portant la date de la
-décision, qui sera délivré par le chef de la commune et visé par le directeur de cercle.
+décision, qui sera délivré par le chef de la commune et visé par le {{< t "directeur de cercle" "sous-préfet" >}}.
 
 ## Article 12
 

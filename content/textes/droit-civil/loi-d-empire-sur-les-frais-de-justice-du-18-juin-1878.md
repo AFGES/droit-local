@@ -40,8 +40,8 @@ raison de mort ou de blessures occasionnées par l’exploitation de chemins de 
 ## Article 10
 
 Pour les demandes ne portant pas sur des droits patrimoniaux (vermögensrechtliche), la
-valeur du litige est fixée à 2 000 marks, exceptionnellement à plus ou à moins, mais toutefois ni
-au-dessous de 200 marks, ni au-dessus de 50 000 marks.
+valeur du litige est fixée à {{< m "2000" "marks" >}}, exceptionnellement à plus ou à moins, mais toutefois ni
+au-dessous de {{< m "200" "marks" >}}, ni au-dessus de {{< m "50000" "marks" >}}.
 
 Si à une demande ne portant pas sur des droits patrimoniaux est jointe une demande en
 dérivant, portant sur de tels droits, une seule demande, à savoir la plus élevée, sera prise en

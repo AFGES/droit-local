@@ -7,7 +7,7 @@ categories:
 ---
 
 Nous, Guillaume, par la Grâce de Dieu Empereur Allemand, Roi de Prusse etc.
-Ordonnons au nom de l’Empire, en exécution des articles 15 et 33 des articles organiques
+Ordonnons au nom de {{< t "l’Empire" "l’Etat français" >}}, en exécution des articles 15 et 33 des articles organiques
 du 18 Germinal An X relatifs à l’Eglise protestante et de l’article 4 du Décret concernant la
 constitution de l’Eglise protestante du 26 mars 1852, pour l’Alsace-Lorraine, ce qui suit :
 

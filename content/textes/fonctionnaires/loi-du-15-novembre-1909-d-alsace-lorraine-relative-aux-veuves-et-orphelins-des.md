@@ -77,7 +77,7 @@ Le montant de la pension de la veuve est de 40 % de la pension à laquelle avait
 défunt ou à laquelle il aurait eu droit, s'il avait quitté le service le jour de son décès.
 
 Toutefois, et sous réserve des restrictions prévues à l'article 10, la pension devra s'élever à
-300 marks au moins et ne pourra dépasser 5 000 marks.
+{{< m "300" "marks" >}} au moins et ne pourra dépasser {{< m "5000" "marks" >}}.
 
 Si le défunt, après avoir été pensionné, était rentré au service de l'Alsace-Lorraine, la
 pension de sa veuve sera calculée d'après le montant total que le défunt touchait ou aurait pu
@@ -157,7 +157,7 @@ peuvent prétendre en vertu des articles 8 à 11.
 
 Le droit de la veuve et des orphelins à la pension est suspendu :
 
-1. Quand l'ayant droit perd la nationalité allemande, - jusqu'au jour où, il l'aura
+1. Quand l'ayant droit perd la {{< t "nationalité allemande" "nationalité française" >}}, - jusqu'au jour où, il l'aura
    recouvrée ;
 2. Quand et aussi longtemps que l'ayant droit touche une pension à raison d'une nouvelle
    nomination ou occupation du défunt, en dehors du service d'Alsace-Lorraine, dans un des
@@ -168,13 +168,13 @@ Le droit de la veuve et des orphelins à la pension est suspendu :
 3. Quand et aussi longtemps que l'intéressé, en qualité ou avec les attributions de
    fonctionnaire, touche dans un emploi de l'Alsace-Lorraine, de l'Empire ou d'un État confédéré au
    sens de l'article 57, n° 2, de la loi sur le statut des fonctionnaires d'Empire ou dans un emploi de
-   l'enseignement public, des émoluments dépassant 2 000 marks pour une veuve ou 1 000 marks
+   l'enseignement public, des émoluments dépassant {{< m "2000" "marks" >}} pour une veuve ou {{< m "1000" "marks" >}}
    pour un orphelin, - dans la mesure où ces émoluments dépassent ces chiffres. Pour le calcul des
    émoluments, on appliquera l'article 57, n° 2, alinéa 3, de la loi sur le statut des fonctionnaires
    d'Empire ;
 4. Quand l'intéressé aura acquis dans son emploi de l'Alsace-Lorraine, de l'Empire ou
    d'un État confédéré au sens de l'article 57, n° 2, de la loi sur le statut des fonctionnaires d'Empire
-   ou dans un emploi de l'enseignement public le droit à une pension supérieure à 1 500 marks, et
+   ou dans un emploi de l'enseignement public le droit à une pension supérieure à {{< m "1500" "marks" >}}, et
    tant qu'il touchera cette pension, - dans la mesure où celle-ci dépasse ce chiffre.
 
 ## Article 15

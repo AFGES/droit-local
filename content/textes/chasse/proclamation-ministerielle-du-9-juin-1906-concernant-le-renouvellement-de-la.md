@@ -53,7 +53,7 @@ adjudication. Si alors, le dernier enchérissement, pour lequel l’adjudication
 considéré comme insuffisant par la commission de location, le conseil municipal pourra se
 réserver l’approbation de l’adjudication dans un délai déterminé et restreint.
 
-J’invite MM. les Présidents de département à donner aux directeurs d’arrondissement et aux
+J’invite MM. les {{< t "Présidents de département" "Préfets" >}} à donner aux directeurs d’arrondissement et aux
 maires les instructions nécessaires pour le renouvellement de la location de la chasse par les
 communes.
 

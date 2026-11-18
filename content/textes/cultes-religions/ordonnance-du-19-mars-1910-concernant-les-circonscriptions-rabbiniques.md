@@ -7,7 +7,7 @@ categories:
 ---
 
 Nous Guillaume, Empereur allemand par la grâce de Dieu, Roi de Prusse,
-Ordonnons, au nom de l'Empire, sur le fondement des articles 60 et 61 de l'ordonnance
+Ordonnons, au nom de {{< t "l'Empire" "l'Etat français" >}}, sur le fondement des articles 60 et 61 de l'ordonnance
 portant règlement pour l'organisation du culte israélite du 25 mai 1844 pour l'Alsace-Lorraine, ce
 qui suit :
 

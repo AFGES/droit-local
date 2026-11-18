@@ -18,7 +18,7 @@ pour son district.
 ## Article 2
 
 Celles des attributions du consistoire central qui se rattachent au droit de surveillance de
-l'Etal seront jusqu'à nouvel ordre exercées par le président du district. Les présidents de district
+l'Etal seront jusqu'à nouvel ordre exercées par le {{< t "président du district" "préfet" >}}. Les {{< t "présidents de district" "préfets" >}}
 seront l'autorité intermédiaire entre les consistoires de district et le président supérieur (article
 10, alinéa 1er, de l'ordonnance du 25 mai 1844) et ils exerceront les droits délégués au consistoire
 central par les articles 11, alinéa 2, l'article 12, alinéa 4, phrase 2, et alinéas 6 à 8, et l'article 23,

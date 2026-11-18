@@ -97,6 +97,7 @@ dispositions du code civil relatives à la réduction d'une clause pénale exces
 Si l'obligation du commis ne dépend pas de l'engagement pris par le patron de payer à celui-ci
 une indemnité, le patron, lorsque le commis s'est engagé à payer le montant d'une clause
 pénale aux termes de l'alinéa 1 ne peut réclamer que le montant de la clause pénale encourue.
+
 Il n'y a lieu ni à une demande d'exécution de la convention ni à la réparation d'un dommage
 supérieur.
 

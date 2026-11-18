@@ -10,7 +10,7 @@ categories:
 Le Soussigné cardinal Mariano Rampolla, Secrétaire d’Etat de Sa Sainteté, de la part du
 Saint Siège, et Monsieur le baron Georges de Hertling, chambellan de Sa Majesté le roi de
 Bavière, Membre de l’Académie royale bavaroise des Sciences, Professeur à l’Université de
-Munich, délégué de la part du Gouvernement impérial allemand, sont convenus des articles
+Munich, délégué de la part du {{< t "Gouvernement impérial allemand" "Gouvernement français" >}}, sont convenus des articles
 suivants :
 
 ## Article 1

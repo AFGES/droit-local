@@ -6,10 +6,6 @@ categories:
   - "chasse"
 ---
 
-# Ordonnance ministérielle du 1er avril 1893
-
-# concernant la protection du tétras-lyre
-
 ## Article 1
 
 Les poules de bouleau et, dans l’attente de dispositions complémentaires, également les coqs de

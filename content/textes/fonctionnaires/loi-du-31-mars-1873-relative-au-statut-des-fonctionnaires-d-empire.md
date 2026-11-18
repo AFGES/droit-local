@@ -228,7 +228,7 @@ l'approbation de l'Empereur est nécessaire.
 
 Le droit à la pension est suspendu :
 
-1. Quand un pensionné perd la nationalité allemande, – jusqu'au jour où il l'aura
+1. Quand un pensionné perd la {{< t "nationalité allemande" "nationalité française" >}}, – jusqu'au jour où il l'aura
    retrouvée ;
 2. Quand, et aussi longtemps qu'un pensionné touche, au service de l'Empire ou d'un
    État, des émoluments de service, – dans la mesure où le montant de ces nouveaux émoluments,

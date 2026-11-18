@@ -41,20 +41,20 @@ traitement de l'État en Alsace-Lorraine, et celui d'un desservant dans tous les
 ## Article 3
 
 Les chapelains des chapelles paroissiales catholiques reçoivent sur la Caisse d'Alsace-
-Lorraine une allocation de 900 marks.
+Lorraine une allocation de {{< m "900" "marks" >}}.
 
 ## Article 4
 
 La part qui incombe aux fabriques des églises ou aux communes dans le traitement des
-vicaires catholiques s'élève, dans les communes de moins de 25 000 habitants, à 600 marks au
-moins et, dans les autres, à 100 marks au moins.
+vicaires catholiques s'élève, dans les communes de moins de 25 000 habitants, à {{< m "600" "marks" >}} au
+moins et, dans les autres, à {{< m "100" "marks" >}} au moins.
 
 Les vicaires nommés à titre définitif, dont l’emploi est prévu au budget d'Alsace-Lorraine,
 reçoivent en outre sur la Caisse d'Alsace-Lorraine un supplément de traitement qui sera de 300
-marks dans les communes d'au moins 25 000 habitants, et de 600 marks dans les autres
+marks dans les communes d'au moins 25 000 habitants, et de {{< m "600" "marks" >}} dans les autres
 communes.
 
-Un supplément de traitement de 600 marks pourra être accordé par le Ministère aux
+Un supplément de traitement de {{< m "600" "marks" >}} pourra être accordé par le Ministère aux
 vicaires qui ont été adjoints à des curés ou desservants âgés ou infirmes pour les assister dans
 l'exercice de leur ministère.
 
@@ -75,7 +75,7 @@ Les pasteurs protestants reçoivent sur la Caisse d'Alsace-Lorraine les traiteme
 | Au-delà de 24 années de service | 4 400                 |
 
 Les ministres auxiliaires protestants dont l'emploi est prévu au budget reçoivent, sur la
-Caisse d'Alsace-Lorraine, un traitement de 2 200 marks.
+Caisse d'Alsace-Lorraine, un traitement de {{< m "2200" "marks" >}}.
 
 ## Article 6
 

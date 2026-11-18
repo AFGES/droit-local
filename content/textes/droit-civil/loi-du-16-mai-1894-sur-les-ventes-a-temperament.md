@@ -66,7 +66,7 @@ ultérieurement la propriété.
 
 Quiconque vend des billets de loterie ou des certificats d’acquisition ou de part de pareils
 billets ou titres moyennant un prix payable par acomptes, ou les aliène par toutes autres
-conventions tendant au même but, sera puni d’une amende jusqu’à 500 marks.
+conventions tendant au même but, sera puni d’une amende jusqu’à {{< m "500" "marks" >}}.
 
 Il n’y a pas lieu de distinguer si la livraison du titre a précédé ou suivi le paiement du prix.
 

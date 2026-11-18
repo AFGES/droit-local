@@ -10,6 +10,7 @@ categories:
 
 La procuration générale ne peut être conférée que par le propriétaire d'un établissement
 commercial ou par son représentant légal et seulement au moyen d'une déclaration expresse.
+
 Elle peut être conférée collectivement à plusieurs personnes (Procuration générale collective).
 
 ## Article 49
@@ -18,7 +19,7 @@ La procuration générale confère le droit de faire toute espèce d'actes judic
 extrajudiciaires et toutes les opérations juridiques que comporte l'exercice d'un commerce.
 
 Toutefois le procuriste ne peut valablement aliéner ni grever d'une charge des immeubles que
-si ces pouvoirs lui ont été spécialement conférés
+si ces pouvoirs lui ont été spécialement conférés.
 
 ## Article 50
 
@@ -77,7 +78,7 @@ une durée supérieure à deux ans à partir de la cessation du louage de servic
 
 La convention
 prohibitive est nulle quand les sommes dues annuellement pour ses services au commis ne
-dépassent pas 1 500 marks. Il en est de même lorsque le commis est mineur lors de la
+dépassent pas {{< m "1500" "marks" >}}. Il en est de même lorsque le commis est mineur lors de la
 conclusion de la convention ou si le patron se fait promettre l'exécution de celle-ci sur
 l'honneur ou d'autre façon analogue. Est également nulle la convention par laquelle un tiers
 contracte, à la place du commis, l'engagement que celui-ci limitera son activité
@@ -140,7 +141,7 @@ la convention prohibitive de la concurrence ne dépend pas de ce que le patron s
 paiement de l'indemnité prévue par l'article 74, alinéa 2.
 
 Il en est de même lorsque la
-rémunération conventionnelle due au commis dépasse 8 000 marks par an ; pour le calcul du
+rémunération conventionnelle due au commis dépasse {{< m "8000" "marks" >}} par an ; pour le calcul du
 montant de cette rémunération il y a lieu d'appliquer, par analogie, les dispositions de l'article
 74 b, alinéas 2 et 3.
 
@@ -169,13 +170,14 @@ moyens.
 L'indemnité que le commis peut réclamer en vertu des dispositions des articles 74 à 75 d pour
 le temps postérieur à la cessation du contrat de louage de services, fait partie du salaire dans
 le sens de l'article 61, n° 1 de la loi sur la faillite.
+
 La créance d'indemnité ne peut être saisie
 par un créancier dans le but d'obtenir une garantie ou le paiement que lorsque le jour où elle
 devait être acquittée est écoulé sans que le commis l'ait fait valoir.
 
 Toutefois, la saisie est
 admise lorsque l'indemnité, seule ou avec les sommes indiquées dans les articles 1 et 3 de la
-loi sur la saisie des salaires et appointements, dépasse la somme de 1 500 marks par an. Il y a
+loi sur la saisie des salaires et appointements, dépasse la somme de {{< m "1500" "marks" >}} par an. Il y a
 lieu d'appliquer par analogie les articles 2 et 4, n° 2 et 3 de l'article 4 a de ladite loi.
 
 ## Article 75 f

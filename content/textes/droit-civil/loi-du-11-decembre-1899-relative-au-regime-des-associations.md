@@ -8,5 +8,5 @@ categories:
 
 ## Article unique
 
-Les associations de toute nature constituées sur le territoire de l’Empire peuvent se
+Les associations de toute nature constituées sur le territoire de {{< t "l’Empire" "l’Etat français" >}} peuvent se
 fédérer entre elles. Sont abrogées toutes dispositions contraires des législations particulières.

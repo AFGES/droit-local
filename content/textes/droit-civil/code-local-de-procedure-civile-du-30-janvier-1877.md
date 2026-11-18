@@ -367,7 +367,7 @@ Le créancier peut demander que l’une de ces mesures soit exécutée seule ou
 conjointement avec les autres.
 
 On ne peut prendre inscription d’une hypothèque de garantie, en vertu d’un titre de
-créance exécutoire, que si le montant de la créance dépasse 300 marks. Les prescriptions des
+créance exécutoire, que si le montant de la créance dépasse {{< m "300" "marks" >}}. Les prescriptions des
 articles 4 et 5 sont applicables par analogie.
 
 ## Article 867

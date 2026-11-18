@@ -345,10 +345,10 @@ supérieure, les surestaries comprennent, par jour, pour les bâtiments d'une po
 
 | Portée du bâtiment          | Surestaries par jour |
 | --------------------------- | -------------------- |
-| Jusqu'à 50 000 kilogrammes  | 12 marks             |
-| Jusqu'à 100 000 kilogrammes | 15 marks             |
+| Jusqu'à 50 000 kilogrammes  | {{< m "12" "marks" >}}             |
+| Jusqu'à 100 000 kilogrammes | {{< m "15" "marks" >}}             |
 
-et ainsi de suite à raison de 3 marks par 50,000 kilogrammes en plus.
+et ainsi de suite à raison de {{< m "3" "marks" >}} par 50,000 kilogrammes en plus.
 
 La portée du bâtiment est déterminée par le certificat du navire.
 

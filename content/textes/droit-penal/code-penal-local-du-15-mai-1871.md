@@ -54,4 +54,4 @@ Seront punis de la détention simple :
    relatives à la responsabilité pour les amendes et autres condamnations pécuniaires encourues par
    le délinquant continueront à être observées.
 
-Dans le cas du numéro 9, une demande qui n'excédera pas 150 marks pourra être substituée à la peine de la détention simple.
+Dans le cas du numéro 9, une demande qui n'excédera pas {{< m "150" "marks" >}} pourra être substituée à la peine de la détention simple.
