@@ -11,7 +11,7 @@ Le Soussigné cardinal Mariano Rampolla, Secrétaire d’Etat de Sa Sainteté, d
 Saint Siège, et Monsieur le baron Georges de Hertling, chambellan de Sa Majesté le roi de
 Bavière, Membre de l’Académie royale bavaroise des Sciences, Professeur à l’Université de
 Munich, délégué de la part du {{< t "Gouvernement impérial allemand" "Gouvernement français" >}}, sont convenus des articles
-suivants :
+suivants :
 
 ## Article 1
 
@@ -23,16 +23,16 @@ fonctions sacerdotales.
 
 ## Article 2
 
-La dite Faculté comprendra notamment les branches suivantes :
+La dite Faculté comprendra notamment les branches suivantes :
 
-1. la Propédeutique théologique à la Philosophie ;
-2. la Théologie dogmatique ;
-3. la Théologie morale ;
-4. l’Apologétique ;
-5. l’Histoire ecclésiastique ;
-6. l’Exégèse de l’Ancien Testament ;
-7. l’Exégèse du Nouveau Testament ;
-8. le Droit canon ;
+1. la Propédeutique théologique à la Philosophie ;
+2. la Théologie dogmatique ;
+3. la Théologie morale ;
+4. l’Apologétique ;
+5. l’Histoire ecclésiastique ;
+6. l’Exégèse de l’Ancien Testament ;
+7. l’Exégèse du Nouveau Testament ;
+8. le Droit canon ;
 9. la Théologie pastorale, et
 10. l’Archéologie sacrée.
 

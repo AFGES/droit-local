@@ -14,7 +14,7 @@ foncier relatif au fonds, que la modification juridique dont il s’agit n’est
 les ayants droit (certificat de non-dommageabilité, Unschädlichkeitszeugnis). Les charges de
 droit public demeurent intactes.
 
-Le certificat de non-dommageabilité ne peut être délivré que si :
+Le certificat de non-dommageabilité ne peut être délivré que si :
 
 1. la parcelle distraite est de faible étendue et valeur respectivement au fonds entier, ou
    respectivement à l’ensemble des fonds grevés, au cas où les charges s’étendent sur plusieurs
@@ -36,7 +36,7 @@ la restitution de cette somme.
 
 La somme consignée remplace, pour les ayants droit, la parcelle distraite, au moment où
 s’éteint leur droit. La répartition s’en opère suivant les dispositions (de l’article 32 de la loi du 13
-novembre 1899, concernant l’exécution de la loi d’Empire sur la vente forcée ; il n’y a pas lieu
+novembre 1899, concernant l’exécution de la loi d’Empire sur la vente forcée ; il n’y a pas lieu
 d’appliquer la disposition de l’article 32, n° 2 de cette loi). On doit régler le droit principal avant
 les frais et prestations accessoires.
 
@@ -53,7 +53,7 @@ Le requérant doit établir l’existence des conditions exigées pour la déliv
 et fournir les explications nécessaires sur la consistance des droits que le livre foncier ne fait pas
 connaître.
 
-Le tribunal cantonal doit préparer les constatations nécessaires ; il doit, si cela peut se
+Le tribunal cantonal doit préparer les constatations nécessaires ; il doit, si cela peut se
 faire sans retard préjudiciable et sans frais excessifs, entendre les ayants droit avant sa décision.
 
 ## Article 4
@@ -65,7 +65,7 @@ le fonds ou le droit à modifier. Les charges, dont la parcelle distraite est af
 fonds est grevé, doivent être indiquées. En cas de compensation au moyen d’argent, il y a lieu de
 sommer les créanciers hypothécaires, les créanciers de dette foncière ou de rente foncière, d’avoir
 à déclarer devant le tribunal cantonal, dans le délai d’un mois à partir de la sommation, s’ils
-réclament la répartition judiciaire de la somme consignée ; on leur fera savoir à ce sujet que
+réclament la répartition judiciaire de la somme consignée ; on leur fera savoir à ce sujet que
 l’omission de toute déclaration emporte la renonciation à leur droit sur la somme consignée.
 
 Il y a lieu de signifier aux intéressés la disposition par laquelle le certificat de non-
@@ -95,11 +95,11 @@ Si, au moment de la délivrance du certificat de non-dommageabilité, la propri�
 parcelle distraite n’est pas encore transférée à l’acquéreur, il y a lieu d’inscrire au livre foncier, au
 moment de la délivrance du certificat, une mention touchant cette délivrance. Il n’est pas tenu
 compte, pour l’attestation de la non-dommageabilité, des droits qui prennent naissance après
-l’inscription de la mention ; la parcelle distraite en est également affranchie.
+l’inscription de la mention ; la parcelle distraite en est également affranchie.
 
 Si un autre fonds est grevé de charges au lieu et place de la parcelle distraite, ou si toute
 autre modification de droit est destinée à compenser le dégrèvement, il y a lieu, lors de la
-délivrance du certificat de non-dommageabilité, d’inscrire d'office sur le livre foncier une
+délivrance du certificat de non-dommageabilité, d’inscrire d’office sur le livre foncier une
 prénotation (art. 883, C. civ. all.) pour garantir la prétention des ayants droit.
 
 ## Article 6
@@ -143,7 +143,7 @@ parcelle distraite n’est pas encore transférée à l’acquéreur, que si le 
 propriété ou le livre foncier provisoire.
 
 Dans le cas où un autre fonds qui n’est pas inscrit au livre de propriété ou au livre foncier
-provisoire, doit servir à la compensation (art. 5, al . 5), il y a lieu de subordonner la délivrance du
+provisoire, doit servir à la compensation (art. 5, al. 5), il y a lieu de subordonner la délivrance du
 certificat de non-dommageabilité à l’inscription préalable de ce fonds.
 
 Les opérations incombant d’après la présente loi au tribunal cantonal peuvent être

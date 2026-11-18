@@ -14,10 +14,10 @@ et la direction des autorités de l’Etat.
 Les dispositions existantes relatives à la surveillance locale de l’enseignement primaire
 resteront en vigueur jusqu’à nouvel ordre.
 
-L’autorisation de l’Etat est nécessaire :
+L’autorisation de l’Etat est nécessaire :
 
-1. Pour donner l’enseignement à titre professionnel ou dans un but lucratif ;
-2. Pour ouvrir une école ;
+1. Pour donner l’enseignement à titre professionnel ou dans un but lucratif ;
+2. Pour ouvrir une école ;
 3. Pour engager un maître dans une école.
 
 Toute école peut être fermée par les autorités administratives lorsqu’elle ne se conforme

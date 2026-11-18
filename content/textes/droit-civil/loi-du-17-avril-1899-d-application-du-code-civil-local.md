@@ -6,20 +6,20 @@ categories:
   - "droit-civil"
 ---
 
-# Section première : Dispositions relatives à la partie générale - Personnes juridiques
+## Section première : Dispositions relatives à la partie générale - Personnes juridiques
 
-## Article 7
+### Article 7
 
 Lorsqu’une fondation prend fin (C. civ., art. 80), le patrimoine est dévolu aux
 héritiers légaux du fondateur, si l’acte de fondation ne contient pas de disposition sur l’attribution
 des biens.
 
-## Article 7 a
+### Article 7 a
 
 La concession à une association de la capacité de jouissance des droits ainsi
 que l’approbation donnée à une fondation ne peuvent pas être retirées.
 
-## Article 7 b
+### Article 7 b
 
 L’administration d’une fondation, qui n’est pas exercée par une autorité
 publique, est soumise à la surveillance de l’autorité lorsqu’il n’en est pas autrement décidé par le
@@ -27,9 +27,9 @@ Ministère, sur proposition du fondateur.
 
 La surveillance d’une fondation, qui, aux termes de l’acte de fondation, est exclusivement
 affectée aux intérêts des membres d’une ou de plusieurs familles déterminées, est exercée par le
-tribunal d’instance dans le ressort duquel la fondation a son siège ; la surveillance de toute autre
+tribunal d’instance dans le ressort duquel la fondation a son siège ; la surveillance de toute autre
 fondation est exercée par le préfet du département. Conformément à ces prescriptions, le
-Ministère désigne l’autorité compétente ; il peut charger de la surveillance une autorité
+Ministère désigne l’autorité compétente ; il peut charger de la surveillance une autorité
 administrative autre que le préfet du département.
 
 Sont applicables à la surveillance de l’autorité les dispositions des articles 1837, 1839 à
@@ -50,9 +50,9 @@ effectuer le dépôt, faire transférer les titres au nom de la fondation, ou lo
 émis par l’Etat, les convertir en inscriptions nominatives sur l’émetteur. Des dispositions
 différentes peuvent être fixées par l’autorité chargée de la surveillance.
 
-# Section troisième : Dispositions relatives au droit des choses - Redevances foncières
+## Section troisième : Dispositions relatives au droit des choses - Redevances foncières
 
-## Article 75
+### Article 75
 
 Un immeuble ne peut être grevé d’une redevance foncière que lorsque les
 prestations périodiques auxquelles s’engage l’acquéreur de l’immeuble ne doivent pas dépasser

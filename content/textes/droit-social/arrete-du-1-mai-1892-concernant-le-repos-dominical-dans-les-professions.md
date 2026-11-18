@@ -17,11 +17,11 @@ les Monts-de-Piété, les offices de journaux ainsi que les professions auxiliai
 maisons de commission et d’expédition et les entrepôts. Les prescriptions en question
 s’appliquent en outre au personnel employé dans les bureaux de fabriques, dans les ateliers, etc.
 
-Pour assurer l’exécution conforme des dispositions légales en question, il est prescrit ce qui suit :
+Pour assurer l’exécution conforme des dispositions légales en question, il est prescrit ce qui suit :
 
 ## Article I
 
-Il ne sera pas rendu d’arrêté de police départemental ; les attributions conférées aux autorités de
+Il ne sera pas rendu d’arrêté de police départemental ; les attributions conférées aux autorités de
 police sont de la compétence des autorités désignées dans l’avis du 26 décembre 1888 p. 309),
 soit dans les villes de Strasbourg, Metz et Mulhouse, de la direction de police, dans les autres
 communes, du maire.
@@ -42,27 +42,27 @@ pendant lesquelles le travail est permis dans les professions dont il s’agira.
 
 ## Article II
 
-Les autorités de police auront à observer les règles suivantes :
+Les autorités de police auront à observer les règles suivantes :
 
 1. Les cinq heures pendant lesquelles les employés, apprentis et ouvriers peuvent être occupés et
    pendant lesquelles les magasins peuvent être ouverts, seront fixées, autant que possible,
-   uniformément pour toutes les branches du commerce ;
+   uniformément pour toutes les branches du commerce ;
 2. Pour la fixation des heures du travail, il devra être tenu compte de l’heure du service religieux
    public, de manière à ce que, dans la règle, les heures de travail ne tombent pas sur l’heure du
-   service religieux principal du matin ;
+   service religieux principal du matin ;
 3. Afin que les vendeurs, employés et ouvriers puissent jouir d’un repos dominical effectif, le
    commencement des heures de travail permises sera fixé aussi tôt que possible et la fin sera fixée
    de manière à ce que l’après-midi et la soirée restent libres. Donc, dans la règle, le travail
    commencera à 6, 6 ½ ou 7 heures du matin pour se terminer à 12, 12 ½, 1 ½ ou 2 heures de
    l’après-midi, avec une interruption d’une heure et demie ou de deux heures pendant le service
    religieux principal (qui commence généralement à 9 heures). La vente de pain et de viande, là où
-   besoin en sera, pourra commencer plus tôt (par exemple à 5 heures) ;
+   besoin en sera, pourra commencer plus tôt (par exemple à 5 heures) ;
 
    Des exceptions ne seront tolérées, selon les circonstances, que là où, en raison de l’usage mixte
    des églises pour les divers cultes, il est nécessaire d’accorder dans la matinée une interruption des
-   heures de travail plus longue ;
+   heures de travail plus longue ;
 4. Les dimanches pour lesquels les heures de travail et de vente peuvent être augmentées jusqu’à
-   10, sont les derniers quatre dimanches avant Noël et le jour de la fête patronale ;
+   10, sont les derniers quatre dimanches avant Noël et le jour de la fête patronale ;
 5. Les décisions seront prises et publiées sous la forme d’une ordonnance de police locale dont
    copie sera adressée au directeur d’arrondissement ainsi qu’au tribunal cantonal et au premier
    procureur du ministère public, conformément à l’arrêté ministériel du 19 décembre 1887. Il en
@@ -72,7 +72,7 @@ Les autorités de police auront à observer les règles suivantes :
 
 Les directeurs d’arrondissement veilleront à ce que les décisions à prendre par les autorités
 de la police locale soient conformes aux principes indiqués plus haut. S’il n’y a pas de violation
-flagrante des dispositions légales, les modifications ne seront pas ordonnées d’office ; mais
+flagrante des dispositions légales, les modifications ne seront pas ordonnées d’office ; mais
 uniquement si une plainte fondée a été portée par les industriels ou les ouvriers que cela
 concerne. Il faudra surtout se garder de contrevenir à l’intention du législateur en accordant des
 heures supplémentaires de travail là où le besoin exceptionnel ne s’en fait pas sentir.

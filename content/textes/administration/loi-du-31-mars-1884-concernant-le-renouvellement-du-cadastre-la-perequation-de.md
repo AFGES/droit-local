@@ -59,13 +59,13 @@ Les propriétaires, possesseurs, usufruitiers, fermiers et autres détenteurs d�
 le droit d’assister aux constatations sur le terrain et de formuler leurs observations.
 
 Les détenteurs d’immeubles sont tenus, en conformité des prescriptions qui seront
-précisées dans le règlement d’exécution :
+précisées dans le règlement d’exécution :
 
 1. d’indiquer parcelle par parcelle, dans le délai de trois jours qui suit la sommation qui
-   leur est faite dans les formes fixées par l’usage local, les immeubles qu’ils détiennent ;
+   leur est faite dans les formes fixées par l’usage local, les immeubles qu’ils détiennent ;
 2. d’autoriser les agents chargés de l’exécution des travaux de révision à pénétrer sur les
    immeubles, y compris les cours et jardins clos ou attenant à une habitation, et à y exécuter des
-   opérations d’arpentage ;
+   opérations d’arpentage ;
 3. de répondre, personnellement ou par l’intermédiaire d’un mandataire, aux invitations à
    comparaitre soit sur le terrain, soit devant le maire, qui pourraient leur en être adressées, et de
    donner à cette occasion les éclaircissements de faits jugés nécessaires, en produisant au besoin
@@ -74,12 +74,12 @@ précisées dans le règlement d’exécution :
 ### Article 7
 
 Dès que les travaux de révision sont terminés dans une commune, on établit d’après les
-résultats obtenus :
+résultats obtenus :
 
 1. un état de sections et un registre parcellaire sur lesquels les divers immeubles sont
-   rangés dans l’ordre topographique ;
+   rangés dans l’ordre topographique ;
 2. une matrice cadastrale, sur laquelle les immeubles réunis par contribuable sont inscrits
-   dans l’ordre alphabétique de ces derniers ;
+   dans l’ordre alphabétique de ces derniers ;
 3. des plans cadastraux conformes à la situation actuelle.
 
 L’état de section et une expédition de la matrice cadastrale sont destinés à la commune, la
@@ -134,10 +134,10 @@ touchée par les décisions susvisées.
 ### Article 9
 
 Les dépenses suivantes occasionnées par la révision du cadastre sont à la charge des
-communes :
+communes :
 
-1. les dommages-intérêts dus pour les dégâts causés aux cultures ;
-2. les rétributions à allouer aux indicateurs ;
+1. les dommages-intérêts dus pour les dégâts causés aux cultures ;
+2. les rétributions à allouer aux indicateurs ;
 3. les dépenses effectives de l’administration pour la confection des plans, états de
    sections et matrices cadastrales, destinés aux archives de la commune.
 
@@ -165,7 +165,7 @@ fixation et d’abornement des limites susmentionnées.
 
 Les frais d’abornement incombent, sous réserve des dispositions de l’alinéa 2 de l’article
 15, entièrement à la commune, laquelle assume également la moitié des frais occasionnés par le
-levé des limites susvisées ; l’autre moitié est supportée par le Trésor.
+levé des limites susvisées ; l’autre moitié est supportée par le Trésor.
 
 ### Article 11
 
@@ -173,7 +173,7 @@ Les arpentages privés, effectués après l’entrée en vigueur de la présente
 être utilisés pour la révision ou la conservation du cadastre, que s’ils ont été exécutés par des
 personnes assermentées ayant justifié de leur capacités et obtenu l’autorisation de l’autorité
 compétente. Les opérations d’arpentage sont soumises à la surveillance et à la vérification de
-l’autorité chargée du service d’arpentage ; leurs résultats sont reportés sur le cadastre de la même
+l’autorité chargée du service d’arpentage ; leurs résultats sont reportés sur le cadastre de la même
 manière et dans les mêmes conditions que les levés de plans effectués en vue de la conservation
 régulière des documents cadastraux.
 
@@ -222,7 +222,7 @@ doivent, dans la mesure des besoins, être matérialisées, d’une manière dur
 pierres, soit par d’autres marques, selon les indications de la commission du cadastre.
 
 L’obligation d’aborner les confins et le territoire communal incombe aux communes en
-cause ; celle d’aborner les chemins publics ainsi que les autres voies de communication, aux
+cause ; celle d’aborner les chemins publics ainsi que les autres voies de communication, aux
 propriétaires de ceux-ci. Les frais d’abornement de toutes les autres limites sont à la charge des
 propriétaires fonciers.
 
@@ -268,23 +268,23 @@ des réclamations éventuellement produites s’effectuent selon les disposition
 ### Article 20
 
 Des réclamations visant le contenu des documents cadastraux peuvent être produites en
-particulier contre :
+particulier contre :
 
-1. l’inscription d’un immeuble sous un nom inexact ;
-2. l’indication inexacte de la contenance d’un immeuble ;
+1. l’inscription d’un immeuble sous un nom inexact ;
+2. l’indication inexacte de la contenance d’un immeuble ;
 3. l’indication inexacte du mode d’exploitation durable (nature de culture) d’un
-   immeuble ;
+   immeuble ;
 4. la désignation inexacte sur les cartes cadastrales de la situation ou des limites d’un
-   immeuble ;
+   immeuble ;
 5. les erreurs de calcul et de plume ou autres erreurs matérielles.
 
 ### Article 21
 
 En plus de la prise en charge des rétributions de l’arbitre et des dépenses visées à l’article
 9, n°1 et 2, la commune est tenue de rembourser au Trésor, pour l’arpentage parcellaire de son
-territoire :
+territoire :
 
-1. en cas d’arpentage ordonné d’office, trois dixièmes ;
+1. en cas d’arpentage ordonné d’office, trois dixièmes ;
 2. en cas d’arpentage sur demande, cinq dixièmes des frais déterminés par la commission
    du cadastre avant l’exécution des travaux de rénovation, sur la base d’un tarif à fixer par le
    ministère.
@@ -296,7 +296,7 @@ Les dispositions de l’alinéa 3 de l’article 9 s’appliquent aux indemnité
 causés aux cultures ainsi qu’aux rétributions dues à l’arbitre et aux indicateurs.
 
 Les frais et parts de frais incombant aux communes sont avancés par le Trésor, sans
-intérêt dans le cas où l’arpentage parcellaire est exécuté d’office ; ils sont remboursés par les
+intérêt dans le cas où l’arpentage parcellaire est exécuté d’office ; ils sont remboursés par les
 communes dans le délai fixé par le ministère, mais au plus tard dans dix ans.
 
 ### Article 22
@@ -315,7 +315,7 @@ délibération ne deviendra exécutoire qu’après avoir été approuvée par l
 
 L’arpentage parcellaire s’opère conformément aux prescriptions des articles 2 et 12 à 21
 ci-dessus. Il ne peut y être procédé que par des personnes assermentées ayant justifié de leurs
-capacités et obtenu l’autorisation de l’autorité compétente ; il est exécuté sous la direction et la
+capacités et obtenu l’autorisation de l’autorité compétente ; il est exécuté sous la direction et la
 surveillance immédiate et soumise à la vérification de l’administration chargée des travaux
 d’arpentage. A cette dernière incombent également les fonctions attribuées par cette loi à la
 commission du cadastre.
@@ -340,7 +340,7 @@ prouver la possession ou l’acquisition de la propriété par prescription.
 
 Les cartes reposant sur un arpentage parcellaire commencé ou terminé depuis le 1er avril
 1879 jusqu’à l’entrée en vigueur de la présente loi doivent être communiquées conformément
-aux prescriptions de l’article 8 ; les limites indiquées sur ces cartes, en tant que ces limites
+aux prescriptions de l’article 8 ; les limites indiquées sur ces cartes, en tant que ces limites
 demeurent contestées, y sont caractérisées comme provisoires (article 11). Les dispositions des
 alinéas 1 et 3 s’appliquent aux limites tracées sur la carte, et les dispositions de l’alinéa 2 à la
 publication relative à la communication de la carte.
@@ -367,7 +367,7 @@ l’exception des procès-verbaux d’arpentages et des esquisses.
 La désignation des propriétés bâties et non bâties ne doit être effectuée dans les actes
 publics et privés ayant pour objet une mutation entre vifs d’immeubles, soit en propriété, soit
 usufruit, ou un partage d’immeubles, ou une constitution d’hypothèques, ainsi que dans les
-ordonnances d’exécution forcée (Loi du 24 avril 1880, article 4 : Bull. des lois d’Alsace-
+ordonnances d’exécution forcée (Loi du 24 avril 1880, article 4 : Bull. des lois d’Alsace-
 Lorraine, p.93), que sur la base d’un extrait cadastral et, s’il s’agit de la création de nouvelles
 limites, que sur la base d’un extrait cadastral accompagné d’un procès-verbal d’arpentage ou
 d’une esquisse établis en conformité des prescriptions de l’article 52. Les données du cadastre, y

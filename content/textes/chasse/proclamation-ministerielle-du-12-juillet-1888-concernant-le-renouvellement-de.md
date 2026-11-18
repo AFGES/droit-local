@@ -7,9 +7,9 @@ categories:
   - "administration"
 ---
 
-# Proclamation ministérielle du 12 juillet 1888
+## Proclamation ministérielle du 12 juillet 1888
 
-# concernant le renouvellement de la location de la chasse par les communes
+## concernant le renouvellement de la location de la chasse par les communes
 
 Le 1er février 1889, expirera le temps de la location des chasses louées conformément aux
 dispositions de la loi sur l’exercice du droit de chasse du 7 février 1881. Expireront également à
@@ -22,19 +22,19 @@ J’invite Messieurs les {{< t "présidents de département" "préfets" >}} à d
 dans les villes de Strasbourg et de Metz, également aux maires, les instructions nécessaires pour
 le renouvellement de la location de la chasse par les communes.
 
-J’ajouterai les observations suivantes :
+J’ajouterai les observations suivantes :
 
-## Article 1
+### Article 1
 
 Avant de procéder au renouvellement de la location, il faudra que les autorités
 communales déterminent les terrains de la circonscription communale qui sont exclus de la
 location. Pour faire cette détermination, le §1er de la loi est applicable. Par suite, sont exclus de la
-location :
+location :
 
 1. les terrains de l’administration militaire et ceux de l’administration des chemins de fer de
-   l’Empire ;
+   l’Empire ;
 2. les forêts de l’Etat, ainsi que les forêts appartenant par indivis à l’Etat et à d’autres
-   propriétaires ;
+   propriétaires ;
 3. les terrains entourés d’une clôture continue empêchant toute communication avec les
    propriétés voisines.
 
@@ -43,7 +43,7 @@ location :
 D’après cela, les dispositions de la loi ne sont pas applicables, notamment aux bâtiments ainsi
 qu’aux cours et jardins entourés de clôtures et faisant partie des bâtiments.
 
-## Article 2
+### Article 2
 
 Dès qu’il est établi quelle superficie de la circonscription communale est sujette à
 location conformément au §1er, le maire fixera et publiera le jour de la délibération à prendre au
@@ -58,13 +58,13 @@ dispositions de la loi.
 Quiconque est intéressé à la délibération à prendre pourra se faire représenter dans l’assemblée
 par un fondé de procuration. Pour la procuration, la légalisation de la signature par le maire du
 domicile suffira. Le maire présidera les délibérations. Il sera dressé procès-verbal des débats. Ce
-procès-verbal devra indiquer :
+procès-verbal devra indiquer :
 
-1. le nombre des propriétaires des terrains de la circonscription communale soumis à la loi ;
-2. le nombre des propriétaires qui, d’après le §5, ne participent pas aux délibérations ;
-3. la superficie totale des terrains de la circonscription communale soumis à la loi ;
+1. le nombre des propriétaires des terrains de la circonscription communale soumis à la loi ;
+2. le nombre des propriétaires qui, d’après le §5, ne participent pas aux délibérations ;
+3. la superficie totale des terrains de la circonscription communale soumis à la loi ;
 4. le nombre des propriétaires qui ont voté en faveur de l’abandon du produit de la location à la
-   commune ;
+   commune ;
 5. l’ensemble de l’étendue de la superficie des terrains possédés par ces mêmes propriétaires.
 
 {.liste-alpha}
@@ -78,7 +78,7 @@ disposition des membres de l’assemblée le jour de leur réunion. Ceux des pro
 voteront en faveur de l’abandon du produit de la location à la commune, le constateront en
 apposant leur nom sur le tableau à l’endroit où ils sont inscrits.
 
-Le tableau, ainsi que les procurations qui auront été présentées, seront joints au procès-verbal ; ce
+Le tableau, ainsi que les procurations qui auront été présentées, seront joints au procès-verbal ; ce
 dernier relatera également les réclamations faites relativement au mode de procéder.
 
 Le produit de la location de la chasse d’une circonscription communale restera à la commune, dès
@@ -90,7 +90,7 @@ Les terrains visés à l’article 5 de la loi, qu’une commune possède dans u
 communale ne seront pas pris en considération lorsqu’il s’agit d’établir les deux tiers des terrains
 de la circonscription communale de cette dernière commune.
 
-## Article 3
+### Article 3
 
 Le maire portera par écrit, et sans tarder, le résultat des délibérations à la connaissance
 des propriétaires fonciers auxquels sera applicable le §3, en tant que ces propriétaires lui sont
@@ -112,7 +112,7 @@ La chasse sur des terrains que la communauté possède dans sa propre circonscri
 donnée en location avec la chasse sur le ban de la commune, alors même que les dispositions du
 **§3** seraient applicables à ces terrains.
 
-## Article 4
+### Article 4
 
 De la prescription du §6, d’après laquelle, lorsque les terrains à réserver s’étendent sur
 la circonscription territoriale de plusieurs communes, la déclaration de la réserve doit être faite au
@@ -120,7 +120,7 @@ maire de chacune de ces communes, il ressort que relativement à la question de 
 d’une superficie de terrains continue de 25 ou de 5 hectares, il est indifférent que these terrains
 soient situés dans la même circonscription communale.
 
-## Article 5
+### Article 5
 
 La division d’une circonscription communale en plusieurs circonscriptions de chasse,
 dont chacune comprend au moins 200 hectares, est admissible.
@@ -130,7 +130,7 @@ circonscriptions de chasse, il ne pourra être décidé qu’après l’expirati
 2, en faveur des propriétaires qui ont le droit de se réserver pour eux-mêmes l’exercice du droit
 de chasse.
 
-## Article 6
+### Article 6
 
 L’attention des autorités communales doit être appelée sur le cahier des charges rédigé
 au ministère pour la location de la chasse par les communes et accompagné d’un modèle pour le
@@ -154,7 +154,7 @@ des charges relativement aux dommages et intérêts pour dégâts causés par le
 particulières font désirer que de telles prescriptions ne soient pas inscrites dans le cahier des
 charges.
 
-## Article 8
+### Article 8
 
 Il sera de l’intérêt des communes de ne pas ajourner la location des chasses jusqu’à la
 clôture de la chasse en 1889, mais d’y procéder plus tôt, et cela au plus tard avant la fin du mois

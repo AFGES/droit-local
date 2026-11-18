@@ -58,15 +58,15 @@ maires les instructions nécessaires pour le renouvellement de la location de la
 communes.
 
 Dès que la location de la chasse aura eu lieu dans toutes les communes du département, il y
-aura lieu de présenter au ministère un tableau renfermant les données suivantes :
+aura lieu de présenter au ministère un tableau renfermant les données suivantes :
 
 1. l’étendue totale des terrains loués lors de la dernière location et celle des terrains loués
-   actuellement ;
-2. le montant antérieur et le montant actuel du produit de la location de la chasse ;
+   actuellement ;
+2. le montant antérieur et le montant actuel du produit de la location de la chasse ;
 3. l’étendue totale des terrains sur lesquels les propriétaires se sont réservés à eux-mêmes
-   l’exercice du droit de chasse et le nombre de ces propriétaires ;
+   l’exercice du droit de chasse et le nombre de ces propriétaires ;
 4. l’indication des communes, dans lesquelles la chasse a été louée en bloc ou en plusieurs
-   lots ;
+   lots ;
 5. l’indication des communes, dans lesquelles les propriétaires fonciers ont décidé de verser le
    produit de la chasse à la caisse municipale.
 

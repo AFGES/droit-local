@@ -27,16 +27,16 @@ localités particulières ou certaines époques déterminées.
 
 ## Article 2
 
-Il est interdit en outre :
+Il est interdit en outre :
 
 1. De capturer des oiseaux, par quelque moyen que ce soit, aussi longtemps que le sol est couvert
-   de neige ;
-2. De capturer des oiseaux au moyen de glu ou de lacets ;
-3. De capturer et de tuer des oiseaux pendant la nuit, à l’aide de filets ou d’armes ; la nuit
+   de neige ;
+2. De capturer des oiseaux au moyen de glu ou de lacets ;
+3. De capturer et de tuer des oiseaux pendant la nuit, à l’aide de filets ou d’armes ; la nuit
    s’entend du temps qui commence une heure après le coucher du soleil et finit une heure avant son
-   lever ;
+   lever ;
 4. De capturer des oiseaux à l’aide de graines ou autres pâtures, auxquelles seraient mêlées des
-   matières narcotiques ou vénéneuses, ou à l’aide d’appelants aveuglés ;
+   matières narcotiques ou vénéneuses, ou à l’aide d’appelants aveuglés ;
 5. De capturer des oiseaux au moyen de cages ou de caisses à coulisses, de nasses, de grandes
    trappes et de tirasses, comme aussi au moyen de filets mobiles et portatifs, tendus sur le sol ou au
    travers des champs, des bois taillis, des roseaux ou des chemins.
@@ -51,7 +51,7 @@ masse.
 Sont interdits d’une manière générale, pendant la période comprise entre le 1er mars et le 1er
 octobre, la capture et la mise à mort d’oiseaux, ainsi que l’achat, la vente et la mise en vente,
 l’entremise pour l’achat et la vente prohibés, l’importation, l’exportation et le transit des oiseaux
-morts ou vivants appartenant à des espèces vivant en Europe ; est interdit également, pendant la
+morts ou vivants appartenant à des espèces vivant en Europe ; est interdit également, pendant la
 même période, le transport de ces oiseaux dans un but commercial.
 
 Cette interdiction, en ce qui concerne les mésanges, les sittelles et les grimpereaux, s’étend à
@@ -119,24 +119,24 @@ S’il est impossible de poursuivre ou de condamner une personne déterminée, l
 
 ## Article 8
 
-Les dispositions de la présente loi ne sont pas applicables :
+Les dispositions de la présente loi ne sont pas applicables :
 
-1. Aux oiseaux de basse-cour possédés par des particuliers ;
-2. Aux oiseaux-gibier aux termes de la législation des Etats particuliers ;
-3. Aux espèces d’oiseaux énumérées dans le tableau suivant :
+1. Aux oiseaux de basse-cour possédés par des particuliers ;
+2. Aux oiseaux-gibier aux termes de la législation des Etats particuliers ;
+3. Aux espèces d’oiseaux énumérées dans le tableau suivant :
    {.liste-alpha}
 
-- Rapaces diurnes, à l’exception des crécerelles, aigles criards, pygargues, buses et milans royaux ;
-- Grands-ducs ;
-- Pies-grièches ;
-- Moineaux ;
-- orvidés (corneilles noires, corbeaux mantelés, freux, pies voleuses, geais glandivores) ;
-- Pigeons sauvages (ramiers, colombins, tourterelles) ;
-- Poules d’eau (poules d’eau et foulques) ;
-- Hérons (hérons cendrés, bihoreaux et butors) ;
-- Harles ;
-- Toutes les espèces de mouettes qui ne nichent pas dans l’intérieur des terres ;
-- Cormorans ;
+- Rapaces diurnes, à l’exception des crécerelles, aigles criards, pygargues, buses et milans royaux ;
+- Grands-ducs ;
+- Pies-grièches ;
+- Moineaux ;
+- orvidés (corneilles noires, corbeaux mantelés, freux, pies voleuses, geais glandivores) ;
+- Pigeons sauvages (ramiers, colombins, tourterelles) ;
+- Poules d’eau (poules d’eau et foulques) ;
+- Hérons (hérons cendrés, bihoreaux et butors) ;
+- Harles ;
+- Toutes les espèces de mouettes qui ne nichent pas dans l’intérieur des terres ;
+- Cormorans ;
 - Plongeons et grèbes.
 
 Toutefois, l’interdiction de capturer des oiseaux à l’aide de lacets est maintenue à l’égard des

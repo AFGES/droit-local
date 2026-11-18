@@ -8,14 +8,14 @@ categories:
 
 ## Article 1
 
-Le conseil impérial connaîtra des recours :
+Le conseil impérial connaîtra des recours :
 
-1. Contre les arrêtés des {{< t "présidents de districts" "préfets" >}} relatifs :
+1. Contre les arrêtés des {{< t "présidents de districts" "préfets" >}} relatifs :
 
    1. A l’établissement, au déplacement ou à la fermeture des cimetières, à leur sectionnement, à
-      la concession des sépultures aux particuliers ;
+      la concession des sépultures aux particuliers ;
    2. A la fixation des alignements, aux autorisations de police pour des travaux de construction,
-      aux interdictions et démolitions de certaines constructions ;
+      aux interdictions et démolitions de certaines constructions ;
    3. A l’obligation des communes de pourvoir à l’installation d’eau potable ou ménagère ou à
       l’enlèvement des déchets.
 
@@ -30,7 +30,7 @@ Le conseil impérial connaîtra des recours :
 
 ## Article 2
 
-Le conseil impérial connaîtra en outre :
+Le conseil impérial connaîtra en outre :
 
 Des réclamations contre les élections en matière ecclésiastique y compris dans les élections du
 culte israélite, ou des réclamations relatives à des inscriptions ou des radiations dans les

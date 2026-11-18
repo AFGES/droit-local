@@ -17,65 +17,65 @@ ASSURANCE CONTRE LES ACCIDENTS DANS LES ENTREPRISES INDUSTRIELLES
 CHAPITRE I
 Étendue de l’assurance
 
-###### Article 537
+## Article 537
 
-L’assurance s’étend :
+L’assurance s’étend :
 
-1. aux mines, salines, ateliers de préparation de minerai, carrières, minières ;
-2. aux fabriques, chantiers maritimes, forges, pharmacies, brasseries et tanneries industrielles ;
+1. aux mines, salines, ateliers de préparation de minerai, carrières, minières ;
+2. aux fabriques, chantiers maritimes, forges, pharmacies, brasseries et tanneries industrielles ;
 3. aux chantiers de construction, aux entreprises industrielles dont l’exploitation comporte des
-   travaux de maçon, décorateur, tailleur de pierre, serrurier, forgeron et puisatier ; à l’industrie du concassage
+   travaux de maçon, décorateur, tailleur de pierre, serrurier, forgeron et puisatier ; à l’industrie du concassage
    de pierres, ainsi qu’aux travaux de construction qui ne rentrent pas dans une entreprise de construction de
-   caractère industriel ;
+   caractère industriel ;
 4. à l’industrie du ramonage des cheminées, du nettoyage des fenêtres et de la boucherie, ainsi qu’à
-   l’exploitation d’établissements de bains ;
+   l’exploitation d’établissements de bains ;
 5. à toutes les exploitations de chemins de fer et aux administrations des postes et télégraphes, ainsi
-   qu’aux entreprises des administrations de la marine et de la guerre ;
+   qu’aux entreprises des administrations de la marine et de la guerre ;
 6. aux entreprises de navigation intérieure, de flottage,
    de transport par bacs, de remorquage (halage), de pêche
-   intérieure, de pisciculture ; à l’exploitation des étangs et
+   intérieure, de pisciculture ; à l’exploitation des étangs et
    à la production de la glace, lorsque ces entreprises sont
    exploitées industriellement ou administrées par l’Empire,
    un Etat confédéré, une commune, une union de communes,
-   ou par toute autre institution publique ; aux entreprises de dragage ainsi qu’aux entreprises de
-   détention de bateaux sur les eaux intérieures ;
-7. aux entreprises de voiturage, d’expédition, de dressage d’animaux de trait ; à l’exploitation de
-   manèges et d’écuries, lorsque ces entreprises sont exploitées industriellement ; à la détention de moyens de
+   ou par toute autre institution publique ; aux entreprises de dragage ainsi qu’aux entreprises de
+   détention de bateaux sur les eaux intérieures ;
+7. aux entreprises de voiturage, d’expédition, de dressage d’animaux de trait ; à l’exploitation de
+   manèges et d’écuries, lorsque ces entreprises sont exploitées industriellement ; à la détention de moyens de
    transport autres que les bateaux, lorsqu’ils sont mus par une force élémentaire ou animale, ainsi qu’à la
-   détention de montures ;
-8. aux entreprises industrielles d’emmagasinement, d’entreposage et d’encavage ;
+   détention de montures ;
+8. aux entreprises industrielles d’emmagasinement, d’entreposage et d’encavage ;
 9. aux exploitations industrielles d’emballage, de chargement, de manutention, de triage, de pesage,
-   de mesurage, de débardage et d’arrimage ;
+   de mesurage, de débardage et d’arrimage ;
 10. aux entreprises de transport de personnes ou de marchandises, d’abatage du bois, lorsque ces
-    exploitations sont rattachées à une entreprise commerciale excédant les limites de la petite entreprise ;
+    exploitations sont rattachées à une entreprise commerciale excédant les limites de la petite entreprise ;
 11. dans les mêmes conditions (n°10) aux entreprises s’occupant du traitement et de la manutention
     des marchandises.
 
 L’Office impérial des assurances sociales détermine quelles sont les entreprises commerciales (nos 10
 et 11) qui, comme petites exploitations, ne sont pas soumises à l’assurance contre les accidents.
 
-###### Article 538
+### Article 538
 
-Sont considérées comme fabriques au sens du § 537, n°2, les entreprises :
+Sont considérées comme fabriques au sens du § 537, n°2, les entreprises :
 
 1. dans lesquelles on travaille et transforme des objets déterminés et qui occupent régulièrement dix
-   ouvriers au moins ;
+   ouvriers au moins ;
 2. où l’on produit ou transforme industriellement des matières explosives ou des objets explosibles ou
-   dans lesquelles on produit ou transmet de la force électrique ;
+   dans lesquelles on produit ou transmet de la force électrique ;
 3. où il est fait usage, autrement qu’à titre temporaire, de chaudières à vapeur ou de machines mues
-   par une force élémentaire ou animale ;
+   par une force élémentaire ou animale ;
 4. qui sont assimilées aux fabriques par l’Office impérial des assurances sociales.
 
-###### Article 539
+#### Article 539
 
 L’assurance s’étend également à d’autres entreprises, lorsqu’elles font partie intégrante des
 exploitations désignées aux §§ 537, 538 ou en sont des entreprises accessoires.
 
-###### Article 540
+##### Article 540
 
-Le § 539 n’est pas applicable :
+Le § 539 n’est pas applicable :
 
-1. aux exploitations agricoles qui sont des entreprises accessoires ;
+1. aux exploitations agricoles qui sont des entreprises accessoires ;
 
 Les statuts (§ 675) peuvent aussi soumettre des exploitations accessoires de cette nature à l’assurance
 contre les accidents dans les entreprises industrielles, lorsque la majorité des personnes qui y sont occupées
@@ -85,7 +85,7 @@ ne peut être annulée que pour la fin d’un exercice annuel. Une disposition d
 des exploitations accessoires agricoles ne peut être approuvée qu’après que les Corporations agricoles
 intéressées aient été entendues. En cas de désaccord des Corporations intéressées, le Conseil Fédéral statue,
 s’il en est requis. Toutefois, l’assentiment de la Corporation agricole est toujours nécessaire, lorsque la
-disposition n’est pas encore en vigueur depuis plus de trois ans ;
+disposition n’est pas encore en vigueur depuis plus de trois ans ;
 
 2. aux entreprises de navigation maritime et autres, tombant sous l’application des §§ 1046, 1049 qui
    sont partie essentielle d’entreprises énumérées aux §§ 537, 538 et dont l’activité ne se borne pas au trafic
@@ -125,15 +125,15 @@ l’assentiment des Corporations intéressées.
 Pour les entreprises qui ne présentent pas de risques particuliers d’accident, une dispense de
 l’obligation d’assurance peut être accordée par le Conseil Fédéral.
 
-L’Office impérial des assurances sociales prépare la décision du Conseil Fédéral ; le conseil du
+L’Office impérial des assurances sociales prépare la décision du Conseil Fédéral ; le conseil du
 contentieux administratif doit être entendu.
 
 ###### Article 544
 
 Sont assurés contre les accidents dans les entreprises ou occupations qui sont soumises à
-l’assurance en vertu des §§ 537 à 542 (accidents du travail) :
+l’assurance en vertu des §§ 537 à 542 (accidents du travail) :
 
-1. les ouvriers, aides, compagnons, apprentis ;
+1. les ouvriers, aides, compagnons, apprentis ;
 2. les employés d’exploitation dont le traitement annuel ne dépasse pas {{< m "5000" "marks" >}} lorsqu’ils sont
    employés dans ces entreprises ou occupations.
 
@@ -157,12 +157,12 @@ relativement à l’exécution de cette disposition.
 
 ###### Article 548
 
-Les statuts peuvent étendre l’obligation de l’assurance :
+Les statuts peuvent étendre l’obligation de l’assurance :
 
 1. aux chefs d’entreprises dont le gain annuel ne dépasse pas {{< m "3000" "marks" >}} ou qui n’occupent
-   régulièrement aucun ou au plus deux ouvriers salariés assujettis à l’assurance ;
+   régulièrement aucun ou au plus deux ouvriers salariés assujettis à l’assurance ;
 2. sans considération du nombre d’ouvriers assujettis à l’assurance occupés par eux, aux artisans à
-   domicile qui ont entrepris une exploitation désignée aux §§ 537, 538 ;
+   domicile qui ont entrepris une exploitation désignée aux §§ 537, 538 ;
 3. aux employés d’exploitation dont le traitement annuel est supérieur à {{< m "5000" "marks" >}}
 
 ###### Article 549
@@ -195,12 +195,12 @@ s’appliquent également à son conjoint, lorsqu’il est occupé dans l’entr
 ###### Article 552
 
 Les statuts peuvent fixer les conditions auxquelles peuvent être assurés contre des accidents
-de la nature de ceux visés par les §§ 544, 546 :
+de la nature de ceux visés par les §§ 544, 546 :
 
 1. par le chef d’entreprise les personnes occupées dans l’exploitation, mais non assurées en vertu des
-   §§ 544, 545, 548, n°3 ;
+   §§ 544, 545, 548, n°3 ;
 2. par le chef d’entreprise ou par le comité directeur de la Corporation, les personnes non occupées
-   dans l’exploitation, mais qui en fréquentent les locaux ou y circulent ;
+   dans l’exploitation, mais qui en fréquentent les locaux ou y circulent ;
 3. par le comité directeur de la Corporation, les membres de ses organes et les employés de la
    Corporation.
 
@@ -212,16 +212,16 @@ longtemps que l’arriéré n’aura pas été soldé.
 
 ###### Article 554
 
-Ne sont pas assujettis à l’assurance :
+Ne sont pas assujettis à l’assurance :
 
 1. les officiers et les officiers du service de santé auxquels s’applique la loi sur la pension des
-   officiers ;
-2. les militaires des grades inférieurs auxquels s’applique la loi sur l’assistance des soldats ;
+   officiers ;
+2. les militaires des grades inférieurs auxquels s’applique la loi sur l’assistance des soldats ;
 3. les autres personnes désignées au § 1er de la loi du 18 juin 1901 relative à l’assistance des
-   fonctionnaires, etc., en cas d’accident ;
+   fonctionnaires, etc., en cas d’accident ;
 4. les fonctionnaires occupés dans les services des exploitations administrées pour le compte d’un
    Etat Confédéré, d’une union de communes ou d’une commune et qui jouissent d’un traitement fixe et du
-   droit à la pension ;
+   droit à la pension ;
 5. les autres fonctionnaires d’un Etat Confédéré, d’une union de communes ou d’une commune, pour
    lesquels l’assistance prévue au § 14 de la loi précitée, relative à l’assistance en cas d’accident, leur est
    assurée.
@@ -261,19 +261,19 @@ ou pour tout autre motif inhérent à sa personne, aucun jugement pénal n’est
 ###### Article 558
 
 En cas de blessure, sont alloués depuis le commencement de la quatorzième semaine après
-l’accident :
+l’accident :
 
-1. le traitement de la maladie ; il comprend le traitement médical, les médicaments et autres moyens
+1. le traitement de la maladie ; il comprend le traitement médical, les médicaments et autres moyens
    curatifs, de même que tous moyens auxiliaires propres à assurer le succès du traitement curatif ou à
-   atténuer les conséquences de la lésion (béquilles, appareils de soutien et autres) ;
+   atténuer les conséquences de la lésion (béquilles, appareils de soutien et autres) ;
 2. une rente pour la durée de l’incapacité de travail.
 
 ###### Article 559
 
-La rente comprend :
+La rente comprend :
 
 1. en cas d’incapacité totale de travail et pour la durée de cette incapacité, les deux tiers du salaire
-   annuel calculé conformément aux §§ 563 à 570 (rente entière) ;
+   annuel calculé conformément aux §§ 563 à 570 (rente entière) ;
 2. en cas d’incapacité partielle de travail et pour la durée de cette incapacité, une partie de la rente
    entière correspondant à la réduction de la capacité (rente partielle).
 
@@ -320,7 +320,7 @@ lieu du chiffre 300.
 
 Si la victime n’a pas été occupée dans l’entreprise durant une année entière avant l’accident,
 la rémunération annuelle est calculée en multipliant le nombre de jours pendant lesquels elle a été occupée
-dans l’entreprise, par le gain journalier moyen qu’elle a touché par journée complète de travail ; on y
+dans l’entreprise, par le gain journalier moyen qu’elle a touché par journée complète de travail ; on y
 ajoute, pour les jours de travail que le mode d’exploitation comporte généralement en plus dans l’année, le
 salaire moyen touché par journée entière pendant ce laps de temps, par des assurés de la même catégorie et
 de la même capacité de travail, dans la même entreprise ou dans des entreprises voisines de la même
@@ -374,7 +374,7 @@ Si la victime est assurée contre la maladie en vertu de l’assurance sociale o
 caisse-maladie minière, il doit lui être accordé, à titre de secours de maladie, au moins les prestations
 normales de la caisse-maladie, visées au § 179. Toutefois, à partir de la cinquième semaine qui suit
 l’accident jusqu’à l’expiration de la treizième semaine, le secours pécuniaire de maladie doit être porté aux
-deux tiers au moins du salaire de base déterminatif ; il ne peut être refusé, même dans le cas du § 192, sauf
+deux tiers au moins du salaire de base déterminatif ; il ne peut être refusé, même dans le cas du § 192, sauf
 si la victime s’est attiré l’accident en commettant un crime ou un délit intentionnel (§ 557, al. 1 et 2). Ces
 dispositions s’appliquent aussi au secours pécuniaire de famille.
 
@@ -389,10 +389,10 @@ l’étranger à la suite de l’accident.
 
 ###### Article 574
 
-Sont également considérés comme assurés contre la maladie aux termes du § 573, ceux qui :
+Sont également considérés comme assurés contre la maladie aux termes du § 573, ceux qui :
 
 1. sont dispensés de l’assurance en vertu des §§ 418, 435, pour autant que la caisse-maladie doive
-   intervenir (§ 422) ;
+   intervenir (§ 422) ;
 2. ne font plus partie de la caisse-maladie, par suite de chômage, mais qui ont encore droit à des
    prestations de ladite caisse (§ 214).
 
@@ -410,7 +410,7 @@ ces deux catégories de secours coïncident pour la même période.
 Les prestations que la caisse-maladie, la caisse-maladie minière ou la caisse agréée sont
 tenues de fournir conformément aux §§ 573, 575, en sus de l’obligation résultant de la loi ou des statuts,
 doivent leur être remboursés par la Corporation, lorsque l’assuré a droit à une indemnisation dépassant la
-treizième semaine ; dans les autres cas, par le chef d’entreprise (§ 633). Les statuts de la Corporation
+treizième semaine ; dans les autres cas, par le chef d’entreprise (§ 633). Les statuts de la Corporation
 peuvent porter que la Corporation doit restituer le surplus dans tous les cas.
 
 Cette disposition est applicable par analogie, lorsque la victime qui est assurée contre la maladie n’a
@@ -468,7 +468,7 @@ S’il est à prévoir qu’une indemnité d’accident devra être fournie aux 
 suit l’accident, les soumettre à un traitement curatif, dans le but de prévenir ou d’atténuer les suites de
 l’accident.
 
-Elle peut placer la victime dans un hôpital ; le § 597, alinéas 2 à 4, est applicable dans ce cas.
+Elle peut placer la victime dans un hôpital ; le § 597, alinéas 2 à 4, est applicable dans ce cas.
 
 Elle peut aussi, si la victime y consent, donner des soins à celle-ci conformément au § 185, alinéa 1.
 
@@ -521,30 +521,30 @@ Les contestations qui s’élèvent au sujet des droits au remboursement visés 
 
 ###### Article 586
 
-En cas de mort, il est en outre alloué :
+En cas de mort, il est en outre alloué :
 
 1. à titre d’indemnité funéraire, la quinzième partie de la rémunération annuelle, sans que cette
-   somme puisse être inférieure à {{< m "50" "marks" >}}; le § 203 est applicable, dans ce cas, par analogie ;
+   somme puisse être inférieure à {{< m "50" "marks" >}}; le § 203 est applicable, dans ce cas, par analogie ;
 2. une rente aux survivants, à partir du jour du décès.
 
 Cette rente consiste en une fraction de la rémunération annuelle déterminée aux §§ 588 à 595.
 
-La rémunération annuelle est calculée de la même manière que dans le cas de lésion corporelle ;
+La rémunération annuelle est calculée de la même manière que dans le cas de lésion corporelle ;
 toutefois, le § 571 n’est pas applicable.
 
 ###### Article 587
 
 Si, par suite d’un accident antérieur, cette rémunération annuelle est inférieure au salaire
 que gagnait la victime avant cet accident, la rente allouée du fait de l’accident doit être ajoutée au chiffre de
-la rémunération annuelle ; toutefois, le total ne peut être supérieur au montant de la rémunération qui a
+la rémunération annuelle ; toutefois, le total ne peut être supérieur au montant de la rémunération qui a
 servi de base à la détermination de la rente primitive.
 
 ###### Article 588
 
 Si le défunt laisse une veuve ou des enfants, la rente s’élève à un cinquième de la
-rémunération annuelle :
+rémunération annuelle :
 
-- pour la veuve, jusqu’à son décès ou son remariage ;
+- pour la veuve, jusqu’à son décès ou son remariage ;
 - pour chaque enfant, jusqu’à l’accomplissement de sa quinzième année et, s’il s’agit d’un enfant
   naturel, dans le cas seulement où le défunt a subvenu à son entretien, conformément à la loi.
 
@@ -573,9 +573,9 @@ survivant.
 
 Si la défunte subvenait, avant l’accident mortel, par son gain, en raison de l’incapacité de
 travail de son conjoint, exclusivement ou principalement à l’entretien de sa famille, la rente à accorder
-jusqu’à la cessation du besoin comporte le cinquième de la rémunération annuelle :
+jusqu’à la cessation du besoin comporte le cinquième de la rémunération annuelle :
 
-- pour le veuf, jusqu’à sont décès ou son remariage ;
+- pour le veuf, jusqu’à sont décès ou son remariage ;
 - pour chaque enfant, jusqu’à l’âge de 15 ans révolus.
 
 Le veuf est exclu de tout droit, si le mariage n’a été conclu qu’après l’accident.
@@ -601,9 +601,9 @@ leur entretien dépendait entièrement ou en majeure partie du travail du défun
 ###### Article 595
 
 Les rentes des survivants ne peuvent excéder ensemble les trois cinquièmes de la
-rémunération annuelle ; si cette proportion est dépassée, les rentes sont réduites pour les conjoints et les
-enfants de façon uniforme ; les parents de la ligne ascendante n’ont de droits que pour autant que le
-montant maximum ne soit pas totalement absorbé par le conjoint et les enfants ; les petits-enfants n’ont de
+rémunération annuelle ; si cette proportion est dépassée, les rentes sont réduites pour les conjoints et les
+enfants de façon uniforme ; les parents de la ligne ascendante n’ont de droits que pour autant que le
+montant maximum ne soit pas totalement absorbé par le conjoint et les enfants ; les petits-enfants n’ont de
 droits que pour autant que le montant maximum des rentes ne soit pas totalement absorbé par les
 prénommés.
 
@@ -631,12 +631,12 @@ est requis.
 
 S’il s’agit d’un mineur ayant plus de 16 ans, son propre consentement suffit.
 
-Le consentement n’est pas requis lorsque :
+Le consentement n’est pas requis lorsque :
 
 1. la nature de la blessure réclame un traitement ou des soins qui ne sont pas possibles dans la
-   famille ;
-2. la maladie est contagieuse ;
-3. la victime a contrevenu, à plusieurs reprises, aux prescriptions du médecin traitant ;
+   famille ;
+2. la maladie est contagieuse ;
+3. la victime a contrevenu, à plusieurs reprises, aux prescriptions du médecin traitant ;
 4. l’état ou l’attitude de la victime exigent une surveillance continuelle.
 
 La Corporation doit, autant que possible, allouer l’hospitalisation dans les cas prévus à l’alinéa 4,
@@ -662,7 +662,7 @@ lorsqu’il y a une raison majeure de laisser la victime dans son ménage ou dan
 
 Si la Corporation prend à sa charge, en vertu du § 579, les prestations du chef d’entreprise,
 elle peut, au lieu des secours et indemnités pécuniaires de maladie, accorder conformément aux §§ 184,
-186, 577, alinéa 1, des soins dans un établissement hospitalier et un secours pécuniaire de famille ; elle peut
+186, 577, alinéa 1, des soins dans un établissement hospitalier et un secours pécuniaire de famille ; elle peut
 aussi, avec l’assentiment de la victime, lui accorder les secours prévus au § 185, alinéa 1, et réduire de ce
 fait d’un quart au maximum le secours pécuniaire de maladie.
 
@@ -750,7 +750,7 @@ période postérieure à la demande.
 ###### Article 612
 
 Les frais du traitement curatif et les indemnités funéraires sont payables dans la semaine qui
-suit leur fixation ; les rentes sont payables d’avance, par arrérages mensuels.
+suit leur fixation ; les rentes sont payables d’avance, par arrérages mensuels.
 
 Lorsque le montant annuel de la rente est de {{< m "60" "marks" >}} au plus, celle-ci est payable d’avance par
 arrérages trimestriels pour autant qu’elle ne doive pas,
@@ -778,53 +778,53 @@ habitaient en communauté de famille avec elle.
 
 ###### Article 615
 
-La rente est suspendue :
+La rente est suspendue :
 
 1. aussi longtemps que l’intéressé purge une peine d’emprisonnement de plus d’un mois ou séjourne
-   dans une maison de détention ou un établissement de correction ;
+   dans une maison de détention ou un établissement de correction ;
 
 Si l’intéressé a de proches parents résidant dans le pays et qui, au cas de son décès, auraient droit à
-une rente, la rente doit leur être attribuée jusqu’à concurrence de son droit ;
+une rente, la rente doit leur être attribuée jusqu’à concurrence de son droit ;
 
-2. aussi longtemps que l’intéressé indigène séjourne à l’étranger, en négligeant :
-   de faire connaître sa résidence à la Corporation ;
+2. aussi longtemps que l’intéressé indigène séjourne à l’étranger, en négligeant :
+   de faire connaître sa résidence à la Corporation ;
    et s’il s’agit d’un accidenté de se présenter, sur la demande de la Corporation, de temps à autre chez le
    consul compétent ou une autre autorité {{< t "allemande" "française" >}} qui lui aura été désignée.
 
-L'Office impérial des assurances sociales arrête des prescriptions de détail relativement à la
+L’Office impérial des assurances sociales arrête des prescriptions de détail relativement à la
 notification du lieu de la résidence et à la présentation personnelle.
 
-Si l'ayant droit prouve ultérieurement qu'il n'a pu s'acquitter, sans qu'il y ait de sa faute, de cette
-obligation de notification et de présentation personnelle, le droit à la rente renaît, entant qu'elle a été
-suspendue de ce fait ;
+Si l’ayant droit prouve ultérieurement qu’il n’a pu s’acquitter, sans qu’il y ait de sa faute, de cette
+obligation de notification et de présentation personnelle, le droit à la rente renaît, entant qu’elle a été
+suspendue de ce fait ;
 
-3. aussi longtemps que l'ayant droit étranger réside volontairement et habituellement à l'étranger ;
-4. aussi longtemps que l'ayant droit étranger est l'objet d'une interdiction de séjour en territoire
-   {{< t "allemand" "français" >}}, à la suite d'une condamnation à une peine criminelle. Cette disposition s'applique également à un
-   étranger titulaire d'une rente qui, à raison d'une condamnation à une peine criminelle, s'est vu interdire le
-   séjour sur le territoire d'un Etat Confédéré, pour autant qu'il ne réside pas dans un autre Etat Confédéré.
+3. aussi longtemps que l’ayant droit étranger réside volontairement et habituellement à l’étranger ;
+4. aussi longtemps que l’ayant droit étranger est l’objet d’une interdiction de séjour en territoire
+   {{< t "allemand" "français" >}}, à la suite d’une condamnation à une peine criminelle. Cette disposition s’applique également à un
+   étranger titulaire d’une rente qui, à raison d’une condamnation à une peine criminelle, s’est vu interdire le
+   séjour sur le territoire d’un Etat Confédéré, pour autant qu’il ne réside pas dans un autre Etat Confédéré.
 
-Le Conseil Fédéral peut décider que la suspension de la rente n'aura pas lieu dans les cas des nos 3 et
-4, pour des régions frontières étrangères ou pour des ressortissants d'Etats étrangers dont la législation
+Le Conseil Fédéral peut décider que la suspension de la rente n’aura pas lieu dans les cas des nos 3 et
+4, pour des régions frontières étrangères ou pour des ressortissants d’Etats étrangers dont la législation
 garantit aux {{< t "Allemands" "Français" >}} et à leurs survivants des secours équivalents.
 
-Si l'expulsion de l'étranger titulaire de la rente (alinéa 1, n° 4) n'est pas ordonnée à la suite ou à raison
-de la condamnation à une peine criminelle, les dispositions de l'alinéa 1, n° 2, lui sont applicables.
+Si l’expulsion de l’étranger titulaire de la rente (alinéa 1, n° 4) n’est pas ordonnée à la suite ou à raison
+de la condamnation à une peine criminelle, les dispositions de l’alinéa 1, n° 2, lui sont applicables.
 
 Les colonies {{< t "allemandes" "françaises" >}} sont considérées, au sens des présentes dispositions comme faisant partie du
 pays.
 
 ###### Article 616
 
-Si le montant de la rente d'une victime ne dépasse pas le cinquième de la rente entière, la
-Corporation peut, avec le consentement de l'intéressé et l'Office d'assurance préalablement entendu ,
-l'indemniser par le paiement du capital correspondant à la valeur de sa rente annuelle.
+Si le montant de la rente d’une victime ne dépasse pas le cinquième de la rente entière, la
+Corporation peut, avec le consentement de l’intéressé et l’Office d’assurance préalablement entendu,
+l’indemniser par le paiement du capital correspondant à la valeur de sa rente annuelle.
 
 ###### Article 617
 
-Si l'intéressé est un étranger qui cesse de résider habituellement dans le pays ou qui réside
-habituellement à l'étranger, la Corporation peut l'indemniser, s'il y consent, par le paiement d'une somme,
-s'élevant à trois fois le montant de sa rente annuelle ou, à défaut de consentement, par le paiement d'un
+Si l’intéressé est un étranger qui cesse de résider habituellement dans le pays ou qui réside
+habituellement à l’étranger, la Corporation peut l’indemniser, s’il y consent, par le paiement d’une somme,
+s’élevant à trois fois le montant de sa rente annuelle ou, à défaut de consentement, par le paiement d’un
 capital correspondant à la valeur de sa rente annuelle.
 
 Par décision du Conseil Fédéral, cette disposition peut être inopérante pour des districts frontières
@@ -832,205 +832,205 @@ Par décision du Conseil Fédéral, cette disposition peut être inopérante pou
 
 ###### Article 618
 
-Pour l'indemnisation par le paiement d'un capital équivalent (§§ 616, 617), le Conseil
+Pour l’indemnisation par le paiement d’un capital équivalent (§§ 616, 617), le Conseil
 Fédéral règle le calcul de la valeur du capital.
 
 ###### Article 619
 
-Si, à la suite d'une révision, la Corporation constate que la prestation a été refusée,
+Si, à la suite d’une révision, la Corporation constate que la prestation a été refusée,
 supprimée ou suspendue indûment, pour le tout ou pour une partie, elle peut la fixer à nouveau.
 
 ###### Article 620
 
-La Corporation n'est pas obligée de réclamer le remboursement d'une indemnité qu'elle a dû
+La Corporation n’est pas obligée de réclamer le remboursement d’une indemnité qu’elle a dû
 payer avant que la décision ne soit devenue définitive.
 
 ###### Article 621
 
 Les droits à des indemnités peuvent, en dehors des cas du § 119 être cédés, mis en gage et
-saisis effectivement dans le cas où il s'agit de créances au profit de caisses-maladie, d'associations minières,
-de caisses minières, de caisses agréées et d'instituts d'assurance auxquelles les §§ 1501, 1522, 1528 donnent
-droit au remboursement. La cession, la mise en gage et la saisie ne peuvent avoir lieu que jusqu'à
+saisis effectivement dans le cas où il s’agit de créances au profit de caisses-maladie, d’associations minières,
+de caisses minières, de caisses agréées et d’instituts d’assurance auxquelles les §§ 1501, 1522, 1528 donnent
+droit au remboursement. La cession, la mise en gage et la saisie ne peuvent avoir lieu que jusqu’à
 concurrence du montant des droits légaux au remboursement.
 
 ###### Article 622
 
-Ces droits ne peuvent être compensés que par :
+Ces droits ne peuvent être compensés que par :
 
-- des cotisations dues ;
-- des avances faites sur les fonds de la Corporation ;
-- des indemnités payées indûment ;
-- les frais de procédure qui sont à rembourser ;
-- les amendes prononcées par le comité directeur de la Corporation ;
+- des cotisations dues ;
+- des avances faites sur les fonds de la Corporation ;
+- des indemnités payées indûment ;
+- les frais de procédure qui sont à rembourser ;
+- les amendes prononcées par le comité directeur de la Corporation ;
 - les droits de la Corporation au remboursement, en vertu des §§ 903, 904.
 
 CHAPITRE III
 Institutions chargées de l’assurance
 I. — CORPORATIONS PROFESSIONNELLES ET AUTRES INSTITUTIONS CHARGEES DE
-L'ASSURANCE
+L’ASSURANCE
 
 ###### Article 623
 
-Les Corporations professionnelles, en tant qu'institutions chargées de l'assurance-accidents
-comprennent les chefs des entreprises assujetties à l'assurance \[§ 633, alinéa 1\].
+Les Corporations professionnelles, en tant qu’institutions chargées de l’assurance-accidents
+comprennent les chefs des entreprises assujetties à l’assurance \[§ 633, alinéa 1\].
 
 ###### Article 624
 
-L'Empire ou l'Etat Confédéré est l'institution chargée de l'assurance , lorsque l'exploitation
-se fait pour son compte :
+L’Empire ou l’Etat Confédéré est l’institution chargée de l’assurance, lorsque l’exploitation
+se fait pour son compte :
 
-1. dans les administrations des postes et télégraphes, de la marine et de la guerre ;
+1. dans les administrations des postes et télégraphes, de la marine et de la guerre ;
 2. dans les chemins de fer,
    y compris les travaux de construction et les occupations relatives à des montures et des véhicules,
-   lorsqu'il ne s'agit pas d'une exploitation industrielle (§ 537, nos 6, 7).
+   lorsqu’il ne s’agit pas d’une exploitation industrielle (§ 537, nos 6, 7).
 
 ###### Article 625
 
-L'Empire ou l'Etat Confédéré est l'institution chargée de l’assurance, dans les entreprises de
-dragage, de navigation intérieure, de flottage, de transport par bacs, lorsque l'exploitation se fait pour son
+L’Empire ou l’Etat Confédéré est l’institution chargée de l’assurance, dans les entreprises de
+dragage, de navigation intérieure, de flottage, de transport par bacs, lorsque l’exploitation se fait pour son
 compte, à moins que ces entreprises ne soient affiliées conformément au § 2, alinéa 2, de la loi du 28 mai
 1885 aux Corporations établies pour elles.
 
-L'affiliation ultérieure d'entreprises de cette nature à la Corporation, la désaffiliation ou la ré
-affiliation ne sont, à défaut du consentement de la Corporation, admises qu'avec l'autorisation du Conseil
-Fédéral et, à défaut d'autre convention, seulement pour la fin d'un exercice annuel.
+L’affiliation ultérieure d’entreprises de cette nature à la Corporation, la désaffiliation ou la ré
+affiliation ne sont, à défaut du consentement de la Corporation, admises qu’avec l’autorisation du Conseil
+Fédéral et, à défaut d’autre convention, seulement pour la fin d’un exercice annuel.
 
-En cas de désaffiliation d'une entreprise, l'Empire ou l'Etat Confédéré est tenu de faire face, dès ce
-moment, aux droits à réparation qui existent envers la Corporation à raison d'accidents survenus dans les
-entreprises désaffiliées ; par contre, une partie correspondante de la réserve et des autres fonds de la
-Corporation doit être cédée à l'Empire ou l'Etat Confédéré à titre de compensation. Ces derniers sont alors
-tenus de se charger d'une quotité correspondante des intérêts et de l'amortissement de la dette flottante
+En cas de désaffiliation d’une entreprise, l’Empire ou l’Etat Confédéré est tenu de faire face, dès ce
+moment, aux droits à réparation qui existent envers la Corporation à raison d’accidents survenus dans les
+entreprises désaffiliées ; par contre, une partie correspondante de la réserve et des autres fonds de la
+Corporation doit être cédée à l’Empire ou l’Etat Confédéré à titre de compensation. Ces derniers sont alors
+tenus de se charger d’une quotité correspondante des intérêts et de l’amortissement de la dette flottante
 (§ 779).
 
-La Corporation et l'Empire ou l'Etat Confédéré peuvent, moyennant convention, déroger aux
-prescriptions de l'alinéa 3; toutefois, une décision de l'assemblée corporative est nécessaire dans ce cas.
+La Corporation et l’Empire ou l’Etat Confédéré peuvent, moyennant convention, déroger aux
+prescriptions de l’alinéa 3; toutefois, une décision de l’assemblée corporative est nécessaire dans ce cas.
 
-En cas de contestation à propos du partage du patrimoine entre la Corporation et l'Empire ou un Etat
-Confédéré ces derniers peuvent les soumettre de concert à une décision arbitrale, autrement c'est l'Office
+En cas de contestation à propos du partage du patrimoine entre la Corporation et l’Empire ou un Etat
+Confédéré ces derniers peuvent les soumettre de concert à une décision arbitrale, autrement c’est l’Office
 impérial des assurances sociales (conseil du contentieux administratif) qui décide.
 
 ###### Article 626
 
-Dans la mesure où une loi ou une convention réserve à l'Empire, à un Etat Confédéré, à des
-unions ou des Corporations publiques le droit exclusif d'exercer, sur une voie navigable, le service de la
+Dans la mesure où une loi ou une convention réserve à l’Empire, à un Etat Confédéré, à des
+unions ou des Corporations publiques le droit exclusif d’exercer, sur une voie navigable, le service de la
 navigation intérieure ou une partie de ce service (remorquage, etc.), ces exploitations font partie des
 Corporations instituées pour elles.
 
 ###### Article 627
 
-L**'Empire ou l'Etat Confédéré est l'institution chargée
+L**'Empire ou l’Etat Confédéré est l’institution chargée
 de l’assurance, pour des travaux de construction et
 des occupations relatives à des montures et véhicules
 non employés industriellement (§ 537, nos 6 et 7), lorsque
 ces travaux de construction et occupations ne rentrent pas
-dans la catégorie de ceux visés au § 624, et sont exécutés pour le compte de l'Empire ou de l'Etat
-Confédéré. Cette disposition n'est pas applicable lorsque l'Empire ou l'Etat Confédéré est affilié, par
-déclaration du Chancelier de l'Empire ou de l'autorité administrative suprême, à la Corporation compétente
-pour les chefs d'entreprises industrielles de construction et de transport ou de navigation intérieure. La
-déclaration d'affiliation détermine aussi l'époque à laquelle l'affiliation devient effective.
+dans la catégorie de ceux visés au § 624, et sont exécutés pour le compte de l’Empire ou de l’Etat
+Confédéré. Cette disposition n’est pas applicable lorsque l’Empire ou l’Etat Confédéré est affilié, par
+déclaration du Chancelier de l’Empire ou de l’autorité administrative suprême, à la Corporation compétente
+pour les chefs d’entreprises industrielles de construction et de transport ou de navigation intérieure. La
+déclaration d’affiliation détermine aussi l’époque à laquelle l’affiliation devient effective.
 
 La désaffiliation et la réaffiliation ne sont admises, à défaut du consentement de la Corporation,
-qu'avec l'approbation du Conseil Fédéral et, sauf convention contraire, seulement pour la clôture d'un
+qu’avec l’approbation du Conseil Fédéral et, sauf convention contraire, seulement pour la clôture d’un
 exercice annuel.
 
 En cas de nouvelle désaffiliation, le § 625, alinéas 3 et 5, est applicable par analogie.
 
 ###### Article 628
 
-Une commune, une union de communes ou un autre organisme public est l'institution
-chargée de l'assurance en ce qui concerne les travaux de construction et les occupations relatives à des
+Une commune, une union de communes ou un autre organisme public est l’institution
+chargée de l’assurance en ce qui concerne les travaux de construction et les occupations relatives à des
 montures ou des véhicules non employés industriellement (§ 537, nos 6 et 7), lorsque ces organismes les
-exécutent à titre de chefs d'entreprises dans des exploitations autres que les chemins de fer, et que l'autorité
-administrative suprême les déclare, sur requête, capables d'en supporter les charges. Dans les autres cas, un
+exécutent à titre de chefs d’entreprises dans des exploitations autres que les chemins de fer, et que l’autorité
+administrative suprême les déclare, sur requête, capables d’en supporter les charges. Dans les autres cas, un
 organisme de ce genre est assuré pour les travaux et occupations ci-dessus, conformément au § 629.
 
-L'autorité administrative suprême a le droit de réunir en une seule association plusieurs communes,
-unions de communes ou autres organismes publics dans le but d'appliquer en commun l'assurance, et peut
-déclarer cette association capable d'assumer les charges de l'assurance.
+L’autorité administrative suprême a le droit de réunir en une seule association plusieurs communes,
+unions de communes ou autres organismes publics dans le but d’appliquer en commun l’assurance, et peut
+déclarer cette association capable d’assumer les charges de l’assurance.
 
 Une commune, une union de communes ou un autre
 organisme public peuvent, par déclaration de leur comité-
-directeur, s'affilier à la Corporation compétente (§ 627,
-alinéa 1). La déclaration d'affiliation détermine aussi l'époque à laquelle l'affiliation devient effective.
+directeur, s’affilier à la Corporation compétente (§ 627,
+alinéa 1). La déclaration d’affiliation détermine aussi l’époque à laquelle l’affiliation devient effective.
 
-Si un organisme de cette nature n'est pas déclaré capable de supporter les charges de l'assurance, sa
+Si un organisme de cette nature n’est pas déclaré capable de supporter les charges de l’assurance, sa
 désaffiliation de la Corporation ainsi que sa réaffiliation ne peuvent avoir lieu, sauf convention contraire,
-que pour la fin d'un exercice annuel. S'il est déclaré capable de supporter les charges de l'assurance, le
-**§ 627**, alinéa 2, est applicable en cas de désaffiliation de la Corporation et de réaffiliation ; est également
+que pour la fin d’un exercice annuel. S’il est déclaré capable de supporter les charges de l’assurance, le
+**§ 627**, alinéa 2, est applicable en cas de désaffiliation de la Corporation et de réaffiliation ; est également
 applicable, en cas de désaffiliation, le § 625, alinéas 3 à 5.
 
 ###### Article 629
 
-Les travaux de construction qui sont exécutés par d'autres entrepreneurs à titre non
+Les travaux de construction qui sont exécutés par d’autres entrepreneurs à titre non
 industriel, sont assurés, aux frais des entrepreneurs ou des communes ou des unions de communes, par des
 établissements particuliers (succursales) qui sont rattachés aux Corporations des entrepreneurs de travaux
 de construction (§§ 783 à 835). La succursale est placée sous la dépendance de la personnalité de la
 Corporation.
 
 Sont rattachées (§§ 836 à 842) de même manière aux Corporations de transport ou de navigation
-intérieure, des industries, des succursales établies en vue de l'assurance d'occupations relatives à des
+intérieure, des industries, des succursales établies en vue de l’assurance d’occupations relatives à des
 montures ou des véhicules non employés industriellement (§ 537, nos 6 et 7). Le Conseil Fédéral peut
-incorporer les succursales ou parties de celles-ci à d'autres Corporations professionnelles. Il peut aussi
-instituer, en place de succursales ou de subdivisions de celles-ci, d'autres Corporations d'assurance, comme
-institutions d'assurance indépendantes et régler, dans ce cas, leur organisation. S'il modifie en conséquence,
-la composition de succursales ou de Corporations d'assurance, il se prononce également sur le transfert des
-charges de l'assurance et de la fortune.
+incorporer les succursales ou parties de celles-ci à d’autres Corporations professionnelles. Il peut aussi
+instituer, en place de succursales ou de subdivisions de celles-ci, d’autres Corporations d’assurance, comme
+institutions d’assurance indépendantes et régler, dans ce cas, leur organisation. S’il modifie en conséquence,
+la composition de succursales ou de Corporations d’assurance, il se prononce également sur le transfert des
+charges de l’assurance et de la fortune.
 
 II. — COMPOSITION DES CORPORATIONS
 
 ###### Article 630
 
 Les Corporations sont constituées pour des
-régions déterminées ; elles comprennent, dans ces régions
-toutes les exploitations des branches d'industrie pour lesquelles elles sont établies. Il peut être dérogé
-à cette prescription en ce qui concerne l'institution de Corporations pour les chemins de fer ou pour les
+régions déterminées ; elles comprennent, dans ces régions
+toutes les exploitations des branches d’industrie pour lesquelles elles sont établies. Il peut être dérogé
+à cette prescription en ce qui concerne l’institution de Corporations pour les chemins de fer ou pour les
 industries visées au § 537, nos 6, 7.
 
-Le Conseil Fédéral peut autoriser que les chefs d'entreprises faisant partie d'associations minières ou
+Le Conseil Fédéral peut autoriser que les chefs d’entreprises faisant partie d’associations minières ou
 de caisses minières forment des Corporations minières.
 
 Sont maintenues dans leur composition les Corporations établies en vertu des précédentes lois
-d'assurance-accidents, sous réserve des modifications autorisées par les §§ 635 à 648.
+d’assurance-accidents, sous réserve des modifications autorisées par les §§ 635 à 648.
 
 ###### Article 631
 
-Lorsqu'une entreprise englobe des éléments essentiels, appartenant à des branches
-d'industrie différentes, elle doit être rattachée à la Corporation dont fait partie l'exploitation principale. La
+Lorsqu’une entreprise englobe des éléments essentiels, appartenant à des branches
+d’industrie différentes, elle doit être rattachée à la Corporation dont fait partie l’exploitation principale. La
 présente disposition est également applicable, sans préjudice des prescriptions du § 540, aux exploitations
-accessoires ainsi qu'à telles occupations soumises à l'assurance, qui sont des éléments essentiels d'une
+accessoires ainsi qu’à telles occupations soumises à l’assurance, qui sont des éléments essentiels d’une
 entreprise.
 
-Les entreprises de navigation intérieure et de flottage ou les occupations s'y rattachant ne rentrent
-dans l'assurance de l'exploitation principale que si leur rayon d'action ne dépasse pas celui de l'exploitation
+Les entreprises de navigation intérieure et de flottage ou les occupations s’y rattachant ne rentrent
+dans l’assurance de l’exploitation principale que si leur rayon d’action ne dépasse pas celui de l’exploitation
 locale.
 
-Les occupations qui, par leur nature, seraient soumises à l'assurance auprès d'une succursale ou une
-Corporation d'assurance, sont assurées auprès de la Corporation professionnelle à laquelle appartient
-l'entrepreneur pour des occupations de même nature, lorsque celles-ci sont plus importantes que les autres.
+Les occupations qui, par leur nature, seraient soumises à l’assurance auprès d’une succursale ou une
+Corporation d’assurance, sont assurées auprès de la Corporation professionnelle à laquelle appartient
+l’entrepreneur pour des occupations de même nature, lorsque celles-ci sont plus importantes que les autres.
 
 ###### Article 632
 
-La disposition du § 542 est applicable par analogie à plusieurs exploitations d'un même chef
-d'entreprise qui sont toutes assujetties à l'assurance contre les accidents industriels et qui ne se trouvent pas
-déjà sous l'application du § 631, alinéa 1. La présente disposition n'est pas applicable aux entreprises de
+La disposition du § 542 est applicable par analogie à plusieurs exploitations d’un même chef
+d’entreprise qui sont toutes assujetties à l’assurance contre les accidents industriels et qui ne se trouvent pas
+déjà sous l’application du § 631, alinéa 1. La présente disposition n’est pas applicable aux entreprises de
 navigation intérieure et de flottage.
 
 ###### Article 633
 
-Est considéré comme le chef d'entreprise, celui pour le compte duquel l'exploitation a lieu.
+Est considéré comme le chef d’entreprise, celui pour le compte duquel l’exploitation a lieu.
 
-Est en outre, chef d'entreprise :
+Est en outre, chef d’entreprise :
 
 1. pour les travaux de construction qui ne sont pas exécutés dans une entreprise industrielle de
-   construction, celui pour le compte duquel ils ont lieu ;
+   construction, celui pour le compte duquel ils ont lieu ;
 2. pour les occupations se rapportant aux montures ou aux véhicules non employés industriellement
    (§ 537, nos 6, 7), le détenteur des montures ou des véhicules.
 
 ###### Article 634
 
-Une Corporation est tenue d'indemniser les accidents survenus au cours d'occupations
-soumises à l'assurance dans une entreprise exécutée pour le compte d'un chef d'entreprise qui n'est pas
-membre de la Corporation, lorsque c'est un chef d'entreprise affilié à la Corporation qui a ordonné les
+Une Corporation est tenue d’indemniser les accidents survenus au cours d’occupations
+soumises à l’assurance dans une entreprise exécutée pour le compte d’un chef d’entreprise qui n’est pas
+membre de la Corporation, lorsque c’est un chef d’entreprise affilié à la Corporation qui a ordonné les
 travaux et est tenu de payer les salaires.
 
 Cette disposition est applicable par analogie aux succursales.
@@ -1041,7 +1041,7 @@ DES CORPORATIONS
 ###### Article 635
 
 Des modifications ne peuvent être apportées dans la composition des Corporations que pour
-le début d'un exercice annuel, conformément aux §§ 636 à 648.
+le début d’un exercice annuel, conformément aux §§ 636 à 648.
 
 ###### Article 636
 
@@ -1050,39 +1050,39 @@ corporatives. La décision doit être approuvée par le Conseil Fédéral.
 
 ###### Article 637
 
-Les assemblées corporatives intéressées peuvent décider que certaines branches d'industrie
-ou certaines régions délimitées passent d'une Corporation à une autre. La décision doit être approuvée par
+Les assemblées corporatives intéressées peuvent décider que certaines branches d’industrie
+ou certaines régions délimitées passent d’une Corporation à une autre. La décision doit être approuvée par
 le Conseil Fédéral.
 
-L'approbation peut être refusée lorsqu'il est à craindre qu'un tel transfert ne rende une des
+L’approbation peut être refusée lorsqu’il est à craindre qu’un tel transfert ne rende une des
 Corporations intéressées incapable de faire face à ses charges.
 
 ###### Article 638
 
-Si la réunion de plusieurs Corporations ou la séparation de certaines branches d'industrie ou
+Si la réunion de plusieurs Corporations ou la séparation de certaines branches d’industrie ou
 de certaines régions délimitées et la réunion de ces branches ou portions à une autre Corporation sont
-demandées par une assemblée corporative, mais qu'une autre Corporation intéressée s'y oppose, le Conseil
-Fédéral statue, s'il en est requis.
+demandées par une assemblée corporative, mais qu’une autre Corporation intéressée s’y oppose, le Conseil
+Fédéral statue, s’il en est requis.
 
 ###### Article 639
 
-Les requêtes tendant à ce que certaines branches d'industrie ou certaines portions de
-territoire soient constituées en Corporation particulière sont soumises d'abord aux délibérations de
-l'assemblée corporative et ensuite à la décision du Conseil Fédéral.
+Les requêtes tendant à ce que certaines branches d’industrie ou certaines portions de
+territoire soient constituées en Corporation particulière sont soumises d’abord aux délibérations de
+l’assemblée corporative et ensuite à la décision du Conseil Fédéral.
 
 ###### Article 640
 
-L'Office impérial des assurances prépare la décision du Conseil Fédéral, après avoir
+L’Office impérial des assurances prépare la décision du Conseil Fédéral, après avoir
 consulté le conseil du contentieux administratif.
 
 ###### Article 641
 
-Le Conseil Fédéral peut refuser son approbation à la constitution d'une Corporation
-nouvelle :
+Le Conseil Fédéral peut refuser son approbation à la constitution d’une Corporation
+nouvelle :
 
 1. si le nombre des entreprises ou des assurés était trop petit pour garantir que la Corporation puisse,
-   de façon permanente, faire face à ses charges ;
-2. en cas de refus par la Corporation d'admettre des entreprises qui, pour la raison indiquée au n° 1,
+   de façon permanente, faire face à ses charges ;
+2. en cas de refus par la Corporation d’admettre des entreprises qui, pour la raison indiquée au n° 1,
    ne seraient pas en état de former une Corporation capable de faire face à ses charges et qui ne peuvent être
    rattachées utilement à aucune autre Corporation.
 
@@ -1093,10 +1093,10 @@ Corporations réunies passent à la nouvelle Corporation, dès que le changement
 
 ###### Article 643
 
-Lorsque certaines branches d'industrie ou
-certaines régions délimitées se séparent d'une Corporation
+Lorsque certaines branches d’industrie ou
+certaines régions délimitées se séparent d’une Corporation
 pour en constituer une nouvelle ou pour se rattacher à une
-autre, la charge des indemnités incombant à la Corporation cédante par suite d'accidents survenus dans les
+autre, la charge des indemnités incombant à la Corporation cédante par suite d’accidents survenus dans les
 entreprises séparées,
 doit, à partir de la séparation, être supportée par la Corporation prenante. Cette disposition est
 également applicable lorsque des exploitations agricoles accessoires passent, en vertu des statuts, à une
@@ -1107,7 +1107,7 @@ Corporation industrielle (§ 540, n° 1).
 Les Corporations auxquelles passe, dans les conditions précitées, la charge des indemnités,
 ont droit à une part correspondante du fonds de réserve et du reste de la fortune de la Corporation cédante.
 
-Elles sont tenues de se charger d'une partie correspondante des intérêts et de l'amortissement de la dette
+Elles sont tenues de se charger d’une partie correspondante des intérêts et de l’amortissement de la dette
 flottante (§ 779).
 
 ###### Article 645
@@ -1118,26 +1118,26 @@ prescriptions des §§ 642 à 644.
 ###### Article 646
 
 En cas de contestations à propos du partage du patrimoine entre les Corporations
-intéressées, ces dernières peuvent les soumette d'un commun accord à une décision arbitrale ; autrement
-c'est l'Office impérial des assurances sociales (conseil du contentieux administratif) qui décide.
+intéressées, ces dernières peuvent les soumette d’un commun accord à une décision arbitrale ; autrement
+c’est l’Office impérial des assurances sociales (conseil du contentieux administratif) qui décide.
 
 ###### Article 647
 
 Si une Corporation devient incapable de remplir les obligations qui lui incombent en vertu
-de la loi, le Conseil Fédéral peut la dissoudre, à la requête de l'Office impérial des assurances (conseil du
+de la loi, le Conseil Fédéral peut la dissoudre, à la requête de l’Office impérial des assurances (conseil du
 contentieux administratif).
 
-Les branches d'industrie qui formaient la Corporation dissoute sont rattachées à d'autres Corporations.
+Les branches d’industrie qui formaient la Corporation dissoute sont rattachées à d’autres Corporations.
 
 Celles-ci doivent être préalablement entendues.
 
 La dissolution de la Corporation a pour effet de transférer les droits et obligations de celle-ci à
-l'Empire.
+l’Empire.
 
 ###### Article 648
 
-Lorsqu'une Corporation, soumise à la surveillance d'un Office d'assurance d'Etat (§ 723), est
-dissoute, parce qu'elle ne peut faire face à ses charges, ses droits et obligations sont transférés à l'Etat
+Lorsqu’une Corporation, soumise à la surveillance d’un Office d’assurance d’Etat (§ 723), est
+dissoute, parce qu’elle ne peut faire face à ses charges, ses droits et obligations sont transférés à l’Etat
 Confédéré.
 
 CHAPITRE IV
@@ -1146,203 +1146,203 @@ I. — AFFILIATION ET DROIT DE VOTE
 
 ###### Article 649
 
-Est membre de la Corporation tout chef d'une entreprise de la branche d'industrie pour
+Est membre de la Corporation tout chef d’une entreprise de la branche d’industrie pour
 laquelle la Corporation a été établie, si cette entreprise a son siège dans la circonscription de la
-Corporation. L'Empire, les Etats Confédérés, les communes, les unions de communes et autres organismes
-publics sont membres de la Corporation, pour autant que les §§ 624 à 628 n'en décident pas autrement.
+Corporation. L’Empire, les Etats Confédérés, les communes, les unions de communes et autres organismes
+publics sont membres de la Corporation, pour autant que les §§ 624 à 628 n’en décident pas autrement.
 
 ###### Article 650
 
-L'affiliation commence avec l'ouverture de l'exploitation ou à partir du moment où elle est
-assujettie à l'assurance ; pour l'Empire, les Etats Confédérés, les communes, les unions de communes et
-autres organismes publics, le point de départ de l'affiliation est réglé d'après les §§ 625 à 628.
+L’affiliation commence avec l’ouverture de l’exploitation ou à partir du moment où elle est
+assujettie à l’assurance ; pour l’Empire, les Etats Confédérés, les communes, les unions de communes et
+autres organismes publics, le point de départ de l’affiliation est réglé d’après les §§ 625 à 628.
 
 ###### Article 651
 
-Le chef d'entreprise est tenu de faire connaître par affiche apposée dans chacune de ses
-exploitations :
+Le chef d’entreprise est tenu de faire connaître par affiche apposée dans chacune de ses
+exploitations :
 
-1. la Corporation et la section auxquelles appartient l'entreprise ;
-2. le bureau du comité-directeur de la Corporation et de la section ;
+1. la Corporation et la section auxquelles appartient l’entreprise ;
+2. le bureau du comité-directeur de la Corporation et de la section ;
 
-Si une exploitation agricole est assujettie à l'assurance industrielle contre les accidents, conformément
-aux §§ 540 (n° 1) et 542, l'affiche en fait mention.
+Si une exploitation agricole est assujettie à l’assurance industrielle contre les accidents, conformément
+aux §§ 540 (n° 1) et 542, l’affiche en fait mention.
 
 ###### Article 652
 
 Les membres ou leurs représentants légaux qui ne se trouvent pas en possession de leurs
-droits civiques n'ont pas le droit de vote.
+droits civiques n’ont pas le droit de vote.
 
 II. — DECLARATION DES ENTREPRISES
 
 ###### Article 653
 
-Tout chef d'entreprise devenu membre d'une Corporation en raison de cette entreprise, est
+Tout chef d’entreprise devenu membre d’une Corporation en raison de cette entreprise, est
 tenu, dans
-le délai d'une semaine à partir du moment où il en est
-devenu membre, de produire à l'Office d'assurance dans la circonscription duquel l'entreprise a son siège,
-une déclaration indiquant :
+le délai d’une semaine à partir du moment où il en est
+devenu membre, de produire à l’Office d’assurance dans la circonscription duquel l’entreprise a son siège,
+une déclaration indiquant :
 
-1. l'objet et la nature de l'exploitation ;
-2. le nombre des personnes assurées ;
-3. la Corporation à laquelle l'entreprise est affiliée ;
-4. s'il s'agit d'une exploitation commencée ou assujettie à l'assurance après l'entrée en vigueur de la
-   présente loi le jour de l'ouverture de l'exploitation ou le moment où commence l'obligation de l'assurance.
+1. l’objet et la nature de l’exploitation ;
+2. le nombre des personnes assurées ;
+3. la Corporation à laquelle l’entreprise est affiliée ;
+4. s’il s’agit d’une exploitation commencée ou assujettie à l’assurance après l’entrée en vigueur de la
+   présente loi le jour de l’ouverture de l’exploitation ou le moment où commence l’obligation de l’assurance.
 
-A la déclaration doit être joint un double ; il en est donné récépissé.
+A la déclaration doit être joint un double ; il en est donné récépissé.
 
-Si l'exploitation a déjà été déclarée et qu'il ne se produise qu'un changement dans la personne du chef
-d'entreprise, il n'y a pas lieu de répéter la déclaration visée à l'alinéa 1.
+Si l’exploitation a déjà été déclarée et qu’il ne se produise qu’un changement dans la personne du chef
+d’entreprise, il n’y a pas lieu de répéter la déclaration visée à l’alinéa 1.
 
 ###### Article 654
 
-L'Office d'assurance attribue, dans le délai d'une semaine après réception de la déclaration,
-au comité-directeur de la Corporation mentionnée dans ce document, par l'envoi d'un double de celui-ci,
+L’Office d’assurance attribue, dans le délai d’une semaine après réception de la déclaration,
+au comité-directeur de la Corporation mentionnée dans ce document, par l’envoi d’un double de celui-ci,
 toute entreprise située dans la circonscription, au sujet de laquelle la déclaration a été faite.
 
 ###### Article 655
 
-Si, de l'avis de l'Office d'assurance, l'entreprise appartient à une autre Corporation que celle
-dont la déclaration fait mention, il en informe le comité-directeur de cette dernière et le chef d'entreprise et
+Si, de l’avis de l’Office d’assurance, l’entreprise appartient à une autre Corporation que celle
+dont la déclaration fait mention, il en informe le comité-directeur de cette dernière et le chef d’entreprise et
 envoie la déclaration au comité-directeur de la Corporation compétente.
 
 ###### Article 656
 
-Si la déclaration est omise ou incomplète, l'Office d'assurance peut contraindre le chef
-d'entreprise à fournir les renseignements nécessaires dans un délai déterminé, en lui infligeant des amendes
-qui n'excéderont pas {{< m "100" "marks" >}}
-L'Office supérieur des assurances sociales statue définitivement sur les recours contre la fixation de
-l'amende.
+Si la déclaration est omise ou incomplète, l’Office d’assurance peut contraindre le chef
+d’entreprise à fournir les renseignements nécessaires dans un délai déterminé, en lui infligeant des amendes
+qui n’excéderont pas {{< m "100" "marks" >}}
+L’Office supérieur des assurances sociales statue définitivement sur les recours contre la fixation de
+l’amende.
 
-L'Office d'assurance attribue l'entreprise à la Corporation, dans la semaine qui suit l'expiration du
+L’Office d’assurance attribue l’entreprise à la Corporation, dans la semaine qui suit l’expiration du
 délai déterminé, en fournissant lui-même les données (§ 653, alinéa 1).
 
 III. — LISTE DES ENTREPRISES
 
 ###### Article 657
 
-Les comités-directeurs des Corporations sont tenus d'établir des listes d'entreprises sur la
-base des états fournis par l'Office impérial des assurances sociales et des attributions qui ont lieu
+Les comités-directeurs des Corporations sont tenus d’établir des listes d’entreprises sur la
+base des états fournis par l’Office impérial des assurances sociales et des attributions qui ont lieu
 ultérieurement (§§ 654, 656).
 
 ###### Article 658
 
 Les membres sont portés sur la liste des entreprises après vérification des conditions
-établissant qu'ils sont assurés.
+établissant qu’ils sont assurés.
 
 ###### Article 659
 
 Les membres immatriculés reçoivent du comité-directeur de la Corporation une carte
-d'affiliation. Si la Corporation est divisée en sections, la carte mentionne la section à laquelle appartient
-l'intéressé.
+d’affiliation. Si la Corporation est divisée en sections, la carte mentionne la section à laquelle appartient
+l’intéressé.
 
-Si l'immatriculation est refusée, la décision intervenue est notifiée au chef d'entreprise, avec les
-motifs, par l'intermédiaire de l'Office d'assurance.
+Si l’immatriculation est refusée, la décision intervenue est notifiée au chef d’entreprise, avec les
+motifs, par l’intermédiaire de l’Office d’assurance.
 
 ###### Article 660
 
-Un recours, tant contre l'immatriculation que contre le refus d'immatriculation, est ouvert au
-chef d'entreprise auprès de l'Office supérieur des assurances sociales dans un délai d'un mois après la
-réception de la carte d'affiliation ou de la notification portant refus. Ce recours est à introduire auprès de
-l'Office d'assurance. S'il résulte du débat sur le recours que l'entreprise bien qu'assujettie à l'assurance-
-accidents n'appartient à aucune des Corporations existantes, le cas est soumis à l'Office impérial des
-assurances sociales. Ce dernier attribue l'entreprise à la Corporation dont elle se rapproche le plus par sa
+Un recours, tant contre l’immatriculation que contre le refus d’immatriculation, est ouvert au
+chef d’entreprise auprès de l’Office supérieur des assurances sociales dans un délai d’un mois après la
+réception de la carte d’affiliation ou de la notification portant refus. Ce recours est à introduire auprès de
+l’Office d’assurance. S’il résulte du débat sur le recours que l’entreprise bien qu’assujettie à l’assurance-
+accidents n’appartient à aucune des Corporations existantes, le cas est soumis à l’Office impérial des
+assurances sociales. Ce dernier attribue l’entreprise à la Corporation dont elle se rapproche le plus par sa
 nature.
 
 ###### Article 661
 
-Si le chef d'entreprise n'attaque pas, dans le délai indiqué, un refus d'immatriculation,
-l'Office d'assurance peut soumettre le cas à l'Office impérial des assurances sociales ; il doit le faire, s'il en
+Si le chef d’entreprise n’attaque pas, dans le délai indiqué, un refus d’immatriculation,
+l’Office d’assurance peut soumettre le cas à l’Office impérial des assurances sociales ; il doit le faire, s’il en
 est requis par la Corporation.
 
 ###### Article 662
 
-Si, dans le cas du § 655, la qualité d'affilié est reconnue au chef d'entreprise par le comité-
-directeur de la Corporation désignée dans la déclaration, ce dernier est tenu d'en aviser le comité-directeur
-de l'autre Corporation. Celui-ci a le droit d'attaquer la décision intervenue, dans le mois qui suit la réception
-de l'avis.
+Si, dans le cas du § 655, la qualité d’affilié est reconnue au chef d’entreprise par le comité-
+directeur de la Corporation désignée dans la déclaration, ce dernier est tenu d’en aviser le comité-directeur
+de l’autre Corporation. Celui-ci a le droit d’attaquer la décision intervenue, dans le mois qui suit la réception
+de l’avis.
 
 ###### Article 663
 
-Des extraits de la liste d'entreprises doivent être communiqués aux comités-directeurs des
+Des extraits de la liste d’entreprises doivent être communiqués aux comités-directeurs des
 sections, en ce qui concerne les exploitants appartenant à ces sections.
 
-IV. — CHANGEMENT DU CHEF D'ENTREPRISE. MODIFICATIONS APPORTEES A
-L'ENTREPRISE ET A SON AFFILIATION A LA CORPORATION
+IV. — CHANGEMENT DU CHEF D’ENTREPRISE. MODIFICATIONS APPORTEES A
+L’ENTREPRISE ET A SON AFFILIATION A LA CORPORATION
 
 ###### Article 664
 
-Tout chef d'entreprise est tenu de notifier au comité directeur de la Corporation, dans un
+Tout chef d’entreprise est tenu de notifier au comité directeur de la Corporation, dans un
 délai déterminé par les statuts, les changements survenus dans la personne pour le compte de laquelle
-l'exploitation a lieu, afin de les faire figurer dans la liste d'entreprises. Le chef d'entreprise reste responsable
-du paiement des cotisations dues jusqu'à la clôture de l'exercice au cours duquel il est remplacé, sans que
-par là le nouveau chef d'entreprise soit déchargé de la responsabilité qui lui incombe.
+l’exploitation a lieu, afin de les faire figurer dans la liste d’entreprises. Le chef d’entreprise reste responsable
+du paiement des cotisations dues jusqu’à la clôture de l’exercice au cours duquel il est remplacé, sans que
+par là le nouveau chef d’entreprise soit déchargé de la responsabilité qui lui incombe.
 
 ###### Article 665
 
-Tout chef d'entreprise est tenu de notifier au comité directeur de la Corporation, dans un
+Tout chef d’entreprise est tenu de notifier au comité directeur de la Corporation, dans un
 délai à déterminer par les statuts, les modifications apportées à son exploitation qui sont de nature à influer
-sur l'affiliation à une Corporation.
+sur l’affiliation à une Corporation.
 
 ###### Article 666
 
-Si le comité directeur estime, soit à la demande du chef d'entreprise, soit d'office, qu'il y a
-lieu d'attribuer l'entreprise à une autre Corporation, il effectue ce transfert et en donne avis, avec motifs à
-l'appui, au chef d'entreprise, par l'intermédiaire de l'Office d'assurance, et à la Corporation intéressée.
+Si le comité directeur estime, soit à la demande du chef d’entreprise, soit d’office, qu’il y a
+lieu d’attribuer l’entreprise à une autre Corporation, il effectue ce transfert et en donne avis, avec motifs à
+l’appui, au chef d’entreprise, par l’intermédiaire de l’Office d’assurance, et à la Corporation intéressée.
 
 ###### Article 667
 
-Le chef d'entreprise et le comité directeur de cette autre Corporation peuvent faire
-opposition au transfert, auprès du comité-directeur qui l'a effectué ; celui-ci doit soumettre l'opposition à
-l'Office supérieur.
+Le chef d’entreprise et le comité directeur de cette autre Corporation peuvent faire
+opposition au transfert, auprès du comité-directeur qui l’a effectué ; celui-ci doit soumettre l’opposition à
+l’Office supérieur.
 
-A défaut d'opposition dans le délai légal, le transfert est effectué sur les listes et une nouvelle carte
-d'affiliation est délivrée au chef d'entreprise.
+A défaut d’opposition dans le délai légal, le transfert est effectué sur les listes et une nouvelle carte
+d’affiliation est délivrée au chef d’entreprise.
 
 ###### Article 668
 
-Si une Corporation réclame le transfert d'une entreprise et qu'il y ait opposition de la part du
-chef d'entreprise ou de la Corporation à laquelle l'entreprise a appartenu jusqu'alors, le comité directeur de
-cette dernière Corporation est tenu de soumettre le cas à la décision de l'Office supérieur.
+Si une Corporation réclame le transfert d’une entreprise et qu’il y ait opposition de la part du
+chef d’entreprise ou de la Corporation à laquelle l’entreprise a appartenu jusqu’alors, le comité directeur de
+cette dernière Corporation est tenu de soumettre le cas à la décision de l’Office supérieur.
 
 ###### Article 669
 
-Si un chef d'entreprise réclame le transfert de son exploitation, et que les deux Corporations
-intéressées s'y opposent, il peut soumettre le cas à la décision de l'Office supérieur.
+Si un chef d’entreprise réclame le transfert de son exploitation, et que les deux Corporations
+intéressées s’y opposent, il peut soumettre le cas à la décision de l’Office supérieur.
 
 ###### Article 670
 
-Les dispositions des §§ 666, 667 relatives au transfert d'une entreprise, sont aussi
+Les dispositions des §§ 666, 667 relatives au transfert d’une entreprise, sont aussi
 applicables par analogie en cas de radiation.
 
 ###### Article 671
 
 Si la demande de transfert ou de radiation est accueillie, le changement apporté à
-l'affiliation de la Corporation entre en vigueur à partir du jour où la demande est notifiée à l'un des comités-
-directeurs intéressés en premier lieu. Si le transfert ou la désaffiliation sont opérés d'office, la mesure
-produit ses effets à partir du jour où elle est notifiée au chef d'entreprise.
+l’affiliation de la Corporation entre en vigueur à partir du jour où la demande est notifiée à l’un des comités-
+directeurs intéressés en premier lieu. Si le transfert ou la désaffiliation sont opérés d’office, la mesure
+produit ses effets à partir du jour où elle est notifiée au chef d’entreprise.
 
 Un autre jour peut être fixé, de commun accord, par les comités-directeurs intéressés et le chef
-d'entreprise.
+d’entreprise.
 
 ###### Article 672
 
-Si le transfert ou la radiation sont retardés considérablement du fait qu'on n'a pas tenu
-compte des prescriptions légales ou statutaires, l'Office supérieur peut,
-s'il en est requis, décider que le changement d'affiliation
+Si le transfert ou la radiation sont retardés considérablement du fait qu’on n’a pas tenu
+compte des prescriptions légales ou statutaires, l’Office supérieur peut,
+s’il en est requis, décider que le changement d’affiliation
 produira ses effets à une date antérieure à celle indiquée au
 
-**§ 671**, alinéa 1, mais jamais avant le commencement de l'exercice pour lequel le droit aux cotisations
-n'est pas encore prescrit.
+**§ 671**, alinéa 1, mais jamais avant le commencement de l’exercice pour lequel le droit aux cotisations
+n’est pas encore prescrit.
 
 ###### Article 673
 
-Les dispositions du § 643 s'appliquent, en ce qui concerne le transfert de la charge des
-indemnités, au cas où certaines entreprises ou entreprises accessoires passent d'une Corporation à une autre.
+Les dispositions du § 643 s’appliquent, en ce qui concerne le transfert de la charge des
+indemnités, au cas où certaines entreprises ou entreprises accessoires passent d’une Corporation à une autre.
 
 La Corporation prenante a droit à une part correspondante du fonds de réserve de la Corporation
-cédante. Cette part doit être calculée d'après une moyenne que l'Office impérial des assurances sociales
-arrête uniformément tous les cinq ans, en se basant sur le montant des réserves de l'ensemble des
+cédante. Cette part doit être calculée d’après une moyenne que l’Office impérial des assurances sociales
+arrête uniformément tous les cinq ans, en se basant sur le montant des réserves de l’ensemble des
 Corporations, séparément pour les Corporations industrielles et les Corporations agricoles.
 
 Les §§ 645, 646 sont applicables dans ce cas.
@@ -1353,81 +1353,81 @@ Les statuts doivent contenir des dispositions relatives à la déclaration des c
 les entreprises qui sont de nature à influer sur la classification au tarif des risques (§ 711) et régler la
 procédure ultérieure.
 
-S'il appartient à la délégation ou au comité directeur de la Corporation d'établir et de modifier le tarif
-des risques (§ 707), l'assemblée corporative peut aussi lui prescrire de prendre des dispositions relatives à la
-déclaration des changements d'entreprises susvisées.
+S’il appartient à la délégation ou au comité directeur de la Corporation d’établir et de modifier le tarif
+des risques (§ 707), l’assemblée corporative peut aussi lui prescrire de prendre des dispositions relatives à la
+déclaration des changements d’entreprises susvisées.
 
-Le chef d'entreprise a droit de recours contre la décision prise par la Corporation, soit à la suite de la
-déclaration du changement, soit d'office.
+Le chef d’entreprise a droit de recours contre la décision prise par la Corporation, soit à la suite de la
+déclaration du changement, soit d’office.
 
 V. — STATUTS
 
 ###### Article 675
 
 Les Corporations règlent leur administration intérieure ainsi que la gestion de leurs affaires
-par des statuts arrêtés par l'assemblée corporative.
+par des statuts arrêtés par l’assemblée corporative.
 
 ###### Article 676
 
-Le comité directeur provisoire élu par l'assemblée constitutive est chargé de diriger les
-opérations de cette assemblée et de gérer les affaires de la Corporation jusqu'à ce que le service soit assumé
+Le comité directeur provisoire élu par l’assemblée constitutive est chargé de diriger les
+opérations de cette assemblée et de gérer les affaires de la Corporation jusqu’à ce que le service soit assumé
 par le comité-directeur élu en vertu de statuts valables.
 
-Le comité directeur provisoire se compose d'un président, d'un secrétaire et de trois assesseurs au
+Le comité directeur provisoire se compose d’un président, d’un secrétaire et de trois assesseurs au
 moins.
 
 ###### Article 677
 
-Les statuts doivent contenir des dispositions relatives :
+Les statuts doivent contenir des dispositions relatives :
 
-1. à la dénomination, au siège et à la circonscription de la Corporation ;
-2. à la composition, aux droits et aux obligations du comité-directeur ;
+1. à la dénomination, au siège et à la circonscription de la Corporation ;
+2. à la composition, aux droits et aux obligations du comité-directeur ;
 3. à la forme que le comité directeur doit donner à ses déclarations et à la forme dans laquelle il doit
-   signer pour la Corporation ; au mode des résolutions du comité directeur et à la forme de sa représentation
-   vis-à-vis des tiers ;
-4. à la convocation de l'assemblée corporative et au mode suivant lequel elle prend ses résolutions ;
-5. au droit de vote des membres et à la vérification de leurs pouvoirs ;
-6. au montant de l'indemnité pour perte de salaires et pour frais de voyage, qui doit être allouée aux
-   représentants des assurés (§ 21) ;
-7. à la représentation de la Corporation vis-à-vis du comité directeur ;
+   signer pour la Corporation ; au mode des résolutions du comité directeur et à la forme de sa représentation
+   vis-à-vis des tiers ;
+4. à la convocation de l’assemblée corporative et au mode suivant lequel elle prend ses résolutions ;
+5. au droit de vote des membres et à la vérification de leurs pouvoirs ;
+6. au montant de l’indemnité pour perte de salaires et pour frais de voyage, qui doit être allouée aux
+   représentants des assurés (§ 21) ;
+7. à la représentation de la Corporation vis-à-vis du comité directeur ;
 8. à la procédure à suivre par les organes de la Corporation pour la classification des entreprises dans
-   le tarif de risques ;
+   le tarif de risques ;
 9. à la procédure à suivre en cas de changements survenus dans les exploitations et dans la personne
-   des chefs d'entreprises ;
-10. aux conséquences des arrêts d'exploitation ou d'un changement d'un chef d'entreprise, en
-    particulier au mode de garantie des cotisations dues par les chefs d'entreprises qui cessent leur exploitation
+   des chefs d’entreprises ;
+10. aux conséquences des arrêts d’exploitation ou d’un changement d’un chef d’entreprise, en
+    particulier au mode de garantie des cotisations dues par les chefs d’entreprises qui cessent leur exploitation
     ;
-11. à l'établissement, à l'examen et à l'approbation du compte annuel ;
+11. à l’établissement, à l’examen et à l’approbation du compte annuel ;
 
-12. à l'exercice du droit d'arrêter des prescriptions en vue de la prévention des accidents, et du
-    contrôle des exploitations ;
-13. à la procédure à suivre pour la déclaration d'affiliation et de désaffiliation des chefs d'entreprises
-    assurés, des pilotes et autres assurés visés au § 548, n° 3 et § 552, ainsi qu'au montant et à la détermination
-    du gain annuel des chefs d'entreprises et pilotes ;
-14. au mode des publications ;
+12. à l’exercice du droit d’arrêter des prescriptions en vue de la prévention des accidents, et du
+    contrôle des exploitations ;
+13. à la procédure à suivre pour la déclaration d’affiliation et de désaffiliation des chefs d’entreprises
+    assurés, des pilotes et autres assurés visés au § 548, n° 3 et § 552, ainsi qu’au montant et à la détermination
+    du gain annuel des chefs d’entreprises et pilotes ;
+14. au mode des publications ;
 15. à la modification des statuts.
 
 ###### Article 678
 
-Les statuts peuvent prescrire que :
+Les statuts peuvent prescrire que :
 
-1. l'assemblée corporative se compose de délégués ;
-2. la Corporation soit divisée en sections locales ;
-3. des hommes de confiance soient nommés à titre d'organes locaux de la Corporation.
+1. l’assemblée corporative se compose de délégués ;
+2. la Corporation soit divisée en sections locales ;
+3. des hommes de confiance soient nommés à titre d’organes locaux de la Corporation.
 
 ###### Article 679
 
-Dans ces trois cas, les statuts prendront en même temps des dispositions relatives :
+Dans ces trois cas, les statuts prendront en même temps des dispositions relatives :
 
-- à l'élection des délégués ;
-- au siège et au ressort des sections ;
-- à la composition et à la convocation des assemblées de sections, ainsi qu'au mode suivant lequel elles
-  prennent des décisions ;
-- à la composition, aux droits et aux obligations des comités-directeurs de sections ;
-- à l'élection des hommes de confiance et de leurs suppléants, à leurs ressorts, à leurs droits et à leurs obligations.
+- à l’élection des délégués ;
+- au siège et au ressort des sections ;
+- à la composition et à la convocation des assemblées de sections, ainsi qu’au mode suivant lequel elles
+  prennent des décisions ;
+- à la composition, aux droits et aux obligations des comités-directeurs de sections ;
+- à l’élection des hommes de confiance et de leurs suppléants, à leurs ressorts, à leurs droits et à leurs obligations.
 
-La délimitation des ressorts et l'élection des hommes de confiance et de leurs suppléants peuvent être
-confiées par l'assemblée corporative au comité-directeur de la Corporation ou de la section ; l'élection des
+La délimitation des ressorts et l’élection des hommes de confiance et de leurs suppléants peuvent être
+confiées par l’assemblée corporative au comité-directeur de la Corporation ou de la section ; l’élection des
 comités-directeurs de sections peut être confiée aux assemblées de sections.
 
 ###### Article 680
@@ -1435,96 +1435,96 @@ comités-directeurs de sections peut être confiée aux assemblées de sections.
 Les statuts peuvent autoriser le comité-
 directeur de la Corporation à infliger des amendes pouvant atteindre {{< m "25" "marks" >}} aux entrepreneurs et à ceux
 qui
-leur sont assimilés par le §912, lorsqu'ils ne remplissent pas les
+leur sont assimilés par le §912, lorsqu’ils ne remplissent pas les
 obligations qui leur incombent en vertu de dispositions statutaires.
 
 ###### Article 681
 
-Les statuts de la Corporation sont approuvés par l'Office impérial des assurances sociales. Si
-l'approbation doit être refusée, c'est le conseil du contentieux administratif qui statue ; les motifs du refus
-doivent être communiqués. En cas de refus d'approbation, le Conseil Fédéral statue sur recours.
+Les statuts de la Corporation sont approuvés par l’Office impérial des assurances sociales. Si
+l’approbation doit être refusée, c’est le conseil du contentieux administratif qui statue ; les motifs du refus
+doivent être communiqués. En cas de refus d’approbation, le Conseil Fédéral statue sur recours.
 
 ###### Article 682
 
-Si l'approbation est définitivement refusée, l'assemblée corporative est tenue de rédiger de
-nouveaux statuts dans le délai fixé par l'Office impérial des assurances sociales. Si elle n'arrive pas à une
-décision ou si l'approbation est également refusée, en dernier ressort, aux nouveaux statuts, l'Office
-impérial arrête lui-même les statuts et ordonne, aux frais de la Corporation, les mesures d'exécution
+Si l’approbation est définitivement refusée, l’assemblée corporative est tenue de rédiger de
+nouveaux statuts dans le délai fixé par l’Office impérial des assurances sociales. Si elle n’arrive pas à une
+décision ou si l’approbation est également refusée, en dernier ressort, aux nouveaux statuts, l’Office
+impérial arrête lui-même les statuts et ordonne, aux frais de la Corporation, les mesures d’exécution
 nécessaires.
 
 ###### Article 683
 
-Les statuts ne peuvent être modifiés qu'avec l'approbation de l'Office impérial. Le conseil
-du contentieux administratif statue sur le refus d'approbation ; les motifs du refus doivent être
-communiqués. En cas de refus d'approbation, le Conseil Fédéral statue sur recours.
+Les statuts ne peuvent être modifiés qu’avec l’approbation de l’Office impérial. Le conseil
+du contentieux administratif statue sur le refus d’approbation ; les motifs du refus doivent être
+communiqués. En cas de refus d’approbation, le Conseil Fédéral statue sur recours.
 
 ###### Article 684
 
-En cas d'approbation des statuts, le nom et le siège de la Corporation ainsi que les ressorts
-des sections doivent être publiés par le comité directeur de la Corporation, dans le Moniteur de l'Empire.
+En cas d’approbation des statuts, le nom et le siège de la Corporation ainsi que les ressorts
+des sections doivent être publiés par le comité directeur de la Corporation, dans le Moniteur de l’Empire.
 
-Cette disposition s'applique également aux modifications des statuts.
+Cette disposition s’applique également aux modifications des statuts.
 
 VI. — ORGANES DE LA CORPORATION
 
 ###### Article 685
 
-Le comité-directeur est chargé de l'administration de la Corporation, sauf dispositions
+Le comité-directeur est chargé de l’administration de la Corporation, sauf dispositions
 contraires de la loi ou des statuts.
 
 ###### Article 686
 
-Sont réservés à l'assemblée corporative :
+Sont réservés à l’assemblée corporative :
 
-1. l'élection des membres du comité-directeur ;
-2. la modification des statuts ;
-3. l'examen et l'approbation du compte annuel, à moins que ces attributions n'aient été déléguées par
-   l'assemblée corporative à une commission spéciale ;
-4. à la fixation de l'indemnité forfaitaire pour perte de temps et des indemnités pour frais de voyage,
+1. l’élection des membres du comité-directeur ;
+2. la modification des statuts ;
+3. l’examen et l’approbation du compte annuel, à moins que ces attributions n’aient été déléguées par
+   l’assemblée corporative à une commission spéciale ;
+4. à la fixation de l’indemnité forfaitaire pour perte de temps et des indemnités pour frais de voyage,
    dues aux membres des organes de la Corporation.
 
 ###### Article 687
 
-Sont éligibles à titre de membres du comité-directeur, d'hommes de confiance de la
-Corporation ou de délégués à l'assemblée corporative (§ 678, n° 1), les membres de la Corporation et ceux
+Sont éligibles à titre de membres du comité-directeur, d’hommes de confiance de la
+Corporation ou de délégués à l’assemblée corporative (§ 678, n° 1), les membres de la Corporation et ceux
 qui leur sont assimilés (§ 13, alinéa 2), sous réserve des dispositions des §§ 13 et 14.
 
-Sont également éligibles comme membres du comité-directeur les membres d'une Corporation de
-métier ou du conseil d'administration d'une société par actions, d'une société en commandite par actions ou
-d'une société à responsabilité limitée, faisant partie de la Corporation, lorsque, pendant cinq ans au moins,
-ils ont dirigé, en qualité de chefs d'entreprises ou de gérants fondés de pouvoir, une entreprise appartenant à
+Sont également éligibles comme membres du comité-directeur les membres d’une Corporation de
+métier ou du conseil d’administration d’une société par actions, d’une société en commandite par actions ou
+d’une société à responsabilité limitée, faisant partie de la Corporation, lorsque, pendant cinq ans au moins,
+ils ont dirigé, en qualité de chefs d’entreprises ou de gérants fondés de pouvoir, une entreprise appartenant à
 la Corporation.
 
-Lorsqu'une Corporation comprend des branches d'industries ou des catégories d'exploitations de
+Lorsqu’une Corporation comprend des branches d’industries ou des catégories d’exploitations de
 différente nature (grande, moyenne, petite industrie), elles doivent être représentées dans le comité
 directeur le plus équitablement possible. Les statuts contiennent sur ce point des dispositions de détail.
 
-Les statuts d'une Corporation peuvent prescrire que des délégués des assurés feront partie du comité
+Les statuts d’une Corporation peuvent prescrire que des délégués des assurés feront partie du comité
 directeur de la Corporation ou, si la Corporation est divisée en sections, des comités-directeurs de sections,
 avec droit de vote. La Corporation minière peut porter dans ses statuts que des anciens des caisses minières
 devront exercer les fonctions de délégués des assurés. Ils seront élus par les représentants des assurés élus
-conformément au § 858 ; le § 859 s'applique à leur éligibilité.
+conformément au § 858 ; le § 859 s’applique à leur éligibilité.
 
 ###### Article 688
 
-Les membres des Corporations peuvent se faire représenter à l'assemblée corporative par
-d'autres membres ayant droit de vote ou par un directeur fondé de pouvoir de leur exploitation.
+Les membres des Corporations peuvent se faire représenter à l’assemblée corporative par
+d’autres membres ayant droit de vote ou par un directeur fondé de pouvoir de leur exploitation.
 
 ###### Article 689
 
-Aussi longtemps et en tant qu'une élection des organes légaux d'une Corporation n'aboutit
-pas ou si des membres légalement élus refusent d'accomplir leurs fonctions, l'Office impérial des
+Aussi longtemps et en tant qu’une élection des organes légaux d’une Corporation n’aboutit
+pas ou si des membres légalement élus refusent d’accomplir leurs fonctions, l’Office impérial des
 assurances sociales les remplit lui-même ou les fait remplir par des délégués, aux frais de la Corporation.
 
 VII. — AGENTS
 
 ###### Article 690
 
-L'assemblée corporative est tenue d'arrêter un règlement de service établissant de façon
-équitable les conditions d'engagement et la situation juridique des agents de la Corporation.
+L’assemblée corporative est tenue d’arrêter un règlement de service établissant de façon
+équitable les conditions d’engagement et la situation juridique des agents de la Corporation.
 
-A moins qu'il ne contienne de dispositions contraires, le règlement de service ne s'applique pas aux
-agents à l'essai, aux agents temporaires, aux agents en apprentissage ni aux agents qui sont occupés
+A moins qu’il ne contienne de dispositions contraires, le règlement de service ne s’applique pas aux
+agents à l’essai, aux agents temporaires, aux agents en apprentissage ni aux agents qui sont occupés
 accessoirement sans rémunération.
 
 ###### Article 691
@@ -1533,19 +1533,19 @@ Les principes des §§ 692 à 699 forment la base du règlement de service.
 
 ###### Article 692
 
-L'engagement se fait par contrat écrit.
+L’engagement se fait par contrat écrit.
 
 ###### Article 693
 
 Le droit de la Corporation de congédier ses agents ne peut les mettre dans une situation plus
 mauvaise que celle qui leur serait faite, à défaut de convention, par le droit civil.
 
-Un agent à titre révocable peut être congédié sans préavis, lorsqu'il existe une raison grave. En ce qui
+Un agent à titre révocable peut être congédié sans préavis, lorsqu’il existe une raison grave. En ce qui
 concerne les agents à titre révocable, qui ont plus de dix ans de service dans la Corporation, le renvoi avec
 préavis peut aussi être prononcé pour des raisons graves seulement. Dans ce dernier cas, sera aussi
-considéré comme raison grave le fait qu'un emploi est devenu superflu à la suite d'un changement dans la
-constitution ou dans l'administration de la Corporation ; les membres les plus nouveaux de la classe
-d'agents visée par ce changement doivent être congédiés en premier lieu.
+considéré comme raison grave le fait qu’un emploi est devenu superflu à la suite d’un changement dans la
+constitution ou dans l’administration de la Corporation ; les membres les plus nouveaux de la classe
+d’agents visée par ce changement doivent être congédiés en premier lieu.
 
 ###### Article 694
 
@@ -1556,18 +1556,18 @@ emplois.
 ###### Article 695
 
 Le règlement de service doit fixer les traitements minima à payer aux différentes classes
-d'agents, non compris celles qui sont mentionnées au § 690, alinéa 2, ainsi que les conditions des
-augmentations de traitement. Il détermine en même temps jusqu'à quel point le droit à la continuation du
-traitement existe, dans le cas où l'agent est empêché, sans qu'il y ait faute de sa part, de continuer son
+d’agents, non compris celles qui sont mentionnées au § 690, alinéa 2, ainsi que les conditions des
+augmentations de traitement. Il détermine en même temps jusqu’à quel point le droit à la continuation du
+traitement existe, dans le cas où l’agent est empêché, sans qu’il y ait faute de sa part, de continuer son
 service.
 
 ###### Article 696
 
 En ce qui concerne les agents qui abusent de leur situation ou de leurs fonctions dans un but
-religieux ou politique, le comité-directeur, après leur avoir donné l'occasion de se défendre, est tenu de leur
+religieux ou politique, le comité-directeur, après leur avoir donné l’occasion de se défendre, est tenu de leur
 adresser un premier avertissement et en cas de récidive de les congédier. Cette dernière mesure ne peut être
-prise qu'avec l'approbation de l'Office impérial des assurances sociales. Tout acte religieux ou politique
-étranger à la fonction, et l'exercice du droit de se syndiquer, pour autant qu'ils ne sont pas une infraction à
+prise qu’avec l’approbation de l’Office impérial des assurances sociales. Tout acte religieux ou politique
+étranger à la fonction, et l’exercice du droit de se syndiquer, pour autant qu’ils ne sont pas une infraction à
 la loi, ne peut être empêché, et ne constitue pas en soi un motif de renvoi ou de congédiement.
 
 ###### Article 697
@@ -1577,54 +1577,54 @@ en même temps régler les conditions dans lesquelles ce droit est conféré.
 
 ###### Article 698
 
-Le droit d'engager du personnel ne peut être conféré aux directeurs-gérants que pour les
+Le droit d’engager du personnel ne peut être conféré aux directeurs-gérants que pour les
 personnes désignées au § 690, alinéa 2. Dans ce cas, le président du comité directeur est tenu, dans un délai
-à fixer par le règlement et qui doit être de six mois au maximum, de statuer sur la continuation de l'emploi
-des dites personnes, conformément au § 690, alinéa 2. C'est lui qui prononce également le renvoi sur
+à fixer par le règlement et qui doit être de six mois au maximum, de statuer sur la continuation de l’emploi
+des dites personnes, conformément au § 690, alinéa 2. C’est lui qui prononce également le renvoi sur
 préavis et la révocation de ces personnes.
 
-Pour le reste, c'est le comité directeur qui est tenu de statuer sur la nomination, le renvoi sur préavis et
-la révocation, ainsi que sur la classification des agents, sur les augmentations de traitement et sur l'octroi ou
+Pour le reste, c’est le comité directeur qui est tenu de statuer sur la nomination, le renvoi sur préavis et
+la révocation, ainsi que sur la classification des agents, sur les augmentations de traitement et sur l’octroi ou
 le refus de la pension de retraite et de celle aux survivants.
 
 ###### Article 699
 
 Le règlement de service doit régler la compétence en matière de pénalités et les recours
-qu'on peut y opposer. Les amendes ne peuvent être prévues que jusqu'à concurrence du montant d'un mois
+qu’on peut y opposer. Les amendes ne peuvent être prévues que jusqu’à concurrence du montant d’un mois
 de traitement.
 
 ###### Article 700
 
-Avant d'arrêter le règlement de service, le comité directeur est tenu d'entendre les agents
+Avant d’arrêter le règlement de service, le comité directeur est tenu d’entendre les agents
 majeurs.
 
-Le règlement de service est soumis à l'approbation de l'Office impérial des assurances sociales.
+Le règlement de service est soumis à l’approbation de l’Office impérial des assurances sociales.
 
-Si l'approbation est refusée et si dans le délai fixé un autre règlement de service n'est pas arrêté ou si
-celui-ci n'est pas approuvé, l'Office impérial des assurances sociales arrête lui-même le règlement.
+Si l’approbation est refusée et si dans le délai fixé un autre règlement de service n’est pas arrêté ou si
+celui-ci n’est pas approuvé, l’Office impérial des assurances sociales arrête lui-même le règlement.
 
 Il en est de même des modifications au règlement.
 
 ###### Article 701
 
-Si des décisions du comité directeur de la Corporation ou de l'assemblée corporative sont
+Si des décisions du comité directeur de la Corporation ou de l’assemblée corporative sont
 contraires au règlement de service, le président du comité directeur est tenu de se pourvoir auprès de
-l'Office impérial des assurances sociales ; ce recours est suspensif.
+l’Office impérial des assurances sociales ; ce recours est suspensif.
 
-Si une disposition du contrat d'emploi est en contradiction avec le règlement de service, elle est nulle
+Si une disposition du contrat d’emploi est en contradiction avec le règlement de service, elle est nulle
 et sans effet.
 
 ###### Article 702
 
 En ce qui concerne la nomination aux emplois vacants, aucun privilège ne peut être prescrit
-en faveur des porteurs du certificat donnant droit à un emploi civil (militaires en instance d'emploi civil).
+en faveur des porteurs du certificat donnant droit à un emploi civil (militaires en instance d’emploi civil).
 
 ###### Article 703
 
 Le comité directeur de la Corporation peut, sous sa responsabilité, charger des directeurs-
 gérants salariés de certaines fonctions déterminées.
 
-L'Office impérial des assurances sociales formule sur ce point des dispositions de détail.
+L’Office impérial des assurances sociales formule sur ce point des dispositions de détail.
 
 ###### Article 704
 
@@ -1633,91 +1633,91 @@ Corporation.
 
 ###### Article 705
 
-Les contestations qui s'élèvent relativement au contrat d'emploi des agents auxquels le
-règlement de service s'applique, sont jugées sur recours par l'Office impérial des assurances sociales
-(conseil du contentieux administratif), lorsqu'elles ont trait au préavis, à la révocation, aux amendes de plus
+Les contestations qui s’élèvent relativement au contrat d’emploi des agents auxquels le
+règlement de service s’applique, sont jugées sur recours par l’Office impérial des assurances sociales
+(conseil du contentieux administratif), lorsqu’elles ont trait au préavis, à la révocation, aux amendes de plus
 de {{< m "20" "marks" >}} ou à des actions en revendication de biens.
 
-Les prescriptions spéciales ci-après s'appliquent aux actions en revendication de biens.
+Les prescriptions spéciales ci-après s’appliquent aux actions en revendication de biens.
 
-La procédure devant les tribunaux ordinaires est recevable. L'action ne peut être intentée que dans le
-mois qui suit la notification de la décision de l'Office impérial des assurances sociales ; le délai est un délai
+La procédure devant les tribunaux ordinaires est recevable. L’action ne peut être intentée que dans le
+mois qui suit la notification de la décision de l’Office impérial des assurances sociales ; le délai est un délai
 de rigueur au sens du § 233, alinéa 3, du Code de procédure civile.
 
-Les décisions prises par l'Office impérial des assurances sociales relatives à la question de savoir si le
+Les décisions prises par l’Office impérial des assurances sociales relatives à la question de savoir si le
 renvoi avec préavis peut être prononcé pour motifs graves (§ 693, alinéa 2, phrases 2 et 3) lient les
 tribunaux ordinaires.
 
-La procédure ordinaire n'est pas recevable, lorsqu'il s'agit de la fixation des amendes.
+La procédure ordinaire n’est pas recevable, lorsqu’il s’agit de la fixation des amendes.
 
-L'exécution des décisions des autorités d'assurance ayant force de chose jugée a lieu conformément au
+L’exécution des décisions des autorités d’assurance ayant force de chose jugée a lieu conformément au
 livre VIII du Code de procédure civile.
 
 VIII. — ETABLISSEMENT DES CLASSES DE RISQUES
 
 ###### Article 706
 
-L'assemblée corporative est tenue d'établir, par un tarif de risques, pour les entreprises
-affiliées à la Corporation, des classes de risques correspondant au degré du risque d'accident inhérent à
-chacune d'elles, et de graduer en conséquence les cotisations à payer.
+L’assemblée corporative est tenue d’établir, par un tarif de risques, pour les entreprises
+affiliées à la Corporation, des classes de risques correspondant au degré du risque d’accident inhérent à
+chacune d’elles, et de graduer en conséquence les cotisations à payer.
 
 ###### Article 707
 
-Elle peut déléguer à une commission ou au comité directeur l'établissement et la
+Elle peut déléguer à une commission ou au comité directeur l’établissement et la
 modification du tarif de risque.
 
 ###### Article 708
 
-Le tarif de risques doit être soumis à révision pour la première fois après l'expiration de
+Le tarif de risques doit être soumis à révision pour la première fois après l’expiration de
 deux exercices annuels au plus tard et, dans la suite, au moins tous les cinq ans, en tenant compte des
 accidents survenus.
 
-Si le comité directeur de la Corporation n'est pas chargé lui-même de la modification du tarif, il est
-tenu de soumettre à l'organe compétent de la Corporation les résultats de la révision, ainsi que le tableau,
-établi par branches d'industrie, des accidents à indemniser en vertu de la loi. L'organe en question doit
-décider s'il y a lieu de maintenir ou de modifier le tarif de risques.
+Si le comité directeur de la Corporation n’est pas chargé lui-même de la modification du tarif, il est
+tenu de soumettre à l’organe compétent de la Corporation les résultats de la révision, ainsi que le tableau,
+établi par branches d’industrie, des accidents à indemniser en vertu de la loi. L’organe en question doit
+décider s’il y a lieu de maintenir ou de modifier le tarif de risques.
 
 ###### Article 709
 
-Le tarif de risques et toute modification y relative sont soumis à l'approbation de l'Office
+Le tarif de risques et toute modification y relative sont soumis à l’approbation de l’Office
 impérial des assurances sociales, auquel, dans le cas du § 708, le tableau des accidents doit être présenté.
 
 ###### Article 710
 
-Si le tarif de risques n'est pas dressé par l'organe corporatif compétent dans le délai fixé, ou
-si le tarif établi n'est pas approuvé, l'Office impérial des assurances sociales est tenu d'établir lui-même ce
-tarif, après avoir entendu l'organe corporatif compétent.
+Si le tarif de risques n’est pas dressé par l’organe corporatif compétent dans le délai fixé, ou
+si le tarif établi n’est pas approuvé, l’Office impérial des assurances sociales est tenu d’établir lui-même ce
+tarif, après avoir entendu l’organe corporatif compétent.
 
 ###### Article 711
 
 La Corporation classifie, conformément aux dispositions de ses statuts, les entreprises dans
 les classes de risques pour la période pendant laquelle ce tarif est en vigueur.
 
-La Corporation peut, pendant que le tarif est en vigueur, modifier la classification d'une entreprise, s'il
-est constaté que le chef d'entreprise a fourni des indications fausses ou qu'un changement est survenu dans
-l'entreprise.
+La Corporation peut, pendant que le tarif est en vigueur, modifier la classification d’une entreprise, s’il
+est constaté que le chef d’entreprise a fourni des indications fausses ou qu’un changement est survenu dans
+l’entreprise.
 
-Un recours contre la classification est ouvert au chef d'entreprise.
+Un recours contre la classification est ouvert au chef d’entreprise.
 
 ###### Article 712
 
-L'assemblée corporative peut, en conséquence
+L’assemblée corporative peut, en conséquence
 des accidents survenus dans leurs entreprises, imposer des suppléments de cotisation aux chefs
-d'entreprises ou leur
+d’entreprises ou leur
 accorder des réductions pour la période de tarif suivante ou une partie de cette période.
 
-Un recours contre l'imposition de suppléments est ouvert au chef d'entreprise.
+Un recours contre l’imposition de suppléments est ouvert au chef d’entreprise.
 
 IX. — PARTAGE ET MISE EN COMMUN DES CHARGES
 
 ###### Article 713
 
 Les statuts peuvent prescrire que les sections auront à supporter la charge des indemnités
-jusqu'aux trois quarts et, s'il s'agit des Corporations minières, même au delà des trois quarts, pour les
+jusqu’aux trois quarts et, s’il s’agit des Corporations minières, même au delà des trois quarts, pour les
 accidents survenus dans leurs ressorts.
 
 Les dépenses à supporter de ce chef par les sections sont réparties entre les membres de celles-ci,
-d'après la classe de risques et le montant de leurs cotisations.
+d’après la classe de risques et le montant de leurs cotisations.
 
 ###### Article 714
 
@@ -1729,14 +1729,14 @@ des indemnités à supporter en commun.
 
 ###### Article 715
 
-La validité de ces conventions est subordonnée à l'assentiment des assemblées corporatives
-intéressées et à l'approbation de l'Office impérial des assurances sociales. Elles ne peuvent entrer en
-vigueur qu'au début d’un exercice.
+La validité de ces conventions est subordonnée à l’assentiment des assemblées corporatives
+intéressées et à l’approbation de l’Office impérial des assurances sociales. Elles ne peuvent entrer en
+vigueur qu’au début d’un exercice.
 
 ###### Article 716
 
 Le mode de répartition, entre les membres de la Corporation, de la part incombant à chaque
-Corporation dans les indemnités à supporter en commun, est arrêté par l'assemblée corporative.
+Corporation dans les indemnités à supporter en commun, est arrêté par l’assemblée corporative.
 
 Sauf disposition contraire, cette répartition a lieu de la même manière que celle des indemnités à
 payer par la Corporation en vertu de la présente loi.
@@ -1745,49 +1745,49 @@ X. — GESTION DE LA FORTUNE DES CORPORATIONS
 
 ###### Article 717
 
-L'Office impérial des assurances sociales peut arrêter des dispositions relatives à la garde
+L’Office impérial des assurances sociales peut arrêter des dispositions relatives à la garde
 des titres et valeurs.
 
 ###### Article 718
 
-La Corporation est tenue de placer au moins le quart de son avoir en rentes de l'Empire ou des
+La Corporation est tenue de placer au moins le quart de son avoir en rentes de l’Empire ou des
 Etats confédérés.
 
-Elle ne peut placer plus de la moitié de son patrimoine d'autre manière que celle visée aux §§ 26, 27.
+Elle ne peut placer plus de la moitié de son patrimoine d’autre manière que celle visée aux §§ 26, 27.
 
-Elle doit y être autorisée par l'Office impérial des assurances sociales.
+Elle doit y être autorisée par l’Office impérial des assurances sociales.
 
-Si une Corporation veut placer plus du quart de son patrimoine conformément à l'alinéa 2, elle doit y
-être autorisée, en outre, par le Conseil Fédéral ou, lorsqu'elle est soumise à un Office d'assurance d'un Etat,
-par l'autorité administrative suprême de l'Etat Confédéré.
+Si une Corporation veut placer plus du quart de son patrimoine conformément à l’alinéa 2, elle doit y
+être autorisée, en outre, par le Conseil Fédéral ou, lorsqu’elle est soumise à un Office d’assurance d’un Etat,
+par l’autorité administrative suprême de l’Etat Confédéré.
 
 ###### Article 719
 
-Un placement conformément au § 718, alinéa 2, 3, ne peut avoir lieu qu'en titres et valeurs ;
-il ne peut avoir lieu autrement que dans des buts d'administration, en vue d'éviter des pertes financières, ou
-en faveur d'entreprises qui :
+Un placement conformément au § 718, alinéa 2, 3, ne peut avoir lieu qu’en titres et valeurs ;
+il ne peut avoir lieu autrement que dans des buts d’administration, en vue d’éviter des pertes financières, ou
+en faveur d’entreprises qui :
 
-1. travaillent exclusivement ou principalement au profit de personnes assujetties à l'assurance, ou
+1. travaillent exclusivement ou principalement au profit de personnes assujetties à l’assurance, ou
 2. doivent favoriser le crédit mutuel personnel des membres de la Corporation.
 
-L'Office impérial formule, pour les cas prévus à l'alinéa 1, numéro 2, des dispositions de détail.
+L’Office impérial formule, pour les cas prévus à l’alinéa 1, numéro 2, des dispositions de détail.
 
 ###### Article 720
 
-L'approbation est requise ;
+L’approbation est requise ;
 
-- en cas d'acquisition d'immeubles d'une valeur de plus de {{< m "5000" "marks" >}} ;
-- en cas de construction de bâtiments d'une valeur de plus de {{< m "10000" "marks" >}} ;
-- en cas d'acquisition du matériel d'installation nécessaire, d'une valeur totale de plus de {{< m "5000" "marks" >}} ;
+- en cas d’acquisition d’immeubles d’une valeur de plus de {{< m "5000" "marks" >}} ;
+- en cas de construction de bâtiments d’une valeur de plus de {{< m "10000" "marks" >}} ;
+- en cas d’acquisition du matériel d’installation nécessaire, d’une valeur totale de plus de {{< m "5000" "marks" >}} ;
 
-L'approbation n'est pas requise en cas d'acquisition, par voie de vente forcée, d'immeubles grevés au
+L’approbation n’est pas requise en cas d’acquisition, par voie de vente forcée, d’immeubles grevés au
 profit de la Corporation.
 
 ###### Article 721
 
-Les Corporations sont tenues de produire à l'Office impérial des assurances sociales, d'après
+Les Corporations sont tenues de produire à l’Office impérial des assurances sociales, d’après
 les instructions dudit Office, des états relatifs à leur gestion et comptabilité. Un état est dressé à
-l'expiration dudit exercice par l'Office impérial, au sujet de l'ensemble des résultats financiers d'un exercice.
+l’expiration dudit exercice par l’Office impérial, au sujet de l’ensemble des résultats financiers d’un exercice.
 
 Cet état doit être présenté au Reichstag.
 
@@ -1796,64 +1796,64 @@ Surveillance
 
 ###### Article 722
 
-Les Corporations sont soumises à la surveillance de l'Office impérial des assurances
+Les Corporations sont soumises à la surveillance de l’Office impérial des assurances
 sociales.
 
 ###### Article 723
 
-Si un Office d'Etat des assurances est institué pour le territoire d'un Etat Confédéré, les
+Si un Office d’Etat des assurances est institué pour le territoire d’un Etat Confédéré, les
 Corporations qui ne comprennent que des entreprises dont le siège est situé sur le territoire dudit Etat, sont
-soumises à la surveillance de l'Office d'Etat.
+soumises à la surveillance de l’Office d’Etat.
 
 ###### Article 724
 
-En ce qui concerne ces Corporations, les attributions de l'Office impérial sont transférées à
-l'Office d'Etat lorsqu'il s'agit :
+En ce qui concerne ces Corporations, les attributions de l’Office impérial sont transférées à
+l’Office d’Etat lorsqu’il s’agit :
 
-- de contestations relatives à l'affiliation de plusieurs entreprises à une Corporation conformément aux
-  §§ 542, 632 ;
-- de contestations entre la Corporation et un autre organisme public relativement à l'emploi des fonds
+- de contestations relatives à l’affiliation de plusieurs entreprises à une Corporation conformément aux
+  §§ 542, 632 ;
+- de contestations entre la Corporation et un autre organisme public relativement à l’emploi des fonds
   dans les cas prévus au § 625, alinéa 5, et aux prescriptions correspondantes du § 627, alinéa 3 et du § 628,
-  alinéa 4 ;
-- de modifications à la composition des Corporations (§§ 635 à 648) ;
-- de l'immatriculation dans la liste des entreprises (§§ 660, 661) ;
-- de modifications dans l'affiliation de l'entreprise à une Corporation, dans le cas du § 673, alinéas 1, 3 ;
-- de l'approbation et de l'établissement des statuts (§§ 681 à 683) ;
-- de la gestion des affaires de la Corporation (§ 689) ;
+  alinéa 4 ;
+- de modifications à la composition des Corporations (§§ 635 à 648) ;
+- de l’immatriculation dans la liste des entreprises (§§ 660, 661) ;
+- de modifications dans l’affiliation de l’entreprise à une Corporation, dans le cas du § 673, alinéas 1, 3 ;
+- de l’approbation et de l’établissement des statuts (§§ 681 à 683) ;
+- de la gestion des affaires de la Corporation (§ 689) ;
 - du règlement de service des employés de la Corporation (§§ 690 à 702), ainsi que des contestations
-  auxquelles le contrat d'emploi donnerait lieu (§ 705) ;
-- des tarifs de risques (§§ 706 à 712) ;
+  auxquelles le contrat d’emploi donnerait lieu (§ 705) ;
+- des tarifs de risques (§§ 706 à 712) ;
 - de conventions conclues par les Corporations intéressées en vue de supporter en commun les
-  indemnités qui leur incombent (§ 715) ;
-- de l'administration du patrimoine des Corporations dans les cas prévus aux 717 à 720, le § 719,
-  alinéa 2, excepté ;
+  indemnités qui leur incombent (§ 715) ;
+- de l’administration du patrimoine des Corporations dans les cas prévus aux 717 à 720, le § 719,
+  alinéa 2, excepté ;
 - du recouvrement des cotisations et des primes (§ 736, al. 2, 3), ainsi que de la constitution du fonds
-  de réserve (§§ 741 à 747) ;
-- des garanties à fournir par les personnes qui font construire (§ 773) ;
-- de la couverture des remboursements dus à la poste (§§781, 782) ;
-- des succursales et des Corporations d'assurance (§§ 783 à 842), sauf dans les cas des §§ 799, 839 ;
-- des autres institutions des Corporations (§§ 845 à 847) ;
-- de la prévention des accidents et de la surveillance (§§ 848 à 891), sauf dans les cas du § 883 ;
-- de la notification des autorités d'exécution (§ 893).
+  de réserve (§§ 741 à 747) ;
+- des garanties à fournir par les personnes qui font construire (§ 773) ;
+- de la couverture des remboursements dus à la poste (§§781, 782) ;
+- des succursales et des Corporations d’assurance (§§ 783 à 842), sauf dans les cas des §§ 799, 839 ;
+- des autres institutions des Corporations (§§ 845 à 847) ;
+- de la prévention des accidents et de la surveillance (§§ 848 à 891), sauf dans les cas du § 883 ;
+- de la notification des autorités d’exécution (§ 893).
 
 ###### Article 725
 
-S'il s'agit :
+S’il s’agit :
 
-- de contestations relatives à l'affiliation de plusieurs entreprises à une Corporation conformément aux
-  §§ 542, 632 ;
-- de modifications à la composition des Corporations dans les cas des §§ 640, 646 ;
-- de l'immatriculation dans la liste des entreprises (§§ 660, 661) ;
-- de modifications dans l'affiliation de l'entreprise à une Corporation dans le cas du § 673, alinéa 1, 3 ;
+- de contestations relatives à l’affiliation de plusieurs entreprises à une Corporation conformément aux
+  §§ 542, 632 ;
+- de modifications à la composition des Corporations dans les cas des §§ 640, 646 ;
+- de l’immatriculation dans la liste des entreprises (§§ 660, 661) ;
+- de modifications dans l’affiliation de l’entreprise à une Corporation dans le cas du § 673, alinéa 1, 3 ;
 - de conventions conclues par les Corporations intéressées en vue de supporter en commun les
-  indemnités qui leur incombent (§ 715) ;
-- l'Office impérial des assurances sociales statue lorsqu'une Corporation, qui est soumise à un autre
-  Office d'Etat ou à l'Office impérial, est intéressée. L'Office d'Etat transmet alors les dossiers à l'Office
+  indemnités qui leur incombent (§ 715) ;
+- l’Office impérial des assurances sociales statue lorsqu’une Corporation, qui est soumise à un autre
+  Office d’Etat ou à l’Office impérial, est intéressée. L’Office d’Etat transmet alors les dossiers à l’Office
   impérial.
 
-S'il s'agit d'autres institutions communes à plusieurs Corporations (§ 847), l'Office impérial des
+S’il s’agit d’autres institutions communes à plusieurs Corporations (§ 847), l’Office impérial des
 assurances sociales reste compétent lorsque toutes les Corporations intéressées ne sont pas soumises au
-même Office d'Etat.
+même Office d’Etat.
 
 CHAPITRE VI
 Paiement des indemnités. Constitution des ressources
@@ -1941,15 +1941,15 @@ domicile s’il est lui-même assuré en vertu des statuts.
 ###### Article 736
 
 Il ne peut être perçu de cotisation des membres de la Corporation, ni fait emploi du
-patrimoine de celle-ci pour d’autres objets que :
+patrimoine de celle-ci pour d’autres objets que :
 
-- le paiement des indemnités et des frais d’administration ;
-- la constitution du fonds de réserve (§§ 741 à 748) ;
+- le paiement des indemnités et des frais d’administration ;
+- la constitution du fonds de réserve (§§ 741 à 748) ;
 - le paiement des avances à la poste (§ 728), ainsi que l’amortissement et le paiement des intérêts de la
-  dette flottante (§ 779) ;
-- l’attribution de primes pour le sauvetage des victimes ;
-- la prévention des accidents ;
-- les dépenses en vue de fournir de l’occupation aux victimes d’accidents ;
+  dette flottante (§ 779) ;
+- l’attribution de primes pour le sauvetage des victimes ;
+- la prévention des accidents ;
+- les dépenses en vue de fournir de l’occupation aux victimes d’accidents ;
 - la création d’établissements hospitaliers ou de convalescence ou d’établissements de la nature de ceux
   qui sont visés au § 607.
 
@@ -1973,9 +1973,9 @@ des personnes assujetties à l’assurance que les membres occupent dans leurs e
 Les statuts peuvent prescrire que les membres auront à verser des avances sur les cotisations
 (§ 731).
 
-Les statuts peuvent prescrire que le comité-directeur soit autorisé à percevoir des avances :
+Les statuts peuvent prescrire que le comité-directeur soit autorisé à percevoir des avances :
 
-1. de la part d’exploitations dont la durée ne sera, selon toute prévision, que temporaire ;
+1. de la part d’exploitations dont la durée ne sera, selon toute prévision, que temporaire ;
 2. de la part des membres qui, à plusieurs reprises, ont été en retard dans le paiement des cotisations.
    {.liste-alpha}
 
@@ -1986,7 +1986,7 @@ Pour les nouveaux affiliés, les avances sont calculées d’après la somme pou
 dû contribuer aux charges de l’exercice précédent, en raison de l’importance de leurs exploitations, s’ils
 avaient déjà été affiliés.
 
-Les dates des échéances sont fixées par les statuts ou par l’assemblée corporative ; dans les deux
+Les dates des échéances sont fixées par les statuts ou par l’assemblée corporative ; dans les deux
 semaines qui suivent ces dates, les avances doivent être payées au comité directeur.
 
 ###### Article 739
@@ -2014,7 +2014,7 @@ Les Corporations sont tenues de constituer un fonds de réserve.
 Ce fonds de réserve est constitué par des majorations des sommes nécessaires au service des
 indemnités.
 
-Seront perçus comme majorations :
+Seront perçus comme majorations :
 
 à la 1re répartition, 300 %
 
@@ -2092,7 +2092,7 @@ doit être soumise à l’approbation de l’Office impérial des assurances soc
 ###### Article 748
 
 Les §§ 742 à 747 ne s’appliquent pas à la Corporation professionnelle des entreprises de
-construction de surface ou de sous-sol. Le fonds de réserve existant doit toutefois être conservé intact ; ses
+construction de surface ou de sous-sol. Le fonds de réserve existant doit toutefois être conservé intact ; ses
 intérêts peuvent servir à couvrir les charges de la Corporation.
 
 Dans des cas de nécessité, la Corporation peut, avec l’approbation de l’Office impérial des assurances
@@ -2109,7 +2109,7 @@ coefficients de répartition fixés. Cette répartition doit se faire en tenant 
 au partage et à la mise en commun des charges (§§ 713 à 716) et en faisant le décompte des avances
 perçues.
 
-Sont applicables à la Corporation des entreprises de construction de surface ou de sous-sol, le § 764 ;
+Sont applicables à la Corporation des entreprises de construction de surface ou de sous-sol, le § 764 ;
 aux succursales le § 731, alinéa 3, les §§ 763, 799 à 842 et, aux Corporations d’assurance, le § 731,
 alinéa 3, le § 842, alinéa 2.
 
@@ -2119,12 +2119,12 @@ En vue de la répartition et du recouvrement des cotisations, tout membre de la 
 doit, sauf en cas de cotisations forfaitaires ou de cotisations uniformes (§ 734), adresser au comité-directeur
 de la Corporation, dans les six semaines après l’expiration de l’exercice, un état des salaires.
 
-Cet état doit indiquer :
+Cet état doit indiquer :
 
 1. les personnes assurées occupées dans l’entreprise pendant l’exercice écoulé, ainsi que les salaires
-   gagnés par elles ;
+   gagnés par elles ;
 2. si les salaires effectivement gagnés ne sont pas pris comme base, le calcul du montant des salaires
-   à prendre en compte pour la répartition des cotisations ;
+   à prendre en compte pour la répartition des cotisations ;
 3. la classe de risques dans laquelle l’entreprise a été classée.
 
 Il peut être prescrit par les statuts que l’état de salaires doit indiquer, au lieu de chaque assuré
@@ -2133,10 +2133,10 @@ par eux au cours de l’exercice entier ou pendant des périodes plus courtes (�
 
 ###### Article 751
 
-Il peut être prescrit par les statuts que :
+Il peut être prescrit par les statuts que :
 
-- des états de salaires seront fournis tous les trois mois ou tous les six mois ;
-- des listes de salaires (livres de paye), à l’aide desquels ces états sont dressés, seront tenues à jour ;
+- des états de salaires seront fournis tous les trois mois ou tous les six mois ;
+- des listes de salaires (livres de paye), à l’aide desquels ces états sont dressés, seront tenues à jour ;
 - ces listes de salaires (livres de paye) seront conservées pendant trois ans.
 
 ###### Article 752
@@ -2165,11 +2165,11 @@ vérifier le calcul des cotisations.
 ###### Article 755
 
 Après la remise de l’extrait du rôle de recouvrement, la Corporation n’est autorisée à
-modifier la fixation de la cotisation, que :
+modifier la fixation de la cotisation, que :
 
-- si la classification de l’entreprise dans les classes de risques est modifiée ultérieurement ;
+- si la classification de l’entreprise dans les classes de risques est modifiée ultérieurement ;
 - si une modification de l’entreprise, intervenue au cours de l’exercice, ne vient à être connue que plus
-  tard ;
+  tard ;
 - si l’inexactitude de l’état de salaires vient à être constatée.
 
 Si, en pareil cas ou par suite de l’omission de la déclaration d’une entreprise, la Corporation n’a pas
@@ -2195,11 +2195,11 @@ payées à cette Corporation.
 Si le comité-directeur ne donne aucune suite à l’opposition ou s’il n’y donne suite que
 partiellement, le recours contra sa décision n’est recevable que sous réserve du § 759.
 
-Le recours ne peut être fondé que sur :
+Le recours ne peut être fondé que sur :
 
-- des erreurs de calcul ;
-- le fait qu’il n’a pas été tenu suffisamment compte des réductions (§ 712) ;
-- le calcul inexact des salaires ;
+- des erreurs de calcul ;
+- le fait qu’il n’a pas été tenu suffisamment compte des réductions (§ 712) ;
+- le calcul inexact des salaires ;
 - l’application erronée d’une classe de risques.
 
 Toutefois, le recours n’est pas recevable pour ces deux derniers motifs, si, par suite de la négligence
@@ -2297,10 +2297,10 @@ comité-directeur, que l’entrepreneur a rempli toutes ses obligations vis-à-v
 
 ###### Article 769
 
-L’Office supérieur statue définitivement sur les recours introduits contre :
+L’Office supérieur statue définitivement sur les recours introduits contre :
 
-- la décision de l’Office d’assurance ;
-- le refus de rendre semblable décision ;
+- la décision de l’Office d’assurance ;
+- le refus de rendre semblable décision ;
 - la décision de l’Office d’assurance relative au retrait de la décision primitive.
 
 ###### Article 770
@@ -2329,7 +2329,7 @@ garanties ont été fournies.
 
 ###### Article 773
 
-La nature et le montant des garanties à fournir sont fixés par la Corporation ; le montant en
+La nature et le montant des garanties à fournir sont fixés par la Corporation ; le montant en
 est estimé d’après le salaire probable des ouvriers assurés qui travaillent à la construction. Celui qui fait
 construire peut exiger de la Corporation la restitution des garanties, lorsque les travaux ont été exécutés par
 des entrepreneurs de construction pour lesquels il n’est pas responsable (§ 765).
@@ -2368,9 +2368,9 @@ créances de la poste, les sommes qui doivent être remboursées à celle-ci.
 ###### Article 779
 
 Le montant des indemnités avancées par la poste en 1909 pour le compte de la Corporation
-doit être traité comme dette amortissable de celle-ci ; le taux d’intérêt à y appliquer sera de 31/2% et le taux
+doit être traité comme dette amortissable de celle-ci ; le taux d’intérêt à y appliquer sera de 31/2% et le taux
 d’amortissement sera de 31/2% également, plus les intérêts économisés. L’Empire supporte les deux
-cinquièmes des intérêts et de l’amortissement ; au mois de juillet de chaque année, les trois cinquièmes
+cinquièmes des intérêts et de l’amortissement ; au mois de juillet de chaque année, les trois cinquièmes
 restants sont versés à la poste par les Corporations, en même temps que la partie échue des avances à faire à
 cette dernière.
 
@@ -2436,7 +2436,7 @@ en disposent autrement (§ 794).
 Les recettes et les dépenses de la succursale doivent faire l’objet d’une comptabilité
 distincte et ses encaisses doivent être conservées à part.
 
-Un fonds de réserve spécial doit être constitué pour la succursale ; il ne peut être affecté à des objets
+Un fonds de réserve spécial doit être constitué pour la succursale ; il ne peut être affecté à des objets
 de la Corporation.
 
 ###### Article 788
@@ -2475,16 +2475,16 @@ l’Office impérial des assurances sociales, qui doit être entendu chaque fois
 
 ###### Article 793
 
-Les statuts annexes doivent contenir des dispositions relatives :
+Les statuts annexes doivent contenir des dispositions relatives :
 
 1. à la déclaration d’affiliation à faire par les chefs d’entreprises désignés au § 633, alinéa 2, n°1, qui
    veulent s’assurer eux-mêmes, ainsi qu’au montant et à la détermination de la rémunération annuelle de ces
-   chefs d’entreprises ;
+   chefs d’entreprises ;
 2. à la délimitation des pouvoirs du comité directeur et de l’assemblée corporative dans
-   l’administration de la succursale ;
-3. à la constitution du fonds de réserve ;
-4. à l’établissement, à la vérification et à l’approbation du compte annuel ;
-5. à la publication des bilans ;
+   l’administration de la succursale ;
+3. à la constitution du fonds de réserve ;
+4. à l’établissement, à la vérification et à l’approbation du compte annuel ;
+5. à la publication des bilans ;
 6. à la modification des statuts annexes.
 
 ###### Article 794
@@ -2504,7 +2504,7 @@ ressorts des organes spéciaux et d’en élire les membres.
 
 Les statuts annexes ainsi que les modifications apportées à ces statuts doivent être
 approuvés par l’Office impérial des assurances sociales. S’il y a lieu de refuser l’approbation il appartient
-au conseil du contentieux administratif de se prononcer ; les motifs du refus doivent être communiqués. En
+au conseil du contentieux administratif de se prononcer ; les motifs du refus doivent être communiqués. En
 cas de refus d’approbation, le Conseil Fédéral statue sur recours.
 
 ###### Article 797
@@ -2514,11 +2514,11 @@ publiées dans le Moniteur de l’Empire par les soins du comité-directeur de l
 
 ###### Article 798
 
-Auprès de la succursale les travaux de construction sont assurés :
+Auprès de la succursale les travaux de construction sont assurés :
 
 1. aux frais du chef d’entreprise (§ 633, alinéa 2, n°1), par des primes fixes calculées d’après un tarif
    des primes (§§ 799 à 824), lorsque chacun de ces travaux a exigé plus de six jours de travail effectif
-   (travaux de construction de longue durée) ;
+   (travaux de construction de longue durée) ;
 2. aux frais des communes ou des communautés publiques, désignées dans les §§ 828 à 830 sur les
    territoires desquels s’étend la Corporation, par des cotisations réparties annuellement entre ces communes
    et ces communautés selon les besoins de l’exercice écoulé, lorsque chacun de ces travaux exige six jours au
@@ -2529,9 +2529,9 @@ Auprès de la succursale les travaux de construction sont assurés :
 
 Les entrepreneurs de travaux de construction de longue durée sont tenus de présenter, pour
 chaque mois au plus tard trois jours après son expiration, à l’autorité désignée par l’autorité administrative
-suprême dans la circonscription de laquelle les travaux sont exécutés, un état :
+suprême dans la circonscription de laquelle les travaux sont exécutés, un état :
 
-1. des journées de travail employées ;
+1. des journées de travail employées ;
 2. des salaires payés aux assurés de ce fait.
 
 L’Office impérial des assurances sociales arrête la forme à donner audit état.
@@ -2568,11 +2568,11 @@ travaux de construction, la même proportion s’applique au taux de base des pr
 Le tarif des primes est fixé à l’avance, tous les cinq ans pour le moins, par l’Office impérial
 des assurances sociales pour chaque Corporation, le comité-directeur de celle-ci entendu.
 
-Sont pris comme bases :
+Sont pris comme bases :
 
 - le capital représentatif des prestations qui sont présumées devoir résulter pour la succursale, d’après
-  la moyenne annuelle des accidents éventuels dans les travaux de construction de longue durée ;
-- les majorations nécessaires à la constitution du fonds de réserve ;
+  la moyenne annuelle des accidents éventuels dans les travaux de construction de longue durée ;
+- les majorations nécessaires à la constitution du fonds de réserve ;
 - une somme globale pour frais d’administration de la succursale, à calculer d’après le montant annuel
   moyen des dépenses d’administration durant la période précédente du tarif, déduction faite de la part
   revenant aux travaux de construction de courte durée (§ 832). Les dispositions de détail sont formulées par
@@ -2621,7 +2621,7 @@ propre compte.
 ###### Article 811
 
 La commune est responsable des primes, sauf si elle peut prouver l’impossibilité du
-recouvrement ou l’insuccès de la procédure d’exécution forcée ; elle est tenue de les envoyer à titre
+recouvrement ou l’insuccès de la procédure d’exécution forcée ; elle est tenue de les envoyer à titre
 d’avance.
 
 ###### Article 812
@@ -2647,16 +2647,16 @@ Le débiteur de la prime peut, dans les deux
 semaines qui suivent l’expiration du délai fixé au § 813,
 alinéa 1 ou la signification de l’extrait, faire opposition au
 calcul de la prime devant le comité-directeur ou l’organe
-compétent de la Corporation (§ 794) ; il reste néanmoins provisoirement tenu au paiement. Dans ce
+compétent de la Corporation (§ 794) ; il reste néanmoins provisoirement tenu au paiement. Dans ce
 cas, les dispositions du § 757, alinéa 2, et du § 759 sont applicables par analogie.
 
 ###### Article 815
 
 L’opposition ne peut, sous réserve des dispositions du § 814, phrase 2, être fondée que sur
 
-- une erreur de calcul ;
-- une évaluation inexacte des salaires ;
-- une application erronée du tarif des primes ;
+- une erreur de calcul ;
+- une évaluation inexacte des salaires ;
+- une application erronée du tarif des primes ;
 - l’allégation que l’opposant n’est nullement tenu au paiement de primes.
 
 L’opposition ne peut être fondée sur une évaluation inexacte des salaires, dans le cas où l’état a été
@@ -2705,7 +2705,7 @@ versements que les primes, amendes et frais exigibles en vertu de la présente l
 
 ###### Article 823
 
-Si les communes, les unions de communes , les organismes publics et tous autres qui font
+Si les communes, les unions de communes, les organismes publics et tous autres qui font
 construire, exécutent régulièrement des travaux de construction sans les confier à d’autres entrepreneurs, le
 montant des salaires à prendre pour base du calcul des primes peut être, sur leur demande, déterminé à
 forfait d’après le nombre moyen des journées de travail effectuées dans l’année.
@@ -2748,7 +2748,7 @@ L’extrait doit contenir les indications permettant aux débiteurs des primes d
 l’exactitude du calcul.
 
 L’opposition et le recours sont soumis aux mêmes dispositions que celles qui s’appliquent aux
-Corporations (§ 757, alinéa 1, §§ 758, 760, 761) ; toutefois, le recours n’est recevable que s’il est fondé sur
+Corporations (§ 757, alinéa 1, §§ 758, 760, 761) ; toutefois, le recours n’est recevable que s’il est fondé sur
 des erreurs de calcul ou sur une évaluation erronée du chiffre de la population.
 
 ###### Article 828
@@ -2841,9 +2841,9 @@ alinéa 2, n°2) par le moyen de primes calculées d’après un tarif de primes
 
 Les chefs d’entreprises sont tenus de présenter à l’autorité désignée par l’autorité
 administrative suprême dans la circonscription de laquelle les occupations s’effectuent, pour chaque
-trimestre, dans un délai maximum de trois jours à compter de la fin dudit trimestre, un état :
+trimestre, dans un délai maximum de trois jours à compter de la fin dudit trimestre, un état :
 
-1. des journées de travail employées ;
+1. des journées de travail employées ;
 2. des salaires payés aux assurés de ce fait.
 
 L’état est dressé d’après un formulaire arrêté par l’Office impérial des assurances sociales.
@@ -2881,13 +2881,13 @@ Autres organisations
 
 ###### Article 843
 
-Les Corporations ont la faculté d’organiser :
+Les Corporations ont la faculté d’organiser :
 
 1. une assurance de la responsabilité civile des chefs d’entreprises (§ 633) et des personnes qui leur
-   sont assimilées quant à la responsabilité ;
+   sont assimilées quant à la responsabilité ;
 2. des caisses de rente supplémentaire et des caisses de retraite pour les employés d’exploitation, les
    membres de la Corporation, les assurés, les agents de la Corporation et les membres des familles de ces
-   personnes ;
+   personnes ;
 3. un office de placement pour les victimes d’accidents.
 
 ###### Article 844
@@ -2899,9 +2899,9 @@ La participation à ces organisations est facultative.
 ###### Article 845
 
 Les résolutions de l’assemblée corporative relatives à l’organisation des institutions
-prévues :
+prévues :
 
-Au § 843, nos 1, 2, ainsi que leurs statuts, doivent être soumises à l’approbation du Conseil Fédéral ;
+Au § 843, nos 1, 2, ainsi que leurs statuts, doivent être soumises à l’approbation du Conseil Fédéral ;
 Au § 843, n° 3, doivent être soumises à l’approbation de l’Office impérial des assurances sociales.
 
 ###### Article 846
@@ -2923,10 +2923,10 @@ DES ACCIDENTS
 
 ###### Article 848
 
-Les Corporations sont obligées de formuler les prescriptions nécessaires relativement :
+Les Corporations sont obligées de formuler les prescriptions nécessaires relativement :
 
 1. aux organisations et aux dispositions incombant aux membres de la Corporation, en vue de la
-   prévention des accidents dans leurs entreprises ;
+   prévention des accidents dans leurs entreprises ;
 2. aux précautions à prendre par les assurés dans les entreprises en vue de la prévention des accidents.
 
 Des prescriptions relatives à la prévention des accidents peuvent aussi être formulées pour des régions
@@ -2965,7 +2965,7 @@ d’abord à l’avis des comités directeurs des sections intéressées.
 ###### Article 853
 
 Des délégués des ouvriers doivent être appelés par les comités directeurs des Corporations,
-en nombre égal à celui des membres du comité-directeur, pour discuter et arrêter ces prescriptions ; ces
+en nombre égal à celui des membres du comité-directeur, pour discuter et arrêter ces prescriptions ; ces
 délégués auront voix délibérative.
 
 Cette disposition s’applique par analogie à l’avis à donner sur les mesures de protection basées sur le
@@ -3003,7 +3003,7 @@ que les assesseurs des Offices supérieurs qui ont la qualité de délégués de
 l’assurance agricole ou maritime contre les accidents.
 
 La Corporation minière peut arrêter dans ses statuts que les délégués des assurés doivent être des
-« anciens » d’une institution minière. Si pareille disposition est prise, les représentants des assurés sont élus
+« anciens » d’une institution minière. Si pareille disposition est prise, les représentants des assurés sont élus
 par les anciens des associations minières et des caisses minières intéressées.
 
 ###### Article 859
@@ -3036,11 +3036,11 @@ Le président du comité-directeur fixe l’indemnité (§ 21) à payer aux dél
 ###### Article 864
 
 Les prescriptions relatives à la prévention des accidents sont soumises à l’approbation de
-l’Office impérial des assurances sociales ; le conseil du contentieux administratif statue à ce sujet.
+l’Office impérial des assurances sociales ; le conseil du contentieux administratif statue à ce sujet.
 
 Les comptes rendus des délibérations des comités directeurs doivent être annexés à la demande
 d’approbation. Ces comptes rendus doivent indiquer clairement comment les délégués des assurés ont
-voté ; ils doivent, en outre, contenir l’avis des comités-directeurs des sections intéressées.
+voté ; ils doivent, en outre, contenir l’avis des comités-directeurs des sections intéressées.
 
 ###### Article 865
 
@@ -3248,7 +3248,7 @@ règlements de prévention des accidents, être avertis qu’ils s’exposent à
 {{< m "100" "marks" >}}.
 
 Lorsqu’il s’agit d’une association d’assurance, les délégués des assurés sont élus par les assesseurs
-des Offices supérieurs, sur les circonscriptions desquels la Corporation ou la section s’étend ; le § 858,
+des Offices supérieurs, sur les circonscriptions desquels la Corporation ou la section s’étend ; le § 858,
 alinéa 1, phrase 2, est applicable.
 
 CHAPITRE X
@@ -3257,9 +3257,9 @@ Exploitations et travaux pour le compte d’organismes publics
 ###### Article 892
 
 Si l’Empire ou un Etat Confédéré est chargé de l’assurance, l’Empire ou l’Etat remplace la
-Corporation ; les droits et les obligations des organes corporatifs passent aux autorités exécutives. Celles-ci
-sont désignées, pour les administrations des armées, par l’autorité militaire suprême respective ; pour les
-autres administrations d’Empire, par le Chancelier de l’Empire ; pour les administrations d’Etat, par
+Corporation ; les droits et les obligations des organes corporatifs passent aux autorités exécutives. Celles-ci
+sont désignées, pour les administrations des armées, par l’autorité militaire suprême respective ; pour les
+autres administrations d’Empire, par le Chancelier de l’Empire ; pour les administrations d’Etat, par
 l’autorité administrative suprême.
 
 Ces dispositions s’appliquent également aux communes, unions de communes et autres organismes
@@ -3276,17 +3276,17 @@ Les autorités exécutives instituées jusqu’à présent sont maintenues.
 ###### Article 894
 
 Si c’est l’Empire, un Etat Confédéré, une union de communes ou un autre organisme public
-qui est chargé de l’assurance, les dispositions ci-après ne sont pas applicables :
+qui est chargé de l’assurance, les dispositions ci-après ne sont pas applicables :
 
-- les dispositions concernant les modifications à la composition des corporations (§§ 635 à 648) ;
-- parmi les dispositions relatives à l’organisation des Corporations, les §§ 649 à 720 ;
-- les dispositions relatives au contrôle (§§ 722 à 725) ;
+- les dispositions concernant les modifications à la composition des corporations (§§ 635 à 648) ;
+- parmi les dispositions relatives à l’organisation des Corporations, les §§ 649 à 720 ;
+- les dispositions relatives au contrôle (§§ 722 à 725) ;
 - les dispositions relatives à la constitution des ressources, ainsi qu’à la procédure de répartition et de
-  recouvrement (§§ 731 à 776) ;
-- parmi les dispositions relatives aux versements à la poste, les §§ 781, 782 ;
-- les dispositions relatives aux succursales (§§ 783 à 842) ;
-- les dispositions relatives à d’autres organisations (§§ 843 à 847) ;
-- les dispositions des §§ 848 à 887 et 889 à 891 relatives à la prévention des accidents et au contrôle ;
+  recouvrement (§§ 731 à 776) ;
+- parmi les dispositions relatives aux versements à la poste, les §§ 781, 782 ;
+- les dispositions relatives aux succursales (§§ 783 à 842) ;
+- les dispositions relatives à d’autres organisations (§§ 843 à 847) ;
+- les dispositions des §§ 848 à 887 et 889 à 891 relatives à la prévention des accidents et au contrôle ;
 - parmi les dispositions pénales, les §§ 908 à 910, 912, 913.
 
 ###### Article 895
@@ -3306,7 +3306,7 @@ Si l’autorité exécutive veut, en vue de la prévention des accidents, arrêt
 dispositions pénales contre les assurés, il y a lieu d’appeler au moins trois représentants des assurés pour
 prendre part à la délibération et à l’avis à émettre.
 
-La délibération a lieu sous la présidence d’un délégué de l’autorité exécutive ; ce délégué ne peut être
+La délibération a lieu sous la présidence d’un délégué de l’autorité exécutive ; ce délégué ne peut être
 un chef immédiat de ces représentants des assurés.
 
 Cette disposition n’est pas applicable, lorsqu’il s’agit d’établir des prescriptions préventives destinées
@@ -3341,8 +3341,8 @@ pénal.
 ###### Article 901
 
 Lorsqu’une juridiction ordinaire est appelée à connaître des actions de ce genre, elle est liée
-par la décision rendue dans la procédure engagée en vertu de la présente loi, à savoir :
-si l’on se trouve en présence d’un accident pour lequel il y a lieu d’allouer une indemnité ;
+par la décision rendue dans la procédure engagée en vertu de la présente loi, à savoir :
+si l’on se trouve en présence d’un accident pour lequel il y a lieu d’allouer une indemnité ;
 dans laquelle mesure et par quelle institution d’assurance l’indemnité doit être allouée.
 
 La juridiction ordinaire ajourne sa procédure jusqu’à ce que la décision soit rendue dans la procédure
@@ -3354,7 +3354,7 @@ d’exécution provisoires.
 Les chefs d’entreprises ou les personnes qui leur sont assimilées conformément au § 899, et
 que la victime ou les survivants actionnent en réparation du dommage éprouvé, peuvent réclamer, au lieu
 de l’ayant droit, la fixation de l’indemnité d’après les dispositions de la présente loi et ont le droit de
-pourvoi. L’expiration de délais écoulés sans qu’il y ait de leur faute ne peut pas être invoquée contre eux ;
+pourvoi. L’expiration de délais écoulés sans qu’il y ait de leur faute ne peut pas être invoquée contre eux ;
 toutefois, cette disposition ne s’applique pas aux délais de procédure, lorsque le chef d’entreprise ou une
 personne qui lui est assimilée d’après le § 899 a engagé personnellement la procédure.
 
@@ -3370,9 +3370,9 @@ l’assistance publique, les caisses-maladie, les associations minières, les ca
 agréées, les caisses funéraires et autres caisses de secours ont faites à la suite de l’accident en vertu de la loi
 ou des statuts. Le capital représentatif de la rente peut-être demandé au lieu de la rente.
 
-Ces mêmes personnes sont également responsables :
-lorsqu'il est établi par jugement pénal qu’elles ont agi, dans la direction ou l’exécution d’une
-construction, contre les règles généralement admises dans l’art de la construction, et ;
+Ces mêmes personnes sont également responsables :
+lorsqu’il est établi par jugement pénal qu’elles ont agi, dans la direction ou l’exécution d’une
+construction, contre les règles généralement admises dans l’art de la construction, et ;
 lorsque cette attitude a occasionné l’accident.
 
 La disposition du § 900 relative à la responsabilité en dehors de l’intervention d’une sentence pénale
@@ -3384,14 +3384,14 @@ jugement pénal.
 
 ###### Article 904
 
-Sont également responsables, au titre de chefs d’entreprises :
+Sont également responsables, au titre de chefs d’entreprises :
 
 1. une société par actions, une association d’assurance mutuelle, une coopérative enregistrée, une
    Corporation de métier ou toute autre personne juridique, à raison des accidents occasionnés par un membre
-   de la direction ;
-2. une société à responsabilité limitée, pour les accidents occasionnés par un gérant ;
+   de la direction ;
+2. une société à responsabilité limitée, pour les accidents occasionnés par un gérant ;
 3. toute autre société commerciale, pour les accidents occasionnés par un sociétaire qui a qualifié
-   pour gérer les affaires ;
+   pour gérer les affaires ;
 4. en cas de liquidation, une société commerciale, une association d’assurance mutuelle, une
    coopérative enregistrée, une Corporation de métier ou toute autre personne juridique, pour les accidents
    occasionnés par un des liquidateurs, lorsque ces personnes ont agi dans l’exercice de leurs attributions.
@@ -3433,14 +3433,14 @@ Dispositions pénales
 ###### Article 908
 
 Le comité directeur de la Corporation peut prononcer contre les chefs d’entreprises des
-amendes pouvant s’élever à {{< m "500" "marks" >}} au maximum :
+amendes pouvant s’élever à {{< m "500" "marks" >}} au maximum :
 
 1. lorsque les états présentés par eux en vertu d’une disposition légale ou statutaire et en vue du
    calcul des cotisations ou des primes ou de la classification des entreprises dans le tarif des risques,
-   contiennent des indications de fait inexactes ;
+   contiennent des indications de fait inexactes ;
 2. lorsque, dans la déclaration des entreprises (§ 653), ils indiquent comme date de l’ouverture de
    l’exploitation ou comme point de départ de l’obligation de l’assurance une date postérieure à la date à
-   laquelle l’exploitation a commencé ou a été assujettie à l’assurance ;
+   laquelle l’exploitation a commencé ou a été assujettie à l’assurance ;
    le tout à la condition que l’inexactitude des indications leur fût connue ou ne pût échapper à leur
    connaissance à raison des circonstances.
 
@@ -3448,12 +3448,12 @@ amendes pouvant s’élever à {{< m "500" "marks" >}} au maximum :
 
 Le comité directeur de la Corporation peut également infliger des amendes de {{< m "300" "marks" >}} au
 plus aux employeurs qui ne remplissent pas en temps utile les obligations qui leur incombent en ce qui
-concerne :
+concerne :
 
 1. la déclaration des entreprises et des changements survenus dans une exploitation, ainsi que les
-   affichages à faire dans l’entreprise ;
-2. la tenue et la conservation des listes de salaires ;
-3. la production des listes de salaires et des états nécessaires pour le calcul des primes ;
+   affichages à faire dans l’entreprise ;
+2. la tenue et la conservation des listes de salaires ;
+3. la production des listes de salaires et des états nécessaires pour le calcul des primes ;
 4. l’exécution des prescriptions statutaires relatives aux cas de cessation de l’exploitation et de
    changement du chef d’entreprise.
 
@@ -3475,14 +3475,14 @@ peine plus forte, en vertu d’autres dispositions légales.
 ###### Article 912
 
 Les dispositions pénales formulées à l’égard des chefs d’entreprises par la présente loi sont
-applicables :
+applicables :
 
 1. si une société par actions, une association d’assurance mutuelle, une coopérative enregistrée, une
    Corporation de métier ou une autre personne juridique est chef d’entreprise, aux membres du comité-
-   directeur ;
-2. si une société anonyme est chef d’entreprise, aux gérants ;
+   directeur ;
+2. si une société anonyme est chef d’entreprise, aux gérants ;
 3. si une autre société commerciale est chef d’entreprise, à tous les associés personnellement
-   responsables et qui ne sont pas exclus de la représentation ;
+   responsables et qui ne sont pas exclus de la représentation ;
 4. aux représentants légaux des chefs d’entreprises incapables ou ne jouissant pas de la capacité
    juridique ou n’en jouissant que partiellement, ainsi qu’aux liquidateurs d’une société commerciale, d’une
    association d’assurance mutuelle, d’une coopérative enregistrée, d’une Corporation de métier ou d’une
@@ -3497,10 +3497,10 @@ exploitation.
 
 Si ces représentants contreviennent aux dispositions qui contiennent des pénalités contre le chef
 d’entreprise, ces pénalités leur sont applicables. Le chef d’entreprise est passible avec eux des peines
-prévues :
+prévues :
 
-1. s’il a eu connaissance du délit ;
-2. s’il n’a pas apporté tous les soins habituels dans le choix ou la surveillance de ses représentants ;
+1. s’il a eu connaissance du délit ;
+2. s’il n’a pas apporté tous les soins habituels dans le choix ou la surveillance de ses représentants ;
    en ce cas, il ne peut encourir d’autre pénalité qu’une amende.
 
 Si l’amende fixée par le comité directeur d’une Corporation ne peut être recouvrée sur le représentant,
@@ -3529,11 +3529,11 @@ considérées comme des exploitations agricoles.
 
 ###### Article 916
 
-Sont considérés comme faisant partie de l’exploitation agricole :
+Sont considérés comme faisant partie de l’exploitation agricole :
 
-- les réparations courantes aux constructions servant à l’exploitation agricole ;
+- les réparations courantes aux constructions servant à l’exploitation agricole ;
 - les travaux d’amélioration et les autres travaux d’aménagement de l’exploitation, notamment la
-  construction ou l’entretien de chemins, digues, canaux et cours d’eau se rapportant à l’exploitation ;
+  construction ou l’entretien de chemins, digues, canaux et cours d’eau se rapportant à l’exploitation ;
 - lorsque ces travaux sont exécutés par un chef d’exploitation agricole pour son propre compte sur ses
   terres ou, pour sa propre exploitation agricole, sur les terres d’autrui, sans en confier l’exécution à d’autres
   entrepreneurs.
@@ -3559,18 +3559,18 @@ L’assurance s’étend aussi aux exploitations que le chef d’une exploitatio
 côté de celle-ci, mais en dépendance économique de cette dernière (exploitations agricoles accessoires).
 
 Appartiennent à cette catégorie notamment les exploitations qui sont destinées exclusivement ou
-principalement :
+principalement :
 
-1. à la manipulation et la transformation des produits de l’exploitation agricole de l’entrepreneur ;
-2. à faire face aux besoins de son exploitation agricole ;
+1. à la manipulation et la transformation des produits de l’exploitation agricole de l’entrepreneur ;
+2. à faire face aux besoins de son exploitation agricole ;
 3. à tirer des ingrédients de ses terres ou à les transformer.
 
 ###### Article 919
 
-Le § 918 ne s’applique pas :
+Le § 918 ne s’applique pas :
 
 1. aux mines, salines, ateliers de préparation de minerai, docks, forges, chantiers, ni aux
-   établissements où l’on produit ou transforme industriellement des explosifs ou des objets explosibles ;
+   établissements où l’on produit ou transforme industriellement des explosifs ou des objets explosibles ;
 2. aux entreprises qui,
    à cause de leur grande extension,
    ou de leurs installations mécaniques spéciales,
@@ -3598,9 +3598,9 @@ industrielles d’un même chef d’exploitation.
 ###### Article 923
 
 Sont assurés contre les accidents dans les exploitations qui sont soumises à l’assurance en
-vertu des §§ 915 à 922 (accidents du travail) :
+vertu des §§ 915 à 922 (accidents du travail) :
 
-1. les ouvriers ;
+1. les ouvriers ;
 2. les employés d’exploitation dont la rémunération annuelle ne dépasse pas {{< m "5000" "marks" >}} ; s’ils sont
    occupés dans ces exploitations.
 
@@ -3625,10 +3625,10 @@ sont occupées par le chef d’exploitation ou ceux qui le remplacent.
 
 ###### Article 925
 
-Les statuts peuvent étendre l’obligation de l’assurance :
+Les statuts peuvent étendre l’obligation de l’assurance :
 
 1. aux chefs d’exploitations dont le gain annuel ne dépasse pas {{< m "3000" "marks" >}} ou qui n’occupent pas
-   régulièrement contre rémunération plus de deux ouvriers assujettis à l’assurance ;
+   régulièrement contre rémunération plus de deux ouvriers assujettis à l’assurance ;
 2. aux employés d’exploitations dont la rémunération annuelle dépasse {{< m "5000" "marks" >}}.
 
 ###### Article 926
@@ -3653,11 +3653,11 @@ Les prescriptions des §§ 925 à 927 relatives à l’assurance du chef d’exp
 ###### Article 929
 
 Sont applicables par analogie, les paragraphes suivants de l’assurance contre les accidents
-dans les entreprises industrielles :
+dans les entreprises industrielles :
 
 1. le § 552, à l’assurance d’autres personnes occupées dans l’exploitation et de personnes étrangères à
-   l’exploitation ;
-2. le § 553, en cas du paiement des cotisations en retard pour l’assurance volontaire ;
+   l’exploitation ;
+2. le § 553, en cas du paiement des cotisations en retard pour l’assurance volontaire ;
 3. le § 554, à l’assurance des militaires et des fonctionnaires.
 
 CHAPITRE II
@@ -3720,7 +3720,7 @@ principalement dans l’agriculture.
 
 La rente pour les adolescents blessés se règle, pour commencer, d’après la rémunération
 annuelle moyenne
-fixée pour la classe d’âge à laquelle ils appartiennent au moment de leur accident ; elle est augmentée
+fixée pour la classe d’âge à laquelle ils appartiennent au moment de leur accident ; elle est augmentée
 en proportion, quand il passent dans une classe d’âge supérieure.
 
 ###### Article 938
@@ -3759,7 +3759,7 @@ soins prévus au § 185, alinéa 1, et, dans ce cas, retenir le quart
 au plus du secours pécuniaire de maladie. Est considéré comme salaire de base, le salaire local du lieu
 de l’occupation (al. 2).
 
-C’est la commune du lieu de l’occupation (§§ 153 à 156) qui est chargée de pourvoir aux allocations ;
+C’est la commune du lieu de l’occupation (§§ 153 à 156) qui est chargée de pourvoir aux allocations ;
 le lieu où se trouve le siège de l’exploitation n’est cependant pas considéré comme lieu de l’occupation,
 lorsque le blessé était occupé dans une exploitation forestière s’étendant sur le territoire de plusieurs
 communes.
@@ -3770,9 +3770,9 @@ La commune n’est pas tenue de fournir des secours de maladie à la victime, co
 **§ 942** :
 
 1. lorsque la victime a droit à la même assistance, en vertu de l’assurance-maladie ou en vertu
-   d’autres dispositions légales ;
+   d’autres dispositions légales ;
 2. lorsqu’elle est libérée de l’assurance à raison de prestations équivalentes à celles de l’assurance-
-   maladie ;
+   maladie ;
 3. ou aussi longtemps qu’elle réside à l’étranger.
 
 Si les personnes et institutions, débitrices en premier lieu des secours de maladie à la victime, ne les
@@ -3809,7 +3809,7 @@ minière ou qui n’ont pas droit aux secours de maladie en vertu du § 942, la 
 l’expiration des treize premières semaines après l’accident, les soumettre à un traitement curatif dans le but
 d’écarter ou d’atténuer les suites de l’accident.
 
-Elle peut placer la victime dans une maison de santé ; le § 597, alinéas 2 à 4, est applicable dans ce
+Elle peut placer la victime dans une maison de santé ; le § 597, alinéas 2 à 4, est applicable dans ce
 cas.
 
 Elle peut encore, si elle y consent, faire donner des soins à la victime conformément au § 185,
@@ -3821,15 +3821,15 @@ pendant le traitement.
 ###### Article 947
 
 La Corporation peut, pendant les treize premières semaines qui suivent l’accident, en
-déterminer les conséquences, même sans accorder le traitement curatif à la victime ; le § 581, alinéa 1, est
+déterminer les conséquences, même sans accorder le traitement curatif à la victime ; le § 581, alinéa 1, est
 applicable par analogie.
 
 ###### Article 948
 
-Les §§ 582, 583, alinéa 1, § 584 s’appliquent :
+Les §§ 582, 583, alinéa 1, § 584 s’appliquent :
 
-- à l’allocation de la rente-accident avant l’expiration des treize semaines ;
-- au transfert du droit à l’indemnité de maladie ;
+- à l’allocation de la rente-accident avant l’expiration des treize semaines ;
+- au transfert du droit à l’indemnité de maladie ;
 - à l’obligation de la Corporation de se conformer aux décisions de l’institution chargée de l’assurance-
   maladie.
 
@@ -3863,15 +3863,15 @@ applicables dans ce cas.
 ###### Article 952
 
 Sont applicables, en outre, les dispositions de l’assurance contre les accidents dans les
-entreprises industrielles, relatives :
+entreprises industrielles, relatives :
 
-- au traitement à domicile (§ 599) ;
+- au traitement à domicile (§ 599) ;
 - à l’allocation de secours extraordinaires dans les cas où la victime est soignée dans une maison de
-  santé (§ 602) ;
-- à l’introduction d’un nouveau traitement curatif (§§ 603 et 604) ;
-- au transfert dans un autre établissement de santé (§ 605) ;
+  santé (§ 602) ;
+- à l’introduction d’un nouveau traitement curatif (§§ 603 et 604) ;
+- au transfert dans un autre établissement de santé (§ 605) ;
 - au préjudice qui découle pour la victime de la non-observation des prescriptions relatives au
-  traitement curatif (§ 606) ;
+  traitement curatif (§ 606) ;
 - à l’admission du titulaire d’une rente dans un hospice ou dans un établissement similaire (§ 607).
 
 ###### Article 953
@@ -3900,14 +3900,14 @@ l’administration des postes.
 ###### Article 955
 
 Sont applicables, en outre, les prescriptions de l’assurance contre les accidents dans les
-entreprises industrielles relatives :
+entreprises industrielles relatives :
 
-- à la révision de la rente pour changement dans la situation de la victime (§§ 608 à 611) ;
-- à l’échéance des prestations et à la durée du paiement de la rente (§§ 612 et 613) ;
-- au droit aux arrérages après le décès de l’ayant droit (§ 614) ;
-- à la suspension de la rente (§ 615) ;
-- à l’indemnisation en capital (§§ 616 à 618) ;
-- à la renonciation au droit au remboursement et aux effets de la chose jugée (§§ 619 et 620) ;
+- à la révision de la rente pour changement dans la situation de la victime (§§ 608 à 611) ;
+- à l’échéance des prestations et à la durée du paiement de la rente (§§ 612 et 613) ;
+- au droit aux arrérages après le décès de l’ayant droit (§ 614) ;
+- à la suspension de la rente (§ 615) ;
+- à l’indemnisation en capital (§§ 616 à 618) ;
+- à la renonciation au droit au remboursement et aux effets de la chose jugée (§§ 619 et 620) ;
 - à la cession, à l’engagement, à la saisie et à la compensation des droits (§§ 621 et 622).
 
 CHAPITRE III
@@ -3920,7 +3920,7 @@ L’ASSURANCE
 Les Corporations comprennent, en leur qualité d’institutions chargées de l’assurance, les
 chefs des exploitations soumises à l’assurance.
 
-Les Corporations sont constituées par circonscriptions locales ; elles comprennent dans la
+Les Corporations sont constituées par circonscriptions locales ; elles comprennent dans la
 circonscription toutes les exploitations des branches pour lesquelles elles sont créées.
 
 Les Corporations établies en vertu du § 18 de la loi sur l’assurance contre les accidents et contre la
@@ -3945,9 +3945,9 @@ lieu.
 
 Le § 631, alinéa 1, de l’assurance contre les accidents dans les entreprises industrielles
 s’applique aux exploitations qui comprennent des éléments ou des exploitations accessoires appartenant à
-des branches différentes ;
+des branches différentes ;
 le § 632, s’applique à l’affiliation à une Corporation des exploitations multiples d’un même chef
-d’exploitation ;
+d’exploitation ;
 le § 634, s’applique à la réparation des accidents dans des exploitations étrangères.
 
 II. — MODIFICATIONS DE LA COMPOSITION DES CORPORATIONS
@@ -4000,7 +4000,7 @@ d’exploitation et les communes intéressées peuvent s’entendre sur le choix
 ###### Article 965
 
 L’affiliation commence dès l’ouverture de l’exploitation ou de l’assujettissement à
-l’assurance ; pour l’Empire et les Etats Confédérés, le commencement de l’affiliation est fixé d’après le
+l’assurance ; pour l’Empire et les Etats Confédérés, le commencement de l’affiliation est fixé d’après le
 **§ 957**.
 
 ###### Article 966
@@ -4018,7 +4018,7 @@ l’intermédiaire de l’Office d’assurance, de l’ouverture de toute exploi
 Le comité directeur examine si l’exploitation doit être affiliée à la Corporation.
 
 Si elle refuse l’affiliation, elle en avise l’Office d’assurance. Celui-ci peut soumettre le cas à la
-décision de l’Office impérial des assurances sociales ; il est tenu de le faire, si la Corporation le requiert.
+décision de l’Office impérial des assurances sociales ; il est tenu de le faire, si la Corporation le requiert.
 
 III. — CHANGEMENT DU CHEF D’EXPLOITATION
 MODIFICATIONS APPORTEES A L’ENTREPRISE ET A SON AFFILIATION A LA
@@ -4037,7 +4037,7 @@ par là de sa responsabilité.
 
 Les §§ 665 à 673 de l’assurance contre les accidents dans les entreprises industrielles sont
 applicables par analogie à l’obligation pour le chef d’exploitation de déclarer les changements survenus
-dans l’exploitation, s’ils sont de nature à influer sur l’affiliation à une Corporation ; ils sont applicables au
+dans l’exploitation, s’ils sont de nature à influer sur l’affiliation à une Corporation ; ils sont applicables au
 transfert ou à la désaffiliation d’une exploitation, ainsi qu’au transfert de la charge des indemnités et d’une
 part du fonds de réserve.
 
@@ -4059,47 +4059,47 @@ arrêtés par l’assemblée corporative.
 
 ###### Article 972
 
-Les statuts doivent contenir des dispositions relatives :
+Les statuts doivent contenir des dispositions relatives :
 
-1. à la dénomination, au siège et au ressort de la Corporation ;
-2. à la composition du comité-directeur et à l’étendue des droits et obligations de celui-ci ;
+1. à la dénomination, au siège et au ressort de la Corporation ;
+2. à la composition du comité-directeur et à l’étendue des droits et obligations de celui-ci ;
 3. à la forme que le comité directeur doit donner à ses déclarations et dans laquelle il doit signer pour
-   la Corporation ; à la manière dont les résolutions du comité-directeur sont prises et à la forme de sa
-   représentation vis-à-vis des tiers ;
+   la Corporation ; à la manière dont les résolutions du comité-directeur sont prises et à la forme de sa
+   représentation vis-à-vis des tiers ;
 4. à la constitution de la commission corporative en vue du règlement des oppositions conformément
-   aux §§ 1000, 1023 ;
+   aux §§ 1000, 1023 ;
 5. à la composition et à la convocation de l’assemblée corporative, ainsi qu’à la manière dont les
-   résolutions de cette assemblée sont prises ;
-6. au droit de vote des membres et à la vérification de leurs pouvoirs ;
-7. à la représentation de la Corporation vis-à-vis du comité directeur ;
+   résolutions de cette assemblée sont prises ;
+6. au droit de vote des membres et à la vérification de leurs pouvoirs ;
+7. à la représentation de la Corporation vis-à-vis du comité directeur ;
 8. au montant de l’indemnité pour perte de salaire et pour frais de voyage à allouer aux délégués des
-   assurés (§ 21) ;
+   assurés (§ 21) ;
 9. à la détermination des bases de répartition des cotisations et, si la répartition n’a pas pour base les
-   impôts, à la procédure à suivre pour l’évaluation et le classement de celles-ci ;
+   impôts, à la procédure à suivre pour l’évaluation et le classement de celles-ci ;
 10. à la procédure à suivre en cas d’ouverture de nouvelles exploitations et en cas de changements,
-    soit dans l’exploitation, soit dans la personne du chef d’exploitation ;
+    soit dans l’exploitation, soit dans la personne du chef d’exploitation ;
 11. aux conséquences de la cessation de l’exploitation ou d’un changement dans la personne du chef
     d’exploitation en particulier à la garantie des versements des chefs d’exploitation qui cessent leur
-    exploitation ;
-12. à l’établissement, à l’examen et à l’approbation du compte annuel ;
+    exploitation ;
+12. à l’établissement, à l’examen et à l’approbation du compte annuel ;
 13. à l’exercice du droit de la Corporation d’arrêter des prescriptions, en vue de la prévention des
-    accidents et du contrôle des exploitations ;
+    accidents et du contrôle des exploitations ;
 14. à la procédure à suivre pour la déclaration d’affiliation
     et de sa désaffiliation des chefs d’exploitations assurés et
     d' autres personnes assurées d’après le § 925 (n° 2) et le § 929 (n° 1), ainsi qu’au montant et à la
-    détermination du gain annuel des chefs d’exploitations ;
-15. au mode des publications ;
-16. à la modification des statuts ;
+    détermination du gain annuel des chefs d’exploitations ;
+15. au mode des publications ;
+16. à la modification des statuts ;
 17. à la question de savoir quelles personnes doivent être considérées comme ouvriers techniques.
 
 ###### Article 973
 
 Sont applicables les dispositions de l’assurance contre les accidents dans les entreprises
-industrielles relatives :
+industrielles relatives :
 
 - à la division de la Corporation en sections et à l’institution d’hommes de confiance (§ 678, nos 2 et 3,
-  **§ 679**) ;
-- au droit du comité-directeur de la Corporation d’infliger des amendes (§ 680) ;
+  **§ 679**) ;
+- au droit du comité-directeur de la Corporation d’infliger des amendes (§ 680) ;
 - à l’établissement des statuts (§§ 681 à 683).
 
 ###### Article 974
@@ -4190,9 +4190,9 @@ autonomes, prendre des dispositions concernant la garde des titres et valeurs.
 ###### Article 984
 
 Les dispositions de l’assurance contre les accidents dans les entreprises industrielles (§§ 718
-à 721) s’appliquent :
+à 721) s’appliquent :
 
-- au placement de la fortune ;
+- au placement de la fortune ;
 - aux états à dresser concernant les résultats de la gestion et de la comptabilité de la Corporation.
 
 CHAPITRE V
@@ -4210,43 +4210,43 @@ administratives autonomes qui sont chargés de l’administration d’une Corpor
 
 En ce qui concerne les Corporations qui sont soumises à la surveillance d’un Office d’Etat
 des assurances sociales, les attributions de l’Office impérial des assurances sociales passent à l’Office
-d’Etat, lorsqu’il s’agit :
+d’Etat, lorsqu’il s’agit :
 
 - de contestations relatives à la participation de plusieurs exploitations d’un même chef d’exploitation à
-  une Corporation, en vertu des §§ 922, 959 en connexion avec le § 632 ;
+  une Corporation, en vertu des §§ 922, 959 en connexion avec le § 632 ;
 - de contestations entre la Corporation et l’Empire ou un Etat Confédéré, lors de la répartition des
-  fonds, dans les cas du § 957 en connexion avec le § 625, alinéa 5 ;
-- de modifications à la composition des Corporations (§§ 960 et 961) ;
+  fonds, dans les cas du § 957 en connexion avec le § 625, alinéa 5 ;
+- de modifications à la composition des Corporations (§§ 960 et 961) ;
 - de l’affiliation d’une entreprise à la Corporation et de modifications apportées à cette affiliation
-  (§ 967 et § 969 en connexion avec le § 673, al. 1 et 3) ;
-- de l’approbation et de la rédaction des statuts (§ 973) ;
-- de la gestion des affaires de la Corporation (§ 975) ;
+  (§ 967 et § 969 en connexion avec le § 673, al. 1 et 3) ;
+- de l’approbation et de la rédaction des statuts (§ 973) ;
+- de la gestion des affaires de la Corporation (§ 975) ;
 - du règlement de service des employés de la Corporation et de contestations qui pourront surgir
-  relativement au contrat d’emploi desdits employés (§ 978) ;
-- des tarifs de risques (§ 979) ;
-- des charges à supporter en commun (§ 982) ;
+  relativement au contrat d’emploi desdits employés (§ 978) ;
+- des tarifs de risques (§ 979) ;
+- des charges à supporter en commun (§ 982) ;
 - de l’administration du patrimoine des Corporations dans les cas du § 983 et du § 984 en connexion
-  avec les §§ 718, 719, al. 1 et § 720 ;
+  avec les §§ 718, 719, al. 1 et § 720 ;
 - de la perception des cotisations (§ 1011 en connexion avec le § 736, al. 2 et 3), ainsi que de la
-  constitution du fonds de réserve (§ 1013) ;
+  constitution du fonds de réserve (§ 1013) ;
 - de la couverture des créances de l’administration des postes (§ 1028 en connexion avec les §§ 781 et
 
 782. ;
 
-- d’autres organisations des Corporations (§ 1029) ;
+- d’autres organisations des Corporations (§ 1029) ;
 - de la prévention des accidents et de la surveillance dans les cas du § 1030 en connexion avec les
-  §§ 848 à 889 et du § 890, alinéa 1, à l’exclusion des cas du § 883 ;
+  §§ 848 à 889 et du § 890, alinéa 1, à l’exclusion des cas du § 883 ;
 - de la notification des autorités d’exécution (§ 1033 en connexion avec le § 893).
 
 ###### Article 987
 
-Et lorsqu’il s’agit :
+Et lorsqu’il s’agit :
 
 - de contestations relatives à l’affiliation de plusieurs exploitations à une Corporation en vertu du § 922
-  et du § 959 en connexion avec le § 632 ;
-- de modifications apportées à la composition des Corporations, dans les cas visés par le § 960 ;
+  et du § 959 en connexion avec le § 632 ;
+- de modifications apportées à la composition des Corporations, dans les cas visés par le § 960 ;
 - de l’affiliation d’une entreprise à la Corporation et des modifications apportées à cette affiliation
-  (§ 967, § 969 en connexion avec le § 673, al. 1 et 3) ;
+  (§ 967, § 969 en connexion avec le § 673, al. 1 et 3) ;
 - de charges à supporter en commun (§ 982),
 
 l’ Office impérial des assurances sociales statue, chaque fois qu’une Corporation soumise à la
@@ -4280,9 +4280,9 @@ charges par des cotisations de leurs membres. Celles-ci devront couvrir les dép
 
 ###### Article 990
 
-Les cotisations sont réparties :
+Les cotisations sont réparties :
 d’après la quantité moyenne de main-d’œuvre et de la valeur de celle-ci, conformément à la présente
-loi ;
+loi ;
 d’après la rémunération des employés d’exploitation et des ouvriers techniques, ainsi que d’après le
 gain annuel des chefs d’exploitations, en tant que les prestations de travail de ces assurés ne sont pas
 comprises dans l’évaluation, et d’après le degré du risque d’accident (classe de risques).
@@ -4291,7 +4291,7 @@ comprises dans l’évaluation, et d’après le degré du risque d’accident (
 
 On évalue pour chaque chef d’exploitation le nombre
 de journées de travail qui sont, en moyenne,
-annuellement nécessaires pour assurer la marche de son exploitation ; cette évaluation doit être faite, en
+annuellement nécessaires pour assurer la marche de son exploitation ; cette évaluation doit être faite, en
 tenant compte
 du nombre des ouvriers occupés dans l’exploitation et de la durée de leur occupation.
 
@@ -4345,7 +4345,7 @@ renseignements complémentaires nécessaires pour l’évaluation et la classifi
 
 ###### Article 998
 
-La Corporation est tenue de communiquer aux autorités communales des états indiquant :
+La Corporation est tenue de communiquer aux autorités communales des états indiquant :
 les exploitations de la commune appartenant à la Corporation et
 les bases essentielles, ainsi que le résultat de l’évaluation et de la classification susvisées.
 
@@ -4400,7 +4400,7 @@ minimum des deux tiers. Dans ce cas, les statuts ont également à définir le m
 selon lequel doivent être appelés à participer aux
 charges de la Corporation les membres qui n’ont pas à
 
-Acquitter , pour l’ensemble ou une partie de leurs exploitations, l’impôt qui sert de base au
+Acquitter, pour l’ensemble ou une partie de leurs exploitations, l’impôt qui sert de base au
 recouvrement.
 
 ###### Article 1006
@@ -4447,26 +4447,26 @@ définitivement sur recours.
 ###### Article 1010
 
 Les statuts peuvent, dans les conditions prévues au § 1005, alinéa 1, établir pour la
-constitution des cotisations une autre base appropriée, par exemple :
+constitution des cotisations une autre base appropriée, par exemple :
 
-- le mode de culture ;
-- la superficie en combinaison avec l’impôt foncier ;
+- le mode de culture ;
+- la superficie en combinaison avec l’impôt foncier ;
 - le rendement net que les terrains de culture considérés comme tels, y compris les bâtiments et
   dépendances s’y rapportant et servant aux mêmes buts, peuvent en moyenne et de façon continue produire,
-  en les utilisant pour les mêmes objets économiques et par les mêmes méthodes en usage ;
+  en les utilisant pour les mêmes objets économiques et par les mêmes méthodes en usage ;
 - la valeur productive résultant de ce rendement net multiplié par 25.
 
-Les §§ 996 à 1009 doivent être appliqués par analogie ; les statuts établissent les dispositions de
+Les §§ 996 à 1009 doivent être appliqués par analogie ; les statuts établissent les dispositions de
 détail.
 5. Dispositions communes
 
 ###### Article 1011
 
 Sont applicables les dispositions de l’assurance contre les accidents dans les entreprises
-industrielles relatives :
+industrielles relatives :
 
 - aux objets pour lesquels les cotisations peuvent être perçues et pour lesquels les ressources peuvent
-  être employées (§ 736) ;
+  être employées (§ 736) ;
 - aux avances à faire sur les cotisations ainsi qu’au paiement des cotisations par anticipation (§§ 737 à
   739).
 
@@ -4475,7 +4475,7 @@ industrielles relatives :
 Les statuts peuvent stipuler que les petits chefs d’exploitations dont les exploitations
 présentent un risque d’accidents minime et qui n’occupent qu’exceptionnellement
 des assurés contre rémunération, seront dispensés, en
-tout ou partie, du paiement des cotisations ; ils peuvent,
+tout ou partie, du paiement des cotisations ; ils peuvent,
 en même temps, régler la procédure à suivre pour déterminer ceux des chefs d’exploitations qui
 doivent rentrer dans cette catégorie.
 
@@ -4526,12 +4526,12 @@ section.
 
 ###### Article 1017
 
-Pour le calcul des cotisations, on prend comme base :
+Pour le calcul des cotisations, on prend comme base :
 
 - pour chaque employé d’exploitation et ouvrier technique, la rémunération reçue réellement dans
-  l’exploitation ou qui lui est imputable ;
+  l’exploitation ou qui lui est imputable ;
 - pour chaque journée de travail d’un ouvrier, la trois-centième partie de la rémunération annuelle
-  moyenne fixée pour les ouvriers adultes de plus de 21 ans, au siège de l’exploitation ;
+  moyenne fixée pour les ouvriers adultes de plus de 21 ans, au siège de l’exploitation ;
 - pour le chef d’exploitation la même rémunération annuelle, sauf disposition différente des statuts.
 
 La partie de la rémunération annuelle qui dépasse {{< m "1800" "marks" >}} n’entre en compte que pour un tiers.
@@ -4585,7 +4585,7 @@ Le chef d’exploitation peut, dans les deux semaines
 à dater de l’expiration du délai ou de la signification
 (§ 1021, al. 2), faire opposition, entre les mains du
 
-Comité directeur, contre le calcul de la cotisation ; mais il est tenu au paiement provisoire de celle-ci.
+Comité directeur, contre le calcul de la cotisation ; mais il est tenu au paiement provisoire de celle-ci.
 
 Le § 757, alinéa 2, est applicable.
 
@@ -4655,7 +4655,7 @@ employeurs agricoles, auprès des Offices supérieurs des assurances sociales du
 désignés, au cours d’une séance de l’unité administrative autonome ou de l’autorité d’Etat par un tirage au
 sort auquel procède le président.
 
-Les §§ 861 et 863 sont applicables à ces représentants par analogie ; les prescriptions des §§ 16 à 21
+Les §§ 861 et 863 sont applicables à ces représentants par analogie ; les prescriptions des §§ 16 à 21
 et 24, concernant les représentants des employeurs sont également applicables par analogie aux dits
 représentants et à leurs suppléants.
 
@@ -4674,19 +4674,19 @@ Si l’Empire ou un Etat Confédéré est l’institution chargée de l’assura
 895 à 897 de l’assurance contre les accidents dans les entreprises industrielles sont applicables.
 
 Par contre, ne sont pas applicables parmi les dispositions de l’assurance contre les accidents dans les
-entreprises agricoles :
+entreprises agricoles :
 
-- les dispositions relatives aux modifications dans la constitution des Corporations (§§ 960 et 961) ;
+- les dispositions relatives aux modifications dans la constitution des Corporations (§§ 960 et 961) ;
 - parmi les dispositions relatives à l’organisation des Corporations, les §§ 962 à 983, et le § 984 en
-  connexion avec les §§ 718 à 720 ;
-- les dispositions relatives à la surveillance (§§ 985 à 987) ;
+  connexion avec les §§ 718 à 720 ;
+- les dispositions relatives à la surveillance (§§ 985 à 987) ;
 - les dispositions relatives à la constitution des ressources, ainsi qu’à la procédure de répartition et de
-  recouvrement (§§ 989 à 1027) ;
+  recouvrement (§§ 989 à 1027) ;
 - parmi les dispositions relatives aux versements à faire aux caisses postales, le § 1028 en connexion
-  avec les §§ 781 et 782 ;
-- les dispositions relatives aux autres organisations (§ 1029) ;
+  avec les §§ 781 et 782 ;
+- les dispositions relatives aux autres organisations (§ 1029) ;
 - parmi les dispositions relatives à la prévention des accidents et au contrôle, le § 1030 en connexion
-  avec les §§ 848 à 887, 889, 890, alinéa 1, et avec le § 891, alinéa 2, ainsi que les §§ 1031 et 1032 ;
+  avec les §§ 848 à 887, 889, 890, alinéa 1, et avec le § 891, alinéa 2, ainsi que les §§ 1031 et 1032 ;
 - parmi les dispositions pénales, les §§ 1043 et 1044 et le § 1045 en connexion avec les §§ 910, 912
   et 913.
 
@@ -4698,9 +4698,9 @@ Réglementation par la législation d’Etat
 
 ###### Article 1034
 
-La législation d’Etat peut déterminer jusqu’à quel point et dans quelles conditions :
+La législation d’Etat peut déterminer jusqu’à quel point et dans quelles conditions :
 
-1. des chefs d’exploitations, y compris leur conjoint, doivent être assurés ;
+1. des chefs d’exploitations, y compris leur conjoint, doivent être assurés ;
 2. d’autres membres de la famille du chef d’exploitation doivent être dispensés de l’obligation de
    l’assurance. De telles dispositions ne portent pas préjudice aux dispositions plus étendues des statuts dans
    le cas du numéro 1.
@@ -4720,29 +4720,29 @@ La législation d’Etat peut également élever le montant du fonds de réserve
 
 ###### Article 1037
 
-La législation d’Etat a le droit de régler :
+La législation d’Etat a le droit de régler :
 
-- la délimitation territoriale des Corporations ;
-- leur organisation et leur administration ;
-- la procédure en cas de changement dans l’exploitation ;
+- la délimitation territoriale des Corporations ;
+- leur organisation et leur administration ;
+- la procédure en cas de changement dans l’exploitation ;
 - la base de répartition des cotisations, et la procédure de répartition et de recouvrement
-  de ces cotisations sous une forme qui s’écarte des prescriptions :
-  - des §§ 5 à 7 concernant les organes des institutions d’assurance ;
-  - des §§ 12, 13, 14, alinéa 2, phrase 2, des §§ 17 à 21, 23, 24, concernant les charges honorifiques ;
-  - du § 28, alinéas 1 et 2, concernant la fortune ;
-  - du § 967 sur la déclaration des exploitations ;
+  de ces cotisations sous une forme qui s’écarte des prescriptions :
+  - des §§ 5 à 7 concernant les organes des institutions d’assurance ;
+  - des §§ 12, 13, 14, alinéa 2, phrase 2, des §§ 17 à 21, 23, 24, concernant les charges honorifiques ;
+  - du § 28, alinéas 1 et 2, concernant la fortune ;
+  - du § 967 sur la déclaration des exploitations ;
   - du § 968, du § 969 en connexion avec les §§ 665, 666, 667, alinéa 2, et les §§ 669 à 672, et du § 970
     sur le changement apporté dans la personne du chef d’exploitation, sur la déclaration des modifications
-    dans l’exploitation et sur la procédure ultérieure ;
-  - des §§ 971 à 974 concernant les statuts ;
+    dans l’exploitation et sur la procédure ultérieure ;
+  - des §§ 971 à 974 concernant les statuts ;
   - du § 975, alinéa 1, en connexion avec les §§ 685, 686, numéros 3 et 4, et les §§ 687 à 689, du § 976,
-    alinéa 1, et du § 977, alinéa 1, concernant les organes de la Corporation ;
-  - du § 978 concernant les agents de la Corporation ;
-  - du § 979 sur l’établissement des classes de risques ;
-  - des §§ 980 à 982 concernant le partage et la mise en commun des charges ;
-  - des §§ 990 à 1010 sur la constitution des ressources ;
+    alinéa 1, et du § 977, alinéa 1, concernant les organes de la Corporation ;
+  - du § 978 concernant les agents de la Corporation ;
+  - du § 979 sur l’établissement des classes de risques ;
+  - des §§ 980 à 982 concernant le partage et la mise en commun des charges ;
+  - des §§ 990 à 1010 sur la constitution des ressources ;
   - des §§1014 à 1027 concernant la procédure de répartition et de recouvrement
-- ainsi que, par dérogation aux dispositions de la présente loi :
+- ainsi que, par dérogation aux dispositions de la présente loi :
   - de spécifier les organes qui assurent l’administration des Corporations et auxquels appartiennent les
     droits et les obligations que la présente loi attribue aux comités-directeurs, et
   - de charger l’Office d’assurance du soin d’établir les faits en cas d’accident.
@@ -4750,13 +4750,13 @@ La législation d’Etat a le droit de régler :
 ###### Article 1038
 
 Si la législation d’Etat fait usage du droit que lui confère le § 1037, elle doit arrêter des
-dispositions concernant :
+dispositions concernant :
 
-1. la représentation des Corporations dans les opérations d’enquête (§ 1562) ;
+1. la représentation des Corporations dans les opérations d’enquête (§ 1562) ;
 2. l’organe auquel doit être adressée la demande d’indemnité (§§ 1546, 1548 et 1585) et qui
    détermine l’indemnité et notifie la décision ou la décision définitive à ce sujet (§§ 1568, 1569, 1583 et
 
-1606) ;
+1606) ;
 
 3. la gestion de la fortune des Corporations (§ 25, alinéa 2, §§ 26, 27, 983 et § 984 en connexion avec
    les §§ 718 à 720), ainsi que
@@ -4817,14 +4817,14 @@ Dispositions pénales
 ###### Article 1043
 
 Le comité directeur de la Corporation a le droit d’infliger aux chefs d’exploitations des
-amendes pouvant s’élever jusqu’à {{< m "500" "marks" >}} si :
+amendes pouvant s’élever jusqu’à {{< m "500" "marks" >}} si :
 
 1. les états de traitements ou de salaires, qu’ils ont fournis en vertu des dispositions du § 1016 en vue
-   de la répartition des cotisations ;
+   de la répartition des cotisations ;
 2. les déclarations fournies aux organes corporatifs compétents aux fins de l’inscription dans les
-   classes du tarif de risques ;
+   classes du tarif de risques ;
 3. un renseignement qu’ils ont fourni en vertu du § 996 pour l’évaluation de la main-d’œuvre ou, en
-   vertu du § 997, sur la situation de leurs exploitations et de leurs ouvriers ;
+   vertu du § 997, sur la situation de leurs exploitations et de leurs ouvriers ;
 4. une déclaration effectuée en vertu du § 968, relativement
    au changement intervenu dans la personne du
    chef d’exploitation ou, en vertu des §§ 969 et 970,
@@ -4840,22 +4840,22 @@ bases indiquées au § 1010.
 
 Le comité directeur de la Corporation a, en outre, le droit d’infliger des amendes pouvant
 s’élever jusqu’à {{< m "300" "marks" >}} aux chefs d’exploitations qui ne remplissent pas, en temps utile, les obligations
-qui leur incombent :
+qui leur incombent :
 
-1. en matière de déclarations, dans les cas du § 1043, alinéa 1, nos 1 et 4 ;
+1. en matière de déclarations, dans les cas du § 1043, alinéa 1, nos 1 et 4 ;
 2. en matière de prescriptions statutaires formulées pour les cas d’arrêt d’exploitation et de
    changement de chef.
 
 ###### Article 1045
 
 Sont applicables par analogie les dispositions de l’assurance-accidents dans les entreprises
-industrielles :
+industrielles :
 
 - du § 910 sur les recours contre l’application d’amendes à infliger par les comités-directeurs des
-  Corporations ;
-- du § 911 concernant l’imputation des cotisations sur la rémunération ;
-- du § 912 sur les amendes à infliger aux personnes assimilées aux chefs d’exploitations ;
-- du § 913 sur les amendes à infliger en cas de transfert des obligations du chef d’exploitation ;
+  Corporations ;
+- du § 911 concernant l’imputation des cotisations sur la rémunération ;
+- du § 912 sur les amendes à infliger aux personnes assimilées aux chefs d’exploitations ;
+- du § 913 sur les amendes à infliger en cas de transfert des obligations du chef d’exploitation ;
 - du § 914 concernant les caisses auxquelles ces amendes sont à faire parvenir.
 
 LIVRE QUATRIEME
@@ -4878,7 +4878,7 @@ conservé ses droits à cette rente.
 ###### Article 1252
 
 Des secours sont alloués aux survivants, si le défunt a accompli au moment de sa mort la
-période d’attente pour la rente d’invalidité et à conservé tous ces droits à cette rente ; toutefois les secours
+période d’attente pour la rente d’invalidité et à conservé tous ces droits à cette rente ; toutefois les secours
 pécuniaires de veuves et les dotations d’orphelins ne sont accordés que si, en outre, la veuve a accompli la
 période d’attente pour la rente d’invalidité et a conservé tous ses droits à cette rente au moment où ces
 avantages viennent à échéance.§ 1253. Aucune rente ne sera payée pour une période antérieure de plus
@@ -4913,7 +4913,7 @@ Est considérée comme atteinte d’invalidité, toute personne qui, dans une oc
 ses forces et à ses
 capacités et où il est tenu compte, dans une mesure
 raisonnable de son expérience et de la profession qu’elle a exercée
-jusqu'alors, n’est plus en état de gagner le tiers de ce que des personnes de sa condition, saines de
+jusqu’alors, n’est plus en état de gagner le tiers de ce que des personnes de sa condition, saines de
 corps et d’esprit, d’expérience analogue, gagnent d’ordinaire par leur travail dans la même région.
 
 L’assuré qui n’est pas atteint d’invalidité permanente, mais qui a été atteint d’invalidité pendant
@@ -5070,7 +5070,7 @@ supérieur des assurances sociales statue définitivement.
 
 ###### Article 1274
 
-L’institut d’assurance peut, avec le consentement de l’autorité de surveillance , consacrer
+L’institut d’assurance peut, avec le consentement de l’autorité de surveillance, consacrer
 certaines sommes pour favoriser ou faire appliquer des mesures générales en vue d’éviter l’invalidité
 prématurée des assurés ou en vue d’améliorer l’état sanitaire de la population assujettie à l’assurance. Le
 consentement susvisé peut aussi être accordé lorsqu’il s’agit de sommes globales.
@@ -5118,11 +5118,11 @@ VII. — PERIODE D’ATTENTE
 
 ###### Article 1278
 
-La période d’attente comprend :
+La période d’attente comprend :
 
 1. pour la rente d’invalidité, deux cents semaines de cotisations, si cent cotisations au moins ont été
    versées au profit de l’assuré sur la base de l’obligation de l’assurance, et dans les autres cas, cinq cents
-   semaines de cotisations ;
+   semaines de cotisations ;
 2. pour la rente de vieillesse, douze cents semaines de cotisations.
 
 ###### Article 1279
@@ -5144,9 +5144,9 @@ délivrance de la carte-quittance porté sur celle-ci (§ 1416), moins de vingt 
 
 ###### Article 1281
 
-Sont assimilées aux semaines de cotisations au sens du § 1280 :
+Sont assimilées aux semaines de cotisations au sens du § 1280 :
 
-1. les périodes de service militaire et de maladie (§§ 1393, 1394) ;
+1. les périodes de service militaire et de maladie (§§ 1393, 1394) ;
 2. les périodes sans occupation assujettie à l’assurance obligatoire au cours desquelles il a été accordé
    à l’intéressé ou au défunt une rente d’invalidité ou de vieillesse d’une caisse ou d’un établissement spécial
    de la catégorie indiquée aux §§ 1321, 1360, 1375, ou une rente d’accident comportant au moins le
@@ -5188,7 +5188,7 @@ chargées de l’assurance sont diminuées proportionnellement.
 ###### Article 1285
 
 Le subside de l’Empire consiste en une somme de {{< m "50" "marks" >}} par an pour chaque rente
-d’invalidité, de vieillesse, de veuve, de veuf ; de {{< m "25" "marks" >}} pour chaque rente d’orphelin ; en un versement
+d’invalidité, de vieillesse, de veuve, de veuf ; de {{< m "25" "marks" >}} pour chaque rente d’orphelin ; en un versement
 unique de {{< m "50" "marks" >}} pour chaque secours pécuniaire de veuve et de {{< m "16" "marks" >}} 2/3 pour chaque dotation
 d’orphelin.
 
@@ -5200,19 +5200,19 @@ d’après les périodes de service militaire ou de maladie qui comptent comme s
 ###### Article 1287
 
 L’institut d’assurance contribue aux rentes d’invalidité par une somme de base et par les
-majorations ; aux rentes des survivants, aux secours pécuniaires des veuves et aux dotations des orphelins,
-par une fraction de la somme de base et des majorations ; aux rentes de vieillesse par une somme annuelle
+majorations ; aux rentes des survivants, aux secours pécuniaires des veuves et aux dotations des orphelins,
+par une fraction de la somme de base et des majorations ; aux rentes de vieillesse par une somme annuelle
 fixe.
 
 ###### Article 1288
 
 La somme de base de la rente d’invalidité est toujours calculée sur cinq cents semaines de
 cotisations. S’il est justifié de moins de cinq cents semaines de cotisations, il est porté en compte, pour les
-semaines qui manquent, des cotisations de la première classe de salaire ; s’il y a plus de cinq cents
+semaines qui manquent, des cotisations de la première classe de salaire ; s’il y a plus de cinq cents
 semaines de cotisations, il n’y a pas lieu de compter les cotisations en surnombre des classes de salaires les
 moins élevées.
 
-On compte pour chaque semaine de cotisation :
+On compte pour chaque semaine de cotisation :
 
 dans la Ière classe de salaires 12 pfennigs (15 c.)
 
@@ -5223,7 +5223,7 @@ dans la Ière classe de salaires 12 pfennigs (15 c.)
 — IVe — 18 — (22 c. 1/2)
 
 — Ve — 20 — (25 c.)
-**§ 1289**). — Les majorations s’élèvent pour chaque semaine de cotisation :
+**§ 1289**). — Les majorations s’élèvent pour chaque semaine de cotisation :
 
 dans la Ière classe de salaires à 3 pfennigs (3 c. 3/4)
 
@@ -5248,16 +5248,16 @@ s’augmente d’un dixième pour chaque enfant jusqu’à concurrence de une fo
 
 ###### Article 1292
 
-La part de l’institut d’assurance comprend :
+La part de l’institut d’assurance comprend :
 
-- pour les rentes de veuves et de veufs, les trois dixièmes ;
-- pour les rentes d’orphelins : pour un orphelin les trois vingtièmes et pour chaque orphelin en sus un
+- pour les rentes de veuves et de veufs, les trois dixièmes ;
+- pour les rentes d’orphelins : pour un orphelin les trois vingtièmes et pour chaque orphelin en sus un
   quarantième de la somme de base et des majorations de la rente d’invalidité que recevait celui qui
   entretenait ces personnes au moment de sa mort ou qu’il aurait reçues en cas d’invalidité.
 
 ###### Article 1293
 
-La quote-part de la rente de vieillesse à fournir par l’institut d’assurance s’élève :
+La quote-part de la rente de vieillesse à fournir par l’institut d’assurance s’élève :
 dans la Ière classe de salaire à {{< m "60" "marks" >}}
 — IIe — à 90
 — IIIe — à 120
@@ -5326,7 +5326,7 @@ décès ils aient vécu en ménage commun avec lui.
 ###### Article 1303
 
 Lorsqu’un assuré ou la personne ayant droit à une rente de veuve, de veuf ou à un secours
-pécuniaire de veuve , décède après avoir fait valoir son droit, le conjoint, les enfants, le père, la mère, les
+pécuniaire de veuve, décède après avoir fait valoir son droit, le conjoint, les enfants, le père, la mère, les
 frères et sœurs, ont le droit, dans l’ordre indiqué, de continuer la procédure et de réclamer les arrérages
 échus jusqu’au jour du décès, à condition qu’au moment du décès de l’impétrant ils aient vécu en ménage
 commun avec lui.
@@ -5384,10 +5384,10 @@ EN CAPITAL
 ###### Article 1311
 
 La rente est suspendue lorsqu’elle vient se superposer à une rente d’accident en vertu
-d’une loi impériale pour autant que les deux rentes excèdent ensemble :
+d’une loi impériale pour autant que les deux rentes excèdent ensemble :
 
 1. pour les rentes d’invalidité et de vieillesse, sept fois et demie la somme de base de la rente
-   d’invalidité ;
+   d’invalidité ;
 2. pour les rentes de veuve et de veuf, trois fois et demi et pour les rentes d’orphelins, trois fois la
    somme de base de la rente d’invalidité dont leur soutien jouissait au moment de sa mort ou dont il aurait
    joui s’il avait été invalide.
@@ -5402,9 +5402,9 @@ produit de son travail, la rente d’invalidité ou de vieillesse leur est accor
 
 ###### Article 1313
 
-La rente est suspendue :
+La rente est suspendue :
 
-1. aussi longtemps que l’intéressé réside habituellement à l’étranger de sa libre volonté ;
+1. aussi longtemps que l’intéressé réside habituellement à l’étranger de sa libre volonté ;
 2. aussi longtemps qu’un étranger ayant droit à la rente est expulsé du territoire {{< t "allemand" "français" >}} à la suite
    d’une condamnation pénale. Cette disposition s’applique également aux étrangers ayant droit à la rente
    qui, à la suite d’une condamnation pénale, ont été expulsés du territoire d’un Etat Confédéré à condition
@@ -5470,7 +5470,7 @@ minières, en ce qui concerne l’assistance en cas d’invalidité ou de vieill
 Les allocations statutaires qui ont été accordées par la caisse avant la décision des autorités
 compétentes ou avant le 1er janvier 1891, ne peuvent être réduites.
 
-Les dispositions nécessaires doivent être prises par les caisses par modification des statuts ; celle-ci
+Les dispositions nécessaires doivent être prises par les caisses par modification des statuts ; celle-ci
 doit recevoir l’approbation de l’autorité compétente. Cette autorité peut d’ailleurs procéder elle-même, avec
 effet égal, à cette modification, si la caisse repousse la requête des employeurs intéressés ou de la majorité
 des membres.
@@ -5492,7 +5492,7 @@ les allocations accordées en vertu de la législation d’Empire, doivent dépa
 au montant du subside d’Empire la somme qu’atteindraient les secours statutaires s’ils ne subissaient pas de
 réduction. Il y a lieu de réduire toutes les cotisations ou, en cas de consentement de l’employeur, au moins
 celles des
-membres , au prorata de la réduction des secours. Les contestations qui s’élèvent au sujet du montant
+membres, au prorata de la réduction des secours. Les contestations qui s’élèvent au sujet du montant
 de la réduction des cotisations sont réglées par l’autorité de surveillance.
 
 Les statuts peuvent prescrire que les allocations et les cotisations correspondantes ne soient pas
@@ -5509,14 +5509,14 @@ rendent l’adhésion obligatoire en vertu des dispositions de règlements locau
 
 ###### Article 1324
 
-Les droits à la rente peuvent être compensés seulement :
+Les droits à la rente peuvent être compensés seulement :
 
 - par des droits en remboursement de rentes d’accidents et d’indemnités reçues, en tant que l’institut
-  d’assurance y a droit en vertu des dispositions des §§ 1522, alinéa 3, et 1542 ;
-- par des cotisations dues ;
-- par des avances payées ;
-- par des arrérages de rentes payés indûment ;
-- par les frais de procédure à rembourser ;
+  d’assurance y a droit en vertu des dispositions des §§ 1522, alinéa 3, et 1542 ;
+- par des cotisations dues ;
+- par des avances payées ;
+- par des arrérages de rentes payés indûment ;
+- par les frais de procédure à rembourser ;
 - par les amendes infligées par les organes de l’institut d’assurance.
 
 ###### Article 1325
@@ -5546,7 +5546,7 @@ Les ressources nécessaires au service de l’assurance sont fournies par l’Em
 employeurs et les assurés.
 
 L’Empire y contribue par des subsides ajoutés aux rentes, aux secours pécuniaires de veuves et aux
-dotations d’orphelins (§ 1285) payés effectivement chaque année ; les employeurs et les assurés y
+dotations d’orphelins (§ 1285) payés effectivement chaque année ; les employeurs et les assurés y
 contribuent par des cotisations courantes, à parts égales (§§ 1432, 1439, 1458), pour chaque semaine de
 travail assujetti à l’assurance (semaine de cotisation).
 La semaine de cotisation commence le lundi.
@@ -5556,7 +5556,7 @@ La semaine de cotisation commence le lundi.
 ###### Article 1388
 
 Les cotisations hebdomadaires sont fixées d’avance et d’une manière uniforme par le
-Conseil Fédéral ; elles sont fixées tout d’abord pour une période expirant le 31 décembre 1920, et le seront
+Conseil Fédéral ; elles sont fixées tout d’abord pour une période expirant le 31 décembre 1920, et le seront
 ensuite d’après les résultats de l’expérience (§ 1391), chaque fois pour dix années. Les modifications
 doivent être approuvées par le Reichstag.
 
@@ -5587,7 +5587,7 @@ Les déficits ou les excédents doivent être équilibrés par les cotisations n
 
 ###### Article 1392
 
-Jusqu’à nouvelle fixation, il est perçu à titre de cotisation hebdomadaire :
+Jusqu’à nouvelle fixation, il est perçu à titre de cotisation hebdomadaire :
 dans la classe I de salaire
 à 18 pfennigs (22 c. ½)
 —
@@ -5620,10 +5620,10 @@ Ve —
 ###### Article 1393
 
 Sont portées en compte comme semaines de cotisations de la IIe classe de salaire sans qu’il
-soit nécessaire que des cotisations soient versées, les semaines entières pendant lesquelles les assurés :
+soit nécessaire que des cotisations soient versées, les semaines entières pendant lesquelles les assurés :
 
-1. ont été appelés à servir dans l’armée en temps de paix, de mobilisation ou de guerre ;
-2. ont volontairement servi dans l’armée en temps de mobilisation ou de guerre ;
+1. ont été appelés à servir dans l’armée en temps de paix, de mobilisation ou de guerre ;
+2. ont volontairement servi dans l’armée en temps de mobilisation ou de guerre ;
 3. ont été, par suite de maladie, temporairement incapables de travailler et ont été empêchés, ainsi
    que la preuve en a été faite, de continuer leur occupation professionnelle.
 
@@ -5654,12 +5654,12 @@ supportées par chaque institution en particulier.
 
 ###### Article 1396
 
-La charge commune est constituée :
+La charge commune est constituée :
 
 - par les sommes de base des rentes d’invalidité et les suppléments de rentes, lorsqu’il y a des enfants
-  (§ 1291) ;
+  (§ 1291) ;
 - par les parts pour lesquelles les instituts d’assurance contribuent aux rentes de vieillesse, de veuves,
-  de veufs et d’orphelins, ainsi qu’aux secours pécuniaires de veuves et aux dotations d’orphelins ;
+  de veufs et d’orphelins, ainsi qu’aux secours pécuniaires de veuves et aux dotations d’orphelins ;
 - par les majorations de rentes du chef de semaines de service militaire et de maladie, et
   par les sommes nécessaires pour arrondir le chiffre des rentes.
 
@@ -5732,7 +5732,7 @@ instituts, ces derniers doivent, à la fin de l’exercice, les lui rembourser e
 Le service actuariel détermine pour chaque année
 et pour chaque institut le capital représentatif des
 rentes en cours dont le paiement a été mandaté par ce
-dernier , et la partie qui incombe à l’Empire aux fonds communs et aux fonds particuliers. Le Conseil
+dernier, et la partie qui incombe à l’Empire aux fonds communs et aux fonds particuliers. Le Conseil
 Fédéral règle le calcul du capital représentatif.
 
 ###### Article 1405
@@ -5770,7 +5770,7 @@ sommes qui doivent être remboursées par l’Empire et par chacun des instituts
 L’institut d’assurance est tenu, dans les deux semaines de la réception de cette
 communication, de rembourser sur les ressources disponibles, les avances faites par l’administration des
 postes. A défaut de ressources, l’union des communes ou l’Etat Confédéré fait l’avance des sommes
-nécessaires ; pour les instituts d’assurance communs, cette avance est effectuée sur la base du nombre des
+nécessaires ; pour les instituts d’assurance communs, cette avance est effectuée sur la base du nombre des
 habitants lors du dernier recensement.
 
 ###### Article 1409
@@ -5849,7 +5849,7 @@ est supporté par l’institut d’assurance du ressort de la circonscription o�
 Chaque carte doit contenir la place nécessaire pour recevoir cinquante-deux timbres
 hebdomadaires pour le moins. Les cartes doivent être numérotées dans un ordre continu pour chaque
 assuré. La première carte délivrée doit porter en tête le nom de l’institut d’assurance dans la circonscription
-duquel l’assuré est occupé à l’époque de sa délivrance ; chacune des cartes suivantes doit porter le nom de
+duquel l’assuré est occupé à l’époque de sa délivrance ; chacune des cartes suivantes doit porter le nom de
 l’institut précité (institut primitif). Si la désignation diffère sur une carte ultérieure, c’est l’indication de la
 première carte qui fait foi.
 
@@ -5882,9 +5882,9 @@ de le faire, l’assuré est tenu, en cas de contestation, de prouver qu’il a 
 Les cartes-quittance perdues, devenues inutilisables ou détruites sont remplacées par de
 nouvelles cartes.
 
-Les cotisations, dont le paiement peut être établi, font l’objet d’une transcription certifiée ; les
+Les cotisations, dont le paiement peut être établi, font l’objet d’une transcription certifiée ; les
 instituts d’assurance compétents sont entendus au préalable lorsque la carte devenu inutilisable n’est pas
-présentée ; dans tous les cas ils en sont informés après.
+présentée ; dans tous les cas ils en sont informés après.
 
 ###### Article 1422
 
@@ -5908,7 +5908,7 @@ comment la destruction des cartes doit être effectuée.
 ###### Article 1424
 
 La carte ne peut contenir d’autres inscriptions que celles qui sont prévues par la présente
-loi, ni porter aucune marque spéciale ; il est absolument interdit d’y faire figurer une indication quelconque
+loi, ni porter aucune marque spéciale ; il est absolument interdit d’y faire figurer une indication quelconque
 concernant la conduite ou les services du titulaire. Les cartes non conformes aux dispositions susdites
 doivent être retenues par l’autorité à laquelle elles parviennent et être remplacées par d’autres. Les
 cotisations dont le paiement peut être établi font l’objet d’une transcription certifiée. Les instituts intéressés
@@ -5936,7 +5936,7 @@ occupé l’assuré pendant la semaine de cotisation.
 
 Si plusieurs employeurs occupent l’assuré pendant la semaine, le montant total doit être payé par
 l’employeur qui a occupé l’assuré le premier. Si, ni ce dernier, ni l’assuré lui-même n’ont payé la cotisation
-(§ 1439), il incombe à l’employeur qui a occupé l’assuré en second lieu de la payer ; toutefois, le second
+(§ 1439), il incombe à l’employeur qui a occupé l’assuré en second lieu de la payer ; toutefois, le second
 employeur a le droit de se faire rembourser par le premier. Si l’assuré est occupé simultanément par
 plusieurs employeurs à des travaux soumis à l’obligation de l’assurance, les employeurs sont solidairement
 responsables.
@@ -6006,7 +6006,7 @@ Les employeurs contre lesquels une décision de l’Office d’assurance a été
 retenues sur le salaire, que pour la période pour laquelle il est établi qu’ils ont déjà payé les cotisations
 dues.
 
-Lorsque la procédure de recouvrement est instituée , toute disposition prise en vertu du § 398 est
+Lorsque la procédure de recouvrement est instituée, toute disposition prise en vertu du § 398 est
 également valable pour le paiement des cotisations de l’assurance-invalidité et des survivants. Dans ce cas,
 les assurés sont tenus de payer eux-mêmes leur quote-part au jour de paye.
 
@@ -6086,12 +6086,12 @@ permanente ou passagère, ni pour l’invalidité ultérieure.
 
 ###### Article 1444
 
-Equivaut au versement des cotisations au sens des §§ 1442, 1443 :
+Equivaut au versement des cotisations au sens des §§ 1442, 1443 :
 
-1. la sommation faite à l’employeur par un service compétent ;
+1. la sommation faite à l’employeur par un service compétent ;
 2. la déclaration de l’employeur ou de l’assuré au service compétent qu’il est disposé à s’acquitter des
-   cotisations en retard ;
-   lorsque celles-ci sont ensuite versées dans un délai approprié ;
+   cotisations en retard ;
+   lorsque celles-ci sont ensuite versées dans un délai approprié ;
 
 Les périodes pendant lesquelles il y a contestation au sujet des cotisations (§§ 1459 à 1461) où une
 procédure est en cours concernant un droit à une rente d’invalidité, de vieillesse, de veuves ou de veufs, ne
@@ -6142,7 +6142,7 @@ assujetties à
 l’assurance ou à des catégories déterminées d’assurés,
 soient recouvrées pour le compte de l’institut d’assurance,
 par les caisses-maladie, les associations minières ou les caisses
-minières , par d’autres organes qu’elle désignera ou par des bureaux locaux de recouvrement de
+minières, par d’autres organes qu’elle désignera ou par des bureaux locaux de recouvrement de
 l’institut d’assurance. Elle peut en même temps formuler des dispositions relatives à la déclaration
 obligatoire des assurés.
 
@@ -6158,7 +6158,7 @@ sont tenus de les créer à leurs frais aux endroits désignés par l’autorit�
 
 ###### Article 1449
 
-L’institut s’assurance est tenu d’allouer une rétribution aux bureaux de recouvrement ; si
+L’institut s’assurance est tenu d’allouer une rétribution aux bureaux de recouvrement ; si
 les intéressés ne tombent pas d’accord, l’autorité administrative suprême fixe la rétribution.
 
 ###### Article 1450
@@ -6200,15 +6200,15 @@ recouvrement. Dans ce cas, l’institut d’assurance et le bureau de recouvreme
 
 ###### Article 1455
 
-L’autorité administrative suprême peut décider que :
+L’autorité administrative suprême peut décider que :
 
 1. la délivrance et l’échange des cartes-quittance seront effectués par les caisses-maladie, les
    associations minières ou les caisses minières, ou par les bureaux locaux de recouvrement des instituts
-   d’assurance ;
+   d’assurance ;
 2. la moitié des cotisations qui incombe aux personnes
    occupées à des travaux temporaires (§ 441), sera versée immédiatement par ces dernières, tandis que l’autre
    moitié
-   sera avancée par l’union des communes ou la commune et restituée à celle-ci par l’employeur ;
+   sera avancée par l’union des communes ou la commune et restituée à celle-ci par l’employeur ;
    l’application des §§ 453 et suivants peut être ordonnée par analogie.
 
 A cet effet, l’institut d’assurance doit allouer aux bureaux désignés une compensation spéciale, dont
@@ -6281,7 +6281,7 @@ remboursée aux intéressés.
 
 ###### Article 1463
 
-L’Office d’assurance peut, au lieu de détruire les timbres de cotisations , retirer la carte-
+L’Office d’assurance peut, au lieu de détruire les timbres de cotisations, retirer la carte-
 quittance et faire reporter sur une nouvelle carte les indications valables de la carte précédente.
 
 ###### Article 1464
@@ -6485,15 +6485,15 @@ ne pouvant dépasser {{< m "300" "marks" >}} et s’il y a simple négligence d�
 ###### Article 1490
 
 Sont passibles d’une amende de {{< m "300" "marks" >}} au plus ou de détention simple, à moins
-qu’une pénalité plus forte ne soit prévue par d’autres dispositions légales :
+qu’une pénalité plus forte ne soit prévue par d’autres dispositions légales :
 
 1. les employeurs qui déduisent intentionnellement, aux personnes qu’ils occupent, des cotisations
-   supérieures à celles permises par la présente loi ;
-2. les employeurs qui contreviennent intentionnellement au § 1435, alinéa 1 ;
+   supérieures à celles permises par la présente loi ;
+2. les employeurs qui contreviennent intentionnellement au § 1435, alinéa 1 ;
 3. les employeurs qui, dans le cas du § 1435, alinéa 2, font des retenues sur le salaire alors que
-   l’Office d’assurance a pris à leur égard une décision en vertu du § 398 ;
+   l’Office d’assurance a pris à leur égard une décision en vertu du § 398 ;
 4. les employés qui opèrent intentionnellement sur le salaire des retenues plus fortes que celles que
-   prévoit la présente loi ;
+   prévoit la présente loi ;
 5. les personnes qui retiennent illégalement une carte-quittance d’un assuré.
 
 ###### Article 1491
@@ -6518,13 +6518,13 @@ S’il y a des circonstances atténuantes, l’amende peut être prononcée seul
 
 ###### Article 1493
 
-Les mêmes dispositions pénales sont applicables :
+Les mêmes dispositions pénales sont applicables :
 
 1. aux membres de la direction, lorsque l’employeur est une société par actions, association
-   d’assurance mutuelle, une coopérative enregistrée, une corporation de métier ou autre personne juridique ;
-2. aux gérants, lorsque l’employeur est une société à responsabilité limitée ;
+   d’assurance mutuelle, une coopérative enregistrée, une corporation de métier ou autre personne juridique ;
+2. aux gérants, lorsque l’employeur est une société à responsabilité limitée ;
 3. aux associés personnellement responsables qui ne sont pas exclus de la représentation, lorsque
-   l’employeur est une autre société commerciale ;
+   l’employeur est une autre société commerciale ;
 4. aux représentants légaux des employeurs incapables ou n’ayant qu’une capacité restreinte, ainsi
    qu’aux liquidateurs d’une société commerciale, d’une association d’assurance mutuelle, d’une coopérative
    enregistrée, d’une corporation de métier ou d’une autre personne juridique.
@@ -6535,10 +6535,10 @@ L’employeur peut déléguer les obligations qui lui incombent en vertu de la p
 par les statuts, aux directeurs-gérants, aux surveillants ou autres employés de son exploitation.
 
 Si ces délégués contreviennent aux dispositions qui impliquent des pénalités contre l’employeur, ces
-pénalités leur sont applicables. Indépendamment d’eux, l’employeur encourt des pénalités :
+pénalités leur sont applicables. Indépendamment d’eux, l’employeur encourt des pénalités :
 
-1. si la contravention a eu lieu au su de l’employeur ;
-2. lorsqu’il n’a pas apporté les soins habituels dans le choix et la surveillance de ses délégués ; mais
+1. si la contravention a eu lieu au su de l’employeur ;
+2. lorsqu’il n’a pas apporté les soins habituels dans le choix et la surveillance de ses délégués ; mais
    dans ce cas l’employeur n’est passible que d’amende seulement.
 
 Le paiement d’une somme égale au montant des
@@ -6568,7 +6568,7 @@ pécuniaire ou de causer à ceux-ci un préjudice.
 
 Quiconque fabrique ou falsifie des timbres, pour les utiliser comme des timbres
 authentiques, ou qui, dans ce but, se procure, emploie, offre en vente ou met en circulation des faux timbres
-est passible d’un emprisonnement de trois mois au moins ; il peut en outre être condamné à la privation de
+est passible d’un emprisonnement de trois mois au moins ; il peut en outre être condamné à la privation de
 ses droits civiques.
 
 ###### Article 1497
@@ -6637,7 +6637,7 @@ La somme à rembourser pour l’assistance médicale en cas de maladie s’élè
 huitièmes du salaire de base d’après lequel se règle le secours pécuniaire alloué à l’intéressé.
 
 La même disposition s’applique aux soins médicaux si les soins sont accordés dans un hôpital. Le
-remboursement de l’entretien dans un hôpital comporte la moitié du salaire de base ; le remboursement de
+remboursement de l’entretien dans un hôpital comporte la moitié du salaire de base ; le remboursement de
 cette somme ne peut être imputé que sur la rente-accident.
 
 ###### Article 1504
@@ -6687,7 +6687,7 @@ le jour où elle en a eu connaissance.
 
 La caisse-maladie peut poursuivre la détermination de la réparation due pour l’accident et
 introduire des recours. Si des délais ont pris fin sans qu’il y ait de sa faute, cette expiration ne peut lui être
-opposée ; cette disposition ne s’applique pas aux délais de procédure, lorsque la caisse-maladie poursuit
+opposée ; cette disposition ne s’applique pas aux délais de procédure, lorsque la caisse-maladie poursuit
 elle-même la procédure.
 
 ###### Article 1510
@@ -6730,7 +6730,7 @@ l’accident, les prestations qui incombaient à la caisse-maladie en vertu de l
 l’assistance
 médicale ou des secours pécuniaires, elle peut accorder le
 traitement dans un hôpital ou le secours pécuniaire de famille, conformément aux dispositions des
-§§ 184, 186 ; elle peut également, avec l’assentiment du malade, lui procurer l’assistance prévue au § 185.
+§§ 184, 186 ; elle peut également, avec l’assentiment du malade, lui procurer l’assistance prévue au § 185.
 
 La caisse-maladie est tenue de dédommager l’institution chargée de l’assurance-accidents dans la
 mesure où le malade était fondé à lui réclamer des secours de maladie en vertu de la loi ou des statuts, à
@@ -6767,7 +6767,7 @@ Les dispositions des §§ 1512 à 1515 s’appliquent également aux caisses-mal
 et aux caisses libres agréées. La déclaration obligatoire, en ce qui concerne les caisses libres, doit être
 réglée par les statuts.
 
-Le salaire de base fixé d’après le § 180 s’applique aux membres des caisses-maladie minières ; le
+Le salaire de base fixé d’après le § 180 s’applique aux membres des caisses-maladie minières ; le
 salaire de base de la caisse-maladie à laquelle ils appartiennent s’applique aux membres des caisses libres
 agréées.
 
@@ -6919,12 +6919,12 @@ laquelle est basé le droit de l’assisté vis-à-vis de la caisse.
 
 ###### Article 1533
 
-Doivent être remboursés :
+Doivent être remboursés :
 
-1. les frais d’enterrement accordés au décès de l’assuré, sur l’indemnité funéraire ;
+1. les frais d’enterrement accordés au décès de l’assuré, sur l’indemnité funéraire ;
 2. les indemnités allouées pendant la maladie de l’assuré correspondant à l’assistance médicale,
    même en cas de traitement dans un hôpital, conformément au § 1503, sur les prestations de la caisse-
-   maladie qui correspondent aux dites indemnités ;
+   maladie qui correspondent aux dites indemnités ;
 3. les autres indemnités, sur les prestations de la caisse-maladie correspondantes. En ce cas, on
    compte la moitié du salaire de base pour l’entretien de l’intéressé dans un hôpital. Les §§ 1506, 1507 sont
    applicables par analogie en ce qui concerne l’étendue du droit au remboursement et la mesure dans laquelle
@@ -6937,12 +6937,12 @@ prestations de l’assurance-accidents, que lorsque l’assistance a été allou
 
 ###### Article 1535
 
-Doivent être remboursés :
+Doivent être remboursés :
 
-1. les frais d’enterrement sur l’indemnité funéraire ;
+1. les frais d’enterrement sur l’indemnité funéraire ;
 2. les secours qui correspondent aux soins médicaux incombant à l’institution chargée de l’assurance-
    accidents, même en cas de traitement dans un hôpital, sur les prestations correspondantes de ladite
-   institution jusqu’à concurrence des dépenses effectives ;
+   institution jusqu’à concurrence des dépenses effectives ;
 3. les autres secours, sur la rente-accident. Les §§ 1506, 1507 sont applicables en ce qui concerne
    l’étendue du remboursement et la mesure dans laquelle il peut être imputé sur la rente.
 
@@ -7021,9 +7021,9 @@ I. — OUVERTURE DE LA PROCEDURE
 
 ###### Article 1545
 
-Les prestations accordées en vertu de l’assurance sociale doivent être fixées :
+Les prestations accordées en vertu de l’assurance sociale doivent être fixées :
 
-1. d’office, en matière d’assurance-accidents ;
+1. d’office, en matière d’assurance-accidents ;
 2. dans les autres cas, sur demande.
 
 La détermination doit avoir lieu d’urgence.
@@ -7038,12 +7038,12 @@ délai est compté à partir du jour où est né, conformément au § 1099, le d
 
 ###### Article 1547
 
-Après l’expiration de ce délai, le droit peut encore être invoqué :
+Après l’expiration de ce délai, le droit peut encore être invoqué :
 
 1. lorsqu’une nouvelle conséquence de l’accident, de nature à donner ouverture à réparation, ne s’est
    manifestée qu’ultérieurement ou qu’une conséquence, née dans le délai, ne s’est manifestée d’une façon
    beaucoup plus sensible qu’après l’expiration de ce délai, même lorsque le mal s’est développé d’une façon
-   lente et constante ;
+   lente et constante ;
 2. si l’intéressé s’est trouvé empêché de faire la déclaration par suite de circonstances indépendantes
    de sa volonté.
 
@@ -7066,7 +7066,7 @@ l’obstacle.
 Les délais (§§ 1546 à 1548) sont considérés comme observés, même lorsque la demande
 est adressée à une institution chargée de l’assurance-accidents non compétente ou à un Office d’assurance.
 
-La déclaration doit être transmise sans retard à l’institution compétente ; l’intéressé doit en être avisé.
+La déclaration doit être transmise sans retard à l’institution compétente ; l’intéressé doit en être avisé.
 
 ###### Article 1550
 
@@ -7080,22 +7080,22 @@ II. — ASSURANCE-MALADIE
 Les demandes visant les prestations de l’assurance-maladie doivent être introduites auprès
 de la caisse-maladie ou des autres institutions ou personnes tenues de les allouer.
 
-Sont considérées également comme prestations de l’assurance-maladie :
+Sont considérées également comme prestations de l’assurance-maladie :
 
 - les prestations des caisses-maladie, des caisses-maladie minières et des caisses libres agréées, d’après
-  les §§ 573, 1083 ;
+  les §§ 573, 1083 ;
 - les prestations des entrepreneurs, des employeurs et des institutions chargées de l’assistance prévue
-  par les §§ 577, 1084, 1085 ;
+  par les §§ 577, 1084, 1085 ;
 - les prestations de communes ou des caisses-maladie, dans les cas prévus par les §§ 942 à 944, 1087,
-  alinéa 2, § 1088, alinéa 2, § 1089 ;
+  alinéa 2, § 1088, alinéa 2, § 1089 ;
 - les prestations des institutions chargées de l’assurance-accidents, s’il s’agit du traitement médical,
-  dans les cas des §§ 580, 946, 1092 ;
+  dans les cas des §§ 580, 946, 1092 ;
 - les prestations des caisses-maladie, des caisses-maladie minières, des caisses libres agréées, des
   communes et de l’entrepreneur, aux institutions chargées de l’assurance-accidents, d’après les §§ 583, 948,
-  1094 ;
+  1094 ;
 - les prestations des caisses-maladie, des caisses-maladie minières et des caisses libres agréées, en cas
   de transfert de l’assistance par les institutions chargées de l’assurance-invalidité et des survivants d’après
-  les §§ 1519, 1521, en tant qu’il ne s’agit pas d’une rente d’invalidité ou d’une rente de survivants :
+  les §§ 1519, 1521, en tant qu’il ne s’agit pas d’une rente d’invalidité ou d’une rente de survivants :
   les prestations des entrepreneurs, communes ou caisses-maladie, lorsque les soins à donner pendant
   les treize premières semaines leur ont été confiés par la Corporation des gens de mer, d’après le § 1106 ou
   par la succursale, d’après le § 1091.
@@ -7192,12 +7192,12 @@ désigne la personne ou l’autorité qui procédera à l’enquête sur l’acc
 
 ###### Article 1562
 
-Peuvent prendre part à l’enquête ou s’y faire représenter :
+Peuvent prendre part à l’enquête ou s’y faire représenter :
 
-- la victime ou ses survivants ;
-- l’institution chargée de l’assurance-accidents et l’institution chargée de l’assurance-maladie ;
-- le chef d’entreprise ;
-- l’Office d’assurance ;
+- la victime ou ses survivants ;
+- l’institution chargée de l’assurance-accidents et l’institution chargée de l’assurance-maladie ;
+- le chef d’entreprise ;
+- l’Office d’assurance ;
 - en cas d’accidents dans des exploitations soumises à l’inspection du travail, l’inspecteur officiel du
   travail.
 
@@ -7228,14 +7228,14 @@ l’autorité navale.
 
 ###### Article 1565
 
-Sont notamment déterminées par l’enquête :
+Sont notamment déterminées par l’enquête :
 
-- l'occasion, l’époque, le lieu, les circonstances et la nature de l’accident ;
-- le nom de la personne tuée ou blessée, ainsi que la date et le lieu de sa naissance ;
-- la nature de la blessure ;
-- le lieu où le blessé se trouve ;
+- l’occasion, l’époque, le lieu, les circonstances et la nature de l’accident ;
+- le nom de la personne tuée ou blessée, ainsi que la date et le lieu de sa naissance ;
+- la nature de la blessure ;
+- le lieu où le blessé se trouve ;
 - les survivants de la personne tuée et les proches parents de la victime, qui peuvent prétendre à la
-  réparation, en vertu de la présente loi ;
+  réparation, en vertu de la présente loi ;
 - le montant de secours et de rentes alloués à la victime en vertu de l’assurance impériale.
 
 ###### Article 1566
@@ -7257,28 +7257,28 @@ Des frais de copie peuvent être exigés.
 
 ###### Article 1568
 
-Les prestations de l’assurance-accidents sont fixées :
+Les prestations de l’assurance-accidents sont fixées :
 
-1. si la Corporation est divisée en sections, par le comité-directeur de la section lorsqu’il s’agit :
-   a) du traitement médical (§ 558, n° 1) ou des soins donnés à domicile (§ 599) ;
-   b) de la rente à fournir pour la durée d’une incapacité présumée passagère ;
-   c) des soins à donner dans un hôpital ;
-   d) de la rente des proches parents ;
-   e) des frais funéraires ;
+1. si la Corporation est divisée en sections, par le comité-directeur de la section lorsqu’il s’agit :
+   a) du traitement médical (§ 558, n° 1) ou des soins donnés à domicile (§ 599) ;
+   b) de la rente à fournir pour la durée d’une incapacité présumée passagère ;
+   c) des soins à donner dans un hôpital ;
+   d) de la rente des proches parents ;
+   e) des frais funéraires ;
 2. dans tous les autres cas, par le comité-directeur de la Corporation.
 
 ###### Article 1569
 
-Les statuts de la Corporation peuvent confier la détermination des indemnités :
+Les statuts de la Corporation peuvent confier la détermination des indemnités :
 
-1. dans les cas du § 1568, numéro 1 :
-   au comité directeur de la Corporation ;
-   à une commission du comité-directeur de la Corporation ou de la section ;
-   à des commissions spéciales ;
+1. dans les cas du § 1568, numéro 1 :
+   au comité directeur de la Corporation ;
+   à une commission du comité-directeur de la Corporation ou de la section ;
+   à des commissions spéciales ;
    à des délégués locaux;
-2. dans les cas du § 1568, numéro 2 :
-   au comité-directeur de la section ;
-   à une commission du comité-directeur de la Corporation ou de la section ;
+2. dans les cas du § 1568, numéro 2 :
+   au comité-directeur de la section ;
+   à une commission du comité-directeur de la Corporation ou de la section ;
    à des commissions spéciales.
 
 ###### Article 1570
@@ -7405,18 +7405,18 @@ b) NOTIFICATION DE LA DECISION
 
 ###### Article 1583
 
-L’organe appelé à fixer la prestation (§§ 1568 à 1570) statue par décision écrite :
+L’organe appelé à fixer la prestation (§§ 1568 à 1570) statue par décision écrite :
 
-1. si une indemnité doit être accordée ou refusée ;
+1. si une indemnité doit être accordée ou refusée ;
 2. si une rente doit faire l’objet d’une nouvelle détermination par suite de modifications intervenues
-   dans les circonstances (§§ 608, 955, 1115) ;
-3. s’il s’agit :
+   dans les circonstances (§§ 608, 955, 1115) ;
+3. s’il s’agit :
 
-- du traitement médical (§ 558, n° 1) ou des soins donnés à domicile (§ 599) ;
-- de l’hospitalisation et de la rente des proches parents ;
-- de la détermination des prestations à l’expiration du traitement dans un hôpital ;
-- des frais funéraires ;
-- du retrait de la rente d’accidents par suite de la suspension de la rente ;
+- du traitement médical (§ 558, n° 1) ou des soins donnés à domicile (§ 599) ;
+- de l’hospitalisation et de la rente des proches parents ;
+- de la détermination des prestations à l’expiration du traitement dans un hôpital ;
+- des frais funéraires ;
+- du retrait de la rente d’accidents par suite de la suspension de la rente ;
 - de l’indemnisation d’un assuré par le paiement d’un capital.
 
 Dans la notification qui fixe l’indemnité en capital, il y a lieu d’appeler l’attention de l’intéressé sur le
@@ -7479,7 +7479,7 @@ du président suffit.
 ###### Article 1590
 
 La notification de la décision doit porter qu’elle deviendra définitive si l’intéressé ne fait
-pas opposition dans le délai légal ; elle doit également mentionner le délai de l’opposition et faire état des
+pas opposition dans le délai légal ; elle doit également mentionner le délai de l’opposition et faire état des
 droits visés dans les §§ 1592, 1595, 1596.
 c) OPPOSITION
 
@@ -7546,7 +7546,7 @@ définitivement, en cas de contestation au sujet du remboursement.
 ###### Article 1597
 
 L’Office d’assurance décide jusqu’à quel point les rapports médicaux précédents doivent
-être communiqués au nouvel expert (§§ 1595, 1596) ; celui-ci doit être autorisé sur sa demande, à consulter
+être communiqués au nouvel expert (§§ 1595, 1596) ; celui-ci doit être autorisé sur sa demande, à consulter
 les autres documents de la procédure préparatoire.
 
 ###### Article 1598
@@ -7591,7 +7591,7 @@ L’audition de l’intéressé (§ 1594) et les enquêtes (§ 1598, phrase 2) p
 au débat oral, lorsque la chose paraît opportune.
 
 La Corporation peut se faire représenter par un délégué (§§ 678, n° 3, 973, 1144) ou par un membre
-d’un autre organe ; l’intéressé peut se faire assister par des membres majeurs de sa famille ou d’autres
+d’un autre organe ; l’intéressé peut se faire assister par des membres majeurs de sa famille ou d’autres
 personnes compétentes. Le représentant de la Corporation et la personne qui assiste l’intéressé ne peuvent
 appartenir à la catégorie des personnes qui plaident à titre professionnel devant les autorités.
 
@@ -7621,7 +7621,7 @@ Les dispositions des §§ 1588, 1589 s’appliquent à la décision finale.
 
 Il sera délivré gratuitement à l’intéressé, sur sa demande, copie de l’avis de l’Office d’assurance. Il
 pourra se faire délivrer, en outre, copie des procès-verbaux des dépositions des témoins et des experts, ainsi
-que du rapport médical ; le montant des frais doit être payé d’avance par l’intéressé. Toutes ces copies ne
+que du rapport médical ; le montant des frais doit être payé d’avance par l’intéressé. Toutes ces copies ne
 doivent être fournies que pour autant que la chose puisse se justifier vis-à-vis de l’intéressé. L’Office
 supérieur se prononce définitivement sur les recours.
 
@@ -7665,12 +7665,12 @@ rédaction des décisions ou décisions finales.
 ###### Article 1612
 
 L’Office d’assurance informe l’institution chargée de l’assurance chaque fois qu’il
-apprend :
+apprend :
 
-- qu'il paraît utile que l’institution prenne à sa charge le traitement médical avant l’expiration de la
-  période d’attente ou qu’elle transfère le traitement à la caisse-maladie après l’expiration de cette période ;
+- qu’il paraît utile que l’institution prenne à sa charge le traitement médical avant l’expiration de la
+  période d’attente ou qu’elle transfère le traitement à la caisse-maladie après l’expiration de cette période ;
 - qu’une rente-accident doit être fixée à nouveau ou retirée par suite d’un changement de la situation de
-  l’intéressé ;
+  l’intéressé ;
 - qu’une rente doit être suspendue.
 
 IV. — ASSURANCE-INVALIDITE ET DES SURVIVANTS
@@ -7689,7 +7689,7 @@ Les §§ 1637 à 1640 s’appliquent par analogie à la compétence de l’Offic
 ###### Article 1615
 
 Si le paiement d’une rente de veuve dont le montant est fixé, est réclamé, c’est Office
-d’assurance du lieu où la veuve habite ou est occupée à l’époque de la requête, qui est compétent ; dans ce
+d’assurance du lieu où la veuve habite ou est occupée à l’époque de la requête, qui est compétent ; dans ce
 cas, les §§ 1639 et 1640 sont applicables par analogie.
 
 Si les conditions pour l’obtention d’une dotation d’orphelin ne se trouvent réunies qu’après le décès
@@ -7705,19 +7705,19 @@ autorité transmettra immédiatement les requêtes à l’Office d’assurance c
 ###### Article 1617
 
 Le président de l’Office d’assurance réunit en toute liberté toutes les preuves nécessaires pour
-l’établissement des faits ; le § 1652 est applicable par analogie.
+l’établissement des faits ; le § 1652 est applicable par analogie.
 
 Les enquêtes doivent s’étendre à toutes les questions qui semblent avoir une importance pour la
-décision de l’institution chargée de l’assurance, et particulièrement en ce qui concerne :
+décision de l’institution chargée de l’assurance, et particulièrement en ce qui concerne :
 
-- l'obligation de l’assurance ou le droit à l’assurance volontaire ;
-- l’invalidité et le jour auquel elle a pris naissance ;
-- l’âge des orphelins ;
+- l’obligation de l’assurance ou le droit à l’assurance volontaire ;
+- l’invalidité et le jour auquel elle a pris naissance ;
+- l’âge des orphelins ;
 - l’indigence, lorsqu’il s’agit de rentes de veufs, ou, dans le cas des §§ 1260 à 1262, de rentes
   d’orphelins.
 
 A la demande de l’intéressé, il y aura lieu de prendre l’avis d’un médecin désigné par lui, lorsque
-l’Office d’assurance estime que cet avis peut influer sur la décision ; les frais doivent être payés par
+l’Office d’assurance estime que cet avis peut influer sur la décision ; les frais doivent être payés par
 anticipation par l’intéressé. En outre, le § 1595, alinéa 2, et les §§ 1596 et 1597 sont applicables par
 analogie.
 
@@ -7748,7 +7748,7 @@ de l’Office d’assurance et des représentants de l’assurance.
 Les débats oraux ne sont pas publics.
 
 En oraux, les dispositions des §§ 1662 à 1665, 1667, 1669, 1672 s’appliquent aux débats oraux, par
-analogie ; le § 1654 n’est pas applicable.
+analogie ; le § 1654 n’est pas applicable.
 
 ###### Article 1623
 
@@ -7764,12 +7764,12 @@ l’assurance, les opinions contraires doivent être mentionnées avec indicatio
 
 ###### Article 1624
 
-Il n’y a pas lieu à débat oral, lorsqu’il s’agit :
+Il n’y a pas lieu à débat oral, lorsqu’il s’agit :
 
-- d'une rente de vieillesse ;
-- d’une rente d’orphelin ;
-- de secours pécuniaires aux veuves et de dotations d’orphelins ;
-- du paiement en capital (§§ 1316, 1317, 1476) ;
+- d’une rente de vieillesse ;
+- d’une rente d’orphelin ;
+- de secours pécuniaires aux veuves et de dotations d’orphelins ;
+- du paiement en capital (§§ 1316, 1317, 1476) ;
 - des cas où l’institution chargée de l’assurance et l’intéressé sont d’accord.
 
 L’ordonnance impériale (§ 35, alinéa 2) peut prévoir d’autres cas dans lesquels les débats ne doivent
@@ -7809,12 +7809,12 @@ experts doivent être entendus sous serment.
 
 ###### Article 1629
 
-L’Office d’assurance prévient l’institution chargée de l’assurance, lorsqu’il apprend :
+L’Office d’assurance prévient l’institution chargée de l’assurance, lorsqu’il apprend :
 
-- qu'un assuré ou une veuve peut être préservé de l’invalidité en suivant un traitement ;
+- qu’un assuré ou une veuve peut être préservé de l’invalidité en suivant un traitement ;
 - que le bénéficiaire d’une rente d’invalidité, d’une rente de veuve ou de veuf, ou d’une rente
-  supplémentaire peur recouvrer sa capacité de travail en suivant un traitement ;
-- que la rente d’invalidité, de veuve ou de veuf ou la rente supplémentaire devra être retirée ;
+  supplémentaire peur recouvrer sa capacité de travail en suivant un traitement ;
+- que la rente d’invalidité, de veuve ou de veuf ou la rente supplémentaire devra être retirée ;
 - qu’une rente doit être suspendue.
 
 3. Décision de l’institution chargée de l’assurance
@@ -7835,8 +7835,8 @@ décisions portant sur la fixation du montant des prestations et à la rédactio
 
 En cas de refus, il doit être transmis à l’intéressé sur sa demande et gratuitement, copie de l’avis émis
 par l’Office
-d'assurance. On lui remettra en outre, s’il le désire, copie des procès-verbaux relatifs à la déposition
-des témoins et des experts, ainsi que les rapports médicaux ; il doit payer d’avance le montant des frais qui
+d’assurance. On lui remettra en outre, s’il le désire, copie des procès-verbaux relatifs à la déposition
+des témoins et des experts, ainsi que les rapports médicaux ; il doit payer d’avance le montant des frais qui
 en résultent. Toutes les copies ne doivent lui être fournies, que si son intérêt le justifie. Les recours sont
 tranchés définitivement par l’Office supérieur des assurances sociales.
 
@@ -7926,16 +7926,16 @@ du contentieux judiciaire
 
 ###### Article 1641
 
-Ne peut pas faire partie du comité du contentieux judiciaire celui :
+Ne peut pas faire partie du comité du contentieux judiciaire celui :
 
-1. qui est partie dans l’affaire ;
-2. dont la responsabilité vis-à-vis d’une des parties est engagée ;
-3. qui est ou a été le conjoint d’une des parties ;
+1. qui est partie dans l’affaire ;
+2. dont la responsabilité vis-à-vis d’une des parties est engagée ;
+3. qui est ou a été le conjoint d’une des parties ;
 4. qui est parent ou allié d’une des parties en ligne directe, ou parent en ligne collatérale au deuxième
-   ou au troisième degré ou allié jusqu’au deuxième degré inclusivement ;
+   ou au troisième degré ou allié jusqu’au deuxième degré inclusivement ;
 5. qui est appelé par une partie à prendre part à l’affaire en qualité de mandataire ou d’aide, ou qui est
-   ou a été autorisé à comparaître comme représentant légal ;
-6. qui est entendu comme témoin ou expert dans l’affaire ;
+   ou a été autorisé à comparaître comme représentant légal ;
+6. qui est entendu comme témoin ou expert dans l’affaire ;
 7. qui a pris part comme membre d’un organe de l’institution chargée de l’assurance, à la décision
    relative à la prestation.
 
@@ -7959,7 +7959,7 @@ judiciaire.
 ###### Article 1644
 
 Le président de l’Office d’assurance n’est pas exclu du comité du contentieux judiciaire
-pour le motif qu’il serait déjà intervenu, de par ses fonctions, dans la procédure préparatoire ; il ne peut non
+pour le motif qu’il serait déjà intervenu, de par ses fonctions, dans la procédure préparatoire ; il ne peut non
 plus être récusé pour cette raison, pour cause de partialité.
 
 ###### Article 1645
@@ -8020,7 +8020,7 @@ serment, des témoins et des experts, demander des rapports médicaux et des ren
 toute espèce, et inviter, à prendre part à la procédure, d’autres institutions chargées de l’assurance.
 Les témoins et experts ne prêtent serment que si le président juge nécessaire pour amener une
 déposition conforme à la vérité. Le § 1571, alinéas 2 à 4, les §§ 1573, 1574, alinéa 1, les §§ 1575, 1577 à
-1579, 1580, alinéas 2 à 5, sont applicables par analogie ; le président décide si la déposition ou le serment
+1579, 1580, alinéas 2 à 5, sont applicables par analogie ; le président décide si la déposition ou le serment
 peuvent être refusés. Appel de sa décision peut être interjeté dans les huit jours auprès de l’Office
 supérieure. L’Office supérieur (chambre du contentieux administratif) statue définitivement.
 
@@ -8079,16 +8079,16 @@ concerne l’appel et la reprise de la procédure.
 Les délibérations devant le comité du contentieux judiciaire de l’Office d’assurance sont
 orales et publiques.
 Le huis-clos peut être prononcé, si la publicité des débats semble dangereuse pour l’ordre public ou
-les bonnes mœurs ; la décision doit être prononcée en séance publique.
+les bonnes mœurs ; la décision doit être prononcée en séance publique.
 
 ###### Article 1661
 
 Le président statue seul, après débat oral et public, sur les prestations allouées par
-l’assurance-maladie, lorsqu’il s’agit :
+l’assurance-maladie, lorsqu’il s’agit :
 
-1. du seul calcul de la durée et du montant des secours alloués en cas de maladie ;
-2. de l’hospitalisation en remplacement des secours de maladie ;
-3. de l’indemnité funéraire ;
+1. du seul calcul de la durée et du montant des secours alloués en cas de maladie ;
+2. de l’hospitalisation en remplacement des secours de maladie ;
+3. de l’indemnité funéraire ;
 4. de prestations d’un montant total inférieur à {{< m "50" "marks" >}}.
 
 ###### Article 1662
@@ -8107,7 +8107,7 @@ sociales.
 L’Office supérieur et, en cas d’appel, l’autorité administrative suprême statuent sur l’admission de
 ces personnes.
 
-Celle-ci peut être refusée que pour un motif grave ; elle ne peut pas l’être pour des motifs basés sur
+Celle-ci peut être refusée que pour un motif grave ; elle ne peut pas l’être pour des motifs basés sur
 l’activité politique ou religieuse de la personne intéressée.
 
 ###### Article 1664
@@ -8148,7 +8148,7 @@ date de l’entrée en jouissance.
 
 Si, par exception, le comité reconnaît que la demande n’est admise qu’au fonds, il alloue une
 indemnité provisoire et en fixe le montant. La décision portant fixation de l’indemnité provisoire est
-définitive ; les sommes versées par provision sont portées en compte.
+définitive ; les sommes versées par provision sont portées en compte.
 
 ###### Article 1669
 
@@ -8179,7 +8179,7 @@ par l’entremise de l’Office d’assurance.
 Le jugement du comité du contentieux judiciaire est proclamé en séance publique même
 lorsque les débats ont eu lieu à huis-clos.
 
-Le jugement est motivé ; il est signé par le président, il en est fait expédition et signification aux
+Le jugement est motivé ; il est signé par le président, il en est fait expédition et signification aux
 parties.
 
 ###### Article 1672
@@ -8194,7 +8194,7 @@ contenues dans le jugement doivent être rectifiées en tout temps, sur requête
 Le président décide, sans débat oral, s’il y a lieu de rectifier
 
 Dans l’affirmative, la décision portant rectification doit être mentionnée sur l’original et sur les
-expéditions. L’intéressé peut interjeter appel de cette décision auprès de l’Office supérieur ; ce dernier
+expéditions. L’intéressé peut interjeter appel de cette décision auprès de l’Office supérieur ; ce dernier
 statue définitivement.
 
 La décision portant refus de rectification est inattaquable.
@@ -8268,9 +8268,9 @@ frais et, si l’Office supérieur n’en décide pas autrement, qu’il les pre
 
 ###### Article 1682
 
-L’appel est suspensif lorsqu’il s’agit :
+L’appel est suspensif lorsqu’il s’agit :
 
-- de la reprise du traitement médical conformément aux §§ 603, 604, 952, 1112 ;
+- de la reprise du traitement médical conformément aux §§ 603, 604, 952, 1112 ;
 - de l’indemnisation par le paiement d’un capital (§§ 616, 617, 955, 1117, 1316, 1317, 1476).
 
 ###### Article 1683
@@ -8357,7 +8357,7 @@ aux dispositions légales, à la fin du prononcé du jugement, que ce dernier n�
 recours.
 
 Si une décision provisoire est rendue (§ 1679 en connexion avec le § 1657), elle fait remarquer
-qu’une requête en débat oral devant la chambre du contentieux judiciaire est seule possible ; le délai qu’elle
+qu’une requête en débat oral devant la chambre du contentieux judiciaire est seule possible ; le délai qu’elle
 comporte doit y être indiqué.
 
 ###### Article 1693
@@ -8391,34 +8391,34 @@ et d’assurance-invalidité et des survivants, susceptible de révision.
 ###### Article 1695
 
 En ce qui concerne les prestations de l’assurance-maladie, la révision est exclue, lorsqu’il
-s’agit :
+s’agit :
 
 1. du montant du secours pécuniaire de maladie, du secours pécuniaire de famille ou de l’indemnité
-   funéraire ;
+   funéraire ;
 2. des cas où il a été alloué une indemnité à un malade qui n’était pas incapable de travailler ou ne l’a
-   été que pendant moins de huit semaines ;
-3. des secours d’accouchement ;
-4. des secours accordés à la famille ;
-5. de l’indemnisation par le paiement d’un capital ;
+   été que pendant moins de huit semaines ;
+3. des secours d’accouchement ;
+4. des secours accordés à la famille ;
+5. de l’indemnisation par le paiement d’un capital ;
 6. des frais de procédure.
 
 ###### Article 1696
 
 En ce qui concerne les prestations de l’assurance-invalidité et des survivants, la révision
-est exclue, lorsqu’il s’agit :
+est exclue, lorsqu’il s’agit :
 
-1. du montant, du commencement et de la fin de la rente ;
-2. de l’indemnisation par le paiement d’un capital ;
-3. de secours pécuniaires de veuves ;
-4. de dotations d’orphelins ;
+1. du montant, du commencement et de la fin de la rente ;
+2. de l’indemnisation par le paiement d’un capital ;
+3. de secours pécuniaires de veuves ;
+4. de dotations d’orphelins ;
 5. des frais de procédure.
 
 ###### Article 1697
 
-La révision ne peut être fondée que :
+La révision ne peut être fondée que :
 
 1. sur le fait que le jugement attaqué repose sur le défaut d’application ou sur une application erronée
-   du droit en vigueur ou va à l’encontre de la teneur évidente des pièces du dossier ;
+   du droit en vigueur ou va à l’encontre de la teneur évidente des pièces du dossier ;
 2. sur le fait que la procédure est entachée de vices essentiels.
 
 ###### Article 1698
@@ -8436,19 +8436,19 @@ de l’assurance-accidents, susceptibles de recours.
 
 ###### Article 1700
 
-Le recours est exclu s’il s’agit :
+Le recours est exclu s’il s’agit :
 
-1. du traitement médical (§ 558, n° 1) ou des soins donnés à domicile (§ 599) ;
+1. du traitement médical (§ 558, n° 1) ou des soins donnés à domicile (§ 599) ;
 2. de rentes accordées pour une incapacité de travail dont la disparition, lors de la décision de
-   l’instance de recours n’est pas contestée ou a été établie par une décision ayant force de chose jugée ;
+   l’instance de recours n’est pas contestée ou a été établie par une décision ayant force de chose jugée ;
 3. de fractions de rentes à allouer en cas d’incapacité permanente de travail pour des périodes limitées
-   et déjà écoulées ;
-4. de l’hospitalisation ;
-5. de la rente aux proches parents ;
-6. de l’indemnité funéraire ;
-7. des rentes provisoires (§ 1585, alinéa 1) ;
-8. de la fixation nouvelle de rentes permanentes, par suite d’un changement dans la situation () ;
-9. de l’indemnisation par le paiement en capital ;
+   et déjà écoulées ;
+4. de l’hospitalisation ;
+5. de la rente aux proches parents ;
+6. de l’indemnité funéraire ;
+7. des rentes provisoires (§ 1585, alinéa 1) ;
+8. de la fixation nouvelle de rentes permanentes, par suite d’un changement dans la situation () ;
+9. de l’indemnisation par le paiement en capital ;
 10. des frais de la procédure.
 
 ###### Article 1701
@@ -8497,7 +8497,7 @@ d’assurance intéressées ne s’étend au delà du territoire de l’Etat Con
 Si des actions en indemnité ont été définitivement reçues, à raison du même accident,
 contre plusieurs institutions chargées des assurances, l’Office impérial (conseil du contentieux judiciaire)
 annule toute détermination fixée indûment. Les paiements effectués doivent être remboursés sur
-l’indemnité ; en cas de contestation au sujet du remboursement, il est statué par voie de contentieux
+l’indemnité ; en cas de contestation au sujet du remboursement, il est statué par voie de contentieux
 judiciaire.
 
 L’Office d’Etat des assurances statue à la place de l’Office impérial, si le ressort d’aucune des
@@ -8523,7 +8523,7 @@ Les décisions sont rendues par les conseils du contentieux judiciaire.
 
 ###### Article 1709
 
-Le recours doit être présenté par écrit ; il doit mentionner les raisons pour lesquelles il est
+Le recours doit être présenté par écrit ; il doit mentionner les raisons pour lesquelles il est
 introduit.
 
 Le conseil peut modifier le jugement attaqué pour d’autres motifs que ceux que spécifie le recours.
@@ -8536,7 +8536,7 @@ la décision attaquée.
 
 ###### Article 1711
 
-Si le jugement attaqué est qualifié à tort de définitif (§ 1692), le recours est recevable ; il
+Si le jugement attaqué est qualifié à tort de définitif (§ 1692), le recours est recevable ; il
 doit être introduit dans les douze mois suivant la signification.
 
 ###### Article 1712
@@ -8551,7 +8551,7 @@ considérée comme rejetée.
 Si le président du conseil est d’accord avec le rapporteur sur le fait que le recours n’est pas
 recevable ou est introduit trop tard, il peut le rejeter sans débat oral. Si le recours est rejeté pour avoir été
 introduit trop tard, le demandeur peut, dans la semaine de la signification de la décision, attaquer celle-ci en
-demandant que la question soit tranchée par le conseil du contentieux judiciaire ; la décision doit
+demandant que la question soit tranchée par le conseil du contentieux judiciaire ; la décision doit
 mentionner cette faculté.
 
 Dans les autres cas, les décisions sont prises après débats oraux en audience publique.
@@ -8622,7 +8622,7 @@ Si le président ou le rapporteur est empêché, un autre membre du conseil est 
 ###### Article 1721
 
 La décision qui rectifie un jugement (§ 1673) est rendue par le président et les membres du
-conseil qui ont signé ledit jugement ; cette décision est inattaquable.
+conseil qui ont signé ledit jugement ; cette décision est inattaquable.
 
 IV. — REPRISE DE LA PROCEDURE
 
@@ -8630,14 +8630,14 @@ IV. — REPRISE DE LA PROCEDURE
 
 ###### Article 1722
 
-Une procédure terminée par un jugement passé en force de chose jugée peut être reprise ;
+Une procédure terminée par un jugement passé en force de chose jugée peut être reprise ;
 
 1. si la juridiction qui a rendu la décision n’était pas composée conformément aux dispositions
-   légales ;
+   légales ;
 2. si une personne a pris part à une décision, alors qu’elle en était exclue pour un motif légal, sauf si
-   cet empêchement a été invoqué par récusation ou recours, sans succès ;
+   cet empêchement a été invoqué par récusation ou recours, sans succès ;
 3. si une personne a pris part à une décision, après avoir été récusée pour motif de partialité et après
-   que la récusation a été reconnue fondée ;
+   que la récusation a été reconnue fondée ;
 4. si une partie n’a pas été représentée dans la procédure conformément aux prescriptions de la
    présente loi, à moins qu’elle n’ait approuvé d’une manière expresse ou tacite la procédure telle qu’elle a été
    menée.
@@ -8647,25 +8647,25 @@ moyen de droit le motif permettant d’attaquer la décision.
 
 ###### Article 1723
 
-La reprise est encore possible :
+La reprise est encore possible :
 
-1. si un document sur lequel s’appuie la décision est faux ou falsifié ;
+1. si un document sur lequel s’appuie la décision est faux ou falsifié ;
 2. si les témoins ou les experts ont violé volontairement ou par négligence le serment prêté par eux au
-   sujet d’une déposition ou d’un rapport qui sert de base à la décision ;
+   sujet d’une déposition ou d’un rapport qui sert de base à la décision ;
 3. si le représentant de la partie, ou l’adversaire ou son représentant, a fait rendre la décision à l’aide
-   de manœuvres passibles d’une pénalité ;
+   de manœuvres passibles d’une pénalité ;
 4. si une personne a pris part à la décision, alors que pendant les débats elle a transgressé ses devoirs
-   professionnels vis-à-vis de la partie et que cette violation tombe sous le coup de la loi pénale ;
+   professionnels vis-à-vis de la partie et que cette violation tombe sous le coup de la loi pénale ;
 5. si un jugement pénal sur lequel s’appuie la décision a été annulé par un autre jugement passé en
-   force de chose jugée ;
+   force de chose jugée ;
 6. si une partie découvre dans la suite un document qui lui aurait valu une décision plus favorable, ou
    est mise à même de profiter d’un document de cette espèce.
 
 ###### Article 1724
 
-La reprise n’est admissible dans les cas du § 1723, numéros 1 à 4, que :
+La reprise n’est admissible dans les cas du § 1723, numéros 1 à 4, que :
 
-1. si l’infraction a fait l’objet d’une condamnation pénale passée en force de chose jugée ;
+1. si l’infraction a fait l’objet d’une condamnation pénale passée en force de chose jugée ;
 2. si la procédure criminelle n’a pu être entamée ou poursuivie pour d’autres raisons que le manque
    de preuves.
 
@@ -8911,7 +8911,7 @@ dispositions s’appliquent également aux affaires qui doivent être tranchées
 la chambre du contentieux administratif en première instance.
 
 Le président de la chambre du contentieux administratif peut lui transférer d’autres affaires à régler
-par la même voie, lorsqu’il s’agit de questions d’une importance fondamentale ; il est tenu de le faire en cas
+par la même voie, lorsqu’il s’agit de questions d’une importance fondamentale ; il est tenu de le faire en cas
 de divergence d’opinion, si un membre qui a pris part à la préparation de l’affaire le requiert. Il en est de
 même pour le conseil du contentieux administratif.
 
@@ -8955,7 +8955,7 @@ administratif.
 En matière d’assurance-invalidité et des survivants et pour autant que la présente loi n’en
 dispose pas autrement, l’Office d’assurance ou l’Office supérieur dans le ressort duquel a lieu l’occupation
 qui donne lieu à la décision est compétent ,comme juridiction de première instance de la procédure du
-contentieux administratif ; en cas d’assurance volontaire, c’est l’Office d’assurance ou l’Office supérieur
+contentieux administratif ; en cas d’assurance volontaire, c’est l’Office d’assurance ou l’Office supérieur
 dans le ressort duquel l’assuré a son domicile qui est compétent.
 
 L’Office d’assurance ou l’Office supérieur dans le ressort duquel les survivants ont leur domicile, est
@@ -8998,20 +8998,20 @@ Recours
 ###### Article 1791
 
 En tant que la présente loi n’en dispose pas autrement, les décisions de l’institution
-chargée de l’assurance sont susceptibles de recours. Le recours doit être introduit :
+chargée de l’assurance sont susceptibles de recours. Le recours doit être introduit :
 
 - pour les affaires de l’assurance-maladie et de l’assurance-invalidité et des survivants, auprès de
-  l’Office d’assurance ;
+  l’Office d’assurance ;
 - pour les affaires de l’assurance-accidents, auprès de l’Office supérieur des assurances sociales.
 
 ###### Article 1792
 
-En tant que la présente loi n’en dispose pas autrement , le recours contre les décisions
+En tant que la présente loi n’en dispose pas autrement, le recours contre les décisions
 rendues en première instance par l’Office d’assurance doit être introduit devant l’Office supérieur.
 
 ###### Article 1793
 
-En tant que la présente loi n’en dispose pas autrement , le recours contre les décisions
+En tant que la présente loi n’en dispose pas autrement, le recours contre les décisions
 rendues en première instance par l’Office supérieur doit être introduit devant l’Office impérial des
 assurances.
 
@@ -9035,9 +9035,9 @@ Recours en instance supérieure
 
 ###### Article 1797
 
-Un nouveau recours peut, si la présente loi n’en dispose pas autrement, être introduit :
+Un nouveau recours peut, si la présente loi n’en dispose pas autrement, être introduit :
 
-- devant l’Office supérieur contre la décision rendue en appel par l’Office d’assurance ;
+- devant l’Office supérieur contre la décision rendue en appel par l’Office d’assurance ;
 - devant l’Office impérial des assurances sociales contre la décision rendue en appel par l’Office
   supérieur.
 

@@ -6,7 +6,7 @@ categories:
   - "chasse"
 ---
 
-est ordonné ce qui suit :
+est ordonné ce qui suit :
 
 ## Article 1
 

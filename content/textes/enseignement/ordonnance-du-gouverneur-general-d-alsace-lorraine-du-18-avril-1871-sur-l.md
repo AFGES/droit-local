@@ -71,7 +71,7 @@ ou par les facteurs des postes.
 
 ## Article 8
 
-Si l’inculpé comparait, il est procédé au débat oral ; le jugement est immédiatement
+Si l’inculpé comparait, il est procédé au débat oral ; le jugement est immédiatement
 prononcé en sa présence. S’il ne comparait pas, le jugement est rendu sur pièces et signifié. Le
 jugement doit être brièvement motivé.
 
@@ -85,7 +85,7 @@ les décisions du {{< t "directeur de cercle" "sous-préfet" >}} ne peuvent êtr
 que si une peine d’emprisonnement a été prononcée.
 
 L’appel doit être interjetée auprès du chef de la commune dans les trois jours à compter du
-prononcé du jugement ou, si le jugement est signifié, du jour de la signification ; il doit être
+prononcé du jugement ou, si le jugement est signifié, du jour de la signification ; il doit être
 formulé par écrit ou par une déclaration orale prise en procès-verbal.
 
 ## Article 10
@@ -101,7 +101,7 @@ décision, qui sera délivré par le chef de la commune et visé par le {{< t "d
 
 ## Article 12
 
-La procédure et le jugement ont lieu sans frais et sont exempts de timbre ; les déboursés
+La procédure et le jugement ont lieu sans frais et sont exempts de timbre ; les déboursés
 effectifs sont à la charge du condamné.
 
 ## Article 13

@@ -7,9 +7,9 @@ categories:
   - "administration"
 ---
 
-# Administration du patrimoine possédé indivisément par plusieurs communes
+## Administration du patrimoine possédé indivisément par plusieurs communes
 
-## Article 7
+### Article 7
 
 Si plusieurs communes possèdent indivisément des biens ou des droits, il pourra, à la
 requête d’une des communes et par arrêté du {{< t "président du district" "préfet" >}}, être institué pour
@@ -27,7 +27,7 @@ Par arrêté du {{< t "président de district" "préfet" >}}, la commission pour
 
 L’autorité de surveillance pourra suspendre ou révoquer le président de la commission.
 
-## Article 9
+### Article 9
 
 Sont applicables aux délibérations et décisions de la commission syndicale ainsi qu’à
 l’approbation des décisions, les dispositions correspondantes relatives aux conseils municipaux.
@@ -40,7 +40,7 @@ Lorsque l’une des communes intéressées fait opposition à une décision de l
 qui, en elle-même, n’est pas soumise à approbation, la décision ne sera exécutoire qu’après
 approbation de l’autorité de surveillance.
 
-## Article 10
+### Article 10
 
 La répartition entre les communes intéressées des dépenses décidées par la commission
 syndicale se fera par les soins des conseils municipaux. Les décisions de ces derniers devront
@@ -53,7 +53,7 @@ Les dépenses à la charge des communes sont des dépenses obligatoires, à l’
 desquelles il sera procédé, si besoin est, conformément aux dispositions de l’article 73 de la loi
 communale.
 
-## Article 11
+### Article 11
 
 Si les communes intéressées sont soumises à des autorités de surveillance différentes, les
 fonctions de l’autorité de surveillance visées aux articles 7, 9 et 10 seront exercées par le
@@ -62,14 +62,14 @@ fonctions de l’autorité de surveillance visées aux articles 7, 9 et 10 seron
 Si les communes intéressées appartiennent à des districts différents, lesdites fonctions
 seront exercées par le Ministère.
 
-# Dispositions finales
+## Dispositions finales
 
-## Article 12
+### Article 12
 
 Toutes les dispositions contraires à la présente loi sont abrogées. Cesseront notamment
 d’être en vigueur les articles 56 à 58 et 70 à 73 de la loi du 18 juillet 1837 sur l’administration
 communale.
 
-## Article 13
+### Article 13
 
 Le Ministère édictera les dispositions nécessaires à l’exécution de la présente loi.

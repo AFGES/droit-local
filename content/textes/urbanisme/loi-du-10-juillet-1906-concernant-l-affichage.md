@@ -33,7 +33,7 @@ police locale.
 
 L’autorisation de la police locale prévue par la présente loi n’est pas nécessaire pour des
 imprimés ayant un objet électoral, depuis le jour où la date de l’élection est publiée
-officiellement jusqu’à la clôture des opérations électorales ; il en est de même pour l’annonce de
+officiellement jusqu’à la clôture des opérations électorales ; il en est de même pour l’annonce de
 réunions et cortèges déclarés ou autorisés.
 
 ## Article 5

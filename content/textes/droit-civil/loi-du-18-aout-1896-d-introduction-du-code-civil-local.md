@@ -18,8 +18,8 @@ Sont maintenues les dispositions législatives (des Etats) qui limitent l’acqu
 droits par des personnes juridiques ou qui la font dépendre de l’approbation de l’Etat, en tant que
 ces dispositions concernent des objets d’une valeur de plus de ({{< m "5000" "marks" >}}). Si l’approbation
 nécessaire, d’après la loi (d’un Etat), pour une acquisition à cause de mort, est accordée, elle est
-réputée avoir été accordée antérieurement à l’ouverture de la succession ; si elle est refusée, la
-personne juridique, par rapport à la dévolution, est réputée ne pas exister ; il y a lieu d’appliquer
+réputée avoir été accordée antérieurement à l’ouverture de la succession ; si elle est refusée, la
+personne juridique, par rapport à la dévolution, est réputée ne pas exister ; il y a lieu d’appliquer
 par analogie les dispositions de l’article 2043 du Code civil.
 
 ## Article 87

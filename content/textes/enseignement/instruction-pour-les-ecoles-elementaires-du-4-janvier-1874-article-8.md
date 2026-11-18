@@ -18,12 +18,12 @@ categories:
    l’Ancien Testament et, à l’exception des écoles israélites, un portrait concret et sommaire de la
    vie de Jésus selon les Evangiles.
 2. Le catéchisme est dispensé par les ecclésiastiques et les ministres de la religion dans le cadre
-   de l’enseignement religieux, mais en dehors des heures de classe ; le catéchisme pourra
+   de l’enseignement religieux, mais en dehors des heures de classe ; le catéchisme pourra
    cependant être dispensé, en tant qu’il sera jugé nécessaire à la préparation de l’enseignement
    religieux, par les ecclésiastiques et les ministres de la religion. Pour atteindre ce but, le
    catéchisme sera enseigné en utilisant des exemples clairs et concrets qui facilitent une
    compréhension appropriée et correcte.
-3. L’enseignement religieux comprend en outre :
+3. L’enseignement religieux comprend en outre :
 
    1. Dans les écoles chrétiennes, l’apprentissage par cœur d’un petit nombre de chants d’église et
       de séries d’histoires adaptées aux enfants ainsi que d’exposés appropriés assortis des explications

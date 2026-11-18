@@ -77,12 +77,12 @@ Quiconque veut organiser une réunion publique doit en faire la déclaration au 
 heures à l’avance au directeur de l’arrondissement où se trouve le lieu de réunion. Celui qui
 convoque doit être citoyen de l’Empire, majeur et en possession de ses droits civiques.
 
-La déclaration doit porter les données suivantes :
+La déclaration doit porter les données suivantes :
 
-1. nom, profession et domicile de celui qui convoque la réunion ;
+1. nom, profession et domicile de celui qui convoque la réunion ;
 2. endroit, jour et heure de l’ouverture de la réunion, ainsi que les locaux où elle doit avoir
-   lieu ;
-3. but de la réunion et sujet des débats ; les autorités doivent délivrer aussitôt une attestation
+   lieu ;
+3. but de la réunion et sujet des débats ; les autorités doivent délivrer aussitôt une attestation
    accusant réception de la déclaration prescrite.
 
 **Article 10**
@@ -107,17 +107,17 @@ danger pour la paix publique.
 
 **Article 16**
 
-Le fonctionnaire de police chargé de la surveillance a le droit de dissoudre la réunion :
+Le fonctionnaire de police chargé de la surveillance a le droit de dissoudre la réunion :
 
 1. si on ne lui présente pas, au cas où il l’exige, le récépissé de la déclaration prescrite ou
-   l’autorisation ;
+   l’autorisation ;
 2. si des personnes auxquelles il est interdit d’assister à la réunion ne s’éloignent pas après en
-   avoir été requises ;
-3. si l’admission des fonctionnaires délégués par le directeur d’arrondissement est refusé ;
+   avoir été requises ;
+3. si l’admission des fonctionnaires délégués par le directeur d’arrondissement est refusé ;
 4. si la personne responsable qui dirige les débats laisse discuter des questions étrangères à
-   l’objet indiqué dans la déclaration ;
+   l’objet indiqué dans la déclaration ;
 5. s’il se produit des excès qui peuvent être dangereux pour la sécurité ou l’ordre publics et
-   que le bureau ne parvienne pas à les réprimer ;
+   que le bureau ne parvienne pas à les réprimer ;
 6. si les orateurs excitent à des actes répréhensibles, à la désobéissance aux lois ou à des
    violences.
 
@@ -134,45 +134,45 @@ endroits publics ne sont pas touchés par les dispositions de la présente loi.
 
 **Article 18**
 
-Sera puni d’une amende jusqu’à concurrence de {{< m "50" "marks" >}} ou jusqu’à dix jours d’arrêts :
+Sera puni d’une amende jusqu’à concurrence de {{< m "50" "marks" >}} ou jusqu’à dix jours d’arrêts :
 
 1. Celui qui, en sa qualité de président d’une association ou de membre d’un comité a négligé
-   de faire les déclarations prescrites à l’article 3 alinéa 1er ;
+   de faire les déclarations prescrites à l’article 3 alinéa 1er ;
 2. celui qui, en sa qualité de président d’une association ou de membre d’un comité a négligé
    de faire les déclarations prescrites à l’article 3, alinéa 1er, 2° celui qui, en sa qualité de
-   président d'une association ou de membre d’un Comité, a négligé malgré les sommations
-   répétées, de remettre la liste prescrite des membres (§ 3, alinéa 4) ;
+   président d’une association ou de membre d’un Comité, a négligé malgré les sommations
+   répétées, de remettre la liste prescrite des membres (§ 3, alinéa 4) ;
 3. Celui qui enfreint les prescriptions de l’article 4 relatives aux uniformes, drapeaux et
-   insignes ou celles de l’article 5 relative à la langue des affaires de l’association ;
-4. Celui qui, en sa qualité de président d'une association ou de membre d'un, admet dans
-   l'association des personnes qui, conformément à l’article 6, ne peuvent pas être membres ;
+   insignes ou celles de l’article 5 relative à la langue des affaires de l’association ;
+4. Celui qui, en sa qualité de président d’une association ou de membre d’un, admet dans
+   l’association des personnes qui, conformément à l’article 6, ne peuvent pas être membres ;
 5. Celui qui chargé de la direction des débats d’une réunion contrevient aux prescriptions des
    articles 13 et 15.
 
 **Article 19**
 
-Sera puni d’une amende jusqu’à {{< m "150" "marks" >}} ou des arrêts :
-l. Celui qui continue à être membre d'une association dissoute conformément à l’article 7 ;
+Sera puni d’une amende jusqu’à {{< m "150" "marks" >}} ou des arrêts :
+l. Celui qui continue à être membre d’une association dissoute conformément à l’article 7 ;
 
 2. Celui qui convoque ou tient une réunion publique sans que la déclaration prévue à l’article
    9 ait eu lieu, celui qui organise une réunion en plein air ou un cortège public sans
-   l'autorisation prescrite, ainsi que celui qui, chargé la direction des débats d'une réunion
+   l’autorisation prescrite, ainsi que celui qui, chargé la direction des débats d’une réunion
    publique, admet des personnes dont la présence est interdite en vertu de l’article 11, alinéas 2
    et 3.
 3. Celui qui assiste à une réunion en plein air ou à un cortège public non autorisés, ainsi que
    celui qui, bien que sa participation à cette réunion publique soit défendue en vertu de l’article
-   11, alinéas 2et 3 ne quitte pas aussitôt la réunion après y avoir été invité ;
+   11, alinéas 2et 3 ne quitte pas aussitôt la réunion après y avoir été invité ;
 4. Celui qui abandonne des locaux dont il a le droit de disposer à une association interdite ou
-   dissoute, ou l'organisation d'une réunion interdite.
+   dissoute, ou l’organisation d’une réunion interdite.
 
 **Article 20**
 
 Sera puni d’une amende jusqu’à concurrence de {{< m "300" "marks" >}} ou à l’emprisonnement pouvant
-aller jusqu'à trois mois :
+aller jusqu’à trois mois :
 
-1. Celui qui tient une réunion interdite en vertu de l’article 12 ou y assiste ;
+1. Celui qui tient une réunion interdite en vertu de l’article 12 ou y assiste ;
 2. Celui qui assiste armé à une réunion publique sans y avoir le droit, contrairement à la
-   prescription de l’article 11, .alinéa 1 ;
+   prescription de l’article 11, .alinéa 1 ;
    3 Celui qui, contrairement à l’article 16 alinéa 3, ne se retire pas aussitôt après la dissolution
    de la réunion.
 
@@ -180,7 +180,7 @@ aller jusqu'à trois mois :
 
 Les dispositions de cette loi sur le droit de réunion sont conformément aux décisions à
 prendre par le ministère également applicables aux associations qui existent au moment de
-l'entrée en vigueur de la présente loi.
+l’entrée en vigueur de la présente loi.
 
 **Article 22**
 

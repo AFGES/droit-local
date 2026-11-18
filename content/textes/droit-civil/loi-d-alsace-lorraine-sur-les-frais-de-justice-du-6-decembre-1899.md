@@ -13,18 +13,18 @@ pas étranger, verser une avance suffisante pour les couvrir.
 
 ## Article 11
 
-Dans les cas où le droit se calcule sur la valeur de l'objet, celle-ci sera fixée par le
-tribunal d’après sa libre appréciation en tenant compte des dispositions suivantes :
+Dans les cas où le droit se calcule sur la valeur de l’objet, celle-ci sera fixée par le
+tribunal d’après sa libre appréciation en tenant compte des dispositions suivantes :
 
 1. Le calcul sera fait selon la valeur de l’objet au moment où les droits seront
-   exigibles ;
+   exigibles ;
 2. Pour la valeur à mettre en compte, on ne considérera que l’objet principal de
    l’affaire. Il ne sera tenu compte des fruits, jouissance, intérêts, dommages, peines
-   conventionnelles et frais, que s’ils forment l’objet d’une affaire distincte ;
+   conventionnelles et frais, que s’ils forment l’objet d’une affaire distincte ;
 3. Les dispositions des articles 6, 7 et 9 du code de procédure civile et de l’article 9
    a, alinéa 2, phrase première de la loi d’Empire sur les frais de justice trouvent application
    correspondante, sous réserve, toutefois, des dispositions des articles 66, alinéas 2 et 70 de la
-   présente loi ;
+   présente loi ;
 4. Pour les affaires ne portant pas sur des droits patrimoniaux, la valeur de l’objet
    sera fixée à {{< m "2000" "marks" >}}, exceptionnellement à plus ou moins, mais toutefois ni au-dessous
    de {{< m "200" "marks" >}}, ni au-dessus de {{< m "50000" "marks" >}} ;
@@ -73,9 +73,9 @@ ainsi que la loi qui règle les émoluments des notaires.
 
 ## Article 106
 
-Seront perçus comme déboursés effectifs :
+Seront perçus comme déboursés effectifs :
 
-3. Les sommes payées à titre de rétribution à un gardien commis ;
+3. Les sommes payées à titre de rétribution à un gardien commis ;
 4. Les déboursés énumérés à l’article 79, alinéa 1, n° 3, 4, 6 de la loi d’Empire
    sur les frais de justice.
 

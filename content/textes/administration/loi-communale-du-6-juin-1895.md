@@ -14,7 +14,7 @@ un membre du conseil municipal désigné par lui.
 ## Article 14
 
 Le conseil municipal doit voter aux maires et adjoints les sommes nécessaires pour faire
-face aux dépenses de leurs fonctions ; il peut attacher à leurs fonctions un traitement convenable.
+face aux dépenses de leurs fonctions ; il peut attacher à leurs fonctions un traitement convenable.
 
 ## Article 18
 
@@ -63,38 +63,38 @@ légales applicables au placement des fonds de la Caisse des dépôts et consign
 
 ## Article 56
 
-Le conseil municipal délibère notamment sur les objets suivants :
+Le conseil municipal délibère notamment sur les objets suivants :
 
 1. La création et la suppression d’emplois communaux permanents pour certains services
-   ou pour des fonctions déterminées de l’administration communale ;
+   ou pour des fonctions déterminées de l’administration communale ;
 2. Les émoluments du maire et des adjoints ainsi que des employés communaux, sous
    réserve des dispositions de l’article 14 de la présente loi, l’allocation de pensions de retraite aux
    employés communaux, la création de caisses de retraite pour ces mêmes employés et la
-   modification des statuts de ces caisses ;
+   modification des statuts de ces caisses ;
 
 ## Article 59
 
-Le conseil municipal est appelé à donner son avis :
+Le conseil municipal est appelé à donner son avis :
 
 1. Sur les projets de budget des recettes et dépenses, ainsi que sur les comptes annuels
-   des hôpitaux et hospices publics et des bureaux de bienfaisance ;
+   des hôpitaux et hospices publics et des bureaux de bienfaisance ;
 
 ## Article 65
 
-Sont dépenses obligatoires :
+Sont dépenses obligatoires :
 
 1. Les émoluments des maires, adjoints et administrateurs provisoires, sous réserve des
-   dispositions de l’article 14 de la présente loi ;
+   dispositions de l’article 14 de la présente loi ;
 2. Les frais du recensement de la population, et ceux d’abonnement aux bulletins des lois
-   et aux feuilles officielles ;
+   et aux feuilles officielles ;
 
 ## Article 70
 
 Dans les affaires qui, aux termes de la présente loi, doivent être jugées par la voie de la
-procédure contentieuse administrative, les dispositions suivantes sont applicables :
+procédure contentieuse administrative, les dispositions suivantes sont applicables :
 
 1. Les demandes en fixation des limites litigieuses du territoire d’une commune (art. 8)
-   seront introduites par le maire avec l’autorisation de son conseil municipal ;
+   seront introduites par le maire avec l’autorisation de son conseil municipal ;
 2. Les oppositions contre les arrêtés du maire ou les décisions du conseil municipal
    concernant l’usage des institutions et établissements publics de la commune ou la jouissance des
    biens communaux (art. 54, alinéa 4) devront être formées dans les trois mois qui suivront le jour
@@ -111,23 +111,23 @@ versées dans la caisse municipale.
 ## Article 80
 
 Toutes les dispositions contraires à la présente loi sont abrogées. Sont abrogées
-notamment :
+notamment :
 
 1. La loi du 18 juillet 1837 sur l’administration municipale, sans préjudice des
-   dispositions de l’article 81 de la présente loi ;
-2. La loi du 5 mai 1855 sur l’organisation municipale ;
+   dispositions de l’article 81 de la présente loi ;
+2. La loi du 5 mai 1855 sur l’organisation municipale ;
 3. La loi du 24 juillet 1867 sur les conseils municipaux, à l’exception des articles 12 et
-   14 ;
-4. La loi du 22 juillet 1870 sur la nomination des maires et adjoints ;
+   14 ;
+4. La loi du 22 juillet 1870 sur la nomination des maires et adjoints ;
 5. La loi du 24 février 1872 sur la nomination de commissions extraordinaires pour
-   l’administration de certaines communes ;
-6. Le décret du 9 brumaire an XIII sur le mode de jouissance des biens communaux ;
+   l’administration de certaines communes ;
+6. Le décret du 9 brumaire an XIII sur le mode de jouissance des biens communaux ;
 7. L’ordonnance du 15 juillet 1840 relative aux délibérations des conseils municipaux
    ayant pour but d’autoriser les maires à donner mainlevée des hypothèques inscrites au profit des
-   communes ;
+   communes ;
 8. L’ordonnance du 18 avril 1846, qui dispense les communes de l’accomplissement des
    formalités de la purge des hypothèques pour les acquisitions d’immeubles faites de gré à gré et
-   dont le prix n’excèdera pas 100 francs ;
+   dont le prix n’excèdera pas 100 francs ;
 9. Le décret du 14 juillet 1866 qui dispense les communes de l’accomplissement des
    formalités de la purge des hypothèques pour les acquisitions d’immeubles faites de gré à gré et
    dont le prix n’excède pas 500 francs.

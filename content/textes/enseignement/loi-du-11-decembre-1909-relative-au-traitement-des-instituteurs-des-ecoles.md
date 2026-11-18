@@ -23,21 +23,21 @@ annuel une indemnité de {{< m "1100" "marks" >}}.
 ## Article 3
 
 L’ancienneté de traitement des instituteurs et institutrices nommés à titre définitif sera
-calculée à partir de l’époque où ils réuniront les conditions ci-après :
+calculée à partir de l’époque où ils réuniront les conditions ci-après :
 
 1. Avoir passé avec succès l’examen conférant la capacité pour être nommé à titre définitif
-   dans le service de l’enseignement public ;
-2. Avoir achevé leur vingt-cinquième année d’âge ;
-3. Etre pourvus d’un emploi dans l’enseignement public ;
+   dans le service de l’enseignement public ;
+2. Avoir achevé leur vingt-cinquième année d’âge ;
+3. Etre pourvus d’un emploi dans l’enseignement public ;
 
 Il sera tenu compte du temps de service militaire actif des instituteurs dans la mesure où il est
 postérieur à l’accomplissement de la vingt-cinquième année. Avec l’assentiment du conseil
-supérieur des écoles, il pourra être tenu compte sous les mêmes conditions :
+supérieur des écoles, il pourra être tenu compte sous les mêmes conditions :
 
 1. Du temps consacré, après avoir passé l’examen visé sous 1), à l’enseignement en Alsace-
-   Lorraine dans les écoles privées ;
+   Lorraine dans les écoles privées ;
 2. Du temps passé au service de l’enseignement dans les écoles publiques hors d’Alsace-
-   Lorraine .
+   Lorraine.
    {.liste-alpha}
 
 Exceptionnellement, lorsque l’intéressé aura, pendant un certain temps, fait ses preuves dans
@@ -48,7 +48,7 @@ qui servira de point de départ à l’ancienneté de traitement.
 ## Article 4
 
 A partir de l’époque fixée à l’article 3, il sera accordé comme augmentation d’ancienneté aux
-instituteurs nommés à titre définitif :
+instituteurs nommés à titre définitif :
 Après 3, 6, 9, 12, 15 et 16 années de service, chaque fois {{< m "100" "marks" >}} ;
 Après 18 années de service, chaque fois {{< m "100" "marks" >}} ;
 Après 21 et 24 années de service chaque fois {{< m "200" "marks" >}} ;
@@ -80,10 +80,10 @@ sera pas payée ultérieurement.
 L’indemnité de loyer sera calculée en tenant compte des conditions de lieu et de personne.
 Le montant de l’indemnité sera fixé par délibération du conseil municipal. La délibération est
 soumise à l’approbation de l’autorité de surveillance Si l’autorité de surveillance approuve la
-décision l'instituteur peut, s'il y a lieu, provoquer une décision du ministère. Si l'autorité de
-surveillance ne croit pas devoir approuver, la décision et à .défaut d'accord amiable, elle
+décision l’instituteur peut, s’il y a lieu, provoquer une décision du ministère. Si l’autorité de
+surveillance ne croit pas devoir approuver, la décision et à .défaut d’accord amiable, elle
 renverra la décision au ministère qui statuera sur l’approbation. Le ministère en dernière
-instance, le conseil municipal et l'instituteur entendus.
+instance, le conseil municipal et l’instituteur entendus.
 
 ## Article 5
 
@@ -93,17 +93,17 @@ de résidence.
 
 Pour accepter des indemnités, les instituteurs institutrices ont besoin de l’autorisation de
 l’autorité supérieure. Lorsque ces indemnités sont accordées en vertu du tarif général
-approuvé par l’autorité supérieure, les instituteurs, et institutrices n'ont pas besoin de requérir
+approuvé par l’autorité supérieure, les instituteurs, et institutrices n’ont pas besoin de requérir
 spécialement, pour l’acceptation, une autorisation individuelle. En cas de transfert d’une
 commune allouant des indemnités dans une commune qui n’en alloue pas ou qui en alloue de
-moins élevée, les instituteurs n’ont droit qu'aux émoluments prévus par les articles 2 et 4 de la
+moins élevée, les instituteurs n’ont droit qu’aux émoluments prévus par les articles 2 et 4 de la
 présente loi.
 
 ## Article 6
 
 En ce qui concerne les membres des associations religieuses remplissant des emplois dans les
 écoles élémentaires publiques, la rémunération continuera à être fixée de gré à gré. A défaut
-d'accord amiable, il sera alloué pour chaque instituteur et institutrice, qui se consacrent
+d’accord amiable, il sera alloué pour chaque instituteur et institutrice, qui se consacrent
 entièrement à leurs fonctions une rémunération annuelle de {{< m "800" "marks" >}} et un logement gratuit
 ou; à la place de celui-ci; une indemnité de loyer équivalente.
 
@@ -114,25 +114,25 @@ communes sur le budget d’Alsace-Lorraine.
 
 ## Article 8
 
-Les communes qui à raison de leur situation et de leur capacité financières ont besoin d'aide
+Les communes qui à raison de leur situation et de leur capacité financières ont besoin d’aide
 pour leurs dépenses scolaires recevront des secours sur un fonds auquel contribueront les
-districts pour une somme annuelle s'élevant à 5% du montant des contributions directes
-comportant des taxes additionnelles de district, et l'État pour le montant des crédits inscrits
+districts pour une somme annuelle s’élevant à 5% du montant des contributions directes
+comportant des taxes additionnelles de district, et l’État pour le montant des crédits inscrits
 chaque année au budget.
 
 ## Article 9
 
-Lorsqu'ils sont mis à la retraite, les instituteurs et institutrices des écoles élémentaires
+Lorsqu’ils sont mis à la retraite, les instituteurs et institutrices des écoles élémentaires
 publiques nommés à titre définitif reçoivent sur le Trésor d’Alsace-Lorraine des pensions de
 retraite conformément aux dispositions légales relatives aux pensions des fonctionnaires
-d'Alsace-Lorraine.
+d’Alsace-Lorraine.
 
 Le trimestre de grâce et les pensions des veuves et orphelins d’instituteurs des écoles
 élémentaires publique sont fixés d’après les dispositions applicables aux fonctionnaires
-d'Alsace-Lorraine et payés sur le Trésor·d'Alsace-Lorraine.
+d’Alsace-Lorraine et payés sur le Trésor·d’Alsace-Lorraine.
 
 Lors de la liquidation des pensions et traitements de disponibilité, la valeur du logement de
-service gratuit oui l'indemnité de loyer sera prise en compte pour une valeur de {{< m "500" "marks" >}} en
+service gratuit oui l’indemnité de loyer sera prise en compte pour une valeur de {{< m "500" "marks" >}} en
 ce qui concerne les instituteurs et pour une valeur de {{< m "400" "marks" >}} en ce qui concerne les
 institutrices; quel que soit le montant de l’indemnité fixée par le conseil municipal
 conformément à l’article 4 a.
@@ -179,9 +179,9 @@ retraite de l’instituteur ou de l’institutrice ou lors du décès de l’ins
 
 A partir de la même date seront abrogées toutes les lois et ordonnances relatives au traitement
 et à la pension des instituteurs et institutrices des écoles élémentaires publiques. Sont
-notamment abrogés, en tant qu’ils concernent les instituteurs des écoles primaires publiques :
+notamment abrogés, en tant qu’ils concernent les instituteurs des écoles primaires publiques :
 
-Les articles VII, VIII de la loi du 23 décembre 1873 ; la loi du 31 mars 1887 relative au
-trimestre de grâce ; l’article III paragraphe 1er alinéa 1er et 2 ainsi que le paragraphe 2 de la loi
+Les articles VII, VIII de la loi du 23 décembre 1873 ; la loi du 31 mars 1887 relative au
+trimestre de grâce ; l’article III paragraphe 1er alinéa 1er et 2 ainsi que le paragraphe 2 de la loi
 du 6 juin 1900 sur le statut des instituteurs, et la loi du 3 avril 1904 relative au traitement des
 instituteurs et institutrices des écoles élémentaires publiques.

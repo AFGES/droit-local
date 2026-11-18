@@ -69,7 +69,7 @@ seront calculés que sur la valeur de cette partie.
 
 Si, dans la même instance, il y a lieu de percevoir des droits sur des parties distinctes de la
 valeur du litige, à raison d’actes de procédure similaires, il ne pourra être prélevé une somme plus
-forte que si le droit avait été calculé sur le total de ces diverses parties ; si les taux à prélever à
+forte que si le droit avait été calculé sur le total de ces diverses parties ; si les taux à prélever à
 raison de ces actes sont différents, le plus élevé sera appliqué.
 
 ## Article 13
@@ -121,10 +121,10 @@ tort la déclaration faite ou en intendant un pourvoi non fondé.
 
 ## Article 79
 
-Il sera perçu à titre de déboursés effectifs :
+Il sera perçu à titre de déboursés effectifs :
 
-3. Les frais occasionnés par l’insertion d’avis dans les feuilles publiques ;
-4. Les droits à payer aux témoins et aux experts ;
+3. Les frais occasionnés par l’insertion d’avis dans les feuilles publiques ;
+4. Les droits à payer aux témoins et aux experts ;
 5. Les sommes à payer à d’autres autorités ou fonctionnaires, ou aux avocats-avoués, pour
    leurs opérations.
 
