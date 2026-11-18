@@ -225,8 +225,7 @@ L’administration de chaque {{< t "cercle" "arrondissement" >}} sera confiée �
 personnel subsidiaire nécessaire, notamment un fonctionnaire ayant qualité pour le suppléer.
 
 Dans les {{< t "cercles" "arrondissements" >}} de Strasbourg-ville et de Metz-ville, le {{< t "président de district" "préfet" >}} remplira les
-fonctions de {{< t "directeur de cercle" "sous-préfet" >}}, la police sera dirigée, sous la surveillance du président de
-district, par un directeur de police pour tout ce qui ne sera pas laissé à l’administration
+fonctions de {{< t "directeur de cercle" "sous-préfet" >}}, la police sera dirigée, sous la surveillance du {{< t "président de district" "préfet" >}}, par un directeur de police pour tout ce qui ne sera pas laissé à l’administration
 communale par les instructions du président supérieur.
 
 Dans la ville de Mulhouse, un directeur de police dirigera la police dans les conditions indiquées
@@ -321,8 +320,7 @@ existantes, faire l'objet d'un recours devant le Conseil d'Etat.
 #### Article 21
 
 Les fonctionnaires administratifs supérieurs, y compris les conseillers titulaires près le président
-supérieur, près les {{< t "présidents de district" "préfets" >}} et près les directions des administrations, les directeurs
-de cercle, les directeurs de police, les trésoriers principaux seront nommés par l'Empereur. Le
+supérieur, près les {{< t "présidents de district" "préfets" >}} et près les directions des administrations, les {{< t "directeurs de cercle" "sous-préfets" >}}, les directeurs de police, les trésoriers principaux seront nommés par l'Empereur. Le
 Chancelier de l'Empire nommera les inspecteurs du cadastre, et de l'enregistrement, les
 conservateurs des hypothèques, inspecteurs en chef des douanes et les membres des bureaux
 principaux des douanes, les inspecteurs des contributions et les inspecteurs scolaires {{< t "de cercle" "d’arrondissement" >}}.

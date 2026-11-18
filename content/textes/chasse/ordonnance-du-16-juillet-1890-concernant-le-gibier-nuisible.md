@@ -10,5 +10,4 @@ categories:
 
 Lorsque l’autorisation de faire usage d’armes à feu ou de poser des pièges pour prendre des
 loups, renards et blaireaux, aura été accordée à des propriétaires, possesseurs et fermiers, soit
-pour eux-mêmes, soit pour des personnes chargées de l’exécution de cette mesure, le directeur de
-cercle est tenu d’en informer immédiatement le fermier de chasse.
+pour eux-mêmes, soit pour des personnes chargées de l’exécution de cette mesure, le {{< t "directeur de cercle" "sous-préfet" >}} est tenu d’en informer immédiatement le fermier de chasse.

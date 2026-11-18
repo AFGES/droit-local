@@ -31,8 +31,7 @@ administrative. Des battues de ce genre ne pourront avoir lieu pour la destructi
 des chevreuils.
 
 Le gibier tué à la suite de la mise en exécution de pareilles mesures sera mis à la
-disposition du titulaire de la chasse ou vendu à son profit en vertu d’instructions du président du
-district. Les frais de battues ordonnées par l’administration seront supportés par les titulaires de
+disposition du titulaire de la chasse ou vendu à son profit en vertu d’instructions du {{< t "président du district" "préfet" >}}. Les frais de battues ordonnées par l’administration seront supportés par les titulaires de
 la chasse, dans la mesure où ces frais ne dépassent pas la valeur du gibier tué.
 
 ---

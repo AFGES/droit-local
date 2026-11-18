@@ -38,8 +38,7 @@ la veuve le bénéfice de la pension.
 ## Article 3
 
 N'ont pas droit à une pension la veuve et les orphelins du fonctionnaire, ayant quitté le
-service, dont les droits à une pension seraient suspendus par suite de la perte de la nationalité
-allemande (art. 57, n° 1 de la loi sur le statut des fonctionnaires d'Empire).
+service, dont les droits à une pension seraient suspendus par suite de la perte de la {{< t "nationalité allemande" "nationalité française" >}} (art. 57, n° 1 de la loi sur le statut des fonctionnaires d'Empire).
 
 ## Article 4
 

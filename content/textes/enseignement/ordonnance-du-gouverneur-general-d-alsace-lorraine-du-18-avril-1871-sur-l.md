@@ -46,8 +46,7 @@ l’amende.
 
 ## Article 5
 
-Le maitre peut accorder trois jours de congé au cours d’un mois. L’approbation du directeur de
-cercle est nécessaire pour un congé d’une durée plus longue.
+Le maitre peut accorder trois jours de congé au cours d’un mois. L’approbation du {{< t "directeur de cercle" "sous-préfet" >}} est nécessaire pour un congé d’une durée plus longue.
 
 La maladie et les empêchements tenant à des phénomènes naturels sont des causes d’excuse.
 Aucun autre motif d’excuse ne sera admis sans l’agrément du {{< t "directeur du cercle" "sous-préfet" >}}.
