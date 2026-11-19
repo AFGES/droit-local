@@ -30,6 +30,8 @@ CITATION = re.compile(
     re.S,
 )
 LF = "https://www.legifrance.gouv.fr/"
+WS = "https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/"
+UEPAL = "https://acteurs.uepal.fr/public_files/file/les_textes_juridiques_organisation_des_cultes_protestants.pdf"
 # French texts (not in the corpus) with a direct Légifrance page, keyed by (day, month, year).
 # Ids were found by search, not derived; others (old décrets, ordonnances) are absent from Légifrance.
 LEGIFRANCE = {
@@ -41,7 +43,18 @@ LEGIFRANCE = {
     (26, 3, 1852): LF + "loda/id/JORFTEXT000000296132",
     (21, 6, 1865): LF + "loda/id/LEGITEXT000006074259",
     (1, 7, 1901): LF + "loda/id/LEGITEXT000006069570",
+    # Wikisource (not on Légifrance)
+    (17, 3, 1808): WS + "D%C3%A9crets_du_17_mars_1808",
+    (22, 12, 1812): WS + "D%C3%A9cret_du_22_d%C3%A9cembre_1812",
+    (25, 5, 1844): WS + "Ordonnance_du_25_mai_1844",
+    # The corpus cites this décret as "16 mars 1859"; the real date is 19 mars 1859.
+    (16, 3, 1859): WS + "D%C3%A9cret_du_19_mars_1859",
+    (19, 3, 1859): WS + "D%C3%A9cret_du_19_mars_1859",
+    # UEPAL compilation of Protestant worship texts (church site, current amended versions, no other source found)
+    (10, 9, 1852): UEPAL + "#page=8",
+    (10, 11, 1852): UEPAL + "#page=10",
 }
+ARRETES_ONLY = {(10, 9, 1852), (10, 11, 1852)}  # same dates also have décrets, not covered by the UEPAL file
 STOP = {"relative", "relatif", "portant", "concernant", "pour", "dans", "avec", "sont", "cette", "leur", "ainsi"}
 
 
@@ -127,7 +140,7 @@ def link_seg(seg: str, idx, here: pathlib.Path, report: list[str]) -> str:
         cands = idx.get(key, [])
         flat = " ".join(cite.split())
         if not cands:
-            if key in LEGIFRANCE:
+            if key in LEGIFRANCE and not (key in ARRETES_ONLY and not cite.lower().startswith("arrêté")):
                 report.append(f"LEGIFRANCE {here.relative_to(BASE)}: {flat}")
                 res.append(f"[{cite}]({LEGIFRANCE[key]})")
             else:

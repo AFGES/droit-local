@@ -36,14 +36,14 @@ Ceux-ci sont appelés « oratoires » et classés en trois catégories :
    filiales) ;
 2. les « oratoires particuliers ». Ce sont les églises et les chapelles d’institutions et
    d’établissements. Les établissements et les associations qui peuvent avoir des églises et des
-   chapelles propres sont énumérés dans le décret du 22 décembre 1812 ;
+   chapelles propres sont énumérés dans le [décret du 22 décembre 1812](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/D%C3%A9cret_du_22_d%C3%A9cembre_1812) ;
 3. les « oratoires domestiques (chapelles domestiques) ». Ce sont les chapelles privées.
 
 D’après les dispositions du droit public ecclésiastique en vigueur en Alsace-Lorraine (voir
 en particulier les articles 44, 60, 61, 62 concernant le culte catholique et l’article 19 concernant le
 culte protestant de la loi du 18 germinal an X, le décret du 10 brumaire an XIV, le décret du 30
-septembre 1807, l’article 2 du décret du 17 mars 1808, le décret du 22 décembre 1812, les articles
-60, 61, 63 de l’ordonnance du 25 mai 1844, le décret du 16 mars 1859), un lieu de culte ne peut,
+septembre 1807, l’article 2 du [décret du 17 mars 1808](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/D%C3%A9crets_du_17_mars_1808), le [décret du 22 décembre 1812](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/D%C3%A9cret_du_22_d%C3%A9cembre_1812), les articles
+60, 61, 63 de l’[ordonnance du 25 mai 1844](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/Ordonnance_du_25_mai_1844), le [décret du 16 mars 1859](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/D%C3%A9cret_du_19_mars_1859)), un lieu de culte ne peut,
 par principe, être « établi » qu’avec « l’autorisation » de l’État.
 
 L’autorisation est donnée - abstraction faite de quelques cas spéciaux - par ordonnance de
@@ -63,7 +63,7 @@ commune, peut être utilisée sans nouvelle autorisation de l’État.
 
 Aux lieux de culte dûment autorisés, il faut assimiler ceux qui ont été établis dès avant
 1802 (publication du Concordat et des Articles organiques) ou pour autant qu’il s’agisse de
-synagogues - avant l’année 1808 (décret du 17 mars 1808) et qui ont été maintenus sans
+synagogues - avant l’année 1808 ([décret du 17 mars 1808](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/D%C3%A9crets_du_17_mars_1808)) et qui ont été maintenus sans
 interruption jusqu’à ce jour. Ces anciens lieux de culte sont à traiter comme s’ils avaient acquis, en
 vertu d’une autorisation de l’État, le siège et le genre qu’ils possédaient respectivement en 1802 et
 1808.
@@ -104,12 +104,12 @@ financière quelle qu’elle soit, ni pour la paroisse (conseil de fabrique, etc
 L’autorisation d’ouverture est donnée pour les églises filiales pour une période indéterminée, pour
 les églises des établissements pour un temps déterminé ou indéterminé, pour les chapelles
 domestiques pour la durée de la vie du propriétaire. Elle peut être révoquée pour des raisons
-sérieuses. Aux termes de l’article 8 du décret du 22 décembre 1812, dont les dispositions
+sérieuses. Aux termes de l’article 8 du [décret du 22 décembre 1812](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/D%C3%A9cret_du_22_d%C3%A9cembre_1812), dont les dispositions
 s’appliquent à tous les cultes, les autorités administratives ont le pouvoir de fermer des « oratoires »
 qui ont été ouverts sans autorisation de l’État.
 
 Parmi les établissements et associations qui peuvent avoir des églises et des chapelles
-particulières (« oratoires particuliers »), l’article 2 du décret du 22 décembre 1812 mentionne
+particulières (« oratoires particuliers »), l’article 2 du [décret du 22 décembre 1812](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/D%C3%A9cret_du_22_d%C3%A9cembre_1812) mentionne
 également les congrégations religieuses. Il est naturellement fait allusion ici uniquement aux
 congrégations qui, en conformité des dispositions légales, ont été reconnues par l’État, et qui, par
 conséquent, possèdent une existence légale. Pour les congrégations qui n’existent que par suite

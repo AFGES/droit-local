@@ -21,6 +21,6 @@ pour son district.
 Celles des attributions du consistoire central qui se rattachent au droit de surveillance de
 l’Etal seront jusqu’à nouvel ordre exercées par le {{< t "président du district" "préfet" >}}. Les {{< t "présidents de district" "préfets" >}}
 seront l’autorité intermédiaire entre les consistoires de district et le président supérieur (article
-10, alinéa 1er, de l’ordonnance du 25 mai 1844) et ils exerceront les droits délégués au consistoire
+10, alinéa 1er, de l’[ordonnance du 25 mai 1844](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/Ordonnance_du_25_mai_1844)) et ils exerceront les droits délégués au consistoire
 central par les articles 11, alinéa 2, l’article 12, alinéa 4, phrase 2, et alinéas 6 à 8, et l’article 23,
-alinéa 2, de l’ordonnance du 25 mai 1844.
+alinéa 2, de l’[ordonnance du 25 mai 1844](https://fr.wikisource.org/wiki/La_S%C3%A9paration_des_%C3%89glises_et_de_l%E2%80%99%C3%89tat/Ordonnance_du_25_mai_1844).

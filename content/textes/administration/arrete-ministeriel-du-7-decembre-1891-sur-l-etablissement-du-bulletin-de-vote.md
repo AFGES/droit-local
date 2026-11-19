@@ -8,8 +8,8 @@ categories:
 ---
 
 Après consultation du consistoire supérieur et du directoire de l’Église de la Confession
-d’Augsbourg, après modification correspondante de l’article 18 de l’arrêté ministériel du 10
-septembre 1852, concernant la constitution des conseils presbytéraux et consistoires, dans la
+d’Augsbourg, après modification correspondante de l’article 18 de l’[arrêté ministériel du 10
+septembre 1852](https://acteurs.uepal.fr/public_files/file/les_textes_juridiques_organisation_des_cultes_protestants.pdf#page=8), concernant la constitution des conseils presbytéraux et consistoires, dans la
 mesure où il s’applique à l’Église de la Confession d’Augsbourg, j’arrête ce qui suit :
 
 Les bulletins de vote peuvent être remplis en dehors du bureau de vote.

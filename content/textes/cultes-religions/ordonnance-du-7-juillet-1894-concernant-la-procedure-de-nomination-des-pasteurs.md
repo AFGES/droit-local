@@ -39,7 +39,7 @@ accompagnée d’un rapport.
 
 ## Article 10
 
-Les articles 13 et 14 de l’arrêté ministériel du 10 novembre 1852 sont supprimés.
+Les articles 13 et 14 de l’[arrêté ministériel du 10 novembre 1852](https://acteurs.uepal.fr/public_files/file/les_textes_juridiques_organisation_des_cultes_protestants.pdf#page=10) sont supprimés.
 
 Strasbourg, le 7 juillet 1894
 Ministère d’Alsace-Lorraine

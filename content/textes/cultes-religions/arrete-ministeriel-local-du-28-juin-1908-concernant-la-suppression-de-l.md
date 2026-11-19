@@ -12,7 +12,7 @@ En application de l’article 14 du décret du 28 mars 1852, concernant la réor
 protestant, à la suite des délibérations du consistoire supérieur de l’Eglise de la Confession
 d’Augsbourg du 20 novembre 1907 et du Synode réformé du 2 juin 1908, il est arrêté :
 
-l’article 18, paragraphe I de l’arrêté ministériel du 10 septembre 1852 sur la Constitution des
+l’article 18, paragraphe I de l’[arrêté ministériel du 10 septembre 1852](https://acteurs.uepal.fr/public_files/file/les_textes_juridiques_organisation_des_cultes_protestants.pdf#page=8) sur la Constitution des
 Conseils presbytéraux et Consistoires des deux Eglises protestantes est annulé.
 
 Strasbourg, le 28 juin 1908
