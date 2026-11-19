@@ -1,0 +1,22 @@
+amends "package://github.com/jdx/hk/releases/download/v2.13.0/hk@2.13.0#/Config.pkl"
+
+// Même contrôles que le job `lint` de .forgejo/workflows/publish.yaml.
+// Seul pre-commit est défini: les hooks pre-push/post-* appartiennent à git-lfs.
+local linters = new Mapping<String, Step> {
+  ["dprint"] {
+    glob = List("*.md", "*.html", "*.json")
+    check = "dprint check {{files}}"
+    fix = "dprint fmt {{files}}"
+  }
+  ["markdownlint"] {
+    glob = List("content/**/*.md", "archetypes/*.md")
+    check = "markdownlint-cli2 {{files}}"
+  }
+}
+
+hooks {
+  ["pre-commit"] {
+    fix = true
+    steps = linters
+  }
+}

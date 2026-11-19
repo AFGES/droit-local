@@ -14,7 +14,8 @@ qu'un miroir en lecture seule.
 
 ## Développement
 
-Les outils sont gérés par [mise](https://mise.jdx.dev/) (`mise install`).
+Les outils sont gérés par [mise](https://mise.jdx.dev/) (`mise install`). Après le premier `mise install`, lancer `hk install` : un hook pre-commit
+(`hk.pkl`) exécute `dprint` et `markdownlint-cli2`, comme le job `lint` de la CI.
 
 ```sh
 hugo server            # prévisualisation locale
