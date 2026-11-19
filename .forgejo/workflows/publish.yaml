@@ -4,7 +4,16 @@ on:
     branches: [main]
   workflow_dispatch:
 jobs:
+  lint:
+    runs-on: docker
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Check formatting and Markdown lint
+        run: |
+          npx --yes dprint@0.51.1 check
+          npx --yes markdownlint-cli2@0.21.0 "content/**/*.md" "archetypes/*.md"
   publish:
+    needs: lint
     runs-on: docker
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
