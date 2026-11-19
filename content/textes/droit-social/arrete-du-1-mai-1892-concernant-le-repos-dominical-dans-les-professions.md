@@ -64,7 +64,7 @@ Les autorités de police auront à observer les règles suivantes :
 4. Les dimanches pour lesquels les heures de travail et de vente peuvent être augmentées jusqu’à
    10, sont les derniers quatre dimanches avant Noël et le jour de la fête patronale ;
 5. Les décisions seront prises et publiées sous la forme d’une ordonnance de police locale dont
-   copie sera adressée au directeur d’arrondissement ainsi qu’au tribunal cantonal et au premier
+   copie sera adressée au {{< t "directeur d’arrondissement" "sous-préfet" >}} ainsi qu’au tribunal cantonal et au premier
    procureur du ministère public, conformément à l’arrêté ministériel du 19 décembre 1887. Il en
    sera de même des modifications qui pourraient avoir lieu ultérieurement.
 
@@ -122,7 +122,7 @@ exercera, s’il y a lieu, des poursuites contre eux en vertu de l’article 2, 
 novembre 1814.
 
 Des exceptions à l’interdiction du colportage les dimanches et jours de fête ne doivent être
-accordées par le directeur d’arrondissement (directeur de police) que si un besoin urgent se fait
+accordées par le {{< t "directeur d’arrondissement" "sous-préfet" >}} (directeur de police) que si un besoin urgent se fait
 sentir. Des exceptions individuelles ne sont pas admises.
 
 ## Article VI

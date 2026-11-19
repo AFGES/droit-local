@@ -1651,13 +1651,11 @@ La peine n’est pas prononcée contre celui qui établit que l’omission a eu 
 ### Article 151
 
 Quiconque s’est fait accorder ou promettre les avantages particuliers pour se prononcer, lors d’un
-vote dans l’assemblée générale, dans un sens déterminé, sera puni d’une amende jusqu’à 3 000
-marks ou d’un emprisonnement jusqu’à une année.
+vote dans l’assemblée générale, dans un sens déterminé, sera puni d’une amende jusqu’à {{< m "3000" "marks" >}} ou d’un emprisonnement jusqu’à une année.
 
 ### Article 154
 
-Les contraventions aux prescriptions de l’article 32 seront punies d’une amende jusqu’à 150
-marks.
+Les contraventions aux prescriptions de l’article 32 seront punies d’une amende jusqu’à {{< m "150" "marks" >}}.
 
 ## Section X. - Dispositions finales
 

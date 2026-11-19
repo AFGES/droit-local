@@ -20,7 +20,7 @@ Chaque association doit avoir un président ou un comité composé de plusieurs 
 ### Article 3
 
 Le comité est tenu de porter, dans les huit jours après la constitution de l’association, à la
-connaissance du directeur d’arrondissement compétent (président de police), le nom et du
+connaissance du {{< t "directeur d’arrondissement" "sous-préfet" >}} compétent (président de police), le nom et du
 siège de l’association, en y joignant en double expédition les statuts et la liste des membres du
 comité.
 
@@ -88,7 +88,7 @@ La déclaration doit porter les données suivantes :
 ### Article 10
 
 Les réunions publiques qui n’ont pas lieu dans un endroit fermé et couvert doivent être
-autorisées par le directeur d’arrondissement. L’autorisation doit être donnée par écrit. Les
+autorisées par le {{< t "directeur d’arrondissement" "sous-préfet" >}}. L’autorisation doit être donnée par écrit. Les
 cortèges publics ne peuvent être autorisés que par la police locale. Les processions religieuses
 permises en vertu des lois en vigueur ne sont pas soumises à cette prescription.
 
@@ -97,7 +97,7 @@ permises en vertu des lois en vigueur ne sont pas soumises à cette prescription
 Il est défendu aux personnes prenant part à une réunion publique de porter des armes. Cette
 disposition n’est pas applicable aux fonctionnaires publics ni aux représentants de la force
 armée en tant qu’ils portent leur arme faisant partie de leur uniforme de service. Il n’est pas
-permis à des mineurs d’assister à une réunion publique si le directeur d’arrondissement n’a
+permis à des mineurs d’assister à une réunion publique si le {{< t "directeur d’arrondissement" "sous-préfet" >}} n’a
 pas autorisé par écrit la personne chargée de la convocation de les y admettre.
 
 ### Article 12
@@ -113,7 +113,7 @@ Le fonctionnaire de police chargé de la surveillance a le droit de dissoudre la
    l’autorisation ;
 2. si des personnes auxquelles il est interdit d’assister à la réunion ne s’éloignent pas après en
    avoir été requises ;
-3. si l’admission des fonctionnaires délégués par le directeur d’arrondissement est refusé ;
+3. si l’admission des fonctionnaires délégués par le {{< t "directeur d’arrondissement" "sous-préfet" >}} est refusé ;
 4. si la personne responsable qui dirige les débats laisse discuter des questions étrangères à
    l’objet indiqué dans la déclaration ;
 5. s’il se produit des excès qui peuvent être dangereux pour la sécurité ou l’ordre publics et

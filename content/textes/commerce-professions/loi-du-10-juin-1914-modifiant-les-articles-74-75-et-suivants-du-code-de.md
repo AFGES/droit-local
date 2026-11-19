@@ -25,7 +25,7 @@ l’indemnité stipulée, elle cause à raison du lieu, du temps et de l’objet
 un tort injuste à l’avenir commercial du commis. La convention prohibitive ne peut s’étendre à
 une durée supérieure à deux ans à partir de la cessation du louage de services. La convention
 prohibitive est nulle quand les sommes dues annuellement pour ces services au commis ne
-dépassent pas 1.500 marks. Il en est de même lorsque le commis est mineur lors de la
+dépassent pas {{< m "1500" "marks" >}}. Il en est de même lorsque le commis est mineur lors de la
 conclusion de la convention ou si le patron fait promettre l’exécution de celle-ci sur l’honneur
 ou d’autre façon analogue. Est également nulle la convention par laquelle un tiers contracte, à
 la place du commis, l’engagement que celui-ci limitera son activité professionnelle après la
@@ -83,7 +83,7 @@ payer une indemnité après l’expiration d’une année depuis la date de cett
 Si le commis a été engagé pour des services à rendre hors de l’Europe, l’obligation résultant
 de la convention prohibitive de la concurrence ne dépend pas de ce que le patron s’oblige au
 paiement de l’indemnité prévue par l’article 74, alinéa 2. Il en est de même lorsque la
-rémunération conventionnelle due au commis dépasse 8.000 marks par an ; pour le calcul du
+rémunération conventionnelle due au commis dépasse {{< m "8000" "marks" >}} par an ; pour le calcul du
 montant de cette rémunération il y a lieu d’appliquer par analogie, les dispositions des articles
 74 b alinéas 2 et 3.
 

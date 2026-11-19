@@ -1,10 +1,17 @@
-# Sources : loi du 1er juin 1924 art. 11 ; JORFTEXT000000869866 art. 9.
+# Sources : loi du 1er juin 1924 art. 9 (JORFTEXT000000869866, lois commerciales) ;
+# loi du 1er juin 1924 art. 11 (LEGITEXT000006069443, législation civile).
+# Les mots ambigus (« allemand », « province », « cercle ») ne sont pas remplacés seuls.
 - {orig: "Etat allemand", new: "Etat français"}
 - {orig: "Empire allemand", new: "Etat français"}
 - {orig: "président de province", new: "préfet"}
 - {orig: "président du département", new: "préfet"}
+- {orig: "président de département", new: "préfet"}
 - {orig: "président du district", new: "préfet"}
 - {orig: "président de district", new: "préfet"}
 - {orig: "directeur de cercle", new: "sous-préfet"}
+- {orig: "directeur d’arrondissement", new: "sous-préfet"}
+- {orig: "territoire allemand", new: "territoire français"}
+- {orig: "nationalité allemande", new: "nationalité française"}
+- {orig: "établissements allemands", new: "établissements français"}
 - {orig: "Banque d’Empire", new: "Banque de France"}
 - {orig: "formes judiciaires", new: "formes notariées"}

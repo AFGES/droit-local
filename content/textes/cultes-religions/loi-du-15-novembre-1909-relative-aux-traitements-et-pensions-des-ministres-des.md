@@ -50,8 +50,7 @@ vicaires catholiques s’élève, dans les communes de moins de 25 000 habitants
 moins et, dans les autres, à {{< m "100" "marks" >}} au moins.
 
 Les vicaires nommés à titre définitif, dont l’emploi est prévu au budget d’Alsace-Lorraine,
-reçoivent en outre sur la Caisse d’Alsace-Lorraine un supplément de traitement qui sera de 300
-marks dans les communes d’au moins 25 000 habitants, et de {{< m "600" "marks" >}} dans les autres
+reçoivent en outre sur la Caisse d’Alsace-Lorraine un supplément de traitement qui sera de {{< m "300" "marks" >}} dans les communes d’au moins 25 000 habitants, et de {{< m "600" "marks" >}} dans les autres
 communes.
 
 Un supplément de traitement de {{< m "600" "marks" >}} pourra être accordé par le Ministère aux
@@ -146,8 +145,7 @@ destitution du ministre du culte ; l’approbation du Statthalter est nécessa
 est subordonnée à l’approbation ou à la confirmation du souverain, et l’approbation du Ministère,
 dans les autres cas.
 
-Pour le calcul de la pension, on ajoutera aux émoluments de service une somme de 400
-marks à raison du droit au logement gratuit ou de l’indemnité en tenant lieu. Les indemnités
+Pour le calcul de la pension, on ajoutera aux émoluments de service une somme de {{< m "400" "marks" >}} à raison du droit au logement gratuit ou de l’indemnité en tenant lieu. Les indemnités
 accordées pour l’administration simultanée d’un poste vacant ou les indemnités spéciales
 attachées à certains postes n’entrent pas en compte. Seront considérées comme émoluments de
 service des chapelains et vicaires catholiques (art. 3 et 4) le total des sommes qu’ils touchent
