@@ -57,6 +57,32 @@ def fix_headings(lines: list[str], start: int) -> None:
         prev = new
 
 
+ART = re.compile(r"(#{2,6}) (Article|Art\.|Artikel|§)\b", re.I)
+
+
+def fix_article_levels(lines: list[str], start: int) -> None:
+    """Article heading = one level below the nearest structural heading (## if none)."""
+    parent = 1  # level of the nearest structural heading
+    art_old = art_new = 0  # last article: original / new level
+    for i in range(start, len(lines)):
+        m = re.match(r"(#{1,6}) ", lines[i])
+        if not m:
+            continue
+        lvl = len(m[1])
+        title = lines[i].split(" ", 1)[1]
+        if ART.match(lines[i]):
+            new = min(parent + 1, 6)
+            art_old, art_new = lvl, new
+        elif art_old and lvl > art_old:  # sub-heading inside an article
+            new = min(max(lvl + art_new - art_old, art_new + 1), 6)
+        else:  # structural heading
+            parent = new = lvl
+            art_old = 0
+        if new != lvl:
+            stats["article-level"] += 1
+            lines[i] = "#" * new + " " + title
+
+
 def main() -> None:
     dry = "--dry-run" in sys.argv
     changed = 0
@@ -73,6 +99,7 @@ def main() -> None:
                     break
         new = lines[:start] + [fix_line(l) for l in lines[start:]]
         fix_headings(new, start)
+        fix_article_levels(new, start)
         if new != lines:
             changed += 1
             if not dry:

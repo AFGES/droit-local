@@ -1339,19 +1339,19 @@ s’appliquent aussi aux liquidateurs.
 
 ### I. Associations à responsabilité illimitée
 
-### Article 119
+#### Article 119
 
 Dans les associations à responsabilité illimitée, aucun associé ne peut posséder plus d’une part
 sociale.
 
-### Article 120
+#### Article 120
 
 Les déclarations d’adhésion doivent nécessairement contenir la mention expresse que les divers
 associés sont responsables sur tous leurs biens, conformément à la loi, pour tous les engagements
 de l’association, tant vis-à-vis de l’association elle-même que directement vis-à-vis des créanciers
 de celle-ci.
 
-### Article 121
+#### Article 121
 
 Dès qu’il est constaté, au cours de la gestion, que l’actif de l’association, y compris le fonds de
 réserve et les parts actives, ne suffit pas à couvrir les dettes, le Conseil d’administration
@@ -1361,7 +1361,7 @@ l’association.
 Au cas où la dissolution est décidée, il y aura lieu de provoquer en même temps la délibération
 prévue à l’article 104.
 
-### Article 122
+#### Article 122
 
 En cas de faillite, les divers associés sont, à côté de l’association, solidairement et sur tous leurs
 biens, responsables vis-à-vis des créanciers de la masse pour toute perte que subiront ceux-ci lors
@@ -1382,7 +1382,7 @@ vérification, produit effet vis-à-vis de tous les associés.
 En ce qui concerne les créances restées litigieuses pendant la procédure de faillite, les associés ne
 peuvent être condamnés tant que l’existence de ces créances n’aura pas été constatée.
 
-### Article 123
+#### Article 123
 
 L’action des créanciers contre les divers associés est prescrite par deux années, à compter de
 l’expiration du délai fixé par l’article 122, alinéa 2, à moins que la loi n’établisse un délai de
@@ -1392,12 +1392,12 @@ La prescription en faveur d’un associé est interrompue par tout fait juridiqu
 par l’association ; elle n’est pas interrompue par des faits juridiques entrepris contre ou par un
 autre associé.
 
-### Article 124
+#### Article 124
 
 En tant que les associés désintéressent des créanciers de la faillite conformément à l’article 122,
 ils sont subrogés dans les droits de ceux-ci contre l’association.
 
-### Article 125
+#### Article 125
 
 Les dispositions des articles 122 à 124 sont applicables, en ce qui concerne toutes les obligations
 contractées avant leur sortie de l’association, aux associés qui ont cessé de faire partie de
@@ -1413,20 +1413,20 @@ où l’obligation a été contractée, le créancier connaissait la mort de l�
 
 ### II. Associations coopératives avec obligation illimitée de faire des versements supplémentaires
 
-### Article 126
+#### Article 126
 
 Les dispositions de l’article 119 sur la limitation de la participation à une part sociale et de
 l’article 121 sur la convocation de l’assemblée générale dans le cas où le passif dépasse l’actif,
 s’appliquent aux associations coopératives avec obligation illimitée de faire des versements
 supplémentaires.
 
-### Article 127
+#### Article 127
 
 Les déclarations d’adhésion doivent nécessairement contenir la mention expresse que les divers
 associés sont tenus sur tous leurs biens de faire, aux termes de la loi, à l’association les
 versements supplémentaires nécessaires pour désintéresser les créanciers de celle-ci.
 
-### Article 128
+#### Article 128
 
 Si, en cas d’ouverture de la faillite après trois mois écoulés à partir de l’audience à laquelle le
 compte des versements supplémentaires a été déclaré exécutoire, les créanciers de la masse
@@ -1436,7 +1436,7 @@ la faillite par les associés sortis de l’association dans les dix-huit mois q
 de la faillite, qui ne sont pas déjà soumis à faire des versements supplémentaires conformément à
 l’article 75 ou à l’article 76, alinéa 4.
 
-### Article 129
+#### Article 129
 
 Le syndic doit établir sans retard un compte sur les quotes-parts dont sont tenus les membres
 sortis.
@@ -1448,7 +1448,7 @@ pour verser les quotes-parts.
 Pour le surplus, les prescriptions de l’article 106, alinéa 3, des articles 107 à 109, 111 à 113 et 115
 s’appliquent par analogie.
 
-### Article 130
+#### Article 130
 
 Les dispositions des articles 128 et 129 ne modifient en rien le recouvrement des versements
 supplémentaires des associés restés dans l’association.
@@ -1459,7 +1459,7 @@ supplémentaires des associés restés membres aussitôt que tous les créancier
 
 ### III. Association coopérative à responsabilité limitée
 
-### Article 131
+#### Article 131
 
 Dans les associations coopératives à responsabilité limitée le montant dont sont tenus les divers
 associés ne peut être inférieur au montant de la part sociale.
@@ -1468,13 +1468,13 @@ Le montant dont sont tenus les associés doit nécessairement être fixé par le
 constitution de l’association. La disposition y relative ou sa modification doit être publiée (art.
 12, 16).
 
-### Article 132
+#### Article 132
 
 Pour relever le montant dont les associés sont tenus, une majorité des trois quarts des associés
 présents à l’assemblée générale est nécessaire. Les statuts peuvent encore formuler d’autres
 exigences.
 
-### Article 133
+#### Article 133
 
 Une réduction du montant dont les associés sont tenus ne peut avoir lieu qu’en observant les
 prescriptions qui, en cas de dissolution, sont applicables à la répartition de l’actif social. Les
@@ -1486,25 +1486,25 @@ doivent être présentés les avis de publication de la résolution. En même te
 d’administration doit donner l’assurance écrite que les créanciers qui se sont déclarés à
 l’association, et qui n’ont pas consenti à la réduction, sont désintéressés ou ont obtenu garantie.
 
-### Article 134
+#### Article 134
 
 Les statuts peuvent autoriser les associés à posséder plusieurs parts sociales en fixant le nombre
 maximum de celles-ci.
 
 La disposition à cet égard ou sa modification doit être publiée.
 
-### Article 135
+#### Article 135
 
 La responsabilité d’un associé qui possède plus d’une part sociale est portée à un multiple de la
 somme dont il est tenu pour une part, correspondant au nombre des parts sociales lui appartenant.
 
-### Article 136
+#### Article 136
 
 Tant que le montant de la première part sociale n’est pas atteint, l’association ne peut autoriser
 l’associé à posséder une seconde part sociale. Il en est de même pour l’autorisation de posséder
 toute part sociale en plus.
 
-### Article 137
+#### Article 137
 
 L’associé qui veut posséder une part sociale en plus doit à cet effet faire une déclaration sans
 condition, signée de lui.
@@ -1519,7 +1519,7 @@ alinéas précédents.
 
 Pour le surplus, les prescriptions de l’article 15 sont applicables par analogie.
 
-### Article 138
+#### Article 138
 
 Dans le cas de l’article 134, le transfert de la part active à un autre associé ne peut avoir lieu que
 si la part active appartenant actuellement à ce dernier, avec le montant à y ajouter, ne dépasse pas
@@ -1527,7 +1527,7 @@ la somme totale correspondant au chiffre maximum des parts sociales. À cet éga
 d’administration doit donner l’assurance prescrite à l’article 76. Pour le surplus, on s’en tient aux
 dispositions de l’article 137.
 
-### Article 139
+#### Article 139
 
 Avec le bilan de chaque exercice il y a lieu, en outre des indications prescrites à l’article 33 en ce
 qui concerne le nombre des associés, de publier le montant total jusqu’à concurrence duquel, au
@@ -1535,7 +1535,7 @@ cours de l’année, les parts actives ainsi que les sommes dont les associés s
 augmentées ou diminuées, ainsi que le montant des versements que, sur les sommes dont ils
 étaient tenus, tous les associés ensemble ont effectués à la fin de l’année.
 
-### Article 140
+#### Article 140
 
 En dehors du cas d’insolvabilité, la procédure de faillite est ouverte contre une association
 existante dans le cas où le passif dépasse l’actif, si l’excédent du passif sur l’actif est supérieur au
@@ -1544,13 +1544,13 @@ autre bilan dressé au cours de l’année fait ressortir un tel dépassement du
 Conseil d’administration doit demander l’ouverture de la faillite. Les prescriptions de l’article 99,
 alinéas 2 et 3, et de l’article 100 sont applicables par analogie.
 
-### Article 141
+#### Article 141
 
 Les divers associés ne peuvent, au-delà de la somme dont ils sont tenus, être contraints à faire des
 versements supplémentaires ni être attaqués par les créanciers de la masse. Pour le surplus, les
 dispositions des articles 122 à 125 s’appliquent au droit d’action des créanciers.
 
-### Article 142
+#### Article 142
 
 En dehors du cas de l’article 90, si, contrairement aux prescriptions des articles 19 et 22, le gain
 ou la part active ont été distribués, les créanciers de l’association, qui ne peuvent obtenir de celle-
@@ -1565,7 +1565,7 @@ aurait été autorisée par une résolution de l’assemblée générale.
 
 ### IV. Conversion d’associations coopératives
 
-### Article 143
+#### Article 143
 
 Une association à responsabilité illimitée ne peut être convertie en association avec obligation
 illimitée de faire des versements supplémentaires qu’en observant les dispositions qui, en cas de
@@ -1577,7 +1577,7 @@ limitée.
 
 Les prescriptions de l’article 133, alinéa 2 sont applicables par analogie.
 
-### Article 144
+#### Article 144
 
 La résolution qui convertit une association avec obligation illimitée de faire des versements
 supplémentaires en une association à responsabilité limitée, ou qui convertit une association à
@@ -1585,7 +1585,7 @@ responsabilité limitée en une association à responsabilité illimitée ou ave
 faire des versements supplémentaires, doit être prise à la majorité des trois quarts des associés
 présents à l’assemblée générale. Les statuts peuvent formuler encore d’autres exigences.
 
-### Article 145
+#### Article 145
 
 La conversion produit effet même à l’égard des membres sortis de l’association avant l’inscription
 de la résolution au registre des associations.

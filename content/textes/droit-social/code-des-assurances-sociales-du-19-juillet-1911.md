@@ -7,18 +7,15 @@ categories:
   - "droit-social"
 ---
 
-LIVRE TROISIEME
-Assurance contre les accidents du travail
+## LIVRE TROISIEME — Assurance contre les accidents du travail
 
 ---
 
-PREMIERE PARTIE
-ASSURANCE CONTRE LES ACCIDENTS DANS LES ENTREPRISES INDUSTRIELLES
+### PREMIERE PARTIE — ASSURANCE CONTRE LES ACCIDENTS DANS LES ENTREPRISES INDUSTRIELLES
 
-CHAPITRE I
-Étendue de l’assurance
+#### CHAPITRE I — Étendue de l’assurance
 
-## Article 537
+##### Article 537
 
 L’assurance s’étend :
 
@@ -48,14 +45,14 @@ L’assurance s’étend :
 9. aux exploitations industrielles d’emballage, de chargement, de manutention, de triage, de pesage,
    de mesurage, de débardage et d’arrimage ;
 10. aux entreprises de transport de personnes ou de marchandises, d’abatage du bois, lorsque ces
-    exploitations sont rattachées à une entreprise commerciale excédant les limites de la petite entreprise ;
+exploitations sont rattachées à une entreprise commerciale excédant les limites de la petite entreprise ;
 11. dans les mêmes conditions (n°10) aux entreprises s’occupant du traitement et de la manutention
-    des marchandises.
+des marchandises.
 
 L’Office impérial des assurances sociales détermine quelles sont les entreprises commerciales (nos 10
 et 11) qui, comme petites exploitations, ne sont pas soumises à l’assurance contre les accidents.
 
-### Article 538
+##### Article 538
 
 Sont considérées comme fabriques au sens du § 537, n°2, les entreprises :
 
@@ -67,7 +64,7 @@ Sont considérées comme fabriques au sens du § 537, n°2, les entreprises :
    par une force élémentaire ou animale ;
 4. qui sont assimilées aux fabriques par l’Office impérial des assurances sociales.
 
-#### Article 539
+##### Article 539
 
 L’assurance s’étend également à d’autres entreprises, lorsqu’elles font partie intégrante des
 exploitations désignées aux §§ 537, 538 ou en sont des entreprises accessoires.
@@ -92,14 +89,14 @@ disposition n’est pas encore en vigueur depuis plus de trois ans ;
    sont partie essentielle d’entreprises énumérées aux §§ 537, 538 et dont l’activité ne se borne pas au trafic
    local, ou qui sont des exploitations accessoires.
 
-###### Article 541
+##### Article 541
 
 Les §§ 916, 918 à 921 spécifient pour quelles exploitations et occupations de la nature de
 celles désignées aux §§ 537, 538, et qui font partie intégrante d’une exploitation agricole ou en sont des
 exploitations accessoires l’assurance agricole, contre les accidents prend la place de l’assurance
 industrielle.
 
-###### Article 542
+##### Article 542
 
 Lorsqu’un entrepreneur possède dans la circonscription du même Office supérieur des
 assurances sociales plusieurs exploitations, qui sont soumises, d’après leur nature, les unes à l’assurance
@@ -121,7 +118,7 @@ conditions de l’alinéa 1 subsistent, que sur la demande du chef d’entrepris
 plus de trois ans depuis que la décision est devenue définitive, la résiliation ne peut avoir lieu qu’avec
 l’assentiment des Corporations intéressées.
 
-###### Article 543
+##### Article 543
 
 Pour les entreprises qui ne présentent pas de risques particuliers d’accident, une dispense de
 l’obligation d’assurance peut être accordée par le Conseil Fédéral.
@@ -129,7 +126,7 @@ l’obligation d’assurance peut être accordée par le Conseil Fédéral.
 L’Office impérial des assurances sociales prépare la décision du Conseil Fédéral ; le conseil du
 contentieux administratif doit être entendu.
 
-###### Article 544
+##### Article 544
 
 Sont assurés contre les accidents dans les entreprises ou occupations qui sont soumises à
 l’assurance en vertu des §§ 537 à 542 (accidents du travail) :
@@ -140,23 +137,23 @@ l’assurance en vertu des §§ 537 à 542 (accidents du travail) :
 
 Un acte défendu ne constitue pas un obstacle à l’admissibilité d’un accident du travail.
 
-###### Article 545
+##### Article 545
 
 Les contremaîtres et les techniciens sont assimilés aux employés d’exploitation.
 
-###### Article 546
+##### Article 546
 
 L’assurance s’étend aux services domestiques et autres dont les assurés sont chargés par le
 chef d’entreprise ou son préposé, à côté de leurs occupations principales dans l’entreprise ou dans d’autres
 travaux assurés.
 
-###### Article 547
+##### Article 547
 
 Par décision du Conseil Fédéral, l’assurance contre les accidents peut être étendue à des
 maladies professionnelles déterminées. Le Conseil Fédéral est autorisé à édicter des règlements spéciaux
 relativement à l’exécution de cette disposition.
 
-###### Article 548
+##### Article 548
 
 Les statuts peuvent étendre l’obligation de l’assurance :
 
@@ -166,7 +163,7 @@ Les statuts peuvent étendre l’obligation de l’assurance :
    domicile qui ont entrepris une exploitation désignée aux §§ 537, 538 ;
 3. aux employés d’exploitation dont le traitement annuel est supérieur à {{< m "5000" "marks" >}}
 
-###### Article 549
+##### Article 549
 
 Lorsque l’exploitation d’un chef d’entreprise,
 assujetti à l’assurance en vertu des statuts (§ 548, n°1), ne
@@ -177,7 +174,7 @@ elle est accordée disparaît.
 
 L’Office supérieur des assurances sociales statue définitivement sur les recours.
 
-###### Article 550
+##### Article 550
 
 Les chefs d’entreprise (§ 633), ainsi que les pilotes de la navigation intérieure qui exercent
 leur industrie pour leur propre compte peuvent s’assurer eux-mêmes contre les suites des accidents du
@@ -188,12 +185,12 @@ Ils peuvent être autorisés par les statuts à s’assurer pour leur personne m
 dépasse {{< m "3000" "marks" >}} ou lorsqu’ils occupent régulièrement au moins trois ouvriers salariés assujettis à
 l’assurance.
 
-###### Article 551
+##### Article 551
 
 Les dispositions du § 548, nos 1 et 2, et du § 550 relatives à l’assurance du chef d’entreprise
 s’appliquent également à son conjoint, lorsqu’il est occupé dans l’entreprise.
 
-###### Article 552
+##### Article 552
 
 Les statuts peuvent fixer les conditions auxquelles peuvent être assurés contre des accidents
 de la nature de ceux visés par les §§ 544, 546 :
@@ -205,13 +202,13 @@ de la nature de ceux visés par les §§ 544, 546 :
 3. par le comité directeur de la Corporation, les membres de ses organes et les employés de la
    Corporation.
 
-###### Article 553
+##### Article 553
 
 Les statuts peuvent porter que l’assurance volontaire s’éteint lorsque les cotisations n’ont
 pas été payées, malgré une mise en demeure et qu’une nouvelle inscription ne sera pas admise aussi
 longtemps que l’arriéré n’aura pas été soldé.
 
-###### Article 554
+##### Article 554
 
 Ne sont pas assujettis à l’assurance :
 
@@ -231,20 +228,19 @@ Les travaux de construction autres que ceux d’une entreprise industrielle de c
 détention non industrielle de montures et de véhicules (§ 537, nos 6 et 7) sont considérés comme entreprises
 au sens de la loi sur l’assistance en cas d’accident.
 
-CHAPITRE II
-Objet de l’assurance
+#### CHAPITRE II — Objet de l’assurance
 
-###### Article 555
+##### Article 555
 
 L’assurance a pour objet la réparation, déterminée par les dispositions ci-après, du
 dommage causé par lésion corporelle ou mort.
 
-###### Article 556
+##### Article 556
 
 La victime et ses survivants sont déchus de tout droit, si l’accident a été intentionnellement
 provoqué par eux.
 
-###### Article 557
+##### Article 557
 
 La réparation peut être refusée en tout ou partie, lorsque la victime s’est attiré l’accident en
 commettant un crime ou un délit intentionnel établis par jugement pénal.
@@ -259,7 +255,7 @@ coloniales {{< t "allemandes" "françaises" >}} sont considérées comme faisant
 La réparation du dommage peut aussi être refusée lorsque, en cas de décès ou d’absence de la victime
 ou pour tout autre motif inhérent à sa personne, aucun jugement pénal n’est prononcé.
 
-###### Article 558
+##### Article 558
 
 En cas de blessure, sont alloués depuis le commencement de la quatorzième semaine après
 l’accident :
@@ -269,7 +265,7 @@ l’accident :
    atténuer les conséquences de la lésion (béquilles, appareils de soutien et autres) ;
 2. une rente pour la durée de l’incapacité de travail.
 
-###### Article 559
+##### Article 559
 
 La rente comprend :
 
@@ -278,14 +274,14 @@ La rente comprend :
 2. en cas d’incapacité partielle de travail et pour la durée de cette incapacité, une partie de la rente
    entière correspondant à la réduction de la capacité (rente partielle).
 
-###### Article 560
+##### Article 560
 
 Aussi longtemps que, par suite de l’accident, la victime se trouve dans un état de dénuement tel qu’elle
 ne puisse subsister sans le secours et les soins d’autrui, la rente doit être élevée dans une mesure
 correspondante, mais sans pouvoir dépasser le total de la rémunération annuelle, pendant la durée de cet
 état.
 
-###### Article 561
+##### Article 561
 
 Si, à l’époque de l’accident, la victime était déjà atteinte d’incapacité de travail permanente
 et totale, la réparation à fournir se limite au traitement de la maladie (§ 558, n°1).
@@ -294,20 +290,20 @@ Si, en pareil cas, la victime se trouve, par suite de l’accident, dans un tel 
 subsister sans le secours et les soins d’autrui, une rente s’élevant, au maximum, à la moitié de la rente
 entière doit lui être allouée.
 
-###### Article 562
+##### Article 562
 
 Aussi longtemps que la victime se trouve, du fait de l’accident et sans qu’il y ait de sa faute,
 dépourvue de travail, la Corporation peut élever temporairement la rente partielle jusqu’au montant de la
 rente entière.
 
-###### Article 563
+##### Article 563
 
 La rente est calculée d’après le montant de la rémunération annuelle que la victime a
 touchée pendant la dernière année dans l’entreprise.
 
 Si la rémunération annuelle excède {{< m "1800" "marks" >}}, le surplus n’est pris en compte que pour un tiers.
 
-###### Article 564
+##### Article 564
 
 Est considéré comme rémunération annuelle, lorsque la victime a été occupée dans
 l’entreprise depuis un an au moins avant l’accident, le produit par 300 de la rémunération moyenne qu’elle
@@ -317,7 +313,7 @@ Pour les entreprises dans lesquelles le mode usuel d’exploitation comporte un 
 inférieur de journées de travail, ce nombre est pris comme base du calcul de la rémunération annuelle au
 lieu du chiffre 300.
 
-###### Article 565
+##### Article 565
 
 Si la victime n’a pas été occupée dans l’entreprise durant une année entière avant l’accident,
 la rémunération annuelle est calculée en multipliant le nombre de jours pendant lesquels elle a été occupée
@@ -327,14 +323,14 @@ salaire moyen touché par journée entière pendant ce laps de temps, par des as
 de la même capacité de travail, dans la même entreprise ou dans des entreprises voisines de la même
 espèce.
 
-###### Article 566
+##### Article 566
 
 Si le mode de calcul déterminé par le § 565 est impossible, la rémunération annuelle est
 calculée en multipliant par le nombre de jours pendant lesquels l’établissement travaille d’ordinaire chaque
 année, le salaire que la victime a gagné, en moyenne, par journée entière de travail pendant la durée de
 l’occupation.
 
-###### Article 567
+##### Article 567
 
 Si le nombre de jours pendant lesquels l’établissement travaille d’ordinaire est si minime
 que ceux qui y sont occupés exécutent encore ailleurs, régulièrement, un travail rémunéré, il est ajouté,
@@ -342,34 +338,34 @@ dans les cas des §§ 565, 566, au montant calculé d’après le § 565 ou le �
 travail qui manque à 300, le salaire local des adultes de plus de 21 ans fixé au moment de l’accident pour le
 lieu du travail de l’assuré (§§ 149 à 152).
 
-###### Article 568
+##### Article 568
 
 Si la victime n’était occupée qu’à l’heure, le gain moyen pour la journée entière de travail
 ne peut dépasser le salaire moyen d’un ouvrier de la même catégorie occupé toute la journée.
 
-###### Article 569
+##### Article 569
 
 Les §§ 564 à 568 sont applicables par analogie, lorsque la rémunération annuelle se
 compose de sommes arrêtées par semaine pour le moins.
 
-###### Article 570
+##### Article 570
 
 Si la rémunération annuelle de l’assuré n’atteint pas le produit par 300 du salaire local d’un
 ouvrier adulte de plus de 21 ans (§ 567), le produit par 300 de ce salaire sera pris comme rémunération
 annuelle.
 
-###### Article 571
+##### Article 571
 
 Pour les personnes qui, antérieurement à l’accident, étaient déjà atteintes d’une incapacité
 de travail partielle permanente, ne sera prise en considération que la partie du salaire local correspondant au
 degré de capacité avant l’accident.
 
-###### Article 572
+##### Article 572
 
 Les §§ 563 à 571 sont applicables par analogie aux victimes qui, sans appartenir à une
 entreprise assujettie à l’assurance, étaient occupées à des travaux assurés.
 
-###### Article 573
+##### Article 573
 
 Si la victime est assurée contre la maladie en vertu de l’assurance sociale ou auprès d’une
 caisse-maladie minière, il doit lui être accordé, à titre de secours de maladie, au moins les prestations
@@ -388,7 +384,7 @@ des caisses-maladie minières le salaire de base fixé par le § 180.
 Les §§ 221 et 222 sont applicables par analogie au cas où l’assuré contre la maladie tombe malade à
 l’étranger à la suite de l’accident.
 
-###### Article 574
+##### Article 574
 
 Sont également considérés comme assurés contre la maladie aux termes du § 573, ceux qui :
 
@@ -397,7 +393,7 @@ Sont également considérés comme assurés contre la maladie aux termes du § 5
 2. ne font plus partie de la caisse-maladie, par suite de chômage, mais qui ont encore droit à des
    prestations de ladite caisse (§ 214).
 
-###### Article 575
+##### Article 575
 
 Lorsque le secours pécuniaire de maladie ou le secours pécuniaire de famille cessent d’être
 dus totalement ou partiellement pour les personnes assujetties à l’assurance contre la maladie dans les
@@ -406,7 +402,7 @@ exploitations agricoles, par suite de prestations contractuelles de la part de l
 sociale, le montant de ces prestations doit être déduit du secours de maladie prévu par le § 573, en tant que
 ces deux catégories de secours coïncident pour la même période.
 
-###### Article 576
+##### Article 576
 
 Les prestations que la caisse-maladie, la caisse-maladie minière ou la caisse agréée sont
 tenues de fournir conformément aux §§ 573, 575, en sus de l’obligation résultant de la loi ou des statuts,
@@ -417,7 +413,7 @@ peuvent porter que la Corporation doit restituer le surplus dans tous les cas.
 Cette disposition est applicable par analogie, lorsque la victime qui est assurée contre la maladie n’a
 pas droit au secours de maladie.
 
-###### Article 577
+##### Article 577
 
 Si la victime appartenant à la catégorie des
 personnes assurées conformément aux §§ 544, 545, n’est pas assurée contre la maladie en vertu de
@@ -444,12 +440,12 @@ Si un domestique est dispensé de l’assurance en vertu du § 440, alinéa 1, u
 cette autre assistance prend la place de l’employeur. Elle a le droit de réclamer au chef d’entreprise le
 remboursement de l’excédent des prestations, à moins que la Corporation ne soit tenue au remboursement.
 
-###### Article 578
+##### Article 578
 
 L’Office impérial des assurances sociales arrête les prescriptions de détail relativement à
 l’exécution des §§ 573 à 577.
 
-###### Article 579
+##### Article 579
 
 La Corporation peut prendre à sa charge, en tout
 ou partie, les prestations incombant au chef d’entreprise.
@@ -462,7 +458,7 @@ du salaire de base d’après lequel est fixé le secours pécuniaire de maladie
 Ces dispositions sont applicables par analogie, lorsque dans les cas du §§ 577, alinéa 2 et 3,
 l’employeur ou la caisse qui alloue l’autre assistance prend la place du chef d’entreprise.
 
-###### Article 580
+##### Article 580
 
 S’il est à prévoir qu’une indemnité d’accident devra être fournie aux victimes auxquelles les
 §§ 573 à 577 ne s’appliquent pas, la Corporation peut, dès avant l’expiration de la treizième semaine qui
@@ -476,7 +472,7 @@ Elle peut aussi, si la victime y consent, donner des soins à celle-ci conformé
 Celle-ci peut réclamer à la Corporation une indemnité appropriée pour le salaire dont elle a été privée
 par suite du traitement curatif.
 
-###### Article 581
+##### Article 581
 
 La Corporation peut, pendant les treize premières semaines qui suivent l’accident, faire
 examiner la victime par un médecin, même sans la soumettre à un traitement curatif et demander à la
@@ -488,7 +484,7 @@ renseignements dans un délai déterminé, en lui infligeant des amendes n’exc
 
 L’Office supérieur statue définitivement sur les recours contre la fixation de l’amende.
 
-###### Article 582
+##### Article 582
 
 Lorsque le secours pécuniaire de maladie cesse d’être accordé avant la fin de la treizième
 semaine, et que le blessé se trouve alors encore en état d’incapacité de travail, la rente doit lui être fournie
@@ -498,7 +494,7 @@ Les statuts peuvent aussi accorder la rente lorsque, à l’expiration du droit 
 maladie, une incapacité de travail persiste, mais qu’il est à prévoir qu’elle prendra fin avant la fin de la
 treizième semaine.
 
-###### Article 583
+##### Article 583
 
 Si la caisse-maladie, la caisse-maladie minière ou la caisse libre agréée cessent indûment,
 avant l’expiration de la treizième semaine, de fournir les prestations qui leur incombent, le droit de la
@@ -507,7 +503,7 @@ correspondant au montant de la rente (§ 582).
 
 Cette disposition s’applique également aux prestations du chef d’entreprise (§ 577).
 
-###### Article 584
+##### Article 584
 
 Si la Corporation, à l’époque où elle est tenue à la réparation du dommage en vertu du
 **§ 558**, ne s’est pas chargée de l’assistance de la victime et si, pendant la même période, la caisse-maladie,
@@ -515,12 +511,12 @@ la caisse-maladie minière ou la caisse agréée a alloué le secours pécuniair
 prévus aux §§ 182, 184, 185, la victime sera considérée, pendant cette période, comme atteinte d’une
 incapacité de travail totale.
 
-###### Article 585
+##### Article 585
 
 Les contestations qui s’élèvent au sujet des droits au remboursement visés aux §§ 573 à
 577, 579, sont tranchées par la voie du contentieux judiciaire.
 
-###### Article 586
+##### Article 586
 
 En cas de mort, il est en outre alloué :
 
@@ -533,14 +529,14 @@ Cette rente consiste en une fraction de la rémunération annuelle déterminée 
 La rémunération annuelle est calculée de la même manière que dans le cas de lésion corporelle ;
 toutefois, le § 571 n’est pas applicable.
 
-###### Article 587
+##### Article 587
 
 Si, par suite d’un accident antérieur, cette rémunération annuelle est inférieure au salaire
 que gagnait la victime avant cet accident, la rente allouée du fait de l’accident doit être ajoutée au chiffre de
 la rémunération annuelle ; toutefois, le total ne peut être supérieur au montant de la rémunération qui a
 servi de base à la détermination de la rente primitive.
 
-###### Article 588
+##### Article 588
 
 Si le défunt laisse une veuve ou des enfants, la rente s’élève à un cinquième de la
 rémunération annuelle :
@@ -549,19 +545,19 @@ rémunération annuelle :
 - pour chaque enfant, jusqu’à l’accomplissement de sa quinzième année et, s’il s’agit d’un enfant
   naturel, dans le cas seulement où le défunt a subvenu à son entretien, conformément à la loi.
 
-###### Article 589
+##### Article 589
 
 En cas de remariage, la veuve reçoit, comme indemnité forfaitaire, les trois cinquièmes de
 la rémunération annuelle.
 
-###### Article 590
+##### Article 590
 
 La veuve est exclue de tout droit, si le mariage n’a été contracté qu’après l’accident.
 
 La Corporation peut toutefois déroger à cette disposition dans des cas particuliers et allouer une rente
 de veuve.
 
-###### Article 591
+##### Article 591
 
 Les dispositions relatives aux rentes des enfants s’appliquent également aux enfants d’une
 femme non mariée.
@@ -570,7 +566,7 @@ Elles s’appliquent également aux enfants d’une femme mariée nés avant le 
 qu’elle a eus d’un premier mariage, lorsqu’ils n’ont pas la situation légale d’enfants légitimes de l’époux
 survivant.
 
-###### Article 592
+##### Article 592
 
 Si la défunte subvenait, avant l’accident mortel, par son gain, en raison de l’incapacité de
 travail de son conjoint, exclusivement ou principalement à l’entretien de sa famille, la rente à accorder
@@ -585,7 +581,7 @@ La Corporation peut, en cas de décès d’une femme mariée dont le conjoint a,
 abandonné la communauté conjugale et s’est soustrait au devoir d’entretenir ses enfants, allouer la rente à
 ceux-ci.
 
-###### Article 593
+##### Article 593
 
 Si le défunt laisse des parents en ligne ascendante, une rente s’élevant au total au cinquième
 de la rémunération annuelle est allouée à ces derniers, tant qu’ils sont dans le besoin et lorsque leur
@@ -593,13 +589,13 @@ entretien dépendait essentiellement du travail du défunt.
 
 S’il y a des ascendants à des degrés différents, les parents ont droit à la rente avant les grands-parents.
 
-###### Article 594
+##### Article 594
 
 Si le défunt laisse des petits-enfants sans parents, une rente s’élevant au total au cinquième
 de la rémunération annuelle leur est allouée, en cas de besoin et jusqu’à l’âge de 15 ans accomplis, lorsque
 leur entretien dépendait entièrement ou en majeure partie du travail du défunt.
 
-###### Article 595
+##### Article 595
 
 Les rentes des survivants ne peuvent excéder ensemble les trois cinquièmes de la
 rémunération annuelle ; si cette proportion est dépassée, les rentes sont réduites pour les conjoints et les
@@ -611,7 +607,7 @@ prénommés.
 Lorsqu’un survivant cesse d’avoir droit à la retraite, les rentes des autres ayants droit sont augmentées
 jusqu’à concurrence du montant maximum ci-dessus.
 
-###### Article 596
+##### Article 596
 
 Les survivants d’un étranger qui, au moment de l’accident n’ont pas leur résidence
 habituelle dans le pays, n’ont aucun droit à la rente.
@@ -622,7 +618,7 @@ citoyens {{< t "allemands" "français" >}} tués par un accident du travail.
 
 Les colonies {{< t "allemandes" "françaises" >}} sont considérées, aux termes de l’alinéa 1, comme faisant partie du pays.
 
-###### Article 597
+##### Article 597
 
 Au lieu des allocations prescrites au § 558, la Corporation peut accorder le traitement et
 l’entretien gratuits dans un établissement hospitalier.
@@ -643,7 +639,7 @@ Le consentement n’est pas requis lorsque :
 La Corporation doit, autant que possible, allouer l’hospitalisation dans les cas prévus à l’alinéa 4,
 nos 1, 2 et 4.
 
-###### Article 598
+##### Article 598
 
 Si la Corporation alloue le traitement dans un établissement hospitalier, à l’expiration des
 treize premières semaines ou plus tôt, en cas de cessation du droit au secours pécuniaire de maladie, les
@@ -652,14 +648,14 @@ droit à une rente, pour autant toutefois qu’ils soient fondés à y prétendr
 (rente aux membres de la famille). Ce droit est reconnu aussi à la femme dont le mariage avec la victime
 n’a été contracté qu’après l’accident.
 
-###### Article 599
+##### Article 599
 
 La Corporation peut accorder à la victime, avec son assentiment, l’assistance et les soins par
 des infirmiers, sœurs infirmières ou autres gardes-malades (traitement à domicile) notamment dans le cas
 où l’admission du blessé dans un établissement hospitalier s’imposerait, mais n’est pas réalisable, ou
 lorsqu’il y a une raison majeure de laisser la victime dans son ménage ou dans sa famille.
 
-###### Article 600
+##### Article 600
 
 Si la Corporation prend à sa charge, en vertu du § 579, les prestations du chef d’entreprise,
 elle peut, au lieu des secours et indemnités pécuniaires de maladie, accorder conformément aux §§ 184,
@@ -675,28 +671,28 @@ se détermine le secours pécuniaire de maladie de l’intéressé.
 Cette disposition est applicable par analogie lorsque, dans les cas du § 577, alinéas 2, 3, l’employeur
 ou la caisse qui alloue les autres secours remplace le chef d’entreprise.
 
-###### Article 601
+##### Article 601
 
 Les contestations qui s’élèvent au sujet des droits au remboursement prévus au § 600 sont
 tranchées par la voie du contentieux judiciaire.
 
-###### Article 602
+##### Article 602
 
 La Corporation peut, par voie de disposition statutaire, dans tous les cas, et, à défaut de
 semblable disposition, dans les cas d’indigence, accorder un secours particulier à la victime soignée dans
 un établissement hospitalier, ainsi qu’à ses proches parents.
 
-###### Article 603
+##### Article 603
 
 La Corporation peut, en tout temps, faire procéder à un nouveau traitement curatif, s’il est
 permis d’espérer qu’un tel traitement accroîtra la capacité de travail du titulaire d’une rente-accident.
 
-###### Article 604
+##### Article 604
 
 Indépendamment de la victime, la caisse-maladie, la caisse-maladie minière ou la caisse
 agréée à laquelle elle appartient, peuvent aussi demander la reprise du traitement curatif.
 
-###### Article 605
+##### Article 605
 
 Si des caisses-maladie, des caisses-maladie minières, des caisses agréées ou des institutions
 chargées de l’assurance contre les accidents, ont placé la victime dans un établissement hospitalier
@@ -706,14 +702,14 @@ transférée dans un autre établissement sans son consentement.
 L’Office d’assurance du lieu où la victime a son domicile peut donner ce consentement au lieu ou
 place de l’hospitalisée.
 
-###### Article 606
+##### Article 606
 
 Si, sans motif légal ou autre raison plausible, la victime n’a pas observé une prescription
 relative au traitement curatif et si sa capacité de travail en est défavorablement influencée, l’indemnité peut
 lui être temporairement refusée, en tout ou en partie à condition qu’elle ait été prévenue des conséquences
 de sa conduite.
 
-###### Article 607
+##### Article 607
 
 Le comité-directeur de la Corporation peut procurer à un titulaire d’une rente-accident, sur
 sa demande, en remplacement de la rente, le séjour dans un hospice pour invalides, un orphelinat ou tout
@@ -725,12 +721,12 @@ du § 11, alinéa 2, et du § 23, alinéa 2, de la loi sur le domicile d’assis
 L’hospitalisé est tenu de renoncer à sa rente pour un trimestre et, sauf opposition de sa part un mois
 avant l’expiration de ce terme, chaque fois pour un nouveau trimestre et ainsi de suite.
 
-###### Article 608
+##### Article 608
 
 S’il survient un changement essentiel dans la situation qui a servi de base à la fixation de
 l’indemnité, une nouvelle fixation peut avoir lieu.
 
-###### Article 609
+##### Article 609
 
 Dans les deux premières années qui suivent l’accident, une nouvelle fixation de l’indemnité
 peut toujours être faite ou requise, s’il se produit un changement dans l’état de la victime. Toutefois, si une
@@ -738,17 +734,17 @@ rente permanente a été définitivement fixée dans ces deux années ou si ce d
 fixation ne peut être faite ou requise qu’à des intervalles d’au moins un an. Ces délais subsistent même si
 un nouveau traitement curatif est ordonné. Les intervalles peuvent être diminués de commun accord.
 
-###### Article 610
+##### Article 610
 
 Toute décision ou décision finale portant réduction ou retrait de la rente n’est effective qu’à
 l’expiration du mois suivant celui de la signification.
 
-###### Article 611
+##### Article 611
 
 L’augmentation ou le retour au paiement de la rente ne peuvent être réclamés que pour la
 période postérieure à la demande.
 
-###### Article 612
+##### Article 612
 
 Les frais du traitement curatif et les indemnités funéraires sont payables dans la semaine qui
 suit leur fixation ; les rentes sont payables d’avance, par arrérages mensuels.
@@ -762,7 +758,7 @@ paiement de la rente.
 
 Le montant de la rente est arrondi en {{< m "5" "pfennig" >}} pleins pour le mois ou pour le trimestre.
 
-###### Article 613
+##### Article 613
 
 La rente continue à être payée pour le mois du décès, le mois du remariage et le mois au
 cours duquel le droit à la rente est suspendu. Lorsque, pour une partie de mois, la rente de la victime
@@ -771,13 +767,13 @@ coïncide avec celle des survivants, ceux-ci ont droit à la somme la plus forte
 Lorsque la rente devait être payée pour un plus long espace de temps, la Corporation peut encore
 l’allouer pour cette période.
 
-###### Article 614
+##### Article 614
 
 Lorsque la victime vient à mourir sans avoir touché l’indemnité, le conjoint, les enfants, le
 père, la mère, les frères et sœurs ont droit à l’indemnité, les uns après les autres, si au moment du décès ils
 habitaient en communauté de famille avec elle.
 
-###### Article 615
+##### Article 615
 
 La rente est suspendue :
 
@@ -815,13 +811,13 @@ de la condamnation à une peine criminelle, les dispositions de l’alinéa 1, n
 Les colonies {{< t "allemandes" "françaises" >}} sont considérées, au sens des présentes dispositions comme faisant partie du
 pays.
 
-###### Article 616
+##### Article 616
 
 Si le montant de la rente d’une victime ne dépasse pas le cinquième de la rente entière, la
 Corporation peut, avec le consentement de l’intéressé et l’Office d’assurance préalablement entendu,
 l’indemniser par le paiement du capital correspondant à la valeur de sa rente annuelle.
 
-###### Article 617
+##### Article 617
 
 Si l’intéressé est un étranger qui cesse de résider habituellement dans le pays ou qui réside
 habituellement à l’étranger, la Corporation peut l’indemniser, s’il y consent, par le paiement d’une somme,
@@ -831,22 +827,22 @@ capital correspondant à la valeur de sa rente annuelle.
 Par décision du Conseil Fédéral, cette disposition peut être inopérante pour des districts frontières
 étrangers déterminés.
 
-###### Article 618
+##### Article 618
 
 Pour l’indemnisation par le paiement d’un capital équivalent (§§ 616, 617), le Conseil
 Fédéral règle le calcul de la valeur du capital.
 
-###### Article 619
+##### Article 619
 
 Si, à la suite d’une révision, la Corporation constate que la prestation a été refusée,
 supprimée ou suspendue indûment, pour le tout ou pour une partie, elle peut la fixer à nouveau.
 
-###### Article 620
+##### Article 620
 
 La Corporation n’est pas obligée de réclamer le remboursement d’une indemnité qu’elle a dû
 payer avant que la décision ne soit devenue définitive.
 
-###### Article 621
+##### Article 621
 
 Les droits à des indemnités peuvent, en dehors des cas du § 119 être cédés, mis en gage et
 saisis effectivement dans le cas où il s’agit de créances au profit de caisses-maladie, d’associations minières,
@@ -854,7 +850,7 @@ de caisses minières, de caisses agréées et d’instituts d’assurance auxque
 droit au remboursement. La cession, la mise en gage et la saisie ne peuvent avoir lieu que jusqu’à
 concurrence du montant des droits légaux au remboursement.
 
-###### Article 622
+##### Article 622
 
 Ces droits ne peuvent être compensés que par :
 
@@ -865,10 +861,9 @@ Ces droits ne peuvent être compensés que par :
 - les amendes prononcées par le comité directeur de la Corporation ;
 - les droits de la Corporation au remboursement, en vertu des §§ 903, 904.
 
-CHAPITRE III
-Institutions chargées de l’assurance
-I. — CORPORATIONS PROFESSIONNELLES ET AUTRES INSTITUTIONS CHARGEES DE
-L’ASSURANCE
+#### CHAPITRE III — Institutions chargées de l’assurance
+
+##### I. — CORPORATIONS PROFESSIONNELLES ET AUTRES INSTITUTIONS CHARGEES DE L’ASSURANCE
 
 ###### Article 623
 
@@ -976,7 +971,7 @@ institutions d’assurance indépendantes et régler, dans ce cas, leur organisa
 la composition de succursales ou de Corporations d’assurance, il se prononce également sur le transfert des
 charges de l’assurance et de la fortune.
 
-II. — COMPOSITION DES CORPORATIONS
+##### II. — COMPOSITION DES CORPORATIONS
 
 ###### Article 630
 
@@ -1035,8 +1030,7 @@ travaux et est tenu de payer les salaires.
 
 Cette disposition est applicable par analogie aux succursales.
 
-III. — MODIFICATIONS DANS LA COMPOSITION
-DES CORPORATIONS
+##### III. — MODIFICATIONS DANS LA COMPOSITION DES CORPORATIONS
 
 ###### Article 635
 
@@ -1140,9 +1134,9 @@ Lorsqu’une Corporation, soumise à la surveillance d’un Office d’assurance
 dissoute, parce qu’elle ne peut faire face à ses charges, ses droits et obligations sont transférés à l’Etat
 Confédéré.
 
-CHAPITRE IV
-Organisation des Corporations professionnelles
-I. — AFFILIATION ET DROIT DE VOTE
+#### CHAPITRE IV — Organisation des Corporations professionnelles
+
+##### I. — AFFILIATION ET DROIT DE VOTE
 
 ###### Article 649
 
@@ -1173,7 +1167,7 @@ aux §§ 540 (n° 1) et 542, l’affiche en fait mention.
 Les membres ou leurs représentants légaux qui ne se trouvent pas en possession de leurs
 droits civiques n’ont pas le droit de vote.
 
-II. — DECLARATION DES ENTREPRISES
+##### II. — DECLARATION DES ENTREPRISES
 
 ###### Article 653
 
@@ -1217,7 +1211,7 @@ l’amende.
 L’Office d’assurance attribue l’entreprise à la Corporation, dans la semaine qui suit l’expiration du
 délai déterminé, en fournissant lui-même les données (§ 653, alinéa 1).
 
-III. — LISTE DES ENTREPRISES
+##### III. — LISTE DES ENTREPRISES
 
 ###### Article 657
 
@@ -1267,8 +1261,7 @@ de l’avis.
 Des extraits de la liste d’entreprises doivent être communiqués aux comités-directeurs des
 sections, en ce qui concerne les exploitants appartenant à ces sections.
 
-IV. — CHANGEMENT DU CHEF D’ENTREPRISE. MODIFICATIONS APPORTEES A
-L’ENTREPRISE ET A SON AFFILIATION A LA CORPORATION
+##### IV. — CHANGEMENT DU CHEF D’ENTREPRISE. MODIFICATIONS APPORTEES A L’ENTREPRISE ET A SON AFFILIATION A LA CORPORATION
 
 ###### Article 664
 
@@ -1360,7 +1353,7 @@ déclaration des changements d’entreprises susvisées.
 Le chef d’entreprise a droit de recours contre la décision prise par la Corporation, soit à la suite de la
 déclaration du changement, soit d’office.
 
-V. — STATUTS
+##### V. — STATUTS
 
 ###### Article 675
 
@@ -1395,15 +1388,15 @@ Les statuts doivent contenir des dispositions relatives :
 9. à la procédure à suivre en cas de changements survenus dans les exploitations et dans la personne
    des chefs d’entreprises ;
 10. aux conséquences des arrêts d’exploitation ou d’un changement d’un chef d’entreprise, en
-    particulier au mode de garantie des cotisations dues par les chefs d’entreprises qui cessent leur exploitation
-    ;
+particulier au mode de garantie des cotisations dues par les chefs d’entreprises qui cessent leur exploitation
+;
 11. à l’établissement, à l’examen et à l’approbation du compte annuel ;
 
 12. à l’exercice du droit d’arrêter des prescriptions en vue de la prévention des accidents, et du
-    contrôle des exploitations ;
+contrôle des exploitations ;
 13. à la procédure à suivre pour la déclaration d’affiliation et de désaffiliation des chefs d’entreprises
-    assurés, des pilotes et autres assurés visés au § 548, n° 3 et § 552, ainsi qu’au montant et à la détermination
-    du gain annuel des chefs d’entreprises et pilotes ;
+assurés, des pilotes et autres assurés visés au § 548, n° 3 et § 552, ainsi qu’au montant et à la détermination
+du gain annuel des chefs d’entreprises et pilotes ;
 14. au mode des publications ;
 15. à la modification des statuts.
 
@@ -1465,7 +1458,7 @@ des sections doivent être publiés par le comité directeur de la Corporation, 
 
 Cette disposition s’applique également aux modifications des statuts.
 
-VI. — ORGANES DE LA CORPORATION
+##### VI. — ORGANES DE LA CORPORATION
 
 ###### Article 685
 
@@ -1516,7 +1509,7 @@ Aussi longtemps et en tant qu’une élection des organes légaux d’une Corpor
 pas ou si des membres légalement élus refusent d’accomplir leurs fonctions, l’Office impérial des
 assurances sociales les remplit lui-même ou les fait remplir par des délégués, aux frais de la Corporation.
 
-VII. — AGENTS
+##### VII. — AGENTS
 
 ###### Article 690
 
@@ -1653,7 +1646,7 @@ La procédure ordinaire n’est pas recevable, lorsqu’il s’agit de la fixati
 L’exécution des décisions des autorités d’assurance ayant force de chose jugée a lieu conformément au
 livre VIII du Code de procédure civile.
 
-VIII. — ETABLISSEMENT DES CLASSES DE RISQUES
+##### VIII. — ETABLISSEMENT DES CLASSES DE RISQUES
 
 ###### Article 706
 
@@ -1708,7 +1701,7 @@ accorder des réductions pour la période de tarif suivante ou une partie de cet
 
 Un recours contre l’imposition de suppléments est ouvert au chef d’entreprise.
 
-IX. — PARTAGE ET MISE EN COMMUN DES CHARGES
+##### IX. — PARTAGE ET MISE EN COMMUN DES CHARGES
 
 ###### Article 713
 
@@ -1741,7 +1734,7 @@ Corporation dans les indemnités à supporter en commun, est arrêté par l’as
 Sauf disposition contraire, cette répartition a lieu de la même manière que celle des indemnités à
 payer par la Corporation en vertu de la présente loi.
 
-X. — GESTION DE LA FORTUNE DES CORPORATIONS
+##### X. — GESTION DE LA FORTUNE DES CORPORATIONS
 
 ###### Article 717
 
@@ -1791,21 +1784,20 @@ l’expiration dudit exercice par l’Office impérial, au sujet de l’ensemble
 
 Cet état doit être présenté au Reichstag.
 
-CHAPITRE V
-Surveillance
+#### CHAPITRE V — Surveillance
 
-###### Article 722
+##### Article 722
 
 Les Corporations sont soumises à la surveillance de l’Office impérial des assurances
 sociales.
 
-###### Article 723
+##### Article 723
 
 Si un Office d’Etat des assurances est institué pour le territoire d’un Etat Confédéré, les
 Corporations qui ne comprennent que des entreprises dont le siège est situé sur le territoire dudit Etat, sont
 soumises à la surveillance de l’Office d’Etat.
 
-###### Article 724
+##### Article 724
 
 En ce qui concerne ces Corporations, les attributions de l’Office impérial sont transférées à
 l’Office d’Etat lorsqu’il s’agit :
@@ -1836,7 +1828,7 @@ l’Office d’Etat lorsqu’il s’agit :
 - de la prévention des accidents et de la surveillance (§§ 848 à 891), sauf dans les cas du § 883 ;
 - de la notification des autorités d’exécution (§ 893).
 
-###### Article 725
+##### Article 725
 
 S’il s’agit :
 
@@ -1855,9 +1847,9 @@ S’il s’agit d’autres institutions communes à plusieurs Corporations (§ 8
 assurances sociales reste compétent lorsque toutes les Corporations intéressées ne sont pas soumises au
 même Office d’Etat.
 
-CHAPITRE VI
-Paiement des indemnités. Constitution des ressources
-I. — PAIEMENT DES INDEMNITES PAR LA POSTE
+#### CHAPITRE VI — Paiement des indemnités. Constitution des ressources
+
+##### I. — PAIEMENT DES INDEMNITES PAR LA POSTE
 
 ###### Article 726
 
@@ -1892,7 +1884,7 @@ indemnités, aux ayants droit qui résident habituellement à l’étranger.
 Les Corporations minières peuvent prévoir dans leurs statuts que le paiement des
 indemnités sera effectué non par la poste, mais par les associations minières ou les caisses minières.
 
-II. — CONSTITUTION DES RESSOURCES
+##### II. — CONSTITUTION DES RESSOURCES
 
 ###### Article 731
 
@@ -2099,7 +2091,7 @@ Dans des cas de nécessité, la Corporation peut, avec l’approbation de l’Of
 sociales, entamer le capital du fonds de réserve. Celui-ci est alors reconstitué conformément aux
 instructions formulées par l’Office impérial.
 
-III. — PROCEDURE DE REPARTITION ET DE RECOUVREMENT
+##### III. — PROCEDURE DE REPARTITION ET DE RECOUVREMENT
 
 ###### Article 749
 
@@ -2344,7 +2336,7 @@ Les contestations qui s’élèvent dans les cas des §§ 772 à 775 entre la Co
 qui fait construire sont réglées par l’Office supérieur, à l’exclusion de toute procédure devant les tribunaux
 ordinaires.
 
-IV. — REMBOURSEMENTS ET AVANCES A LA POSTE
+##### IV. — REMBOURSEMENTS ET AVANCES A LA POSTE
 
 ###### Article 777
 
@@ -2400,9 +2392,9 @@ l’administration des postes, à disposer, en premier lieu, des fonds disponibl
 En cas d’insuffisance de ces fonds, l’Office impérial procède par voie d’exécution forcée contre les
 membres de la Corporation, jusqu’à ce que l’arriéré soit couvert.
 
-CHAPITRE VII
-Succursales
-I. — SUCCURSALES POUR LES TRAVAUX DE CONSTRUCTION
+#### CHAPITRE VII — Succursales
+
+##### I. — SUCCURSALES POUR LES TRAVAUX DE CONSTRUCTION
 
 1. Création, étendue et organisation
 
@@ -2808,8 +2800,7 @@ Les communes et autres unions n’ont aucun droit aux fonds de réserve de la su
 pour les charges qui résultent pour elles de l’assurance contre les accidents survenus dans des travaux de
 courte durée.
 
-II. — SUCCURSALES POUR LA DETENTION DE MONTURES
-ET DE VEHICULES
+##### II. — SUCCURSALES POUR LA DETENTION DE MONTURES ET DE VEHICULES
 
 ###### Article 836
 
@@ -2876,10 +2867,9 @@ Sont applicables, au cas où une Corporation d’assurance remplace une succursa
 736 ainsi que les dispositions des §§ 803 à 818, 822 à 824, 836, alinéas 1, 2, §§ 838 à 841, relatives aux
 succursales. Un fonds de réserve doit également être constitué pour la Corporation d’assurance.
 
-CHAPITRE VIII
-Autres organisations
+#### CHAPITRE VIII — Autres organisations
 
-###### Article 843
+##### Article 843
 
 Les Corporations ont la faculté d’organiser :
 
@@ -2890,13 +2880,13 @@ Les Corporations ont la faculté d’organiser :
    personnes ;
 3. un office de placement pour les victimes d’accidents.
 
-###### Article 844
+##### Article 844
 
 C’est la Corporation qui supporte les charges de ces organisations.
 
 La participation à ces organisations est facultative.
 
-###### Article 845
+##### Article 845
 
 Les résolutions de l’assemblée corporative relatives à l’organisation des institutions
 prévues :
@@ -2904,11 +2894,11 @@ prévues :
 Au § 843, nos 1, 2, ainsi que leurs statuts, doivent être soumises à l’approbation du Conseil Fédéral ;
 Au § 843, n° 3, doivent être soumises à l’approbation de l’Office impérial des assurances sociales.
 
-###### Article 846
+##### Article 846
 
 Ces organisations sont soumises au contrôle de l’Office impérial des assurances sociales.
 
-###### Article 847
+##### Article 847
 
 Les Corporations peuvent s’entendre pour créer en commun des organisations de ce genre.
 
@@ -2916,10 +2906,9 @@ Cette convention ne peut devenir effective que pour le début d’un exercice an
 
 Pour l’approbation des dites conventions, il est fait application par analogie du § 845.
 
-CHAPITRE IX
-Prévention des accidents. Contrôle des entreprises
-I. — PRESCRIPTIONS RELATIVES A LA PREVENTION
-DES ACCIDENTS
+#### CHAPITRE IX — Prévention des accidents. Contrôle des entreprises
+
+##### I. — PRESCRIPTIONS RELATIVES A LA PREVENTION DES ACCIDENTS
 
 ###### Article 848
 
@@ -3104,7 +3093,7 @@ Les dispositions des §§ 852 à 856, 866 à 868, 871, 872 ne s’appliquent pas
 de prévention des accidents à prendre intéressant en même temps la sécurité de l’exploitation des chemins
 de fer.
 
-II. — CONTRÔLE
+##### II. — CONTRÔLE
 
 ###### Article 874
 
@@ -3225,9 +3214,7 @@ par cet Office de constater l’exécution et les effets des prescriptions prév
 (§ 848). Ils peuvent y être contraints par l’Office impérial, sous peine d’une amende ne pouvant excéder
 {{< m "300" "marks" >}}.
 
-III. — PRESCRIPTIONS SPECIALES POUR TRAVAUX DE CONSTRUCTION ET POUR
-DETENTION DE MONTURES
-ET DE VEHICULES
+##### III. — PRESCRIPTIONS SPECIALES POUR TRAVAUX DE CONSTRUCTION ET POUR DETENTION DE MONTURES ET DE VEHICULES
 
 ###### Article 890
 
@@ -3251,10 +3238,9 @@ Lorsqu’il s’agit d’une association d’assurance, les délégués des assu
 des Offices supérieurs, sur les circonscriptions desquels la Corporation ou la section s’étend ; le § 858,
 alinéa 1, phrase 2, est applicable.
 
-CHAPITRE X
-Exploitations et travaux pour le compte d’organismes publics
+#### CHAPITRE X — Exploitations et travaux pour le compte d’organismes publics
 
-###### Article 892
+##### Article 892
 
 Si l’Empire ou un Etat Confédéré est chargé de l’assurance, l’Empire ou l’Etat remplace la
 Corporation ; les droits et les obligations des organes corporatifs passent aux autorités exécutives. Celles-ci
@@ -3266,14 +3252,14 @@ Ces dispositions s’appliquent également aux communes, unions de communes et a
 publics qui sont chargés de l’assurance. Les autorités exécutives sont désignées par l’autorité
 administrative suprême.
 
-###### Article 893
+##### Article 893
 
 La désignation des autorités exécutives doit être communiquée à l’Office impérial des
 assurances sociales.
 
 Les autorités exécutives instituées jusqu’à présent sont maintenues.
 
-###### Article 894
+##### Article 894
 
 Si c’est l’Empire, un Etat Confédéré, une union de communes ou un autre organisme public
 qui est chargé de l’assurance, les dispositions ci-après ne sont pas applicables :
@@ -3289,18 +3275,18 @@ qui est chargé de l’assurance, les dispositions ci-après ne sont pas applica
 - les dispositions des §§ 848 à 887 et 889 à 891 relatives à la prévention des accidents et au contrôle ;
 - parmi les dispositions pénales, les §§ 908 à 910, 912, 913.
 
-###### Article 895
+##### Article 895
 
 Le service qui nomme les autorités exécutives arrête également les mesures nécessaires à
 l’exécution des dispositions du présent chapitre.
 
-###### Article 896
+##### Article 896
 
 Les dispositions d’exécution peuvent étendre l’obligation de l’assurance aux employés
 d’exploitation dont la rémunération annuelle dépasse {{< m "5000" "marks" >}} à moins que ces employés ne soient pas
 assujettis à l’assurance aux termes du § 554.
 
-###### Article 897
+##### Article 897
 
 Si l’autorité exécutive veut, en vue de la prévention des accidents, arrêter des mesures avec
 dispositions pénales contre les assurés, il y a lieu d’appeler au moins trois représentants des assurés pour
@@ -3312,10 +3298,9 @@ un chef immédiat de ces représentants des assurés.
 Cette disposition n’est pas applicable, lorsqu’il s’agit d’établir des prescriptions préventives destinées
 à assurer en même temps la sécurité des exploitations de chemins de fer.
 
-CHAPITRE XI
-Responsabilité des chefs d’entreprises et de leurs employés
-I. — RESPONSABILITE VIS-A-VIS DES VICTIMES D’ACCIDENTS ET DE LEURS
-SURVIVANTS
+#### CHAPITRE XI — Responsabilité des chefs d’entreprises et de leurs employés
+
+##### I. — RESPONSABILITE VIS-A-VIS DES VICTIMES D’ACCIDENTS ET DE LEURS SURVIVANTS
 
 ###### Article 898
 
@@ -3358,7 +3343,7 @@ pourvoi. L’expiration de délais écoulés sans qu’il y ait de leur faute ne
 toutefois, cette disposition ne s’applique pas aux délais de procédure, lorsque le chef d’entreprise ou une
 personne qui lui est assimilée d’après le § 899 a engagé personnellement la procédure.
 
-II. — RESPONSABILITE VIS-A-VIS DES CORPORATIONS, DES CAISSES-MALADIE, ETC.
+##### II. — RESPONSABILITE VIS-A-VIS DES CORPORATIONS, DES CAISSES-MALADIE, ETC
 
 ###### Article 903
 
@@ -3427,10 +3412,9 @@ auprès de l’assemblée corporative a été réglé d’autre manière.
 
 La disposition du § 901, alinéa 1, s’applique également aux actions ci-dessus.
 
-CHAPITRE XII
-Dispositions pénales
+#### CHAPITRE XII — Dispositions pénales
 
-###### Article 908
+##### Article 908
 
 Le comité directeur de la Corporation peut prononcer contre les chefs d’entreprises des
 amendes pouvant s’élever à {{< m "500" "marks" >}} au maximum :
@@ -3444,7 +3428,7 @@ amendes pouvant s’élever à {{< m "500" "marks" >}} au maximum :
    le tout à la condition que l’inexactitude des indications leur fût connue ou ne pût échapper à leur
    connaissance à raison des circonstances.
 
-###### Article 909
+##### Article 909
 
 Le comité directeur de la Corporation peut également infliger des amendes de {{< m "300" "marks" >}} au
 plus aux employeurs qui ne remplissent pas en temps utile les obligations qui leur incombent en ce qui
@@ -3457,7 +3441,7 @@ concerne :
 4. l’exécution des prescriptions statutaires relatives aux cas de cessation de l’exploitation et de
    changement du chef d’entreprise.
 
-###### Article 910
+##### Article 910
 
 L’Office supérieur des assurances sociales (chambre du contentieux administratif) statue
 définitivement sur les recours contre les amendes infligées par les comités-directeurs des Corporations.
@@ -3465,14 +3449,14 @@ définitivement sur les recours contre les amendes infligées par les comités-d
 La chambre du contentieux administratif ne statue pas en dernier ressort dans les cas des §§ 870, 887,
 ni dans le cas du § 891 en connexion avec les présentes dispositions.
 
-###### Article 911
+##### Article 911
 
 Le chef d’entreprise ou ses employés qui, intentionnellement, imputent ou font
 intentionnellement imputer sur la rémunération la totalité ou une partie des cotisations ou des primes sont
 passibles d’une amende n’excédant pas {{< m "300" "marks" >}} ou de détention simple, à moins qu’ils n’encourent une
 peine plus forte, en vertu d’autres dispositions légales.
 
-###### Article 912
+##### Article 912
 
 Les dispositions pénales formulées à l’égard des chefs d’entreprises par la présente loi sont
 applicables :
@@ -3488,7 +3472,7 @@ applicables :
    association d’assurance mutuelle, d’une coopérative enregistrée, d’une Corporation de métier ou d’une
    autre personne juridique.
 
-###### Article 913
+##### Article 913
 
 Le chef d’entreprise peut se décharger des obligations qui lui incombent en vertu de la
 présente loi, sur les directeurs d’exploitations et, sauf lorsqu’il s’agit d’installations à faire en vertu des
@@ -3507,7 +3491,7 @@ Si l’amende fixée par le comité directeur d’une Corporation ne peut être 
 le chef d’entreprise est responsable du paiement. Cette responsabilité est exprimée dans l’acte de fixation
 de la peine.
 
-###### Article 914
+##### Article 914
 
 Les amendes encourues par les assurés sont versées à la caisse-maladie à laquelle
 appartiennent les personnes condamnées au moment de la contravention et, dans les autres cas, à la caisse-
@@ -3515,19 +3499,18 @@ maladie générale du lieu de leur occupation et, à défaut de semblable caisse
 présente disposition s’applique également aux amendes infligées aux assurés par les autorités d’exécution
 (§ 897).
 
-DEUXIEME PARTIE
-ASSURANCE CONTRE LES ACCIDENTS DANS LES EXPLOITATIONS AGRICOLES
-CHAPITRE I
-Etendue de l’assurance
+### DEUXIEME PARTIE — ASSURANCE CONTRE LES ACCIDENTS DANS LES EXPLOITATIONS AGRICOLES
 
-###### Article 915
+#### CHAPITRE I — Etendue de l’assurance
+
+##### Article 915
 
 Les exploitations agricoles (§ 161) sont assujetties à l’assurance contre les accidents.
 
 L’Office impérial des assurances sociales peut déterminer les branches d’exploitation qui doivent être
 considérées comme des exploitations agricoles.
 
-###### Article 916
+##### Article 916
 
 Sont considérés comme faisant partie de l’exploitation agricole :
 
@@ -3543,7 +3526,7 @@ obligation de droit public, sont à effectuer pour la commune, si ces travaux on
 l’entretien de bâtiments, chemins, digues, canaux et cours d’eau et lui incombent en sa qualité de
 cultivateur, ces travaux font partie de son exploitation agricole.
 
-###### Article 917
+##### Article 917
 
 Sont également considérés comme exploitations agricoles au sens du § 915, alinéa 1,
 l’horticulture, l’entretien de parcs et de jardins, ainsi que les travaux des cimetières, pour autant que ces
@@ -3553,7 +3536,7 @@ Les petits jardins domestiques ou d’agrément qui ne sont pas entretenus régu
 mesure importante à l’aide de mains d’œuvre spéciales et dont les produits sont destinés principalement au
 ménage de l’exploitant ne sont pas considérés comme des exploitations agricoles.
 
-###### Article 918
+##### Article 918
 
 L’assurance s’étend aussi aux exploitations que le chef d’une exploitation agricole exploite à
 côté de celle-ci, mais en dépendance économique de cette dernière (exploitations agricoles accessoires).
@@ -3565,7 +3548,7 @@ principalement :
 2. à faire face aux besoins de son exploitation agricole ;
 3. à tirer des ingrédients de ses terres ou à les transformer.
 
-###### Article 919
+##### Article 919
 
 Le § 918 ne s’applique pas :
 
@@ -3577,25 +3560,25 @@ Le § 918 ne s’applique pas :
    ou du nombre des ouvriers industriels qu’elles emploient, sont assimilées aux fabriques par l’Office
    impérial des assurances sociales.
 
-###### Article 920
+##### Article 920
 
 Les entreprises de navigation intérieure et de flottage et les occupations dans la navigation et
 le flottage ne sont soumises à l’assurance des exploitations agricoles principales que si leur rayon d’action
 ne dépasse par celui de l’exploitation locale.
 
-###### Article 921
+##### Article 921
 
 Les occupations qui, de par leur nature, sont soumises à l’assurance industrielle auprès d’une
 succursale ou d’une Corporation d’assurance, sont assurées auprès de la Corporation agricole à laquelle
 appartient le chef d’exploitation pour des occupations de même nature, à condition que ces occupations
 priment les autres.
 
-###### Article 922
+##### Article 922
 
 Le § 542 s’applique à l’affiliation à une même Corporation des exploitations agricoles et
 industrielles d’un même chef d’exploitation.
 
-###### Article 923
+##### Article 923
 
 Sont assurés contre les accidents dans les exploitations qui sont soumises à l’assurance en
 vertu des §§ 915 à 922 (accidents du travail) :
@@ -3617,13 +3600,13 @@ comme ouvriers techniques.
 
 Un acte défendu ne constitue pas un obstacle à l’admissibilité d’un accident du travail.
 
-###### Article 924
+##### Article 924
 
 L’assurance s’étend aux travaux domestiques et autres auxquels les personnes assurées et
 employées à titre principal dans les exploitations ou les occupations soumises à l’assurance (§§ 920, 921),
 sont occupées par le chef d’exploitation ou ceux qui le remplacent.
 
-###### Article 925
+##### Article 925
 
 Les statuts peuvent étendre l’obligation de l’assurance :
 
@@ -3631,12 +3614,12 @@ Les statuts peuvent étendre l’obligation de l’assurance :
    régulièrement contre rémunération plus de deux ouvriers assujettis à l’assurance ;
 2. aux employés d’exploitations dont la rémunération annuelle dépasse {{< m "5000" "marks" >}}.
 
-###### Article 926
+##### Article 926
 
 Pour les chefs d’exploitations qui sont principalement occupés dans l’agriculture, les statuts
 peuvent étendre l’assurance aux travaux domestiques qui sont en rapport avec le travail agricole.
 
-###### Article 927
+##### Article 927
 
 Les chefs d’exploitations dont le gain annuel ne dépasse pas {{< m "3000" "marks" >}} ou qui n’occupent
 pas régulièrement plus de deux assurés obligatoires, ont le droit de s’assurer eux-mêmes contre les
@@ -3645,12 +3628,12 @@ accidents du travail. Le § 926 est également applicable dans ce cas.
 Les statuts peuvent étendre la faculté de l’assurance personnelle aux chefs d’exploitations dont le gain
 annuel est supérieur à {{< m "3000" "marks" >}} ou qui occupent régulièrement au moins trois assurés salariés.
 
-###### Article 928
+##### Article 928
 
 Les prescriptions des §§ 925 à 927 relatives à l’assurance du chef d’exploitation s’appliquent
 également à son conjoint, lorsqu’il est occupé dans l ’exploitation.
 
-###### Article 929
+##### Article 929
 
 Sont applicables par analogie, les paragraphes suivants de l’assurance contre les accidents
 dans les entreprises industrielles :
@@ -3660,22 +3643,21 @@ dans les entreprises industrielles :
 2. le § 553, en cas du paiement des cotisations en retard pour l’assurance volontaire ;
 3. le § 554, à l’assurance des militaires et des fonctionnaires.
 
-CHAPITRE II
-Objet de l’assurance
+#### CHAPITRE II — Objet de l’assurance
 
-###### Article 930
+##### Article 930
 
 En ce qui concerne l’objet de l’assurance, les §§ 555 à 562 de l’assurance contre les accidents
 dans les entreprises industrielles sont applicables par analogie.
 
-###### Article 931
+##### Article 931
 
 Les §§ 563 à 566 et 568 sont applicables à la rémunération annuelle qui doit servir de base au
 calcul de la rente pour les employés d’exploitation et les ouvriers techniques.
 
 Les §§ 932 à 935 et 941 sont également applicables dans ce cas.
 
-###### Article 932
+##### Article 932
 
 Si le nombre de jours pendant lesquels l’exploitation travaille d’ordinaire dans une année est
 si minime que ceux qui y sont occupés exécutent en outre régulièrement un autre travail rémunéré, on
@@ -3683,24 +3665,24 @@ ajoute, dans les cas des §§ 565, 566, à la somme calculée d’après le § 5
 de travail qui manque à 300, le salaire local fixé au moment de l’accident pour le lieu de l’occupation de
 l’assuré (§§ 149 à 152).
 
-###### Article 933
+##### Article 933
 
 Les §§ 564 à 566, 568, 932 sont également applicables par analogie, lorsque le salaire annuel
 se compose de sommes payées pour le moins à la semaine.
 
-###### Article 934
+##### Article 934
 
 Si la rémunération annuelle des employés d’exploitations ou des ouvriers techniques n’atteint
 pas le produit par 300 du salaire local (§ 932), c’est le produit par 300 de ce salaire local qui est considéré
 comme la rémunération annuelle.
 
-###### Article 935
+##### Article 935
 
 La rente pour les adolescents blessés, calculée d’après le salaire local, se règle d’abord
 d’après leur âge au moment où ils sont victimes de l’accident, et augmente en proportion quand ils passent
 dans une classe d’âge supérieure.
 
-###### Article 936
+##### Article 936
 
 Pour les ouvriers qui ne tombent pas sous l’application des §§ 931 à 935, la rente est calculée
 d’après la rémunération annuelle moyenne que les ouvrier agricoles reçoivent au moment de l’accident, à
@@ -3716,37 +3698,37 @@ et forestiers.
 Avant de donner son avis, l’Office d’assurance entend les représentants des assurés occupés
 principalement dans l’agriculture.
 
-###### Article 937
+##### Article 937
 
 La rente pour les adolescents blessés se règle, pour commencer, d’après la rémunération
 annuelle moyenne
 fixée pour la classe d’âge à laquelle ils appartiennent au moment de leur accident ; elle est augmentée
 en proportion, quand il passent dans une classe d’âge supérieure.
 
-###### Article 938
+##### Article 938
 
 La rente pour les chefs d’exploitations, ainsi que pour les autres personnes occupées dans
 l’exploitation et pour les personnes étrangères à l’exploitation (§ 929, n° 1) se règle d’après la rémunération
 annuelle moyenne des ouvriers agricoles (§ 936), fixée, au moment de l’accident, pour le siège de
 l’exploitation. Les statuts peuvent prévoir des dispositions différentes.
 
-###### Article 939
+##### Article 939
 
 Si la rémunération annuelle dépasse la somme de {{< m "1800" "marks" >}} l’excédent n’entre dans tous les
 cas en compte que pour un tiers.
 
-###### Article 940
+##### Article 940
 
 Si l’accident frappe une personne déjà atteinte d’incapacité permanente partielle dont la rente
 se réglera sur le salaire annuel moyen (§ 936), on ne prendra comme base que la partie de la rémunération
 correspondant au degré de capacité de travail de cet accident.
 
-###### Article 941
+##### Article 941
 
 Est considéré comme salaire local des personnes déjà atteintes d’incapacité partielle
 permanente de travail, la partie du salaire correspondant au degré de capacité de travail avant l’accident.
 
-###### Article 942
+##### Article 942
 
 La commune est tenue de fournir aux ouvriers
 blessés, des secours de maladie conformément au § 182,
@@ -3764,7 +3746,7 @@ le lieu où se trouve le siège de l’exploitation n’est cependant pas consid
 lorsque le blessé était occupé dans une exploitation forestière s’étendant sur le territoire de plusieurs
 communes.
 
-###### Article 943
+##### Article 943
 
 La commune n’est pas tenue de fournir des secours de maladie à la victime, conformément au
 **§ 942** :
@@ -3784,7 +3766,7 @@ un hôpital, les trois huitièmes du salaire de base d’après lequel se règle
 alloué à l’intéressé, et pour l’entretien de la victime dans un hôpital, la moitié du salaire de base. A défaut
 d’un autre salaire de base, on prend le salaire local du lieu de l’occupation (§ 942, al. 2).
 
-###### Article 944
+##### Article 944
 
 A la demande de la commune, la caisse-maladie rurale, et à son défaut la caisse-maladie
 locale générale du domicile ou de la résidence, est tenue de prendre à sa charge les secours de maladie.
@@ -3792,7 +3774,7 @@ locale générale du domicile ou de la résidence, est tenue de prendre à sa ch
 Les dépenses faites dans ce but doivent être remboursées par la commune. Le § 943, alinéa 3, est
 applicable dans ce cas, s’il n’est pas justifié de dépenses plus élevées.
 
-###### Article 945
+##### Article 945
 
 La Corporation peut se charger elle-même du traitement curatif (§ 942).
 
@@ -3801,7 +3783,7 @@ personne débitrice des secours de maladie (§ 943, al. 1, nos 1 et 2) est tenue
 dans la mesure où la victime pouvait réclamer des prestations. Le § 943, alinéa 3, est applicable dans ce
 cas.
 
-###### Article 946
+##### Article 946
 
 S’il est à craindre qu’une indemnité d’accident doive être allouée à des victimes qui ne sont
 pas assurées contre la maladie en vertu de l’assurance sociale de l’Empire ou auprès d’une caisse-maladie
@@ -3818,13 +3800,13 @@ alinéa 1.
 La victime peut réclamer à la Corporation une indemnité appropriée à la perte de salaire subie
 pendant le traitement.
 
-###### Article 947
+##### Article 947
 
 La Corporation peut, pendant les treize premières semaines qui suivent l’accident, en
 déterminer les conséquences, même sans accorder le traitement curatif à la victime ; le § 581, alinéa 1, est
 applicable par analogie.
 
-###### Article 948
+##### Article 948
 
 Les §§ 582, 583, alinéa 1, § 584 s’appliquent :
 
@@ -3835,7 +3817,7 @@ Les §§ 582, 583, alinéa 1, § 584 s’appliquent :
 
 Le § 583, alinéa 1, s’applique également aux prestations de la commune (§ 942).
 
-###### Article 949
+##### Article 949
 
 Les contestations qui s’élèvent entre les communes et les caisses-maladie au sujet de la prise
 en charge des secours de maladie (§ 944), sont réglées définitivement par l’Office d’assurance, sauf s’il
@@ -3844,7 +3826,7 @@ s’agit d’une action en remboursement.
 Les contestations relatives aux actions en remboursement sur la base des dispositions des §§ 943 à
 945, sont réglées par la voie du contentieux judiciaire.
 
-###### Article 950
+##### Article 950
 
 Les §§ 586 à 596 de l’assurance contre les accidents dans les entreprises industrielles, sont
 applicables à la réparation du dommage en cas d’accident mortel.
@@ -3854,13 +3836,13 @@ l’assurance contre les accidents dans les exploitations agricoles, exception f
 n’est applicable que dans le cas où la rente n’est pas calculée d’après la rémunération annuelle moyenne
 fixée (§ 936).
 
-###### Article 951
+##### Article 951
 
 La Corporation peut fournir, au lieu du traitement médical et de la rente (§ 930 mis en
 connexion avec le § 558), le traitement dans une maison de santé. Les §§ 597, alinéas 2 à 5, et 598 sont
 applicables dans ce cas.
 
-###### Article 952
+##### Article 952
 
 Sont applicables, en outre, les dispositions de l’assurance contre les accidents dans les
 entreprises industrielles, relatives :
@@ -3874,7 +3856,7 @@ entreprises industrielles, relatives :
   traitement curatif (§ 606) ;
 - à l’admission du titulaire d’une rente dans un hospice ou dans un établissement similaire (§ 607).
 
-###### Article 953
+##### Article 953
 
 Les communes ou les unions de communes peuvent prescrire, par voie de règlement, avec
 l’approbation de l’autorité administrative supérieure, que les intéressés recevront leurs rentes, non en
@@ -3886,7 +3868,7 @@ le paiement en nature au lieu de la rente.
 La valeur des prestations en nature est fixée, d’après les cours moyens, par l’autorité administrative
 supérieure.
 
-###### Article 954
+##### Article 954
 
 Les prestations en nature sont allouées par la commune du lieu de résidence. Le droit à la
 rente passe à la commune, pour la valeur des prestations en nature.
@@ -3897,7 +3879,7 @@ entre les communes et les intéressés. En cas de recours, l’Office supérieur
 Si le droit à la rente a passé définitivement à la commune, la Corporation est tenue d’en informer
 l’administration des postes.
 
-###### Article 955
+##### Article 955
 
 Sont applicables, en outre, les prescriptions de l’assurance contre les accidents dans les
 entreprises industrielles relatives :
@@ -3910,10 +3892,9 @@ entreprises industrielles relatives :
 - à la renonciation au droit au remboursement et aux effets de la chose jugée (§§ 619 et 620) ;
 - à la cession, à l’engagement, à la saisie et à la compensation des droits (§§ 621 et 622).
 
-CHAPITRE III
-Institutions chargées de l’assurance
-I. — CORPORATIONS PROFESSIONNELLES ET AUTRES INSTITUTIONS CHARGEES DE
-L’ASSURANCE
+#### CHAPITRE III — Institutions chargées de l’assurance
+
+##### I. — CORPORATIONS PROFESSIONNELLES ET AUTRES INSTITUTIONS CHARGEES DE L’ASSURANCE
 
 ###### Article 956
 
@@ -3950,7 +3931,7 @@ le § 632, s’applique à l’affiliation à une Corporation des exploitations 
 d’exploitation ;
 le § 634, s’applique à la réparation des accidents dans des exploitations étrangères.
 
-II. — MODIFICATIONS DE LA COMPOSITION DES CORPORATIONS
+##### II. — MODIFICATIONS DE LA COMPOSITION DES CORPORATIONS
 
 ###### Article 960
 
@@ -3965,9 +3946,9 @@ aux prescriptions des §§ 20, 21 et 24, Conseil Fédéral alinéa 3, de la [loi
 Sont applicables, en cas de dissolution de Corporations, les dispositions de l’assurance contre
 les accidents dans les entreprises industrielles (§§ 647 et 648).
 
-CHAPITRE IV
-Organisation
-I. — AFFILIATION ET DROIT DE VOTE
+#### CHAPITRE IV — Organisation
+
+##### I. — AFFILIATION ET DROIT DE VOTE
 
 ###### Article 962
 
@@ -4008,7 +3989,7 @@ l’assurance ; pour l’Empire et les Etats Confédérés, le commencement de
 Les membres de la Corporation ou leurs représentants légaux n’ont pas le droit de vote, s’ils
 ne sont pas en possession de leurs droits civiques.
 
-II. — DECLARATION DES ENTREPRISES
+##### II. — DECLARATION DES ENTREPRISES
 
 ###### Article 967
 
@@ -4020,9 +4001,7 @@ Le comité directeur examine si l’exploitation doit être affiliée à la Corp
 Si elle refuse l’affiliation, elle en avise l’Office d’assurance. Celui-ci peut soumettre le cas à la
 décision de l’Office impérial des assurances sociales ; il est tenu de le faire, si la Corporation le requiert.
 
-III. — CHANGEMENT DU CHEF D’EXPLOITATION
-MODIFICATIONS APPORTEES A L’ENTREPRISE ET A SON AFFILIATION A LA
-CORPORATION
+##### III. — CHANGEMENT DU CHEF D’EXPLOITATION MODIFICATIONS APPORTEES A L’ENTREPRISE ET A SON AFFILIATION A LA CORPORATION
 
 ###### Article 968
 
@@ -4050,7 +4029,7 @@ dispositions relatives à la procédure ultérieure.
 Les §§ 999 et 1000 sont applicables par analogie, en cas de recours contre les décisions que la
 Corporation prend à la suite de la déclaration des changements ou d’office.
 
-IV. — STATUTS
+##### IV. — STATUTS
 
 ###### Article 971
 
@@ -4077,17 +4056,17 @@ Les statuts doivent contenir des dispositions relatives :
 9. à la détermination des bases de répartition des cotisations et, si la répartition n’a pas pour base les
    impôts, à la procédure à suivre pour l’évaluation et le classement de celles-ci ;
 10. à la procédure à suivre en cas d’ouverture de nouvelles exploitations et en cas de changements,
-    soit dans l’exploitation, soit dans la personne du chef d’exploitation ;
+soit dans l’exploitation, soit dans la personne du chef d’exploitation ;
 11. aux conséquences de la cessation de l’exploitation ou d’un changement dans la personne du chef
-    d’exploitation en particulier à la garantie des versements des chefs d’exploitation qui cessent leur
-    exploitation ;
+d’exploitation en particulier à la garantie des versements des chefs d’exploitation qui cessent leur
+exploitation ;
 12. à l’établissement, à l’examen et à l’approbation du compte annuel ;
 13. à l’exercice du droit de la Corporation d’arrêter des prescriptions, en vue de la prévention des
-    accidents et du contrôle des exploitations ;
+accidents et du contrôle des exploitations ;
 14. à la procédure à suivre pour la déclaration d’affiliation
-    et de sa désaffiliation des chefs d’exploitations assurés et
-    d' autres personnes assurées d’après le § 925 (n° 2) et le § 929 (n° 1), ainsi qu’au montant et à la
-    détermination du gain annuel des chefs d’exploitations ;
+et de sa désaffiliation des chefs d’exploitations assurés et
+d' autres personnes assurées d’après le § 925 (n° 2) et le § 929 (n° 1), ainsi qu’au montant et à la
+détermination du gain annuel des chefs d’exploitations ;
 15. au mode des publications ;
 16. à la modification des statuts ;
 17. à la question de savoir quelles personnes doivent être considérées comme ouvriers techniques.
@@ -4111,7 +4090,7 @@ publications de l’autorité administrative suprême.
 
 Il en est de même pour les modifications aux statuts.
 
-V. — ORGANES DE LA CORPORATION
+##### V. — ORGANES DE LA CORPORATION
 
 ###### Article 975
 
@@ -4138,7 +4117,7 @@ l’approbation de l’autorité administrative suprême.
 Les pouvoirs et les obligations des organes de la Corporation passent dans ce cas aux unités
 administratives autonomes.
 
-VI. — AGENTS
+##### VI. — AGENTS
 
 ###### Article 978
 
@@ -4146,7 +4125,7 @@ Les dispositions de l’assurance contre les accidents dans les entreprises indu
 à 705) sont applicables aux agents de la Corporation qui ne sont pas employés de l’Etat ou d’une commune,
 ainsi qu’au transfert de certaines affaires à des gérants rétribués.
 
-VII. — ETABLISSEMENT DES CLASSES DE RISQUES
+##### VII. — ETABLISSEMENT DES CLASSES DE RISQUES
 
 ###### Article 979
 
@@ -4157,7 +4136,7 @@ d’accidents, peuvent décider qu’aucun tarif de risques ne sera établi. La 
 l’Office impérial des assurances sociales. Cette approbation peut être retirée, quand les états des accidents
 présentent des différences notables dans les différentes branches d’exploitation.
 
-VIII. — PARTAGE ET MISE EN COMMUN DES CHARGES
+##### VIII. — PARTAGE ET MISE EN COMMUN DES CHARGES
 
 ###### Article 980
 
@@ -4179,7 +4158,7 @@ sur la base des impôts fonciers.
 Pour les charges supportées en commun les prescriptions de l’assurance contre les accidents
 dans les entreprises industrielles (§§ 714 à 716) sont applicables.
 
-IX. — GESTION DE LA FORTUNE DE LA CORPORATION
+##### IX. — GESTION DE LA FORTUNE DE LA CORPORATION
 
 ###### Article 983
 
@@ -4195,10 +4174,9 @@ Les dispositions de l’assurance contre les accidents dans les entreprises indu
 - au placement de la fortune ;
 - aux états à dresser concernant les résultats de la gestion et de la comptabilité de la Corporation.
 
-CHAPITRE V
-Surveillance
+#### CHAPITRE V — Surveillance
 
-###### Article 985
+##### Article 985
 
 Les §§ 722 et 723 de l’assurance contre les accidents dans les entreprises industrielles
 s’appliquent à la surveillance des Corporations.
@@ -4206,7 +4184,7 @@ s’appliquent à la surveillance des Corporations.
 Cette surveillance ne s’étend pas au service des autorités d’Etat et des organes d’unités
 administratives autonomes qui sont chargés de l’administration d’une Corporation.
 
-###### Article 986
+##### Article 986
 
 En ce qui concerne les Corporations qui sont soumises à la surveillance d’un Office d’Etat
 des assurances sociales, les attributions de l’Office impérial des assurances sociales passent à l’Office
@@ -4238,7 +4216,7 @@ d’Etat, lorsqu’il s’agit :
   §§ 848 à 889 et du § 890, alinéa 1, à l’exclusion des cas du § 883 ;
 - de la notification des autorités d’exécution (§ 1033 en connexion avec le § 893).
 
-###### Article 987
+##### Article 987
 
 Et lorsqu’il s’agit :
 
@@ -4258,16 +4236,16 @@ S’il s’agit d’autres organisations communes à plusieurs Corporations (§ 
 assurances sociales reste compétent, pour autant que les Corporations intéressées ne soient pas toutes
 soumises au même Office d’Etat.
 
-CHAPITRE VI
-Paiement des indemnités. Constitution des ressources
-I. — PAIEMENT PAR LA POSTE
+#### CHAPITRE VI — Paiement des indemnités. Constitution des ressources
+
+##### I. — PAIEMENT PAR LA POSTE
 
 ###### Article 988
 
 En ce qui concerne les paiements à effectuer par la poste, les dispositions de l’assurance
 contre les accidents dans les entreprises industrielles (§§ 726 à 729), sont applicables.
 
-II. — CONSTITUTION DES RESSOURCES
+##### II. — CONSTITUTION DES RESSOURCES
 
 1. Disposition générale
 
@@ -4496,7 +4474,7 @@ un chiffre plus élevé.
 Pour le fonds de réserve, les dispositions des §§ 745 à 747 de l’assurance contre les accidents dans les
 entreprises industrielles sont applicables par analogie.
 
-III. — PROCEDURE DE REPARTITION ET DE RECOUVREMENT.
+##### III. — PROCEDURE DE REPARTITION ET DE RECOUVREMENT
 
 ###### Article 1014
 
@@ -4614,25 +4592,23 @@ verser en même temps.
 Les dispositions du § 762 s’appliquent par analogie aux cotisations irrécouvrables. Celles-ci
 doivent être restituées à la commune qui en fait le versement.
 
-IV. — REMBOURSEMENTS ET AVANCES A LA POSTE
+##### IV. — REMBOURSEMENTS ET AVANCES A LA POSTE
 
 ###### Article 1028
 
 En ce qui concerne les remboursements et avances à la poste les dispositions de l’assurance
 contre les accidents dans les entreprises industrielles (§§ 777 à 782) sont applicables.
 
-CHAPITRE VII
-Autres organisations
+#### CHAPITRE VII — Autres organisations
 
-###### Article 1029
+##### Article 1029
 
 Les dispositions de l’assurance contre les accidents dans les entreprises industrielles (§§ 843
 à 847) s’appliquent aux autres organisations des Corporations.
 
-CHAPITRE VIII
-Prévention des accidents. Contrôle des exploitations
+#### CHAPITRE VIII — Prévention des accidents. Contrôle des exploitations
 
-###### Article 1030
+##### Article 1030
 
 Les dispositions des §§ 848 à 857, 859 à 889, 890, alinéa 1, § 891, alinéa 2, de l’assurance
 contre les accidents dans les entreprises industrielles s’appliquent à la prévention des accidents et au
@@ -4643,7 +4619,7 @@ d’assurance sur le ressort desquels la Corporation ou la section s’étend. L
 cependant qu’aux représentants des Offices d’assurance qui sont désignés comme représentants des assurés
 et sont soumis à l’assurance contre les accidents dans les exploitations agricoles.
 
-###### Article 1031
+##### Article 1031
 
 Si la Corporation est administrée par des autorités d’Etat ou des unités administratives
 autonomes, il y aura lieu d’appeler en nombre égal, pour les délibérations et les décisions à prendre au sujet
@@ -4659,16 +4635,15 @@ Les §§ 861 et 863 sont applicables à ces représentants par analogie ; les 
 et 24, concernant les représentants des employeurs sont également applicables par analogie aux dits
 représentants et à leurs suppléants.
 
-###### Article 1032
+##### Article 1032
 
 Les chefs d’exploitations sont tenus de permettre aux membres de l’organe de la
 Corporation délégués par celle-ci, de pénétrer dans leurs exploitations pendant les heures de travail. Le
 **§ 879** est applicable par analogie.
 
-CHAPITRE IX
-Exploitations de l’Empire et des Etats
+#### CHAPITRE IX — Exploitations de l’Empire et des Etats
 
-###### Article 1033
+##### Article 1033
 
 Si l’Empire ou un Etat Confédéré est l’institution chargée de l’assurance (), les §§ 892, 893,
 895 à 897 de l’assurance contre les accidents dans les entreprises industrielles sont applicables.
@@ -4693,10 +4668,9 @@ entreprises agricoles :
 Les ordonnances d’exécution spécifieront, aux lieux et place des statuts, les personnes qui sont
 considérées comme ouvriers techniques.
 
-CHAPITRE X
-Réglementation par la législation d’Etat
+#### CHAPITRE X — Réglementation par la législation d’Etat
 
-###### Article 1034
+##### Article 1034
 
 La législation d’Etat peut déterminer jusqu’à quel point et dans quelles conditions :
 
@@ -4705,7 +4679,7 @@ La législation d’Etat peut déterminer jusqu’à quel point et dans quelles 
    l’assurance. De telles dispositions ne portent pas préjudice aux dispositions plus étendues des statuts dans
    le cas du numéro 1.
 
-###### Article 1035
+##### Article 1035
 
 La législation d’Etat peut également dispenser des chefs d’exploitations du paiement de
 l’intégralité ou d’une partie des cotisations, à raison d’un risque d’accident moindre ou du peu d’étendue de
@@ -4714,11 +4688,11 @@ leurs exploitations et régler la procédure de détermination de ces chefs d’
 Les contestations relatives à la dispense qui s’élèvent entre la Corporation et le chef d’exploitation
 sont tranchées définitivement par l’Office supérieur des assurances sociales.
 
-###### Article 1036
+##### Article 1036
 
 La législation d’Etat peut également élever le montant du fonds de réserve (§ 1013).
 
-###### Article 1037
+##### Article 1037
 
 La législation d’Etat a le droit de régler :
 
@@ -4732,11 +4706,11 @@ La législation d’Etat a le droit de régler :
   - du § 28, alinéas 1 et 2, concernant la fortune ;
   - du § 967 sur la déclaration des exploitations ;
   - du § 968, du § 969 en connexion avec les §§ 665, 666, 667, alinéa 2, et les §§ 669 à 672, et du § 970
-    sur le changement apporté dans la personne du chef d’exploitation, sur la déclaration des modifications
-    dans l’exploitation et sur la procédure ultérieure ;
+sur le changement apporté dans la personne du chef d’exploitation, sur la déclaration des modifications
+dans l’exploitation et sur la procédure ultérieure ;
   - des §§ 971 à 974 concernant les statuts ;
   - du § 975, alinéa 1, en connexion avec les §§ 685, 686, numéros 3 et 4, et les §§ 687 à 689, du § 976,
-    alinéa 1, et du § 977, alinéa 1, concernant les organes de la Corporation ;
+alinéa 1, et du § 977, alinéa 1, concernant les organes de la Corporation ;
   - du § 978 concernant les agents de la Corporation ;
   - du § 979 sur l’établissement des classes de risques ;
   - des §§ 980 à 982 concernant le partage et la mise en commun des charges ;
@@ -4744,10 +4718,10 @@ La législation d’Etat a le droit de régler :
   - des §§1014 à 1027 concernant la procédure de répartition et de recouvrement
 - ainsi que, par dérogation aux dispositions de la présente loi :
   - de spécifier les organes qui assurent l’administration des Corporations et auxquels appartiennent les
-    droits et les obligations que la présente loi attribue aux comités-directeurs, et
+droits et les obligations que la présente loi attribue aux comités-directeurs, et
   - de charger l’Office d’assurance du soin d’établir les faits en cas d’accident.
 
-###### Article 1038
+##### Article 1038
 
 Si la législation d’Etat fait usage du droit que lui confère le § 1037, elle doit arrêter des
 dispositions concernant :
@@ -4764,14 +4738,14 @@ dispositions concernant :
    avec les §§ 875, 880 et 881) sont assujetties aux dispositions pénales relatives à la violation de secrets
    d’exploitation (§§ 142 à 144).
 
-###### Article 1039
+##### Article 1039
 
 Si la législation d’Etat fait usage de son droit de régler la délimitation des Corporations et
 qu’un changement soit apporté dans la composition de la Corporation, l’autorité administrative suprême
 remplace le Conseil Fédéral si les exploitations intéressées ont toutes leur siège sur le territoire de l’Etat
 Confédéré.
 
-###### Article 1040
+##### Article 1040
 
 La dissolution d’une Corporation en cas d’insolvabilité et la réunion à d’autres Corporations
 des exploitations appartenant à celle-ci, sont effectuées par l’autorité administrative suprême, si la
@@ -4781,7 +4755,7 @@ exploitations dont le siège est situé sur le territoire de l’Etat Confédér
 
 Dans ce cas, l’Etat Confédéré succède aux droits et aux obligations de la Corporation dissoute.
 
-###### Article 1041
+##### Article 1041
 
 Dans le cas où un Etat Confédéré a rattaché tout ou partie de son territoire à la Corporation
 d’un autre Etat avec le consentement de ce dernier et qu’il fait usage du droit conféré par le § 1037, la
@@ -4797,10 +4771,9 @@ intéressés succèdent
 
 A défaut d’accord, le Conseil Fédéral statue s’il en est requis.
 
-CHAPITRE XI
-Responsabilité des chefs d’exploitations et de leurs employés
+#### CHAPITRE XI — Responsabilité des chefs d’exploitations et de leurs employés
 
-###### Article 1042
+##### Article 1042
 
 Sont applicables à la responsabilité des chefs d’exploitations et de leurs employés les
 dispositions de l’assurance contre les accidents dans les entreprises industrielles (§§ 898 à 907).
@@ -4811,10 +4784,9 @@ aucun droit aux prestations de l’assurance-maladie de la part d’une caisse-m
 minière ou d’une caisse libre agréée ou si elle est dispensée de l’obligation d’assurance en raison de
 prestations équivalentes.
 
-CHAPITRE XII
-Dispositions pénales
+#### CHAPITRE XII — Dispositions pénales
 
-###### Article 1043
+##### Article 1043
 
 Le comité directeur de la Corporation a le droit d’infliger aux chefs d’exploitations des
 amendes pouvant s’élever jusqu’à {{< m "500" "marks" >}} si :
@@ -4836,7 +4808,7 @@ La disposition de l’alinéa 1 est applicable par analogie dans les cas où le 
 de fournir des états, déclarations et renseignements en vue de la répartition des cotisations d’après une des
 bases indiquées au § 1010.
 
-###### Article 1044
+##### Article 1044
 
 Le comité directeur de la Corporation a, en outre, le droit d’infliger des amendes pouvant
 s’élever jusqu’à {{< m "300" "marks" >}} aux chefs d’exploitations qui ne remplissent pas, en temps utile, les obligations
@@ -4846,7 +4818,7 @@ qui leur incombent :
 2. en matière de prescriptions statutaires formulées pour les cas d’arrêt d’exploitation et de
    changement de chef.
 
-###### Article 1045
+##### Article 1045
 
 Sont applicables par analogie les dispositions de l’assurance-accidents dans les entreprises
 industrielles :
@@ -4858,24 +4830,24 @@ industrielles :
 - du § 913 sur les amendes à infliger en cas de transfert des obligations du chef d’exploitation ;
 - du § 914 concernant les caisses auxquelles ces amendes sont à faire parvenir.
 
-LIVRE QUATRIEME
-Assurance-invalidité et des survivants
-CHAPITRE II
-Objet de l’assurance
-I. — GENERALITES
+## LIVRE QUATRIEME — Assurance-invalidité et des survivants
 
-###### Article 1250
+### CHAPITRE II — Objet de l’assurance
+
+#### I. — GENERALITES
+
+##### Article 1250
 
 L’assurance a pour objet d’accorder des rentes d’invalidité ou de vieillesse, ainsi qu’en ce
 qui concerne les survivants des rentes, secours pécuniaires de veuves et dotations d’orphelins.
 
-###### Article 1251
+##### Article 1251
 
 Une rente d’invalidité ou de vieillesse est accordée à tout assuré qui prouve qu’il est atteint
 d’invalidité ou qu’il a atteint l’âge fixé par la loi et qu’il a accompli la période d’attente prescrite et a
 conservé ses droits à cette rente.
 
-###### Article 1252
+##### Article 1252
 
 Des secours sont alloués aux survivants, si le défunt a accompli au moment de sa mort la
 période d’attente pour la rente d’invalidité et à conservé tous ces droits à cette rente ; toutefois les secours
@@ -4886,7 +4858,7 @@ d’un an au jour de l’introduction de la demande, à moins que l’intéress�
 demande en temps utile, par suite de circonstances indépendantes de sa volonté. Dans ce cas, la demande
 doit être introduite dans les trois mois à dater de la disparition de l’empêchement.
 
-###### Article 1254
+##### Article 1254
 
 Celui qui se rend intentionnellement invalide perd le droit à la rente.
 
@@ -4902,9 +4874,9 @@ disposition.
 La rente peut encore être refusée, lorsque par suite de décès ou d’absence, ou de toute autre raison
 inhérente à la personne du requérant, aucun jugement pénal n’est rendu.
 
-II. — RENTE-INVALIDITE
+#### II. — RENTE-INVALIDITE
 
-###### Article 1255
+##### Article 1255
 
 La rente d’invalidité est accordée, sans condition d’âge, à tout assuré qui par suite de
 maladie ou d’autres infirmités est atteint d’invalidité permanente.
@@ -4921,22 +4893,22 @@ vingt-six semaines consécutives ou se trouve invalide au moment où les secours
 cessent de lui être versés, reçoit la rente d’invalidité pour la durée ultérieure de son incapacité (rente de
 maladie).
 
-###### Article 1256
+##### Article 1256
 
 La rente d’invalidité commence, sans préjudice des §§ 1253 et 1255, alinéa 3, à dater du
 jour où l’invalidité s’est produite. Si le début de l’invalidité ne peut être déterminé, l’invalidité est sensée
 partir du jour où la requête pour l’obtention de la rente est parvenue à l’Office d’assurance.
 
-III. — RENTE DE VIEILLESSE
+#### III. — RENTE DE VIEILLESSE
 
-###### Article 1257
+##### Article 1257
 
 A droit à une rente de vieillesse tout assuré âgé de 65 ans accomplis, même s’il n’est pas
 encore invalide.
 
-IV. — PRESTATIONS AUX SURVIVANTS
+#### IV. — PRESTATIONS AUX SURVIVANTS
 
-###### Article 1258
+##### Article 1258
 
 La veuve atteinte d’invalidité permanente a droit à une rente de veuve à la suite du décès
 de son mari assuré.
@@ -4954,14 +4926,14 @@ consécutives, ou se trouve invalide au moment où les secours pécuniaires de m
 versés, a également droit, pour la période ultérieure de son invalidité, à une rente de veuve (rente-maladie
 de veuve).
 
-###### Article 1259
+##### Article 1259
 
 La rente d’orphelins est attribuée au décès d’un père assuré à ses enfants légitimes de
 moins de 15 ans, et au décès d’une mère assurée, à ses enfants de moins de 15 ans qui n’ont plus de père.
 
 Les enfants illégitimes sont assimilés à ceux qui n’ont plus de père.
 
-###### Article 1260
+##### Article 1260
 
 Au décès d’une assurée dont le mari est incapable de travailler et qui subvenait
 exclusivement ou principalement à l’entretien de sa famille, ses enfants légitimes âgés de moins de 15 ans,
@@ -4970,7 +4942,7 @@ ont droit à une rente d’orphelins et le mari à une rente de veuf, aussi long
 Il en est de même en ce qui concerne la rente d’orphelins, lorsqu’au décès de l’assurée le mariage
 était dissous.
 
-###### Article 1261
+##### Article 1261
 
 En cas de décès d’une assurée dont le conjoint avait, sans motif légal, abandonné la vie
 commune et s’était soustrait à l’obligation d’entretenir sa famille, une rente d’orphelins est allouée aux
@@ -4979,24 +4951,24 @@ enfants légitimes âgés de moins de 15 ans, aussi longtemps qu’ils sont néc
 Ces dispositions sont également applicables lorsque, au moment du décès de l’assurée, le mariage
 était dissous et que le mari s’était soustrait à l’obligation d’entretenir sa famille.
 
-###### Article 1262
+##### Article 1262
 
 Si l’assuré laisse des petits-enfants de moins de 15 ans, n’ayant plus ni père ni mère et à
 l’entretien desquels il subvenait en tout ou partie, ils ont droit à une rente d’orphelins, aussi longtemps
 qu’ils sont nécessiteux.
 
-###### Article 1263
+##### Article 1263
 
 Les rentes des survivants commencent avec le jour du décès de la personne qui les
 entretenait. Si, à cette date, la veuve n’était pas encore invalide, le commencement de la rente se règle
 d’après les dispositions du § 1256 ou du § 1258, alinéa 3.
 
-###### Article 1264
+##### Article 1264
 
 Le secours pécuniaire de veuve échoit au décès du mari, et la dotation d’orphelin au jour
 de leur quinzième année accomplie.
 
-###### Article 1265
+##### Article 1265
 
 Les prestations légales sont également allouées dans le cas de la disparition de l’assuré. Il
 est considéré comme disparu si, pendant un an, on n’a plus reçu de nouvelles dignes de foi le concernant et
@@ -5005,17 +4977,17 @@ si les circonstances rendent sa mort vraisemblable.
 L’Office d’assurance peut exiger des survivants la déclaration solennelle qu’ils n’ont reçu, au sujet de
 l’existence du disparu, aucun autre renseignement que ceux qui sont produits.
 
-###### Article 1266
+##### Article 1266
 
 L’institut d’assurance fixe, par présomption logique, la date de la mort des personnes
 disparues. Les dispositions du § 1100, alinéa 1, sont applicables en cas de disparition en mer.
 
-###### Article 1267
+##### Article 1267
 
 Les survivants sont exclus de tout droit aux allocations lorsqu’ils ont provoqué
 intentionnellement la mort de l’assuré.
 
-###### Article 1268
+##### Article 1268
 
 Les survivants d’un étranger qui, au moment de son décès, n’ont pas leur résidence
 habituelle dans le pays, n’ont droit qu’à la moitié des allocations sans subside de l’Empire.
@@ -5026,14 +4998,14 @@ d' Etats étrangers dont la législation garantit des secours équivalents.
 
 Les colonies {{< t "allemandes" "françaises" >}} sont considérées comme faisant partie du pays, au sens de l’alinéa 1.
 
-V. — TRAITEMENT CURATIF
+#### V. — TRAITEMENT CURATIF
 
-###### Article 1269
+##### Article 1269
 
 L’institut d’assurance est autorisé à procéder à un traitement curatif en vue de prévenir
 l’invalidité qui pourrait résulter de la maladie d’un assuré ou d’une veuve.
 
-###### Article 1270
+##### Article 1270
 
 L’institut d’assurance peut notamment prescrire le transfert du malade dans un hôpital ou
 dans un établissement pour convalescents.
@@ -5043,7 +5015,7 @@ a son propre ménage ou s’il fait partie du ménage de sa famille.
 
 S’il s’agit d’un mineur, son seul consentement suffit.
 
-###### Article 1271
+##### Article 1271
 
 Pendant toute la durée du traitement (§ 1270), les proches parents de l’assuré à l’entretien
 desquels celui-ci a jusqu’alors subvenu en tout ou en grande partie par son salaire, reçoivent un secours
@@ -5056,28 +5028,28 @@ de veuve peut être refusée, en tout ou partie, pendant la durée du traitement
 famille n’est pas alloué aussi longtemps et en tant que l’assuré touche son salaire ou son traitement en vertu
 d’une disposition de droit.
 
-###### Article 1272
+##### Article 1272
 
 Lorsqu’un malade se soustrait au traitement
 curatif (§ 1269) sans motif légal ou autre raison plausible,
 et que l’invalidité aurait probablement pu être évitée par ledit traitement, la rente peut lui être refusée,
 temporairement, en tout ou partie, si l’assuré a été averti des suites que pouvait entraîner son attitude.
 
-###### Article 1273
+##### Article 1273
 
 En cas de contestations qui ne sont pas réglées lors de la fixation des rentes, l’Office
 supérieur des assurances sociales statue définitivement.
 
-###### Article 1274
+##### Article 1274
 
 L’institut d’assurance peut, avec le consentement de l’autorité de surveillance, consacrer
 certaines sommes pour favoriser ou faire appliquer des mesures générales en vue d’éviter l’invalidité
 prématurée des assurés ou en vue d’améliorer l’état sanitaire de la population assujettie à l’assurance. Le
 consentement susvisé peut aussi être accordé lorsqu’il s’agit de sommes globales.
 
-VI. — DES PRESTATIONS EN NATURE REMPLACANT LES RENTES
+#### VI. — DES PRESTATIONS EN NATURE REMPLACANT LES RENTES
 
-###### Article 1275
+##### Article 1275
 
 Les communes et les unions de communes peuvent, avec l’autorisation de l’autorité
 administrative supérieure, décider, par voie de règlement, que les rentes ne seront pas payées en espèces
@@ -5091,7 +5063,7 @@ avoir l’autorisation du tribunal de tutelles.
 
 L’autorité administrative supérieure fixe la valeur des prestations en nature d’après les cours moyens.
 
-###### Article 1276
+##### Article 1276
 
 Les prestations en nature sont effectuées par la commune du domicile. Le droit à la rente
 passe à la commune pour la valeur des prestations en nature.
@@ -5102,7 +5074,7 @@ contentieux administratif). L’Office supérieur statue définitivement sur rec
 Dès que le droit à la rente a été transféré définitivement à la commune, l’institut d’assurance en avise
 l’administration des postes.
 
-###### Article 1277
+##### Article 1277
 
 Les statuts de l’institut d’assurance peuvent autoriser le comité directeur à accorder aux
 bénéficiaires de rentes, sur leur demande, l’admission dans un hospice d’invalides, un orphelinat ou un
@@ -5114,9 +5086,9 @@ loi sur le domicile de secours, les maisons d’invalides et autres établisseme
 L’hospitalisé est tenu de renoncer à sa rente pour un trimestre, et sauf opposition de sa part un mois
 avant l’expiration de ce terme, chaque fois pour un nouveau trimestre.
 
-VII. — PERIODE D’ATTENTE
+#### VII. — PERIODE D’ATTENTE
 
-###### Article 1278
+##### Article 1278
 
 La période d’attente comprend :
 
@@ -5125,7 +5097,7 @@ La période d’attente comprend :
    semaines de cotisations ;
 2. pour la rente de vieillesse, douze cents semaines de cotisations.
 
-###### Article 1279
+##### Article 1279
 
 Les cotisations de l’assurance volontaire ne sont comptées pour la période d’attente, en ce
 qui concerne la rente d’invalidité, qu’à partir du moment où cent cotisations au moins ont été versées sur la
@@ -5134,15 +5106,15 @@ base de l’assurance obligatoire ou de l’assurance personnelle.
 La présente disposition ne s’applique pas aux cotisations volontairement payées par l’assuré au cours
 des quatre premières années après que sa profession a été assujettie à l’assurance.
 
-VIII. — EXTINCTION DU DROIT A LA RENTE
+#### VIII. — EXTINCTION DU DROIT A LA RENTE
 
-###### Article 1280
+##### Article 1280
 
 Le droit à la rente s’éteint, si, pendant une période de deux années, à compter du jour de la
 délivrance de la carte-quittance porté sur celle-ci (§ 1416), moins de vingt cotisations hebdomadaires ont
 été payées en vertu de l’assurance obligatoire ou de l’assurance continuée volontairement.
 
-###### Article 1281
+##### Article 1281
 
 Sont assimilées aux semaines de cotisations au sens du § 1280 :
 
@@ -5152,14 +5124,14 @@ Sont assimilées aux semaines de cotisations au sens du § 1280 :
    de la catégorie indiquée aux §§ 1321, 1360, 1375, ou une rente d’accident comportant au moins le
    cinquième de la rente totale.
 
-###### Article 1282
+##### Article 1282
 
 Dans le cas de l’assurance personnelle et de sa continuation, le maintien du droit à la rente
 est subordonné au paiement de quarante cotisations au moins pendant le délai déterminé au § 1280. La
 présente disposition n’est pas applicable, lorsque plus de soixante cotisations ont été payées en vertu de
 l’assurance obligatoire.
 
-###### Article 1283
+##### Article 1283
 
 Le droit à la rente renaît lorsque l’assuré
 reprend une occupation assujettie à l’assurance ou
@@ -5175,9 +5147,9 @@ Si l’assuré a 40 ans révolus, le droit à la rente ne renaît moyennant des 
 avait utilisé, avant l’extinction de ce droit, au moins 500 timbres de cotisations et qu’il accomplit par la
 suite une période d’attente de cinq cents semaines.
 
-IX. — CALCUL DES PRESTATIONS DE L’ASSURANCE
+#### IX. — CALCUL DES PRESTATIONS DE L’ASSURANCE
 
-###### Article 1284
+##### Article 1284
 
 Les prestations de l’assurance se composent d’un subside fixe de l’Empire et d’une part
 fournie par l’institut d’assurance.
@@ -5185,26 +5157,26 @@ fournie par l’institut d’assurance.
 Dans le cas où les rentes ne sont pas payées intégralement, la part de l’Empire et celle des institutions
 chargées de l’assurance sont diminuées proportionnellement.
 
-###### Article 1285
+##### Article 1285
 
 Le subside de l’Empire consiste en une somme de {{< m "50" "marks" >}} par an pour chaque rente
 d’invalidité, de vieillesse, de veuve, de veuf ; de {{< m "25" "marks" >}} pour chaque rente d’orphelin ; en un versement
 unique de {{< m "50" "marks" >}} pour chaque secours pécuniaire de veuve et de {{< m "16" "marks" >}} 2/3 pour chaque dotation
 d’orphelin.
 
-###### Article 1286
+##### Article 1286
 
 La quote-part des instituts d’assurance est calculée d’après les cotisations payées, et
 d’après les périodes de service militaire ou de maladie qui comptent comme semaines de cotisations.
 
-###### Article 1287
+##### Article 1287
 
 L’institut d’assurance contribue aux rentes d’invalidité par une somme de base et par les
 majorations ; aux rentes des survivants, aux secours pécuniaires des veuves et aux dotations des orphelins,
 par une fraction de la somme de base et des majorations ; aux rentes de vieillesse par une somme annuelle
 fixe.
 
-###### Article 1288
+##### Article 1288
 
 La somme de base de la rente d’invalidité est toujours calculée sur cinq cents semaines de
 cotisations. S’il est justifié de moins de cinq cents semaines de cotisations, il est porté en compte, pour les
@@ -5235,18 +5207,18 @@ dans la Ière classe de salaires à {{< m "3" "pfennigs" >}} (3 c. 3/4)
 
 — Ve — 12 — (15 c.)
 
-###### Article 1290
+##### Article 1290
 
 Pour chaque semaine de cotisation, il n’y a qu’une cotisation qui compte. Si les cotisations
 hebdomadaires sont en surnombre et s’il n’est pas possible de déterminer les timbres en trop, on décompte
 les cotisations des classes inférieures de salaires jusqu’à ce que le maximum admis soit atteint.
 
-###### Article 1291
+##### Article 1291
 
 Lorsque le titulaire d’une rente d’invalidité a des enfants de moins de 15 ans, ladite rente
 s’augmente d’un dixième pour chaque enfant jusqu’à concurrence de une fois et demie la rente.
 
-###### Article 1292
+##### Article 1292
 
 La part de l’institut d’assurance comprend :
 
@@ -5255,7 +5227,7 @@ La part de l’institut d’assurance comprend :
   quarantième de la somme de base et des majorations de la rente d’invalidité que recevait celui qui
   entretenait ces personnes au moment de sa mort ou qu’il aurait reçues en cas d’invalidité.
 
-###### Article 1293
+##### Article 1293
 
 La quote-part de la rente de vieillesse à fournir par l’institut d’assurance s’élève :
 dans la Ière classe de salaire à {{< m "60" "marks" >}}
@@ -5267,7 +5239,7 @@ Si des cotisations se rapportent à différentes classes de salaires, il y a lie
 est justifié de plus de douze cents semaines de cotisations, il y a lieu de décompter les cotisations en trop
 des classes de salaire les moins élevées.
 
-###### Article 1294
+##### Article 1294
 
 Les rentes des survivants ne peuvent excéder en tout une fois et demie le montant de la rente
 d’invalidité allouée au défunt au moment de sa mort ou qui lui aurait été allouée en cas d’invalidité.
@@ -5279,37 +5251,37 @@ Si ces quotités sont dépassées, les rentes sont réduites proportionnellement
 Les petits-enfants n’ont de droits que pour autant que le montant maximum admis n’est pas alloué
 aux enfants.
 
-###### Article 1295
+##### Article 1295
 
 En cas de cessation du droit à la rente d’un survivant, les rentes des autres survivants sont
 augmentées jusqu’à concurrence du montant maximum admis.
 
-###### Article 1296
+##### Article 1296
 
 Il est alloué aux veuves, à titre de secours pécuniaire, le montant mensuel de la rente de veuve
 multiplié par 12 et aux orphelins, à titre de dotation, le montant mensuel de la rente d’orphelin multiplié par
 8.
 
-###### Article 1297
+##### Article 1297
 
 Les rentes sont payées d’avance par fractions mensuelles arrondies à {{< m "5" "pfennigs" >}}.
 
-X. — CESSATION DES PRESTATIONS
+#### X. — CESSATION DES PRESTATIONS
 
-###### Article 1298
+##### Article 1298
 
 La rente de veuve et de veuf s’éteint en cas de remariage.
 
-###### Article 1299
+##### Article 1299
 
 La rente d’orphelin s’éteint dès que l’orphelin atteint l’âge de 15 ans.
 
-###### Article 1300
+##### Article 1300
 
 Le droit au secours pécuniaire de veuve s’éteint, s’il n’a pas été exercé dans l’année qui suit le
 décès du mari.
 
-###### Article 1301
+##### Article 1301
 
 Sous réserve des §§ 1295 et 1318, la rente est payée intégralement pour le mois du décès et
 pour le mois au cours duquel elle prend fin.
@@ -5317,13 +5289,13 @@ pour le mois au cours duquel elle prend fin.
 Lorsque la rente de l’assuré coïncide avec celle des survivants pour une partie du mois, ces derniers
 ont droit au montant le plus fort.
 
-###### Article 1302
+##### Article 1302
 
 Si le titulaire vient à mourir sans avoir touché sa rente, le conjoint, les enfants, le père, la
 mère, les frères et sœurs ont le droit de la réclamer dans l’ordre indiqué, à condition qu’au moment du
 décès ils aient vécu en ménage commun avec lui.
 
-###### Article 1303
+##### Article 1303
 
 Lorsqu’un assuré ou la personne ayant droit à une rente de veuve, de veuf ou à un secours
 pécuniaire de veuve, décède après avoir fait valoir son droit, le conjoint, les enfants, le père, la mère, les
@@ -5334,15 +5306,15 @@ commun avec lui.
 Si la personne qui a droit à une dotation d’orphelin décède sans avoir touché celle-ci, l’Office
 d’assurance désigne, selon son appréciation, les personnes auxquelles la dotation doit être payée.
 
-XI. — RETRAIT DE LA RENTE
+#### XI. — RETRAIT DE LA RENTE
 
-###### Article 1304
+##### Article 1304
 
 Si par suite d’un changement essentiel dans sa situation, le bénéficiaire d’une rente
 d’invalidité ou de veuve n’est plus invalide conformément aux dispositions des §§ 1255, 1258, l’institut
 d’assurance lui retire la rente.
 
-###### Article 1305
+##### Article 1305
 
 S’il est à présumer que le bénéficiaire d’une rente d’invalidité, de veuve ou de veuf
 recouvrera la capacité de travail par le moyen d’un traitement curatif, l’institut d’assurance peut ordonner
@@ -5350,38 +5322,37 @@ semblable traitement. Les dispositions des §§ 1270, 1271 et 1273 sont applicab
 cas. Le secours pécuniaire de famille n’est pas alloué aux proches parents du bénéficiaire d’une rente de
 veuve ou de veuf.
 
-###### Article 1306
+##### Article 1306
 
 Si le titulaire d’une rente se soustrait sans motif légal ou autre raison valable au traitement
 curatif et s’oppose ainsi à la guérison de son invalidité, ou s’il se soustrait sans motif à un examen ultérieur
 ou à la mise en observation dans un hôpital, la rente peut lui être retirée temporairement en tout ou partie, à
 condition que cette conséquence de sa conduire lui ait été signalée.
 
-###### Article 1307
+##### Article 1307
 
 L’institut d’assurance retire les rentes de veufs et d’orphelins alloués conformément aux
 dispositions des §§ 1260 à 1262, dès que le bénéficiaire cesse d’être dans le besoin.
 
-###### Article 1308
+##### Article 1308
 
 La décision retirant la rente est exécutoire à l’expiration du mois suivant sa notification.
 
-###### Article 1309
+##### Article 1309
 
 Si la rente d’invalidité ou de veuve est allouée à nouveau ou au lieu d’une rente-maladie,
 ou si une rente de vieillesse est allouée, la période pendant laquelle la rente antérieure a été touchée doit
 être comptée à l’assuré comme une période de maladie dûment établie (§ 1394, al. 2). Le droit à la rente ne
 s’éteint pas pendant la période de la rente antérieure.
 
-###### Article 1310
+##### Article 1310
 
 S’il est établi qu’un assuré considéré comme disparu, vit encore, la rente cesse d’être
 versée. L’institut d’assurance n’est pas obligé de réclamer le remboursement des arrérages payés indûment.
 
-XII. — SUPPRESSION DE LA RENTE ET INDEMNISATION
-EN CAPITAL
+#### XII. — SUPPRESSION DE LA RENTE ET INDEMNISATION EN CAPITAL
 
-###### Article 1311
+##### Article 1311
 
 La rente est suspendue lorsqu’elle vient se superposer à une rente d’accident en vertu
 d’une loi impériale pour autant que les deux rentes excèdent ensemble :
@@ -5392,7 +5363,7 @@ d’une loi impériale pour autant que les deux rentes excèdent ensemble :
    somme de base de la rente d’invalidité dont leur soutien jouissait au moment de sa mort ou dont il aurait
    joui s’il avait été invalide.
 
-###### Article 1312
+##### Article 1312
 
 La rente est suspendue aussi longtemps que l’intéressé purge une peine privative de liberté
 dépassant un mois ou qu’il est interné dans une maison de force ou de correction.
@@ -5400,7 +5371,7 @@ dépassant un mois ou qu’il est interné dans une maison de force ou de correc
 Si l’assuré a des parents résidant dans le pays, qu’il entretenait exclusivement ou principalement du
 produit de son travail, la rente d’invalidité ou de vieillesse leur est accordée.
 
-###### Article 1313
+##### Article 1313
 
 La rente est suspendue :
 
@@ -5410,24 +5381,24 @@ La rente est suspendue :
    qui, à la suite d’une condamnation pénale, ont été expulsés du territoire d’un Etat Confédéré à condition
    qu’ils ne résident pas dans un autre Etat Confédéré.
 
-###### Article 1314
+##### Article 1314
 
 Le Conseil Fédéral peut décider que la suspension de la rente n’aura pas lieu pour des
 régions frontières déterminées ou pour des Etats étrangers dont la législation garantit aux {{< t "Allemands" "Français" >}} et à
 leurs survivants des avantages équivalents.
 
-###### Article 1315
+##### Article 1315
 
 Les colonies {{< t "allemandes" "françaises" >}} sont considérées comme territoire {{< t "allemand" "français" >}} au sens des §§ 1312
 et 1313.
 
-###### Article 1316
+##### Article 1316
 
 Les droits de l’intéressé étranger doivent, dans le cas visé par le § 1313, numéro 1, être
 réglés par le paiement de trois fois le montant de la rente annuelle ou, s’il s’agit d’une rente d’orphelin, par
 une fois et demie le montant annuel de ladite rente.
 
-###### Article 1317
+##### Article 1317
 
 La même indemnisation peut, avec leur consentement, être appliquée aux étrangers qui,
 
@@ -5435,28 +5406,28 @@ La même indemnisation peut, avec leur consentement, être appliquée aux étran
    ordonnance d’une autorité {{< t "allemande" "française" >}} ;
 2. ont droit à la rente en vertu d’une décision prise par le Conseil Fédéral conformément au § 1314.
 
-###### Article 1318
+##### Article 1318
 
 Si les conditions de l’allocation de plusieurs rentes sur la base de l’assurance-invalidité et
 des survivants se trouvent simultanément réunies, la rente la moins élevée est suspendue, à partir du jour où
 ces conditions se trouvent ainsi réunies.
 
-XIII. — ATTRIBUTIONS SPECIALES DES INSTITUTS D’ASSURANCE
+#### XIII. — ATTRIBUTIONS SPECIALES DES INSTITUTS D’ASSURANCE
 
-###### Article 1319
+##### Article 1319
 
 Si, après nouvel examen, l’institut d’assurance constate qu’une prestation a été indûment
 refusée, retirée ou fixée à un taux inférieur, il peut procéder à une nouvelle détermination.
 
-###### Article 1320
+##### Article 1320
 
 L’institut d’assurance n’est pas tenu de réclamer le remboursement d’arrérages qu’il a dû
 payer, suivant les dispositions de la présente loi, avant qu’ait été rendu un jugement ayant acquis force de
 chose jugée.
 
-XIV. — RAPPORTS AVEC D’AUTRES DROITS
+#### XIV. — RAPPORTS AVEC D’AUTRES DROITS
 
-###### Article 1321
+##### Article 1321
 
 Les caisses d’entreprises, les caisses des gens de mer et autres caisses analogues qui
 allouent des secours d’invalidité et de vieillesse et des allocations de survivants à ceux de leurs membres
@@ -5483,7 +5454,7 @@ d’exploitation, des ouvriers, ou de leurs survivants.
 Le Conseil Fédéral détermine la procédure à suivre, devant l’Office impérial de surveillance des
 assurances privées, dans le cas de l’alinéa 3, phrase 2.
 
-###### Article 1322
+##### Article 1322
 
 Les secours alloués par les associations ou les caisses minières, aux survivants de ceux de
 leurs membres qui sont assurés en vertu des dispositions de la loi impériale, sont réduits de la moitié de la
@@ -5501,13 +5472,13 @@ réduites ou ne le soient que pour une plus faible partie.
 Les allocations statutaires qui ont été accordées avant la décision des juridictions compétentes ou
 avant la mise en vigueur de la présente disposition, ne peuvent être réduites.
 
-###### Article 1323
+##### Article 1323
 
 Les dispositions du § 1281, numéro 2, et celles des §§ 1321, 1322 s’appliquent également
 aux caisses ayant pour objet l’assistance en cas d’invalidité, de vieillesse ou en faveur des survivants, et qui
 rendent l’adhésion obligatoire en vertu des dispositions de règlements locaux.
 
-###### Article 1324
+##### Article 1324
 
 Les droits à la rente peuvent être compensés seulement :
 
@@ -5519,7 +5490,7 @@ Les droits à la rente peuvent être compensés seulement :
 - par les frais de procédure à rembourser ;
 - par les amendes infligées par les organes de l’institut d’assurance.
 
-###### Article 1325
+##### Article 1325
 
 Les secours pécuniaires des veuves et les dotations d’orphelins ne peuvent, sauf dans les
 cas prévus au § 119, alinéa 2, être ni cédés, ni saisis, ni mis en gage, ni faire l’objet d’une compensation.
@@ -5528,19 +5499,15 @@ cas prévus au § 119, alinéa 2, être ni cédés, ni saisis, ni mis en gage, n
 
 ---
 
-LIVRE QUATRIEME
-Assurance-invalidité et des survivants
-
-CHAPITRE V
-Paiement des prestations. Constitution des ressources
+### CHAPITRE V — Paiement des prestations. Constitution des ressources
 
 \[…\]
 
-II. — CONSTITUTION DES RESSOURCES
+#### II. — CONSTITUTION DES RESSOURCES
 
 1. Généralités
 
-###### Article 1387
+##### Article 1387
 
 Les ressources nécessaires au service de l’assurance sont fournies par l’Empire, les
 employeurs et les assurés.
@@ -5553,14 +5520,14 @@ La semaine de cotisation commence le lundi.
 
 1. Montant des cotisations
 
-###### Article 1388
+##### Article 1388
 
 Les cotisations hebdomadaires sont fixées d’avance et d’une manière uniforme par le
 Conseil Fédéral ; elles sont fixées tout d’abord pour une période expirant le 31 décembre 1920, et le seront
 ensuite d’après les résultats de l’expérience (§ 1391), chaque fois pour dix années. Les modifications
 doivent être approuvées par le Reichstag.
 
-###### Article 1389
+##### Article 1389
 
 En vue de la fixation du taux des cotisations, il est calculé pour l’ensemble des assurés la
 cotisation annuelle moyenne. Cette cotisation est à déterminer de telle manière que la valeur de toutes les
@@ -5568,7 +5535,7 @@ cotisations futures, ajoutées au patrimoine, couvre, d’après le calcul des p
 intérêts et intérêts composés compris, pour faire face à toutes les dépenses futures que les instituts
 d’assurance auront à effectuer.
 
-###### Article 1390
+##### Article 1390
 
 La cotisation moyenne est graduée d’après les classes de salaires, mais fixée d’ailleurs en
 fractions hebdomadaires égales pour les assurés d’une même classe de salaire.
@@ -5578,14 +5545,14 @@ comprenne un chiffre d’assurés à risques égaux correspondant à l’ensembl
 chiffre les rentes et les secours pécuniaires de veuves et de veufs ainsi que les dotations d’orphelins entrent
 en compte pour les montants prévus à chaque classe de salaire.
 
-###### Article 1391
+##### Article 1391
 
 Le service actuariel de l’Office impérial des assurances sociales examine préalablement si
 les cotisations sont suffisantes.
 
 Les déficits ou les excédents doivent être équilibrés par les cotisations nouvelles.
 
-###### Article 1392
+##### Article 1392
 
 Jusqu’à nouvelle fixation, il est perçu à titre de cotisation hebdomadaire :
 dans la classe I de salaire
@@ -5617,7 +5584,7 @@ Ve —
 \[ taux fixés par la loi du 12 juin 1916\]
 3. Périodes de service militaire et de maladie
 
-###### Article 1393
+##### Article 1393
 
 Sont portées en compte comme semaines de cotisations de la IIe classe de salaire sans qu’il
 soit nécessaire que des cotisations soient versées, les semaines entières pendant lesquelles les assurés :
@@ -5631,7 +5598,7 @@ Ces semaines ne peuvent être comptées qu’aux personnes qui ont été employ�
 professionnellement et non pas à titre simplement temporaire, à une occupation les assujettissant à
 l’assurance.
 
-###### Article 1394
+##### Article 1394
 
 N’est pas portée en compte toute maladie que l’assuré s’est attirée soit intentionnellement,
 soit pas la perpétration d’un crime établi par jugement pénal, soit encore par une participation coupable à
@@ -5644,7 +5611,7 @@ La période de convalescence est assimilée à la maladie. Il en est de même, e
 semaines, de l’incapacité de travail résultant d’une période normale de grossesse ou d’accouchement.
 4. Charge commune. Charge particulière
 
-###### Article 1395
+##### Article 1395
 
 Les instituts d’assurance administrent eux-mêmes directement leurs recettes et leur fortune.
 
@@ -5652,7 +5619,7 @@ Ces fonds sont destinés à couvrir les charges communes qui sont à fournir par
 chargées de l’assurance-invalidité et des survivants, ainsi que les charges particulières qui doivent être
 supportées par chaque institution en particulier.
 
-###### Article 1396
+##### Article 1396
 
 La charge commune est constituée :
 
@@ -5666,7 +5633,7 @@ La charge commune est constituée :
 Toutes autres obligations constituent, sans préjudice du § 1478, la charge particulière de l’institut
 d’assurance.
 
-###### Article 1397
+##### Article 1397
 
 Pour couvrir la charge commune, chaque institut d’assurance mettra à part par voie de
 comptabilité, à partir du 1er janvier 1917, 60 % (art. 1er de la loi du 12 juin 1916) des cotisations pour en
@@ -5674,7 +5641,7 @@ faite l’objet d’un fonds commun. L’institut portera en compte à ce fonds 
 correspondants. Le Conseil Fédéral fixe uniformément le taux de l’intérêt pour les mêmes périodes que les
 cotisations.
 
-###### Article 1398
+##### Article 1398
 
 S’il résulte de la vérification (§ 1391) que le fonds commun ne suffit pas ou n’est pas
 nécessaire pour couvrir la charge commune, le Conseil Fédéral doit, pour la période suivante, statuer sur le
@@ -5683,13 +5650,13 @@ les excédents.
 
 Toute augmentation du montant des cotisations est subordonnée à l’autorisation du Reichstag.
 
-###### Article 1399
+##### Article 1399
 
 La fortune des instituts d’assurance existant au moment de la vérification ne peut être
 employée aux charges communes que pour autant qu’elle soit portée à cet effet dans la comptabilité
 spéciale.
 
-###### Article 1400
+##### Article 1400
 
 Par décision concordante du comité directeur et de la délégation, les excédents du fonds
 particulier peuvent, en sus des prestations légales, être employés dans l’intérêt économique des titulaires de
@@ -5700,13 +5667,13 @@ service actuariel, le fonds particulier n’a plus des excédents suffisamment �
 
 1. Unions de réassurance
 
-###### Article 1401
+##### Article 1401
 
 Plusieurs instituts d’assurance peuvent convenir de supporter en commun la totalité ou une
 partie des charges de l’assurance-invalidité et des survivants.
 6. Responsabilité
 
-###### Article 1402
+##### Article 1402
 
 L’union des communes pour laquelle l’institut d’assurance a été créé, est responsable vis-à-
 vis des créanciers dans la mesure où le patrimoine de l’institut ne suffit pas à couvrir les charges. Si elle n’a
@@ -5718,7 +5685,7 @@ recensement.
 7. Répartition et remboursement des prestations de l’assurance Versement des sommes dues à
 la poste
 
-###### Article 1403
+##### Article 1403
 
 Le service actuariel de l’Office impérial des assurances sociales répartit les rentes, les
 secours pécuniaires de veuves et les dotations d’orphelins entre l’Empire, les fonds communs et les fonds
@@ -5727,7 +5694,7 @@ Les majorations des rentes d’invalidité sont à la charge de l’institut qui
 correspondantes. S’il a fixé des prestations dont certaines parties incombent au fonds particulier d’autres
 instituts, ces derniers doivent, à la fin de l’exercice, les lui rembourser en capital représentatif.
 
-###### Article 1404
+##### Article 1404
 
 Le service actuariel détermine pour chaque année
 et pour chaque institut le capital représentatif des
@@ -5735,7 +5702,7 @@ rentes en cours dont le paiement a été mandaté par ce
 dernier, et la partie qui incombe à l’Empire aux fonds communs et aux fonds particuliers. Le Conseil
 Fédéral règle le calcul du capital représentatif.
 
-###### Article 1405
+##### Article 1405
 
 Dans les huit semaines, suivant l’expiration de chaque exercice, les autorités postales
 centrales communiquent au service actuariel, le montant des paiements effectués au cours de l’exercice
@@ -5746,7 +5713,7 @@ les secours pécuniaires de veuves et les dotations d’orphelins. Les instituts
 somme incombant au fonds commun, chacun dans la proportion de la partie de son avoir, réservée à la
 charge commune.
 
-###### Article 1406
+##### Article 1406
 
 Le service actuariel communique aux instituts d’assurance les sommes qu’ils ont à
 rembourser sur la partie de leur patrimoine affectée à la charge commune, ainsi que sur leur fonds
@@ -5760,12 +5727,12 @@ est autorisé contre les opérations de répartition et de compensation.
 Le montant des sommes qui sont à la charge de l’Empire, est porté à la connaissance du Chancelier de
 l’Empire.
 
-###### Article 1407
+##### Article 1407
 
 Le service actuariel fait connaître à l’administration postale centrale le montant des
 sommes qui doivent être remboursées par l’Empire et par chacun des instituts d’assurance.
 
-###### Article 1408
+##### Article 1408
 
 L’institut d’assurance est tenu, dans les deux semaines de la réception de cette
 communication, de rembourser sur les ressources disponibles, les avances faites par l’administration des
@@ -5773,7 +5740,7 @@ postes. A défaut de ressources, l’union des communes ou l’Etat Confédéré
 nécessaires ; pour les instituts d’assurance communs, cette avance est effectuée sur la base du nombre des
 habitants lors du dernier recensement.
 
-###### Article 1409
+##### Article 1409
 
 Le service actuariel fixe, pour chaque institut d’assurance, après la réception de la
 communication de l’administration centrale des postes (§ 1405), pour l’exercice en cours, le montant des
@@ -5782,18 +5749,18 @@ l’administration centrale des postes. Jusqu’à ce moment, les fractions desd
 payées provisoirement sur la base du montant de l’année précédente. Elles sont liquidées après
 détermination des avances nouvelles à faire à l’administration des postes.
 
-###### Article 1410
+##### Article 1410
 
 Si les créances de l’administration des postes ne sont pas couvertes par les instituts
 d’assurance à l’époque voulue, l’Office impérial des assurances sociales ou l’Office d’Etat des
 assurances (§ 1382) est tenu, sur la requête de l’administration des postes, de procéder à leur recouvrement
 par voie d’exécution forcée.
 
-CHAPITRE VI
-Cotisations
-I. — TIMBRES DE COTISATIONS
+### CHAPITRE VI — Cotisations
 
-###### Article 1411
+#### I. — TIMBRES DE COTISATIONS
+
+##### Article 1411
 
 En vue de la perception des cotisations, chaque institut d’assurance émet des timbres de
 cotisations qui portent l’indication de la classe du salaire, ainsi que de la valeur en argent.
@@ -5805,20 +5772,20 @@ Il peut limiter la durée de la validité des timbres de cotisations émis. Pend
 après l’expiration de la période de validité, ces timbres qui ont cessé d’être valables peuvent être échangés
 contre des timbres en cours, dans les bureaux affectés à leur vente.
 
-###### Article 1412
+##### Article 1412
 
 Les timbres de cotisations de chaque institut d’assurance sont vendus à leur valeur
 nominale dans tous les bureaux de poste situés dans la circonscription et dans les bureaux particuliers de
 vente des instituts d’assurance.
 
-II. — CARTE-QUITTANCE
+#### II. — CARTE-QUITTANCE
 
-###### Article 1413
+##### Article 1413
 
 Le paiement des cotisations s’effectue en collant des timbres de cotisations sur la carte-
 quittance de l’assuré.
 
-###### Article 1414
+##### Article 1414
 
 L’assuré est tenu de se faire délivrer la carte-quittance et de la présenter en temps utile, en
 vue de l’apposition et de l’oblitération des timbres. Il peut y être contraint, par une amende ne dépassant
@@ -5826,12 +5793,12 @@ pas {{< m "10" "marks" >}} par l’autorité de police locale. Si l’assuré n�
 refuse à la présenter, l’employeur a le droit de la faire établir et de retenir ses frais lors du paiement suivant
 du salaire.
 
-###### Article 1415
+##### Article 1415
 
 L’assuré peut en tout temps demander, à ses frais, une nouvelle carte contre l’ancienne
 qu’il rend.
 
-###### Article 1416
+##### Article 1416
 
 La carte-quittance porte la mention de l’année et du jour de sa délivrance, ainsi que le texte
 des prescriptions des §§ 1424, 1425, 1495. Le Conseil Fédéral détermine les autres conditions de forme.
@@ -5839,12 +5806,12 @@ des prescriptions des §§ 1424, 1425, 1495. Le Conseil Fédéral détermine les
 En ce qui concerne l’assurance personnelle et sa continuation (§ 1243), le Conseil Fédéral peut
 prescrire l’emploi de cartes spéciales et édicter une pénalité en cas d’emploi illicite d’autres cartes.
 
-###### Article 1417
+##### Article 1417
 
 Le coût de la carte, lorsqu’elle n’est pas à établir aux frais de l’assuré (§§ 1414 et 1415),
 est supporté par l’institut d’assurance du ressort de la circonscription où elle est émise.
 
-###### Article 1418
+##### Article 1418
 
 Chaque carte doit contenir la place nécessaire pour recevoir cinquante-deux timbres
 hebdomadaires pour le moins. Les cartes doivent être numérotées dans un ordre continu pour chaque
@@ -5853,7 +5820,7 @@ duquel l’assuré est occupé à l’époque de sa délivrance ; chacune des 
 l’institut précité (institut primitif). Si la désignation diffère sur une carte ultérieure, c’est l’indication de la
 première carte qui fait foi.
 
-###### Article 1419
+##### Article 1419
 
 L’autorité administrative suprême détermine, sans préjudice des dispositions du § 1456,
 les bureaux où s’effectuent la délivrance et l’échange des cartes.
@@ -5872,12 +5839,12 @@ concernant le décompte des cotisations.
 Le Chancelier de l’Empire détermine qui doit supporter le coût des cartes-quittance et des formulaires
 d’attestation, dans les colonies {{< t "allemandes" "françaises" >}}.
 
-###### Article 1420
+##### Article 1420
 
 La carte doit être présentée pour échange dans les deux années de sa délivrance. A défaut
 de le faire, l’assuré est tenu, en cas de contestation, de prouver qu’il a conservé ses droits à la rente.
 
-###### Article 1421
+##### Article 1421
 
 Les cartes-quittance perdues, devenues inutilisables ou détruites sont remplacées par de
 nouvelles cartes.
@@ -5886,14 +5853,14 @@ Les cotisations, dont le paiement peut être établi, font l’objet d’une tra
 instituts d’assurance compétents sont entendus au préalable lorsque la carte devenu inutilisable n’est pas
 présentée ; dans tous les cas ils en sont informés après.
 
-###### Article 1422
+##### Article 1422
 
 L’assuré a le droit de se pourvoir en recours devant l’Office d’assurance contre la teneur
 de l’attestation (§ 1419, al. 3), ainsi que contre la transcription ou le refus de transcription (1421, al. 2). Les
 instituts d’assurance peuvent également attaquer
 la transcription (§ 1421, al. 2). L’office d’assurance statue définitivement.
 
-###### Article 1423
+##### Article 1423
 
 Les cartes échangées sont adressées à l’institut d’assurance de la circonscription. Celui-ci
 les transmet à l’institut primitif (§ 1418), après examen et rectification des inscriptions sur la partie
@@ -5905,7 +5872,7 @@ conserver les cartes récapitulatives à la place des autres cartes.
 Le Conseil Fédéral détermine les mesures d’exécution. Il détermine également dans quel cas et
 comment la destruction des cartes doit être effectuée.
 
-###### Article 1424
+##### Article 1424
 
 La carte ne peut contenir d’autres inscriptions que celles qui sont prévues par la présente
 loi, ni porter aucune marque spéciale ; il est absolument interdit d’y faire figurer une indication quelconque
@@ -5914,7 +5881,7 @@ doivent être retenues par l’autorité à laquelle elles parviennent et être 
 cotisations dont le paiement peut être établi font l’objet d’une transcription certifiée. Les instituts intéressés
 en sont informés.
 
-###### Article 1425
+##### Article 1425
 
 Nul ne peut retenir une carte-quittance contre la volonté du titulaire. Cette disposition ne
 s’applique pas à la retenue des cartes par les bureaux compétents en vue d’échange, d’opérations de
@@ -5924,12 +5891,9 @@ Quiconque retient des cartes contrairement à la présente disposition est respo
 l’intéressé, des conséquences auxquelles cette retenue peut donner lieu. L’autorité de police locale reprend
 la carte et la restitue à l’intéressé.
 
-III. — PAIEMENT DES COTISATIONS PAR LES EMPLOYEURS.
+#### III. — PAIEMENT DES COTISATIONS PAR LES EMPLOYEURS. JUSTIFICATION DU SERVICE MILITAIRE ET DES PERIODES DE MALADIE
 
-JUSTIFICATION DU SERVICE MILITAIRE
-ET DES PERIODES DE MALADIE
-
-###### Article 1426
+##### Article 1426
 
 Les cotisations de l’employeur et de l’assuré doivent être payées par l’employeur qui a
 occupé l’assuré pendant la semaine de cotisation.
@@ -5941,7 +5905,7 @@ employeur a le droit de se faire rembourser par le premier. Si l’assuré est o
 plusieurs employeurs à des travaux soumis à l’obligation de l’assurance, les employeurs sont solidairement
 responsables.
 
-###### Article 1427
+##### Article 1427
 
 Si la durée effective du travail ne peut être déterminée, la cotisation doit être payée pour la
 période approximativement nécessaire à l’exécution du travail. En cas de contestation, l’Office d’assurance
@@ -5950,7 +5914,7 @@ statue définitivement sur requête de l’une des parties.
 L’institut d’assurance peut, avec l’autorisation de l’Office impérial des assurances sociales ou de
 l’Office d’Etat des assurances (§ 1382), arrêter des dispositions spéciales pour cette détermination.
 
-###### Article 1428
+##### Article 1428
 
 Pour effectuer le paiement des cotisations, l’employeur colle sur la carte-quittance, lors du
 paiement du salaire, et pour la durée de l’occupation, des timbres de cotisations de la classe de salaire à
@@ -5961,24 +5925,24 @@ L’employeur doit se procurer les timbres de cotisations à ses frais.
 En cas de non-paiement de salaires, les timbres doivent être collés au plus tard lorsque l’occupation
 prend fin.
 
-###### Article 1429
+##### Article 1429
 
 Pour les assurés engagés par contrat, au service d’un employeur pour une période de trois
 mois au moins, l’employeur peut coller les timbres à une époque différente mais au plus tard dans la
 dernière semaine de chaque trimestre. Dans tous les cas, les timbres doivent être collés lorsque l’occupation
 prend fin.
 
-###### Article 1430
+##### Article 1430
 
 L’institut d’assurance peut autoriser les employeurs à coller les timbres à une autre date.
 
-###### Article 1431
+##### Article 1431
 
 Les timbres de cotisations sont à oblitérer. Le dernier jour de la période pour laquelle le
 timbre a été collé doit être indiqué comme jour de l’oblitération. Le Conseil Fédéral arrête à ce sujet les
 dispositions de détail et peut menacer les contrevenants de pénalités.
 
-###### Article 1432
+##### Article 1432
 
 Les assurés sont tenus de subir, lors du paiement du salaire, une retenue égale à la moitié
 des cotisations, et s’ils se sont assurés dans une classe supérieure à leur classe légale de salaire, sans avoir
@@ -5987,19 +5951,19 @@ employeurs ne peuvent se faire rembourser les cotisations des assurés que sous 
 
 Ces retenues doivent être réparties de façon égale sur les périodes de salaires.
 
-###### Article 1433
+##### Article 1433
 
 Si les retenues ne sont pas effectuées lors du paiement du salaire, elles ne peuvent plus
 l’être qu’à l’occasion du paiement suivant, sauf le cas où l’employeur paie, en retard, sans qu’il y ait de sa
 faute, des cotisations valables (§ 1442).
 
-###### Article 1434
+##### Article 1434
 
 Les paiements d’acomptes ne sont pas considérés comme paiement de salaire dans le sens
 des §§ 1428, 1432, 1433. En tout cas, les timbres doivent être collés dans la dernière semaine de chaque
 trimestre.
 
-###### Article 1435
+##### Article 1435
 
 Les employeurs contre lesquels une décision de l’Office d’assurance a été prise en vertu du
 **§ 398**, ne peuvent, lorsqu’ils effectuent le paiement des cotisations au moyen de timbres, opérer des
@@ -6010,18 +5974,18 @@ Lorsque la procédure de recouvrement est instituée, toute disposition prise en
 également valable pour le paiement des cotisations de l’assurance-invalidité et des survivants. Dans ce cas,
 les assurés sont tenus de payer eux-mêmes leur quote-part au jour de paye.
 
-###### Article 1436
+##### Article 1436
 
 Le Conseil Fédéral règle le recouvrement des cotisations pour les personnes assujetties à
 l’assurance conformément aux §§ 1228, 1229.
 
-###### Article 1437
+##### Article 1437
 
 L’autorité administrative suprême peut déterminer comment la quote-part des personnes
 assujetties à l’assurance doit être imputée sur leur rémunération, lorsque celle-ci est exclusivement remise
 en nature ou est payée par une tierce personne.
 
-###### Article 1438
+##### Article 1438
 
 Il est justifié des services militaires par la production de pièces militaires.
 
@@ -6036,9 +6000,9 @@ Pour les personnes occupées dans des exploitations de l’Empire ou de l’Etat
 dessus peuvent être délivrés par l’autorité préposée. En pareil cas, l’Office d’assurance décharge la caisse-
 maladie de l’obligation de les délivrer.
 
-IV. — VERSEMENT DES COTISATIONS PAR LES ASSURES.
+#### IV. — VERSEMENT DES COTISATIONS PAR LES ASSURES
 
-###### Article 1439
+##### Article 1439
 
 L’assuré peut payer lui-même le montant total des cotisations. Dans ce cas l’employeur est
 tenu de lui rembourser la moitié des cotisations légales, à moins que l’employeur et l’assuré n’aient
@@ -6048,7 +6012,7 @@ Le droit n’existe que si le timbre a été régulièrement oblitéré. Ce droi
 lors du deuxième paiement de salaires qui suit, sauf le cas où l’assuré verse ultérieurement en retard des
 cotisations valables sans qu’il y ait de sa faute.
 
-###### Article 1440
+##### Article 1440
 
 Les assurés volontaires doivent, sans préjudice du § 1371, employer des timbres-quittances
 de l’institut d’assurance de la circonscription où ils sont occupés ou, à défaut d’occupation, dans la
@@ -6060,16 +6024,16 @@ quelconque.
 Les timbres des instituts d’assurance ne peuvent pas être employés en vue de continuer l’assurance
 auprès d’un établissement spécial (§ 1371).
 
-###### Article 1441
+##### Article 1441
 
 Les personnes qui s’assurent volontairement pour la durée d’une occupation rémunérée
 mais autrement qu’en espèces, ou à titre passager (§§ 1227, 1232), ont droit également à la partie de la
 cotisation due par l’employeur. Ce dernier peut refuser de rembourser plus que ce dont il est légalement
 tenu (§§ 1245 à 1247).
 
-V. — COTISATIONS NON VALABLES
+#### V. — COTISATIONS NON VALABLES
 
-###### Article 1442
+##### Article 1442
 
 Les cotisations obligatoires ne sont pas valables, lorsqu’elles sont versées à l’expiration
 d’un délai de deux ans à dater de leur échéance, ou d’un délai de quatre ans,
@@ -6078,13 +6042,13 @@ si ce défaut de versement n’est pas imputable à la faute de l’assuré.
 Aucune faute n’est imputable aux assurés, si l’employeur a gardé la carte-quittance par devers lui et
 ne l’a pas échangée, conformément aux règlements, en temps voulu.
 
-###### Article 1443
+##### Article 1443
 
 Les cotisations volontaires et les cotisations excédant la classe légale de salaire ne peuvent
 être versées pour une période écoulée de plus d’une année, ni après le commencement d’une invalidité
 permanente ou passagère, ni pour l’invalidité ultérieure.
 
-###### Article 1444
+##### Article 1444
 
 Equivaut au versement des cotisations au sens des §§ 1442, 1443 :
 
@@ -6099,7 +6063,7 @@ sont pas comptées dans les délais des §§ 1442 et 1443.
 
 Ces faits (al. 1 et 2) interrompent également la prescription des cotisations en retard (§ 29).
 
-###### Article 1445
+##### Article 1445
 
 Si les timbres-quittances ont été employés conformément aux instructions sur une carte-
 quittance délivrée régulièrement et présentée à l’échange dans les délais fixés, il est présumé qu’une
@@ -6117,9 +6081,9 @@ dater du jour où le décompte de la carte-quittance a été établi, à moins q
 une autre personne tenue de lui fournir des secours, n’ait provoqué l’application de ces timbres dans une
 intention frauduleuse.
 
-VI. — COTISATIONS PAYEES INDUMENT
+#### VI. — COTISATIONS PAYEES INDUMENT
 
-###### Article 1446
+##### Article 1446
 
 Les cotisations payées par une présomption erronée concernant l’obligation de l’assurance
 et qui ne sont pas réclamées, seront considérées comme versées pour l’assurance personnelle ou pour la
@@ -6132,9 +6096,9 @@ timbres n’a pas eu lieu dans un but frauduleux.
 L’employeur ne peut plus réclamer les cotisations, lorsque l’assuré lui a remboursé la valeur de sa
 participation ou que deux ans se sont écoulés depuis la date des versements.
 
-VII. — RECOUVREMENT DES COTISATIONS
+#### VII. — RECOUVREMENT DES COTISATIONS
 
-###### Article 1447
+##### Article 1447
 
 L’autorité administrative suprême peut,
 après avoir entendu l’institut d’assurance, décider que les cotisations relatives à toutes les personnes
@@ -6151,33 +6115,33 @@ l’autorisation de l’autorité administrative suprême, et par une commune ou
 règlement, avec l’autorisation de l’autorité administrative supérieure et après avoir, préalablement entendu
 l’institut d’assurance.
 
-###### Article 1448
+##### Article 1448
 
 Si la création de bureaux de recouvrement locaux est ordonnée, les instituts d’assurance
 sont tenus de les créer à leurs frais aux endroits désignés par l’autorité administrative supérieure.
 
-###### Article 1449
+##### Article 1449
 
 L’institut s’assurance est tenu d’allouer une rétribution aux bureaux de recouvrement ; si
 les intéressés ne tombent pas d’accord, l’autorité administrative suprême fixe la rétribution.
 
-###### Article 1450
+##### Article 1450
 
 L’autorité administrative suprême peut, avec le consentement de la caisse-maladie, faire
 également recouvrer les cotisations pour celle-ci par les bureaux de recouvrement locaux. La caisse prend à
 sa charge une partie des frais. Les dispositions de détail sont arrêtées par l’autorité administrative suprême,
 qui entend les instituts d’assurance et les caisses-maladie intéressés.
 
-###### Article 1451
+##### Article 1451
 
 L’autorité administrative suprême détermine les attributions de l’institut d’assurance à
 l’égard des bureaux de recouvrement qui ne sont pas organisés par cet institut.
 
-###### Article 1452
+##### Article 1452
 
 Pour l’assurance volontaire, le recouvrement des cotisations ne peut être ordonné.
 
-###### Article 1453
+##### Article 1453
 
 L’autorité administrative suprême peut arrêter des dispositions de détail relatives à la
 procédure en matière de recouvrement, d’application et d’imputation des cotisations.
@@ -6188,7 +6152,7 @@ pour les assurés dont la caisse-maladie ne perçoit pas de cotisations. Les tim
 correspondant aux sommes recouvrées sont collés sur les cartes-quittance. Les dispositions du § 1414 sont
 applicables par analogie.
 
-###### Article 1454
+##### Article 1454
 
 Même lorsque le recouvrement est ordonné, l’autorité administrative suprême ou le
 comité-directeur de l’institut d’assurance peut permettre à tels ou tels employeurs de payer eux-mêmes les
@@ -6198,7 +6162,7 @@ cotisations au moyen de l’emploi de timbres de cotisations conformément aux p
 Les autorités de l’Empire, des Etats ou des communes peuvent s’exempter de la procédure de
 recouvrement. Dans ce cas, l’institut d’assurance et le bureau de recouvrement doivent en être avisés.
 
-###### Article 1455
+##### Article 1455
 
 L’autorité administrative suprême peut décider que :
 
@@ -6214,7 +6178,7 @@ L’autorité administrative suprême peut décider que :
 A cet effet, l’institut d’assurance doit allouer aux bureaux désignés une compensation spéciale, dont
 le montant est fixé par l’autorité administrative suprême.
 
-###### Article 1456
+##### Article 1456
 
 Pour les membres d’une caisse-maladie ce sont les statuts et s’il s’agit de membres d’une
 caisse-maladie, d’une exploitation de l’Empire ou d’un Etat, ce sont les autorités compétentes qui peuvent
@@ -6222,7 +6186,7 @@ ordonner le recouvrement et charger la caisse de la délivrance et de l’échan
 
 Le § 1449 n’est pas applicable.
 
-###### Article 1457
+##### Article 1457
 
 L’assuré a le droit de déposer la carte-quittance auprès du bureau de recouvrement, aussi
 longtemps qu’il est assuré dans la circonscription de ce bureau.
@@ -6231,17 +6195,17 @@ L’autorité administrative suprême peut, de concert avec l’institut d’ass
 de ce dépôt. L’assuré peut être astreint à cette formalité par l’Office d’assurance, sous peine d’une amende
 ne dépassant pas {{< m "10" "marks" >}}.
 
-VIII. — ARRONDISSEMENT DES FRACTIONS
+#### VIII. — ARRONDISSEMENT DES FRACTIONS
 
-###### Article 1458
+##### Article 1458
 
 Si le calcul de la répartition entre employeurs et assurés donne des fractions {{< t "de pfennigs" "de centimes" >}}
 (centimes), la part incombant à l’employeur doit être arrondie au nombre entier {{< t "de pfennigs" "de centimes" >}} supérieur, et la
 part incombant à l’assuré doit être ramenée au nombre entier {{< t "de pfennigs" "de centimes" >}} immédiatement inférieur.
 
-IX. — CONTESTATIONS RELATIVES AUX COTISATIONS
+#### IX. — CONTESTATIONS RELATIVES AUX COTISATIONS
 
-###### Article 1459
+##### Article 1459
 
 Les contestations au sujet du paiement des
 cotisations, lorsqu’elles ne surgissent pas au cours de la détermination de la rente, sont réglées par l’Office
@@ -6256,19 +6220,19 @@ des assurances sociales, si l’appelant le requiert dans le délai légal du re
 
 Dans ces cas, c’est l’Office impérial qui statue au lieu de l’Office supérieur.
 
-###### Article 1460
+##### Article 1460
 
 S’il y a contestation sur la question de savoir à quel institut des cotisations doivent être
 payées pour des personnes déterminées, c’est l’Office impérial des assurances sociales ou l’Office d’Etat
 des assurances (§ 1382) qui statue sur demande.
 
-###### Article 1461
+##### Article 1461
 
 Toutes les autres contestations entre employeurs et assurés au sujet du calcul, de la mise en
 compte, du remboursement et des compensations des cotisations (§ 1426, alinéa 2, §§ 1432 à 1435, 1437,
 1439, 1441) sont réglées, à titre définitif, par l’Office d’assurance.
 
-###### Article 1462
+##### Article 1462
 
 Après règlement définitif de la contestation, l’Office d’assurance veille à ce que les
 cotisations payées en moins soient couvertes par la suite à l’aide de timbres de cotisations. Les cotisations
@@ -6279,26 +6243,26 @@ Les timbres détruits qui provenaient d’un institut d’assurance incompétent
 ceux d’un institut compétent. La valeur de ces timbres doit être réclamée au bureau de distribution et
 remboursée aux intéressés.
 
-###### Article 1463
+##### Article 1463
 
 L’Office d’assurance peut, au lieu de détruire les timbres de cotisations, retirer la carte-
 quittance et faire reporter sur une nouvelle carte les indications valables de la carte précédente.
 
-###### Article 1464
+##### Article 1464
 
 Les cotisations non périmées doivent être remboursées aux intéressés sur leur demande
 lorsque l’obligation ou le droit de s’assurer est définitivement refusé aux intéressés. Le § 1446 n’est pas
 modifié par cette disposition.
 
-X. — CONTRÔLE
+#### X. — CONTRÔLE
 
-###### Article 1465
+##### Article 1465
 
 Les instituts d’assurance veillent à ce que les cotisations soient acquittées intégralement à
 la date fixée. L’Office d’assurance peut aider les instituts d’assurance dans cette tâche, avec leur
 consentement et après entente en ce qui concerne les frais.
 
-###### Article 1466
+##### Article 1466
 
 Les employeurs sont tenus de fournir à l’Office d’assurance et au comité directeur de
 l’institut d’assurance lui-même, ainsi qu’à leurs mandataires, des renseignements sur le nombre des
@@ -6314,7 +6278,7 @@ vérification et de rectification.
 L’Office d’assurance peut mettre les employeurs et les assurés en demeure d’exécuter leurs
 obligations (alinéa 1 et 2), sous peine d’une amende ne dépassant pas {{< m "150" "marks" >}}.
 
-###### Article 1467
+##### Article 1467
 
 Les instituts d’assurance peuvent arrêter, avec l’approbation de l’Office impérial des
 assurances sociales ou de l’Office d’Etat des assurances (§ 1382) des prescriptions relatives à la
@@ -6323,7 +6287,7 @@ n’est pas donné suite à cet ordre, les arrêter elles-mêmes. Le comité-dir
 contraindre les employeurs et les assurés à se conformer exactement à ces prescriptions, sous peine d’une
 amende ne dépassant pas {{< m "150" "marks" >}} pour chaque cas.
 
-###### Article 1468
+##### Article 1468
 
 Si la surveillance entraîne des dépenses en espèces, elles peuvent être imposées à
 l’employeur qui les aurait occasionnées par sa négligence. L’Office supérieur des assurances sociales statue
@@ -6331,30 +6295,29 @@ définitivement sur recours.
 
 Le recouvrement des frais s’opère comme en matière de contributions communales.
 
-###### Article 1469
+##### Article 1469
 
 Les rectifications aux cartes-quittance sont effectuées, lorsque les intéressés sont d’accord
 ou que les contestations ont été liquidées, par les autorités de surveillance, par les délégués ou par les
 bureaux de recouvrement.
 
-###### Article 1470
+##### Article 1470
 
 L’Office d’assurance peut aider les instituts d’assurance, avec leur consentement et après
 convention sur les frais, dans la surveillance des bénéficiaires de rentes. Le comité du contentieux
 administratif statue dans ce cas. S’il refuse, l’Office supérieur des assurances sociales statue définitivement
 sur recours.
 
-XI. — DISPOSITIONS SPECIALES
+#### XI. — DISPOSITIONS SPECIALES
 
-###### Article 1471
+##### Article 1471
 
 En ce qui concerne l’équipage des bâtiments étrangers de la navigation intérieure, le
 Conseil Fédéral peut remplacer les dispositions du présent chapitre par d’autres.
 
-CHAPITRE VII
-Assurance volontaire supplémentaire
+### CHAPITRE VII — Assurance volontaire supplémentaire
 
-###### Article 1472
+#### Article 1472
 
 Toutes personnes assujetties à l’assurance, ainsi que celles ayant le droit de s’assurer
 facultativement peuvent, à volonté, coller en tout temps sur la carte-quittance, des timbres supplémentaires
@@ -6365,7 +6328,7 @@ La valeur de chaque timbre supplémentaire est de {{< m "1" "mark" >}}.
 
 Le droit à la rente, acquis par les timbres supplémentaires, ne s’éteint pas.
 
-###### Article 1473
+#### Article 1473
 
 L’assuré reçoit comme rente supplémentaire annuelle, au moment où l’invalidité se
 manifeste, pour chaque timbre supplémentaire collé sur la carte-quittance, autant de fois {{< m "2.5" "pfennigs" "2 pfennigs ½" >}})
@@ -6375,20 +6338,20 @@ On compte les années à partir de l’année civile dans laquelle la carte-quit
 jusqu’à celle où l’invalidité commence. La valeur des timbres supplémentaires qui ne tombent pas dans
 cette période, est remboursée à l’assuré ou à ses survivants (§ 1302).
 
-###### Article 1474
+#### Article 1474
 
 La rente supplémentaire est payée pendant toute la durée de l’invalidité (§ 1255). La
 décision qui retire la rente ne devient exécutoire qu’à l’expiration du mois qui en suit la notification.
 
 Les dispositions du § 1254 sont également applicables aux rentes supplémentaires.
 
-###### Article 1475
+#### Article 1475
 
 La rente supplémentaire est payée entièrement et d’avance tous les mois, soit en même
 temps que la rente d’invalidité, soit indépendamment de celle-ci, et {{< t "les pfennigs" "les centimes" >}} sont arrondis au chiffre de
 {{< m "5" "pfennigs" >}} pleins.
 
-###### Article 1476
+#### Article 1476
 
 Si la rente supplémentaire n’est pas supérieure à {{< m "60" "marks" >}} par an, une somme globale,
 équivalant au capital représentatif, est payée en une fois à l’intéressé, sur sa demande.
@@ -6398,37 +6361,37 @@ liquidés par le paiement du capital représentatif de la rente supplémentaire.
 
 C’est le Conseil Fédéral qui règle le calcul de la valeur en capital représentatif.
 
-###### Article 1477
+#### Article 1477
 
 Les dispositions des §§ 1383 à 1386 sont applicables au paiement des rentes
 supplémentaires et à celui du capital représentatif.
 
-###### Article 1478
+#### Article 1478
 
 Les recettes provenant des timbres supplémentaires sont versées au fonds commun. Les
 dépenses qu’entraînent les rentes supplémentaires constituent une partie de la charge commune.
 
 Le fonds commun répond des obligations nées de l’assurance supplémentaire.
 
-###### Article 1479
+#### Article 1479
 
 En vue d’établir les charges résultant de
 l’assurance supplémentaire, les instituts d’assurance dressent,
 au moyen des cartes-quittance rentrantes, des relevés spéciaux qui fixent le nombre et la nature des
 timbres supplémentaires et servent de base aux opérations du service actuariel.
 
-###### Article 1480
+#### Article 1480
 
 Le service actuariel de l’Office impérial des assurances sociales détermine tous les dix ans
 (§ 1388) le taux auquel peut être portée la rente (§ 1473, alinéa 1). Le Conseil Fédéral le fixe en
 conséquence chaque fois pour dix ans.
 
-###### Article 1481
+#### Article 1481
 
 Les prestations des rentes supplémentaires sont réparties et remboursées de la même
 manière que les autres allocations (§§ 1403 à 1410).
 
-###### Article 1482
+#### Article 1482
 
 Chaque institut d’assurance délivre des timbres de cotisations supplémentaires.
 
@@ -6436,23 +6399,23 @@ L’Office impérial des assurances sociales détermine les signes distinctifs d
 également limiter la durée de leur validité. Le Conseil Fédéral arrête les prescriptions de détail relatives à
 leur oblitération.
 
-###### Article 1483
+#### Article 1483
 
 Les prescriptions relatives à la détermination des rentes d’invalidité et des survivants sont
 applicables par analogie à la procédure de détermination des rentes supplémentaires.
 
-CHAPITRE VIII
-Dispositions finales et pénales
-I. — CAISSES-MALADIE
+### CHAPITRE VIII — Dispositions finales et pénales
 
-###### Article 1484
+#### I. — CAISSES-MALADIE
+
+##### Article 1484
 
 Toutes les dispositions du présent livre relatives aux caisses-maladie (§ 225) sont
 également applicables aux caisses-maladie minières.
 
-III. — DISPOSITIONS PENALES
+#### III. — DISPOSITIONS PENALES
 
-###### Article 1487
+##### Article 1487
 
 Le comité-directeur de l’institut d’assurance peut infliger aux employeurs une amende ne
 dépassant pas {{< m "500" "marks" >}}, si les états ou les déclarations qu’ils fournissent en vertu des dispositions de la loi
@@ -6460,7 +6423,7 @@ ou de prescriptions édictées par l’institut d’assurance, contiennent des i
 l’inexactitude leur était connue ou aurait dû leur être connue d’après les circonstances, ou s’ils négligent
 totalement ou partiellement de fournir les indications prescrites.
 
-###### Article 1488
+##### Article 1488
 
 Les employeurs qui omettent d’utiliser en temps voulu, pour les personnes assujetties à
 l’assurance qu’ils occupent, les timbres de cotisations prévus, ou de verser les cotisations, peuvent être
@@ -6475,14 +6438,14 @@ remplissent pas les obligations qui leur incombent en vertu du § 1233.
 Si l’employeur conteste qu’il y ait obligation de sa part de verser des cotisations, cette obligation doit
 être établie conformément au § 1459.
 
-###### Article 1489
+##### Article 1489
 
 Quiconque néglige, contrairement à ses obligations, de déclarer les personnes assujetties à
 l’assurance (§ 1447), peut être frappé par l’Office d’assurance, s’il agit intentionnellement, d’une amende
 ne pouvant dépasser {{< m "300" "marks" >}} et s’il y a simple négligence d’une amende ne pouvant dépasser {{< m "100" "marks" >}}
 .
 
-###### Article 1490
+##### Article 1490
 
 Sont passibles d’une amende de {{< m "300" "marks" >}} au plus ou de détention simple, à moins
 qu’une pénalité plus forte ne soit prévue par d’autres dispositions légales :
@@ -6496,7 +6459,7 @@ qu’une pénalité plus forte ne soit prévue par d’autres dispositions léga
    prévoit la présente loi ;
 5. les personnes qui retiennent illégalement une carte-quittance d’un assuré.
 
-###### Article 1491
+##### Article 1491
 
 Sont passibles d’une amende de {{< m "300" "marks" >}} au plus ou de détention simple, à moins
 qu’une pénalité plus forte ne soit prévue par d’autres dispositions légales, les assurés qui, pour des
@@ -6506,7 +6469,7 @@ plusieurs employeurs le remboursement du montant de leur part de cotisation hebd
 n’emploient pas au paiement de la cotisation la somme perçue par eux, ou qui recouvrent des parts de
 cotisation sans qu’ils aient payé eux-mêmes le montant total de leurs parts de cotisation.
 
-###### Article 1492
+##### Article 1492
 
 Sont passibles de prison les employeurs qui omettent intentionnellement d’employer pour
 l’assurance des parts de cotisation retenues sur le salaire des personnes qu’ils occupent ou que ces dernières
@@ -6516,7 +6479,7 @@ En outre, une amende de {{< m "3000" "marks" >}} au maximum, ainsi que la déch�
 être prononcée
 S’il y a des circonstances atténuantes, l’amende peut être prononcée seule.
 
-###### Article 1493
+##### Article 1493
 
 Les mêmes dispositions pénales sont applicables :
 
@@ -6529,7 +6492,7 @@ Les mêmes dispositions pénales sont applicables :
    qu’aux liquidateurs d’une société commerciale, d’une association d’assurance mutuelle, d’une coopérative
    enregistrée, d’une corporation de métier ou d’une autre personne juridique.
 
-###### Article 1494
+##### Article 1494
 
 L’employeur peut déléguer les obligations qui lui incombent en vertu de la présente loi ou
 par les statuts, aux directeurs-gérants, aux surveillants ou autres employés de son exploitation.
@@ -6546,7 +6509,7 @@ cotisations arriérées et pouvant aller jusqu’au double (§ 1488)
 peut aussi être imposé au délégué. L’employeur est, lui aussi, responsable de cette somme, s’il est
 condamné conformément à l’alinéa 2.
 
-###### Article 1495
+##### Article 1495
 
 Quiconque porte sur des cartes-quittance des mentions non autorisées ou des signes
 spéciaux, peut être frappé par l’Office d’assurance d’une amende qui peut atteindre {{< m "20" "marks" >}}.
@@ -6564,14 +6527,14 @@ Il n’y a lieu à poursuite pour faux en écritures publiques (§§ 267, 268 du
 la falsification a été commise en vue de procurer à l’auteur de l’infraction ou à d’autres un avantage
 pécuniaire ou de causer à ceux-ci un préjudice.
 
-###### Article 1496
+##### Article 1496
 
 Quiconque fabrique ou falsifie des timbres, pour les utiliser comme des timbres
 authentiques, ou qui, dans ce but, se procure, emploie, offre en vente ou met en circulation des faux timbres
 est passible d’un emprisonnement de trois mois au moins ; il peut en outre être condamné à la privation de
 ses droits civiques.
 
-###### Article 1497
+##### Article 1497
 
 Est passible de la même peine (§ 1496)
 quiconque fait sciemment usage de timbres déjà employés
@@ -6580,13 +6543,13 @@ lesdits timbres en vue de les employer de nouveau. S’il y a des
 circonstances atténuantes, l’emprisonnement peut être remplacé par une amende de {{< m "300" "marks" >}} (375
 au plus ou par la détention simple.
 
-###### Article 1498
+##### Article 1498
 
 Dans les cas prévus aux §§ 1496, 1497, la saisie des timbres doit être ordonnée en même
 temps, même s’ils n’appartiennent pas au condamné. Cette saisie doit être ordonnée, lors même qu’une
 personne déterminée ne peut être poursuivie ou condamnée.
 
-###### Article 1499
+##### Article 1499
 
 Est passible d’une amende pouvant atteindre {{< m "150" "marks" >}} ou de la détention simple,
 quiconque fabrique sans commande écrite d’un institut d’assurance ou d’une autorité, des estampilles,
@@ -6596,22 +6559,21 @@ dites formes, se les procure ou les délivre à d’autres qu’à l’institut 
 Indépendamment de l’amende ou de la détention simple, la saisie des estampilles, sceaux, gravures,
 plaques ou formes peut être ordonnée, même s’ils n’appartiennent pas au condamné.
 
-###### Article 1500
+##### Article 1500
 
 L’Office supérieur des assurances sociales (Chambre du contentieux administratif) statue
 définitivement sur les recours introduits contre les décisions pénales des comités-directeurs des instituts ou
 des Offices d’assurance.
 
-LIVRE CINQUIEME
-Rapports des institutions chargées des assurances
-sociales entre elles et avec d’autres débiteurs
+## LIVRE CINQUIEME — Rapports des institutions chargées des assurances sociales entre elles et avec d’autres débiteurs
 
-CHAPITRE I
-Rapports des institutions chargées des assurances sociales
+### CHAPITRE I — Rapports des institutions chargées des assurances sociales
+
 entre elles
-I. — ASSURANCE-MALADIE ET ASSURANCE-ACCIDENTS
 
-###### Article 1501
+#### I. — ASSURANCE-MALADIE ET ASSURANCE-ACCIDENTS
+
+##### Article 1501
 
 L’obligation pour les caisses-maladie d’allouer des prestations (§ 225), n’est pas
 influencée par le fait qu’une institution de l’assurance impériale contre les accidents est tenue au paiement
@@ -6625,13 +6587,13 @@ seulement jusqu’à concurrence du montant de la réparation et dans les limite
 La caisse-maladie ne peut réclamer le remboursement de sommes imputables sur les frais funéraires
 ou sur la rente-accident que si elle y est autorisée expressément.
 
-###### Article 1502
+##### Article 1502
 
 Les frais funéraires que la caisse-maladie paie à une personne y ayant droit en vertu du
 **§ 203**, doivent être imputés sur les frais funéraires à allouer par l’institution chargée de l’assurance-
 accidents.
 
-###### Article 1503
+##### Article 1503
 
 La somme à rembourser pour l’assistance médicale en cas de maladie s’élève aux trois
 huitièmes du salaire de base d’après lequel se règle le secours pécuniaire alloué à l’intéressé.
@@ -6640,17 +6602,17 @@ La même disposition s’applique aux soins médicaux si les soins sont accordé
 remboursement de l’entretien dans un hôpital comporte la moitié du salaire de base ; le remboursement de
 cette somme ne peut être imputé que sur la rente-accident.
 
-###### Article 1504
+##### Article 1504
 
 En ce qui concerne les secours à fournir en vertu du § 187, numéro 3, le remboursement
 est égal au montant de la dépense.
 
-###### Article 1505
+##### Article 1505
 
 Pour les prestations autres que les frais funéraires, l’assistance médicale et les secours
 thérapeutiques (§§ 1502 à 1504), le remboursement ne peut être imputé que sur la rente-accident.
 
-###### Article 1506
+##### Article 1506
 
 En tant que le remboursement de prestations de la caisse-maladie peut être imputé sur la
 rente-accident, le droit au dit remboursement n’est admis que jusqu’à concurrence de la moitié de la rente
@@ -6667,13 +6629,13 @@ chargée de l’assurance-accidents et pour déterminer l’étendue du
 droit au remboursement de la caisse-maladie à raison de ses prestations, l’entretien dans
 l’établissement hospitalier est considéré comme équivalent à la rente entière.
 
-###### Article 1507
+##### Article 1507
 
 En vue de satisfaire aux droits de remboursement de la caisse-maladie, on pourra employer
 les arrérages en retard et ceux échus pendant la durée de l’entretien complet dans un établissement (§ 1506,
 al. 2, phrase 1), à concurrence de la totalité, et les autres arrérages à concurrence de la moitié seulement.
 
-###### Article 1508
+##### Article 1508
 
 Le droit au remboursement (§§ 1501 à 1507) est forclos s’il n’est pas exercé vis-à-vis de
 l’institution chargée de l’assurance-accidents, dans les trois mois au plus tard de l’expiration de l’allocation
@@ -6683,14 +6645,14 @@ Toutefois, si la caisse-maladie, sans qu’il y ait faute de sa part, n’a appr
 remboursement qu’après l’expiration de ce délai, elle peut encore invoquer ce droit dans la semaine qui suit
 le jour où elle en a eu connaissance.
 
-###### Article 1509
+##### Article 1509
 
 La caisse-maladie peut poursuivre la détermination de la réparation due pour l’accident et
 introduire des recours. Si des délais ont pris fin sans qu’il y ait de sa faute, cette expiration ne peut lui être
 opposée ; cette disposition ne s’applique pas aux délais de procédure, lorsque la caisse-maladie poursuit
 elle-même la procédure.
 
-###### Article 1510
+##### Article 1510
 
 Si une institution chargée de l’assurance-accidents accorde, comme elle est tenue de le
 faire, une indemnité pour une période pendant laquelle, conformément aux prescriptions de la présente loi
@@ -6698,14 +6660,14 @@ ou des statuts, l’intéressé a également droit aux prestations d’une caiss
 délai, déduire l’indemnité d’accident de ses prestations, si un droit au remboursement peut être invoqué par
 elle à raison de ces prestations en vertu du § 1501.
 
-###### Article 1511
+##### Article 1511
 
 Les statuts de la caisse-maladie peuvent prescrire que, dans le cas d’une maladie résultant
 d’un accident qui donne ouverture à réparation, le secours pécuniaire de maladie ne doit être accordé pour
 la période pour laquelle la rente-accident ou l’hospitalisation sont allouées, que dans la mesure où il
 dépasse le montant de la rente-accident. L’entretien dans un hôpital est compté comme rente entière.
 
-###### Article 1512
+##### Article 1512
 
 La caisse-maladie est tenue de déclarer dans les trois jours à l’institution chargée de
 l’assurance-accidents chaque cas de maladie causé par un accident donnant ouverture à réparation, chaque
@@ -6720,7 +6682,7 @@ divisée en sections, doit être remise au comité-directeur de la section.
 L’Office d’assurance peut, en cas d’omission de la déclaration, prononcer une amende qui peut
 atteindre {{< m "20" "marks" >}}.L’Office supérieur des assurances sociales statue définitivement sur les recours.
 
-###### Article 1513
+##### Article 1513
 
 L’institution chargée de l’assurance-accidents
 peut, en cas de maladie causée par accident, prendre à sa charge
@@ -6738,7 +6700,7 @@ condition que, dans l’espèce, l’institution de l’assurance-accidents ne f
 remboursement. Le remboursement du chef des soins médicaux est fixé aux trois huitièmes du salaire de
 base qui sert à déterminer les secours pécuniaire de l’ayant droit.
 
-###### Article 1514
+##### Article 1514
 
 L’institution chargée de l’assurance-accidents a le droit de confier à la caisse-maladie à
 laquelle la victime a appartenu en dernier lieu, l’exécution de ses obligations vis-à-vis de la victime et de
@@ -6752,7 +6714,7 @@ accident des gens de mer.
 
 Le § 1510 s’applique aux prestations propres de la caisse-maladie.
 
-###### Article 1515
+##### Article 1515
 
 Les contestations qui s’élèvent entre la caisse et l’institution de l’assurance-accidents au
 sujet du transfert des prestations (§ 1514) sont réglées définitivement par l’Office d’assurance, à moins
@@ -6761,7 +6723,7 @@ qu’il ne s’agisse d’une action en remboursement.
 Les contestations relatives aux actions en remboursement conformément aux §§ 1501, 1513, 1514
 sont réglées par la voie du contentieux judiciaire.
 
-###### Article 1516
+##### Article 1516
 
 Les dispositions des §§ 1512 à 1515 s’appliquent également aux caisses-maladie minières
 et aux caisses libres agréées. La déclaration obligatoire, en ce qui concerne les caisses libres, doit être
@@ -6771,7 +6733,7 @@ Le salaire de base fixé d’après le § 180 s’applique aux membres des caiss
 salaire de base de la caisse-maladie à laquelle ils appartiennent s’applique aux membres des caisses libres
 agréées.
 
-###### Article 1517
+##### Article 1517
 
 L’autorité administrative suprême peut décider que les victimes qui sont membres de
 caisses-maladie, de caisses-maladie minières ou de caisses libres agréées qui disposent d’établissements
@@ -6779,9 +6741,9 @@ munis d’un matériel thérapeutique suffisant, ne pourront, avant l’expirati
 l’accident, être transportées dans un autre hôpital qu’avec le consentement des comités-directeurs des
 caisses ou des unions de caisses.
 
-II. — ASSURANCE-MALADIE ET ASSURANCE-INVALIDITE
+#### II. — ASSURANCE-MALADIE ET ASSURANCE-INVALIDITE
 
-###### Article 1518
+##### Article 1518
 
 Si l’institut d’assurance-invalidité prescrit un traitement curatif, il est tenu d’accorder au
 malade, pendant toute la durée du traitement, les prestations dont sa caisse-maladie (§ 225) lui devait le
@@ -6792,7 +6754,7 @@ refusée totalement ou partiellement par ledit institut pendant la durée du tra
 La caisse-maladie est tenue de dédommager l’institut à concurrence du secours pécuniaire de maladie
 que le malade pouvait réclamer à la caisse-maladie, en vertu d’une disposition légale ou statutaire.
 
-###### Article 1519
+##### Article 1519
 
 L’institut qui a prescrit un traitement médical peut transférer, dans la mesure où il le juge
 convenable, l’assistance due au malade, à la caisse-maladie à laquelle il a appartenu en dernier lieu.
@@ -6805,7 +6767,7 @@ cette dernière n’était plus tenue d’allouer des prestations. Les sommes vi
 comme le remboursement des soins médicaux et de l’hospitalisation, à moins qu’il ne soit justifié de
 dépenses plus considérables.
 
-###### Article 1520
+##### Article 1520
 
 Les contestations qui s’élèvent entre la caisse et l’institut au sujet du transfert de
 l’assistance (§ 1519), sont réglées définitivement par l’Office d’assurance, à moins qu’il ne s’agisse d’une
@@ -6814,14 +6776,14 @@ action en remboursement.
 Les contestations relatives aux actions en remboursement, conformément aux §§ 1518, 1519, sont
 réglées par la voie du contentieux judiciaire.
 
-###### Article 1521
+##### Article 1521
 
 Les dispositions des §§ 1518 à 1520 s’appliquent également aux caisses minières et aux
 caisses libres agréées. Le salaire de base se règle d’après le § 1516, alinéa 2.
 
-III. — ASSURANCE-ACCIDENTS ET ASSURANCE-INVALIDITE
+#### III. — ASSURANCE-ACCIDENTS ET ASSURANCE-INVALIDITE
 
-###### Article 1522
+##### Article 1522
 
 Une requête tendant à faire fixer une rente d’invalidité ou de survivants ne peut être rejetée
 pour le motif que l’invalidité ou la mort auraient été occasionnées par un accident donnant lieu à
@@ -6839,13 +6801,13 @@ invalidité peut réclamer le montant de la rente-accident à titre de rembourse
 de la rente qu’il accorde. Les §§ 1506, 1507 sont applicables par analogie en ce qui concerne l’étendue du
 droit au remboursement et la mesure dans laquelle il peut être imputé sur la rente-accident.
 
-###### Article 1523
+##### Article 1523
 
 L’institut d’assurance-invalidité peut poursuivre la détermination de la rente-accident,
 même si, en cas de paiement de la rente-accident, le droit à la rente-invalidité, de vieillesse et des
 survivants devait être suspendu totalement ou partiellement. Le § 1509 est applicable par analogie.
 
-###### Article 1524
+##### Article 1524
 
 Lorsque l’institut d’assurance-invalidité accorde pour une maladie provenant d’un accident
 qui donne lieu à réparation, un traitement qui prévient ou fait disparaître l’invalidité, l’institut a un recours
@@ -6862,29 +6824,28 @@ droit la rente due aux proches parents, lorsque l’institut d’assurance-inval
 pécuniaire de famille. Le § 1522 est applicable en tant que l’institut d’assurance-invalidité paye, pendant
 une partie de la durée du traitement, une rente d’invalidité ou de survivants.
 
-###### Article 1525
+##### Article 1525
 
 Le § 1524 est applicable par analogie dans le cas où l’institut d’assurance-invalidité alloue,
 à raison d’une maladie occasionnée par un accident qui donne lieu à réparation, un traitement qui, s’il ne
 prévient pas ou ne fait pas disparaître l’invalidité, diminue néanmoins les charges de l’institution de
 l’assurance-accidents.
 
-###### Article 1526
+##### Article 1526
 
 Les contestations relatives aux actions en remboursement (§ 1522, al. 3, § 1524, al. 1,
 **§ 1525**) sont réglées par la voie du contentieux judiciaire.
 
-CHAPITRE II
-Rapports avec d’autres débiteurs
+### CHAPITRE II — Rapports avec d’autres débiteurs
 
-###### Article 1527
+#### Article 1527
 
 La présente loi ne modifie pas l’obligation légale incombant aux communes ou aux unions
 d’assistance publique de secourir des personnes nécessiteuses, et les autres obligations légales, statutaires,
 contractuelles ou testamentaires, concernant l’assistance de personnes assurées en vertu des prescriptions
 de la présente loi et de leurs survivants.
 
-###### Article 1528
+#### Article 1528
 
 Si une association minière, une caisse minière ou une caisse libre agréée fournit comme
 elle est tenue de le faire, à la suite d’un accident, des secours pour une période pour laquelle l’ayant droit
@@ -6892,7 +6853,7 @@ jouissait ou jouit encore du droit à la réparation de l’accident en vertu de
 l’association minière ou la caisse peut, par application des § 1501, alinéas 2, 3, et §§ 1502 à 1507, 1516,
 alinéa 2, réclamer l’indemnité d’accident comme compensation.
 
-###### Article 1529
+#### Article 1529
 
 Si une institution chargée de l’assurance-accidents alloue une indemnité, comme elle est
 tenue de le faire, pour une période pendant laquelle l’intéressé à droit également à des prestations de la part
@@ -6900,24 +6861,24 @@ d’une association minière, d’une caisse minière ou d’une caisse libre ag
 le montant de l’indemnité d’accident sur leurs prestations, si le remboursement peut être réclamé par elles à
 raison de ces prestations conformément au cas du § 1528.
 
-###### Article 1530
+#### Article 1530
 
 Le § 1511 s’applique par analogie aux caisses minières et aux caisses libres agréées.
 
-###### Article 1531
+#### Article 1531
 
 Si une commune ou une union d’assistance publique secourt une personne nécessiteuse, en
 vertu d’une obligation légale, pour une période pendant laquelle cette personne avait ou a encore droit à
 une indemnité en vertu de la présente loi, la commune ou l’union peut réclamer le remboursement
 conformément aux §§ 1532 à 1537, mais seulement jusqu’à concurrence dudit droit.
 
-###### Article 1532
+#### Article 1532
 
 Une commune ou une union d’assistance publique ne peut réclamer le remboursement sur
 les prestations de caisse-maladie (§ 225) que lorsqu’elle a alloué l’assistance du fait de la maladie sur
 laquelle est basé le droit de l’assisté vis-à-vis de la caisse.
 
-###### Article 1533
+#### Article 1533
 
 Doivent être remboursés :
 
@@ -6930,12 +6891,12 @@ Doivent être remboursés :
    applicables par analogie en ce qui concerne l’étendue du droit au remboursement et la mesure dans laquelle
    il peut être imputé sur les secours pécuniaires de maladie et sur des prestations analogues.
 
-###### Article 1534
+#### Article 1534
 
 La commune ou l’union d’assistance publique ne peut réclamer le remboursement sur les
 prestations de l’assurance-accidents, que lorsque l’assistance a été allouée à raison de l’accident.
 
-###### Article 1535
+#### Article 1535
 
 Doivent être remboursés :
 
@@ -6946,19 +6907,19 @@ Doivent être remboursés :
 3. les autres secours, sur la rente-accident. Les §§ 1506, 1507 sont applicables en ce qui concerne
    l’étendue du remboursement et la mesure dans laquelle il peut être imputé sur la rente.
 
-###### Article 1536
+#### Article 1536
 
 Le remboursement de prestations de l’assurance-invalidité et des survivants ne peut avoir
 lieu que sur les rentes. Les §§ 1506, 1507 sont applicables en ce qui concerne l’étendue du droit et la
 mesure de l’imputation.
 
-###### Article 1537
+#### Article 1537
 
 Une commune ou une union d’assistance publique peut exercer le droit au remboursement
 même si la personne indigente qui avait droit à une rente-invalidité, de vieillesse ou de survivant est morte
 sans avoir demandé la rente.
 
-###### Article 1538
+#### Article 1538
 
 Les caisses, les communes ou les unions d’assistance publique ayant droit au
 remboursement (§§ 1528, 1531), peuvent également poursuivre la détermination des prestations prévues
@@ -6967,24 +6928,24 @@ par l’assurance sociale. Le § 1509 est applicable par analogie.
 La même disposition est applicable aux associations minières ou aux caisses qui réduisent leurs
 prestations, en vertu des §§ 1321 à 1323.
 
-###### Article 1539
+#### Article 1539
 
 Le droit au remboursement (§§ 1528, 1531 à 1537) est forclos s’il n’est pas exercé vis-à-
 vis de l’institution chargée de l’assurance sociale au plus tard dans les six mois à dater de l’expiration des
 secours.
 
-###### Article 1540
+#### Article 1540
 
 Les contestations concernant le droit au remboursement (§§ 1528, 1531 à 1537) sont
 réglées par la voie du contentieux judiciaire.
 
-###### Article 1541
+#### Article 1541
 
 Les dispositions du présent chapitre relatives aux communes ou aux unions d’assistance
 publique, sont également applicables aux entrepreneurs et aux caisses qui assistent, en vertu d’une
 obligation légale, des personnes nécessiteuses à la place de ces autorités.
 
-###### Article 1542
+#### Article 1542
 
 Si les personnes assurées conformément aux dispositions de la présente loi ou leurs
 survivants peuvent réclamer en vertu d’autres dispositions légales la réparation du dommage qui leur est
@@ -6998,7 +6959,7 @@ Le § 1503 est applicable par analogie en ce qui concerne le montant du rembours
 l’assistance médicale ou de l’hospitalisation ou des soins médicaux ou de l’entretien dans un établissement
 spécial.
 
-###### Article 1543
+#### Article 1543
 
 Si un tribunal ordinaire a à connaître des actions de l’espèce (§ 1542), il est lié par la
 décision rendue d’après la procédure instituée par la présente loi, et établissant si et dans quelle mesure
@@ -7006,18 +6967,18 @@ l’institution chargée de l’assurance est engagée.
 
 Le § 901, alinéa 2, s’applique à la suspension de la procédure devant les tribunaux ordinaires.
 
-###### Article 1544
+#### Article 1544
 
 Les §§ 1531 à 1533, 1539 à 1542 sont également applicables aux caisses-maladie minières
 et aux caisses libres agréées. Le salaire de base se règle d’après le § 1516, alinéa 2.
 
-LIVRE SIXIEME
-Procédure
+## LIVRE SIXIEME — Procédure
 
-A. Détermination des prestations
-CHAPITRE PREMIER
-Détermination par les institutions chargées des assurances sociales
-I. — OUVERTURE DE LA PROCEDURE
+### A. Détermination des prestations
+
+#### CHAPITRE PREMIER — Détermination par les institutions chargées des assurances sociales
+
+##### I. — OUVERTURE DE LA PROCEDURE
 
 ###### Article 1545
 
@@ -7073,7 +7034,7 @@ La déclaration doit être transmise sans retard à l’institution compétente�
 Si des cas, où des prestations volontaires des institutions chargées de l’assurance semblent
 indiquées, arrivent à la connaissance de l’Office d’assurance, celui-ci en informe l’institution.
 
-II. — ASSURANCE-MALADIE
+##### II. — ASSURANCE-MALADIE
 
 ###### Article 1551
 
@@ -7108,7 +7069,7 @@ des personnes et institutions visées à l’alinéa 2.
 Dans les cas susvisés des §§ 1083 à 1086, 1092, 1094, 1104, 1106, ces dispositions ne sont
 applicables que dans la mesure où le § 1170 concernant les gens de mer n’en dispose pas autrement.
 
-III. — ASSURANCE-ACCIDENTS
+##### III. — ASSURANCE-ACCIDENTS
 
 1. Déclaration de l’accident
 
@@ -7673,7 +7634,7 @@ apprend :
   l’intéressé ;
 - qu’une rente doit être suspendue.
 
-IV. — ASSURANCE-INVALIDITE ET DES SURVIVANTS
+##### IV. — ASSURANCE-INVALIDITE ET DES SURVIVANTS
 
 1. Introduction de la requête
 
@@ -7881,10 +7842,11 @@ l’intervalle qui établissent l’invalidité.
 A défaut de pareille preuve, l’Office d’assurance rejette la demande introduite prématurément. Sa
 décision n’est pas susceptible de recours.
 
-CHAPITRE II
-Détermination des prestations par la procédure
+#### CHAPITRE II — Détermination des prestations par la procédure
+
 du contentieux judiciaire
-I. — PROCEDURE DEVANT L’OFFICE D’ASSURANCE
+
+##### I. — PROCEDURE DEVANT L’OFFICE D’ASSURANCE
 
 1. Compétence de l’Office d’assurance
 
@@ -8208,8 +8170,7 @@ Il peut être statué sans débat oral sur la requête, s’il s’agit d’un d
 
 La décision complémentaire est mentionnée sur l’original et sur chaque expédition de la décision.
 
-II. — PROCEDURE DEVANT L’OFFICE SUPERIEUR
-DES ASSURANCES SOCIALES
+##### II. — PROCEDURE DEVANT L’OFFICE SUPERIEUR DES ASSURANCES SOCIALES
 
 ###### Article 1675
 
@@ -8378,8 +8339,7 @@ compétent pour statuer sur l’affaire.
 Dans ces cas, l’Office impérial des assurances sociales décide au lieu de l’Office supérieur. Les
 intéressés doivent être informés de la transmission de l’affaire.
 
-III. — PROCEDURE DEVANT L’OFFICE IMPERIAL
-DES ASSURANCES SOCIALES
+##### III. — PROCEDURE DEVANT L’OFFICE IMPERIAL DES ASSURANCES SOCIALES
 
 1. Assurance-maladie, assurance-invalidité et des survivants
 
@@ -8624,7 +8584,7 @@ Si le président ou le rapporteur est empêché, un autre membre du conseil est 
 La décision qui rectifie un jugement (§ 1673) est rendue par le président et les membres du
 conseil qui ont signé ledit jugement ; cette décision est inattaquable.
 
-IV. — REPRISE DE LA PROCEDURE
+##### IV. — REPRISE DE LA PROCEDURE
 
 1. Motifs de la reprise
 
@@ -8742,10 +8702,9 @@ juridictions qui ont été saisies de la reprise.
 La reprise de la procédure peut être réglée, par dérogation aux dispositions précédentes,
 par ordonnance impériale, approuvée par le Conseil Fédéral.
 
-CHAPITRE III
-Procédures spéciales
-I. — CONFLITS ENTRE INSTITUTIONS CHARGEES DES ASSURANCES AU SUJET DE
-L’OBLIGATION A LA REPARATION
+#### CHAPITRE III — Procédures spéciales
+
+##### I. — CONFLITS ENTRE INSTITUTIONS CHARGEES DES ASSURANCES AU SUJET DE L’OBLIGATION A LA REPARATION
 
 ###### Article 1735
 
@@ -8782,7 +8741,7 @@ par l’Office impérial des assurances sociales ,elle est également tenue de r
 l’institution d’assurance chargée d’accorder le secours provisoire. Les contestations relatives au
 remboursement sont tranchées par la voie du contentieux judiciaire.
 
-II. — PROCEDURE DE LA REPARTITION
+##### II. — PROCEDURE DE LA REPARTITION
 
 ###### Article 1739
 
@@ -8813,7 +8772,7 @@ a déjà été rejetée par décision ayant force de chose jugée.
 Toutes les institutions d’assurance qui participent à la charge, doivent être appelées à
 prendre part à la procédure relative à la fixation du montant de l’indemnité.
 
-III. — FIXATION DU DROIT EVENTUEL A LA RENTE DE VEUVE
+##### III. — FIXATION DU DROIT EVENTUEL A LA RENTE DE VEUVE
 
 ###### Article 1743
 
@@ -8821,8 +8780,8 @@ Si, avant qu’elle soit invalide, une veuve fait valoir des droits en vertu de 
 survivants, le montant de la rente de veuve est fixé à sa demande et elle est informée de son droit d’en
 réclamer le paiement dès que l’invalidité se manifestera. (Décision reconnaissant le droit éventuel à la
 rente.)
-IV. — RECOURS CONTRE LES DECISIONS DEFINITIVES
-DES INSTITUTIONS DE L’ASSURANCE
+
+##### IV. — RECOURS CONTRE LES DECISIONS DEFINITIVES DES INSTITUTIONS DE L’ASSURANCE
 
 ###### Article 1744
 
@@ -8832,29 +8791,30 @@ spécifiées au § 1723, numéros 1 à 3, 5 ou 6, est réalisée.
 
 Les §§ 1724 à 1734 sont applicables par analogie.
 
-B. Autres affaires du contentieux judiciaire
-I. — DISPOSITION GENERALE
+### B. Autres affaires du contentieux judiciaire
 
-###### Article 1771
+#### I. — DISPOSITION GENERALE
+
+##### Article 1771
 
 Les §§ 1636 à 1734 sont, en tant que les §§ 1772 à 1779 n’en décident pas autrement,
 applicables aux contestations qui ne doivent pas être tranchées par la procédure de détermination, mais, en
 vertu d’une disposition formelle de la présente loi, par la procédure du contentieux judiciaire.
 
-II. — COMPETENCE
+#### II. — COMPETENCE
 
-###### Article 1772
+##### Article 1772
 
 Les contestations de la nature prévue au § 1771 sont tranchées par l’Office d’assurance
 (comité du contentieux judiciaire).
 
-###### Article 1773
+##### Article 1773
 
 L’Office d’assurance chargé de trancher les contestations relatives à l’action principale est
 également compétent pour les actions en restitution, en remboursement et les autres actions dérivant de
 l’action principale.
 
-###### Article 1774
+##### Article 1774
 
 Si ce n’est pas un Office d’assurance qui doit trancher les contestations relatives à l’action
 principale, ou si l’action en remboursement résulte de l’obligation incombant à une commune, une union
@@ -8864,23 +8824,23 @@ l’Office d’assurance dans le ressort duquel l’assuré a sa résidence ou e
 Le § 1638 est applicable dans les cas où l’assuré n’a pas de résidence ou d’occupation dans le pays,
 ou lorsqu’il est décédé ou disparu.
 
-###### Article 1775
+##### Article 1775
 
 L’Office d’assurance statue sur les contestations qui s’élèvent entre une caisse-maladie
 dépendant de l’Office d’assurance et une caisse-maladie minière ou une caisse libre agréée.
 
-III. — AUTRES DISPOSITIONS
+#### III. — AUTRES DISPOSITIONS
 
-###### Article 1776
+##### Article 1776
 
 Les décisions provisoires ne peuvent être attaquées par une demande de débat oral, mais
 seulement par le recours prévu.
 
-###### Article 1777
+##### Article 1777
 
 Les décisions des chambres du contentieux judiciaire ne sont susceptibles que de révision.
 
-###### Article 1778
+##### Article 1778
 
 Le recours en révision est exclu en cas d’action en remboursement ou en compensation,
 lorsqu’il s’agit de prestations passagères.
@@ -8888,20 +8848,20 @@ lorsqu’il s’agit de prestations passagères.
 La révision est recevable, en ce qui concerne les actions en remboursement et en compensation
 réglées au Cinquième Livre de la présente loi.
 
-###### Article 1779
+##### Article 1779
 
 L’appel et la révision sont suspensifs lorsqu’il s’agit d’actions en remboursement.
 
-C. Procédure du contentieux administratif
-CHAPITRE PREMIER
-Dispositions générales
+### C. Procédure du contentieux administratif
 
-###### Article 1780
+#### CHAPITRE PREMIER — Dispositions générales
+
+##### Article 1780
 
 Lorsque la présente loi n’ordonne pas la procédure du contentieux judiciaire, les décisions
 des autorités d’assurance sont rendues par la voie du contentieux administratif.
 
-###### Article 1781
+##### Article 1781
 
 La présente loi détermine les affaires à régler par le comité, la chambre ou le conseil du
 contentieux administratif. Les affaires à trancher, conformément aux dispositions de la présente loi, par le
@@ -8922,13 +8882,13 @@ peuvent, conformément aux dispositions des ordonnances sur la procédure (§ 35
 Pour le reste, les dites ordonnances désignent celui qui est tenu de régler les affaires à trancher par
 voie du contentieux administratif.
 
-###### Article 1782
+##### Article 1782
 
 Les employeurs et les assurés élus dans la branche correspondante de l’assurance-
 accidents sont, en ce qui concerne les affaires de cette assurance, appelés à prendre part aux délibérations
 du conseil du contentieux administratif.
 
-###### Article 1783
+##### Article 1783
 
 L’Office d’assurance ou l’Office supérieur dans le ressort duquel la caisse intéressée a son
 siège est, en ce qui concerne les affaires de l’assurance-maladie et pour autant que la présente loi n’en
@@ -8942,7 +8902,7 @@ supérieur désigne l’Office d’assurance qui est compétent. Si les dites ca
 de différents Offices supérieurs, l’autorité administrative suprême désigne l’Office d’assurance ou l’Office
 supérieur qui est compétent.
 
-###### Article 1784
+##### Article 1784
 
 En matière d’assurance-accidents, et pour autant
 que la présente loi n’en dispose pas autrement, l’Office d’assurance
@@ -8950,7 +8910,7 @@ ou l’Office supérieur dans le ressort duquel l’exploitation a son siège ou
 est exécuté est compétent, comme juridiction de première instance de la procédure du contentieux
 administratif.
 
-###### Article 1785
+##### Article 1785
 
 En matière d’assurance-invalidité et des survivants et pour autant que la présente loi n’en
 dispose pas autrement, l’Office d’assurance ou l’Office supérieur dans le ressort duquel a lieu l’occupation
@@ -8961,30 +8921,30 @@ dans le ressort duquel l’assuré a son domicile qui est compétent.
 L’Office d’assurance ou l’Office supérieur dans le ressort duquel les survivants ont leur domicile, est
 également compétent pour le règlement des droits de ces derniers.
 
-###### Article 1786
+##### Article 1786
 
 Si un Office ne se considère pas comme compétent, mais estime que la compétence
 appartient à un autre Office, il renvoie l’affaire à ce dernier.
 
 Le § 1640, alinéas 2, 3, est applicable si le second décline également sa compétence.
 
-###### Article 1787
+##### Article 1787
 
 Le § 1775 est applicable en cas de contestation entre une caisse-maladie et une caisse-
 maladie minière ou une caisse libre agréée.
 
-###### Article 1788
+##### Article 1788
 
 Si l’autorité administrative suprême a transmis aux organes visés par le § 112 certaines
 attributions du contentieux administratif, les décisions des dits organes sont, en ce qui concerne les recours
 en matière de contentieux administratif, assimilées à celles de l’Office d’assurance.
 
-###### Article 1789
+##### Article 1789
 
 Les dispositions de la procédure du contentieux judiciaire sont applicables à l’exclusion et
 à la récusation de certaines personnes, à la détermination des faits, ainsi qu’à l’administration des preuves.
 
-###### Article 1790
+##### Article 1790
 
 Les débats de la procédure du contentieux administratif ne sont pas publics. Le § 1667 est,
 sous réserve des dispositions du § 78, alinéa 3, concernant la chambre du contentieux administratif,
@@ -8992,10 +8952,9 @@ applicable au votre des autorités du contentieux administratif.
 
 La décision est signifiée aux intéressés.
 
-CHAPITRE II
-Recours
+#### CHAPITRE II — Recours
 
-###### Article 1791
+##### Article 1791
 
 En tant que la présente loi n’en dispose pas autrement, les décisions de l’institution
 chargée de l’assurance sont susceptibles de recours. Le recours doit être introduit :
@@ -9004,36 +8963,35 @@ chargée de l’assurance sont susceptibles de recours. Le recours doit être in
   l’Office d’assurance ;
 - pour les affaires de l’assurance-accidents, auprès de l’Office supérieur des assurances sociales.
 
-###### Article 1792
+##### Article 1792
 
 En tant que la présente loi n’en dispose pas autrement, le recours contre les décisions
 rendues en première instance par l’Office d’assurance doit être introduit devant l’Office supérieur.
 
-###### Article 1793
+##### Article 1793
 
 En tant que la présente loi n’en dispose pas autrement, le recours contre les décisions
 rendues en première instance par l’Office supérieur doit être introduit devant l’Office impérial des
 assurances.
 
-###### Article 1794
+##### Article 1794
 
 L’autorité, chargée de statuer sur le recours, peut suspendre l’exécution de la décision
 attaquée.
 
-###### Article 1795
+##### Article 1795
 
 Les intéressés sont entendus, si le recours est recevable et introduit à temps.
 
-###### Article 1796
+##### Article 1796
 
 Si le recours est fondé, l’autorité compétente peut statuer elle-même ou renvoyer l’affaire à
 une juridiction inférieure ou à l’institution dont la décision est attaquée. Le § 1715, alinéa 2, est applicable
 par analogie.
 
-CHAPITRE III
-Recours en instance supérieure
+#### CHAPITRE III — Recours en instance supérieure
 
-###### Article 1797
+##### Article 1797
 
 Un nouveau recours peut, si la présente loi n’en dispose pas autrement, être introduit :
 
@@ -9043,18 +9001,18 @@ Un nouveau recours peut, si la présente loi n’en dispose pas autrement, être
 
 Les dispositions concernant le recours sont applicables à la procédure.
 
-###### Article 1798
+##### Article 1798
 
 Les décisions rendues sur le nouveau recours par l’Office supérieur, sont définitives.
 
-###### Article 1799
+##### Article 1799
 
 Si l’Office supérieur veut, dans un cas où il aurait à statuer définitivement, déroger à une
 décision de principe publiée officiellement par l’Office impérial des assurances sociales, ou s’il s’agit en
 pareil cas d’une interprétation non encore fixée de prescriptions légales d’une importance fondamentale, il
 doit être procédé conformément aux dispositions du § 1693.
 
-###### Article 1800
+##### Article 1800
 
 C’est à l’Office d’Etat des assurances, s’il y en a un, qu’il appartient de statuer sur les
 affaires à trancher par la procédure du contentieux administratif, si le ressort de l’institution d’assurance
@@ -9063,21 +9021,22 @@ statue.
 (Si une institution d’assurance, pour laquelle, en vertu de l’alinéa 1, l’Office impérial ou un autre
 Office d’Etat est compétent, est également intéressée dans l’affaire, c’est l’Office impérial qui statue.)
 
-###### Article 1801
+##### Article 1801
 
 La prescription du § 1716, relative à la publication des décisions de principe, s’applique
 également aux affaires de la procédure du contentieux administratif.
 
-D. Frais et Taxes
-I. — FRAIS DE PROCEDURE
+### D. Frais et Taxes
 
-###### Article 1802
+#### I. — FRAIS DE PROCEDURE
+
+##### Article 1802
 
 Si une partie occasionne des frais de procédure par mauvaise intention, manœuvres
 dilatoires ou tromperie, les autorités d’assurance peuvent mettre ceux-ci entièrement ou partiellement à sa
 charge.
 
-###### Article 1803
+##### Article 1803
 
 Dans les affaires du contentieux judiciaire de l’assurance-maladie, l’Office supérieur impose
 le paiement d’une taxe à la partie succombant. Cette taxe s’élève, suivant la valeur du litige \[de 1 à
@@ -9088,9 +9047,9 @@ sujet.
 
 L’autorité administrative suprême en règle le recouvrement.
 
-II. — TAXE DES AVOCATS-AVOUES
+#### II. — TAXE DES AVOCATS-AVOUES
 
-###### Article 1804
+##### Article 1804
 
 Les honoraires à payer aux avocats-avoués pour le concours prêté par eux dans la
 procédure devant les autorités des assurances sont fixés d’après un barème.
@@ -9099,7 +9058,7 @@ Le barème des honoraires est établi par ordonnance impériale d’accord avec 
 ce qui concerne la procédure devant l’Office d’Etat des assurances, il est établi par le gouvernement de
 l’Etat Confédéré.
 
-###### Article 1805
+##### Article 1805
 
 Toute convention portant sur des sommes supérieures à celles qui sont prévues par ledit
 barème est nulle.

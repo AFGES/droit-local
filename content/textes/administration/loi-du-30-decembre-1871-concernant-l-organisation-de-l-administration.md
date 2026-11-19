@@ -265,7 +265,7 @@ président supérieur déterminera les limites et dont chacune sera confiée à 
 Les constructions et les ponts et chaussées, ainsi que les travaux communaux, feront l’objet d’une
 réglementation ultérieure.
 
-#### Article 17
+### Article 17
 
 L’administration des douanes, des impôts de consommations, de l’enregistrement, y compris la
 conservation des hypothèques, des revenus domaniaux, du timbre y compris impôts sur les
@@ -279,7 +279,7 @@ directions générales et aux directeurs départementaux des administrations sus
 circonscriptions des receveurs des impôts indirects et de l’enregistrement et des conservateurs des
 hypothèques seront déterminées par le directeur avec l’approbation du président supérieur.
 
-#### Article 18
+### Article 18
 
 Une ordonnance impériale pourra transférer aux autorités centrales et de district certains des
 pouvoirs qui, d’après les lois françaises, appartiennent au chef de l’Etat.
@@ -304,7 +304,7 @@ district. Elle effectuera et portera en compte les paiements sur le mandat du pr
 
 Le fonctionnement des caisses sera réglementé par le Chancelier.
 
-#### Article 20
+### Article 20
 
 Pour les années 1871 et 1872, la Cour des comptes de l’Empire assurera le contrôle des
 opérations budgétaires en examinant et arrêtant les comptes de recettes et dépenses. Les
@@ -338,7 +338,7 @@ que ceux désignés ci-dessus seront nommés par le directeur de cette administr
 Les dispositions relatives à la préparation des employés aux examens et aux autres conditions
 d’admission seront édictées par le Chancelier.
 
-#### Article 22
+### Article 22
 
 Les autorités existant actuellement continueront à exercer leurs fonctions jusqu’à l’installation des
 nouvelles autorités.
@@ -346,7 +346,7 @@ nouvelles autorités.
 Les dates auxquelles les différentes administrations cesseront de fonctionner et seront remplacées
 par les nouvelles seront publiées par le président supérieur.
 
-#### Article 23
+### Article 23
 
 Au cas où il serait nécessaire de procéder à des actes ou d’exercer des fonctions que les lois
 françaises attribuent à des autorités, des corps représentatifs ou des commissions ayant cessé

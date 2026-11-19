@@ -232,7 +232,7 @@ tombent sous l’application de l’article 6.
 
 #### Procédure d’expropriation
 
-#### Article 20
+##### Article 20
 
 Toutes les fois qu’une procédure d’expropriation sera motivée par des entreprises d’irrigation ou
 de drainage, il sera procédé à la fixation de l’indemnité conformément à l’article 16 de la [loi du 21 mai 1836](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000332149) sur les chemins vicinaux, alors même que l’entreprise serait poursuivie par d’autres
@@ -244,13 +244,13 @@ associations que les associations syndicales autorisées (art 18 de la [loi du 2
 
 #### 1. Généralités
 
-#### Article 21
+##### Article 21
 
 L’obligation d’entretien d’un cours d’eau comprend le curage du lit (enlèvement des vases et des
 herbes dans la largeur et la profondeur normales de la rivière) et le maintien ainsi que les
 améliations nécessaires des rives, digues et ouvrages d’art, y compris les fossés de décharge.
 
-#### Article 22
+##### Article 22
 
 L’obligation d’entretien des cours d’eau non navigables ni flottables incombe en commun :
 
@@ -259,7 +259,7 @@ L’obligation d’entretien des cours d’eau non navigables ni flottables inco
 2. Aux particuliers et associations qui utilisent l’eau comme force motrice ou à d’autres buts pour
    une entreprise de caractère durable.
 
-#### Article 23
+##### Article 23
 
 La répartition des frais d’entretien a lieu entre les divers intéressés conformément aux usages
 locaux ou règlements, s’il en existe ; il en sera ainsi alors même que certains des intéressés vis-à-vis de l’article 9 seraient exemptés de contribuer aux frais ou devraient seuls les supporter.
@@ -269,7 +269,7 @@ règlements. Les rôles de répartition des frais seront dressés et rendus exé
 administrative ; en ce qui concerne le recouvrement et les moyens de recours contre la répartition,
 on appliquera les mêmes règles qu’en matière de contributions directes.
 
-#### Article 24
+##### Article 24
 
 Lorsqu’il n’existe ni usages locaux ni règlements en ce qui concerne la répartition des frais
 d’entretien, ou lorsque l’intérêt général exigera impérieusement des dispositions nouvelles pour
@@ -286,7 +286,7 @@ L’autorité administrative édictera les mesures pour l’application de l’a
 répartition individuelle des frais entre les divers intéressés. Les dispositions de l’article 23, alinéa
 3, seront applicables.
 
-#### Article 25
+##### Article 25
 
 Dans la répartition individuelle de la part incombant aux propriétaires fonciers (art. 22, n° 1),
 lorsqu’il ne s’agit que du simple curage ou faucardement de petits ruisseaux ou fossés, les frais ne
@@ -296,7 +296,7 @@ curage ou faucardement de cours d’eau plus importants, la dépense devra être
 les propriétaires fonciers visés à l’article 22, n° 1, en proportion de la superficie des parties
 protégées de leurs terrains et, s’il y a lieu, d’après un classement en plusieurs catégories.
 
-#### Article 26
+##### Article 26
 
 Dans la répartition individuelle des frais d’entretien qui incomberont aux intéressés visés à
 l’article 22, n° 1 et 2, il y a lieu de considérer :
@@ -305,7 +305,7 @@ l’article 22, n° 1 et 2, il y a lieu de considérer :
 2. La proportion pour laquelle le mode d’usage des eaux pratiqué par chaque intéressé a contribué,
    par l’effet du remous à l’envasement du cours d’eau.
 
-#### Article 27
+##### Article 27
 
 L’entretien des cours d’eau navigables et flottables est à la charge de l’État lorsqu’il ne s’agit pas
 de travaux d’entretien exclusivement motivés par les besoins de la navigation, les intéressés visés
@@ -318,12 +318,12 @@ l’article 24, alinéa 25 et 26 sont applicables à cet arrêté.
 En ce qui concerne l’exécution de l’arrêté et la répartition individuelle des charges, on appliquera
 les dispositions de l’article 24, alinéa 5 et des articles 25 et 26 de la présente loi.
 
-#### Article 28
+##### Article 28
 
 L’entretien des canaux qui servent à des moulins ou autres exploitations, lorsqu’ils sont créés de
 main d’homme et appartiennent aux usiniers, est à la charge exclusive de ceux-ci.
 
-#### Article 29
+##### Article 29
 
 Les riverains sont tenus de donner passage sur leurs terres pour les travaux de curage ainsi que de
 souffrir le dépôt momentané des produits du curage, sans pouvoir de ce chef réclamer
@@ -340,7 +340,7 @@ hydrauliques, lorsque cette mesure est indispensable pour l’exécution des tra
 
 #### 2. Des associations syndicales pour les travaux à exécuter sur les cours d’eau
 
-#### Article 30
+##### Article 30
 
 Lorsque des cours d’eau d’une certaine importance, non navigables, ni flottables, ou portions de
 ceux-ci ne pourront être maintenus en un état conforme aux exigences de l’intérêt général sans la
@@ -354,12 +354,12 @@ navigables et flottables, ou portions de ceux-ci, aux fins de construction et en
 ouvrages d’art et fossés de décharge.
 Les associations syndicales sont créées par arrêté du Statthalter.
 
-#### Article 31
+##### Article 31
 
 Les associations syndicales peuvent, en leur nom propre, acquérir des droits et s’obliger, ester et
 défendre en justice.
 
-#### Article 32
+##### Article 32
 
 L’arrêté qui crée une association syndicale doit régler les points suivants :
 
@@ -380,7 +380,7 @@ le règlement d’exécution. Les contestations relatives à la question de savo
 partie du territoire le l’association sont portées devant le conseil de district et, en deuxième
 instance, devant le conseil impérial.
 
-#### Article 33
+##### Article 33
 
 Le recouvrement des cotisations des membres des associations syndicales s’opère comme en
 matière de contributions directes.
@@ -389,7 +389,7 @@ L’obligation de les supporter se transmet à tout nouvel acquéreur d’un fon
 toute autre entreprise utilisant l’eau pour une exploitation de caractère durable, qui font partie du
 territoire de l’association ; toute convention contraire est sans effet à l’égard de l’association.
 
-#### Article 34
+##### Article 34
 
 Pour les expropriations forcées devenues nécessaires dans l’intérêt d’une association syndicale,
 on appliquera, en ce qui concerne les formes de la procédure pour une fixation de l’indemnité,
@@ -486,7 +486,7 @@ professions ne sont pas applicables :
    par l’autorité administrative, à la suppression ou à la modification demandée de travaux de la
    nature de ceux qui sont visés à l’article 1er.
 
-#### Article 43
+### Article 43
 
 Sera puni d’une amende de {{< m "150" "marks" >}} au plus ou à de la détention simple, à moins que d’autres
 dispositions ne soient applicables en vertu du droit pénal commun, quiconque, dans les cas
@@ -494,7 +494,7 @@ prévus par l’article 40 de la présente loi, étant sommé de prêter secours
 communales, de police ou des tribunaux publics, s’ y sera refusé, bien qu’il eût pu obtempérer à
 la sommation sans danger considérable pour lui-même.
 
-#### Article 44
+### Article 44
 
 Sera puni d’une amende de {{< m "150" "marks" >}} au plus, à moins que d’autres dispositions ne soient
 applicables en vertu du droit pénal commun :
@@ -508,7 +508,7 @@ applicables en vertu du droit pénal commun :
    de l’autorisation, procédé à des travaux de la nature de ceux qui sont visés dans lesdits articles
    pas aux prescriptions et règlements rendus en conformité des articles 40, alinéa 3, et 41 alinéa 2.
 
-#### Article 45
+### Article 45
 
 Sera puni d’une amende jusqu’à {{< m "60" "marks" >}}, à moins qu’en vertu d’autres lois pénales une peine
 plus sévère ne soit encourue :
@@ -520,7 +520,7 @@ plus sévère ne soit encourue :
 3. Quiconque aura omis d’aviser l’autorité, conformément à l’article 8, alinéa 2, que le repère est
    endommagé.
 
-#### Article 46
+### Article 46
 
 Dans les cas prévus par l’article 31 de la [loi du 9 juillet 1888](/textes/chasse/loi-penale-du-9-juillet-1888-sur-la-police-rurale/) sur la police rurale, la peine doit être
 prononcée contre le propriétaire des ouvrages et, quand ce dernier ne dirige pas personnellement
@@ -529,7 +529,7 @@ circonstances que l’infraction a été commise contre ses ordres formels. La p
 simple ne peut être prononcée contre le propriétaire ou le chef de l’exploitation que dans le cas
 où il a personnellement commis l’infraction ou a expressément ordonné de la commettre.
 
-#### Article 47
+### Article 47
 
 Les ouvrages entrepris contrairement aux prescriptions de la présente loi ou maintenus
 postérieurement au retrait ou à la réduction de l’autorisation devront, indépendamment de la
@@ -553,20 +553,20 @@ provisoires.
 Les autorités compétentes pour rendre les arrêtés et décisions dans les cas prévus seront
 désignées par le règlement d’exécution en tant que la présente loi n’en dispose pas autrement.
 
-#### Article 49
+### Article 49
 
 Les prescriptions de l’article 6 sont applicables à la fixation des indemnités que les propriétaires
 d’usines autres que celles autorisées à titre révocables peuvent réclamer en cas de suppression ou
 de réduction de leurs installations.
 
-#### Article 50
+### Article 50
 
 La disposition de l’article 35 est également applicable, lorsque la régulation d’un cours d’eau a
 lieu par les soins d’une association syndicale autorisée.
 Dans les autres cas de déplacement du lit d’un cours d’eau, le ministère peut accorder la propriété
 du lit mis à sec à la personne pour le compte de laquelle le déplacement a eu lieu.
 
-#### Article 51
+### Article 51
 
 Les dispositions actuellement en vigueur sur l’usage et la conservation des cours d’eau en tant
 qu’elles concernent les matières réglées par la présente loi sont abrogées. Ne sont pas modifiées :
@@ -582,7 +582,7 @@ qu’elles concernent les matières réglées par la présente loi sont abrogée
 5. Les dispositions légales sur les indemnités de chômage qui peuvent être dues aux usiniers pour le passage des bateaux ou trains d’eau ;
 6. Les articles 30 et 31 de la [loi du 9 juillet 1888](/textes/chasse/loi-penale-du-9-juillet-1888-sur-la-police-rurale/) sur la police rurale.
 
-#### Article 52
+### Article 52
 
 La présente loi entrera en vigueur le 1er avril 1892. Les dispositions nécessaires pour son
 exécution seront édictées par le ministère.
