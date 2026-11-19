@@ -1,0 +1,32 @@
+- article: "32"
+  statut: abroge
+  date: 1996-02-24
+  source: "Loi n° 96-142 du 21 février 1996, art. 12, 20° (« L'article 32 ... de la loi locale du 9 juillet 1888 sur la police rurale ») ; remplacé par CGCT, art. L. 2542-7"
+  jorf: JORFTEXT000000559120
+  texte_actuel: |
+    Le maire peut prescrire :
+    1° De clore ou de combler les carrières, argilières, sablonnières, ballastières, marnières, fosses à chaux, glaisières, puits de mine, trous de fouille ou trous provenant du déracinement des souches ;
+    2° De marquer par des signes visibles, pour en empêcher l'approche, les trous faits dans la glace aux endroits indiqués par l'autorité.
+  texte_actuel_officiel: false
+  note: "Texte de CGCT L. 2542-7 (en vigueur depuis 1996-02-24), reprise de l'art. 32 sans la sanction pénale en marks. Le code des communes, L. 501-3, indiquait déjà la substitution de l'art. 32 (en partie)."
+  confiance: haute
+- article: "50 (al. 2)"
+  statut: abroge
+  date: 1996-02-24
+  source: "Loi n° 96-142 du 21 février 1996, art. 12, 20° (« le deuxième alinéa de l'article 50 ») ; remplacé par CGCT, art. L. 2542-6"
+  jorf: JORFTEXT000000559120
+  texte_actuel: |
+    Le maire doit au moins une fois l'an inspecter ou faire inspecter les foyers et cheminées de tous bätiments éloignés de moins de 200 mètres des habitations, après que le jour de l'inspection a été rendu public au moins une semaine à l'avance.
+    Après l'inspection, le nettoyage, la réparation ou la démolition des foyers et cheminées qui ne répondent pas aux prescriptions légales peuvent être ordonnés.
+  texte_actuel_officiel: false
+  note: "Texte de CGCT L. 2542-6 tel que publié (la graphie « bätiments » est celle de la base). Dans le md, l'art. 50 forme un seul bloc : le 2e alinéa commence à « Les maires doivent au-moins une fois l'an »."
+  confiance: haute
+- article: "50 (al. 1)"
+  statut: codifie
+  date: 1977-03-20
+  source: "Code des communes, art. L. 501-3 (« articles 32 (partie) et 50 (alinéa 1 et alinéa 2 en partie) » de la loi pénale locale du 9 juillet 1888)"
+  jorf: ""
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "L. 501-3 (code des communes) indique que la partie législative du code se substitue à l'al. 1 de l'art. 50, mais la loi 96-142 n'abroge que l'al. 2. Équivalent CGCT de l'al. 1 (tranquillité, salubrité, sécurité des campagnes) non retrouvé : la recherche de ces termes dans le CGCT ne donne rien ; voir CGCT L. 2212-1/L. 2212-2 pour la police rurale générale (non lu pour cette passe)."
+  confiance: a_verifier

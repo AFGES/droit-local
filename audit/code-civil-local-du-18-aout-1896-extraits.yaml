@@ -1,0 +1,677 @@
+# Audit modifications, 2e passe : toutes dates (1924 a 2026-11-19). Entrees par article, ordre chronologique.
+# ATTENTION origine du md : le decret 2013-776 dit retenir la version maintenue par les lois du 1er juin 1924, sans les modifications ulterieures.
+# Pourtant le md contient deja le texte issu de la loi 2003-709 pour les art. 42, 54, 61 al. 2, 63, 77, 78, 79-I a 79-III, et ne contient plus
+# 23, 44, l'ancien al. 2 de 43 : ces textes ne font donc pas partie de la traduction officielle 2013 (texte_actuel_officiel: false), l'annexe du decret n'ayant pas pu etre consultee.
+# Les entrees 2003 ci-dessous disent "le md reflete deja" quand c'est le cas.
+
+# ---------- Art. 21 ----------
+- article: "21 (al. 1 nouveau)"
+  statut: insere
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 20 (I)"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    Les associations peuvent se former librement.
+
+    Une association dont le but ne vise pas une entreprise économique acquiert la capacité de
+    jouissance des droits par l’inscription au registre des associations du tribunal compétent.
+  texte_actuel_officiel: false
+  note: "Alinéa inséré 'au début' de l'article 21 : 'Les associations peuvent se former librement.' Absent du md. Le second alinéa reprend la traduction du md (non vérifiée contre la consolidation Légifrance, dont le libellé peut différer : 'tribunal d'instance', 'capacité juridique'). Publication JORF 2 août 2003, entrée en vigueur le lendemain. Relu en entier via get_decision."
+  confiance: haute
+- article: "21 (al. 3 nouveau)"
+  statut: modifie
+  date: 2019-03-25
+  source: "Loi n° 2019-222 du 23 mars 2019, art. 105 (I)"
+  jorf: JORFTEXT000038261631
+  texte_actuel: |
+    Les associations peuvent se former librement.
+
+    Une association dont le but ne vise pas une entreprise économique acquiert la capacité de
+    jouissance des droits par l’inscription au registre des associations du tribunal compétent.
+
+    Les registres des associations et les registres des associations coopératives de droit local peuvent être tenus sous forme électronique dans les conditions définies aux articles 1366 et 1367 du code civil.
+  texte_actuel_officiel: false
+  note: "CORRECTION de la 1re passe : le texte en vigueur doit comprendre l'alinéa 'Les associations peuvent se former librement' (loi 2003, art. 20 I), omis auparavant. Alinéa de 2019 copié du JORF (art. 105 I, texte relu via get_law_article), pas de traduction officielle. Entrée en vigueur le lendemain de la publication (JORF 24 mars 2019)."
+  confiance: haute
+- article: "21 (al. 4 nouveau)"
+  statut: modifie
+  date: 2023-01-01
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 23 (I et II) ; Arrêté du 21 décembre 2022 (JORFTEXT000046820396), art. 4"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Les associations peuvent se former librement.
+
+    Une association dont le but ne vise pas une entreprise économique acquiert la capacité de
+    jouissance des droits par l’inscription au registre des associations du tribunal compétent.
+
+    Les registres des associations et les registres des associations coopératives de droit local peuvent être tenus sous forme électronique dans les conditions définies aux articles 1366 et 1367 du code civil.
+
+    Le registre des associations inscrites dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle et le registre des associations coopératives de droit local sont tenus, sous le contrôle du juge, par le greffe du tribunal judiciaire, selon un modèle fixé par arrêté du ministre de la justice. Ils sont tenus sous forme électronique, dans les conditions définies aux articles 1366 et 1367 du code civil, et sont rendus accessibles sous cette forme dans un standard ouvert, aisément réutilisable et exploitable par un système de traitement automatisé.
+  texte_actuel_officiel: false
+  note: "Texte de l'alinéa relu dans la loi 2021-1109 art. 23 (I) ; entrée en vigueur à une date fixée par arrêté, au plus tard le 1er janvier 2023 (art. 23 II) ; l'arrêté du 21 décembre 2022 la fixe au 1er janvier 2023 (selon 1re passe). La loi dit 'complété par un alinéa' alors que l'alinéa 2019 (électronique, mêmes références 1366/1367) existe déjà : cumul littéral reproduit, redondance probable, consolidation Légifrance à vérifier. Entrée du 2021-08-26 pour la publication, 2023-01-01 pour l'application."
+  confiance: moyenne
+
+# ---------- Art. 23 et 44 (absents du md) ----------
+- article: "23"
+  statut: abroge
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 21"
+  jorf: JORFTEXT000000791289
+  texte_actuel: ""
+  note: "Article abrogé, absent du md. texte_origine non fourni : la traduction officielle 2013 (annexe du décret 2013-776) n'a pas pu être consultée (seul le décret de publication est en ligne) ; la traduction de l'IDLAM trouvée sur le web n'est pas la traduction officielle, non recopiée. Le texte local 'Abrogé implicitement' selon des sources secondaires."
+  confiance: haute
+- article: "44"
+  statut: abroge
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 21"
+  jorf: JORFTEXT000000791289
+  texte_actuel: ""
+  note: "Article abrogé (règles de compétence et procédure du contentieux administratif pour la privation de capacité), absent du md. texte_origine non fourni (annexe du décret 2013-776 non consultable)."
+  confiance: haute
+
+# ---------- Art. 25 ----------
+- article: "25"
+  statut: modifie
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 20 (II)"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    La constitution statutaire d’une association est établie par les statuts de l’association, en tant qu’elle ne se fonde pas sur les dispositions qui
+    suivent.
+  texte_actuel_officiel: false
+  note: "La loi supprime les mots 'ayant la capacité juridique' ; le md porte 'ayant la capacité de jouissance des droits' (traduction 2013 de la même locution), donc suppression non reflétée dans le md. Texte reconstitué en retirant ces mots du md, non confronté à la consolidation Légifrance."
+  confiance: moyenne
+
+# ---------- Art. 33 ----------
+- article: "33 (al. 2)"
+  statut: modifie
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 21 ('le dernier membre de phrase du second alinéa de l'article 33')"
+  jorf: JORFTEXT000000791289
+  texte_actuel_officiel: false
+  note: "Abrogation du 'dernier membre de phrase du second alinéa'. La portée exacte n'est pas établie : le texte local pré-2003 de l'alinéa n'est pas disponible dans les sources officielles consultées (PPL Sénat 97-189 parle de la dernière phrase de l'alinéa, relative à l'approbation de l'Etat en cas de concession). Le md montre l'alinéa 2 'Lorsque la capacité juridique ... concession, l'approbation de l'Etat est exigée pour toute modification des statuts.' : il peut être déjà amputé ou encore intact. Non conclu."
+  confiance: a_verifier
+
+# ---------- Art. 42 ----------
+- article: "42"
+  statut: remplace
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 20 (III)"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    Lorsque l’association est dans l’impossibilité de faire face au passif exigible avec son actif
+    disponible, la direction doit requérir l’ouverture de la procédure de redressement ou de liquidation
+    judiciaires. En cas de retard dans le dépôt de la demande d’ouverture, les membres de la direction
+    auxquels une faute est imputable sont responsables envers les créanciers du dommage qui en
+    résulte. Ils sont tenus comme débiteurs solidaires.
+  texte_actuel_officiel: false
+  note: "Le md reflète DÉJÀ le texte de la loi 2003 (identique au mot près à l'exception de la typographie). Ce n'est donc pas une traduction officielle 2013 : texte français de 2003. Aucune modification postérieure trouvée (recherche 'article 42 du code civil local' : 0 résultat) ; renvoi à la procédure collective non réactualisé après les réformes 2008/2014/2021, non vérifié."
+  confiance: haute
+
+# ---------- Art. 43 ----------
+- article: "43 (ancien al. 2)"
+  statut: abroge
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 21 ('le deuxième alinéa de l'article 43')"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    Peut être privée de la capacité juridique l’association qui compromet l’intérêt public par
+    une résolution illégale de l’assemblée de ses membres ou par des agissements illicites de la
+    direction.
+
+    Peut être privée de la capacité juridique l’association dont la capacité se fonde sur une
+    concession, lorsqu’elle poursuit un but autre que celui établi dans les statuts.
+  texte_actuel_officiel: false
+  note: "CORRECTION de la 1re passe (qui ne l'avait pas vu). Le texte pré-2003 avait 3 alinéas (le second, supprimé, visait l'association à but politique, social-politique ou religieux : source secondaire, PPL Sénat 97-189 et traduction IDLAM). Le md n'a que 2 alinéas (illégalité ; concession) = déjà l'état post-2003. Il n'y a donc pas de modification restant à appliquer pour 2003, mais le md n'est pas la traduction 2013 brute."
+  confiance: moyenne
+- article: "43 (al. 1)"
+  statut: abroge
+  date: 2015-07-25
+  source: "Ordonnance n° 2015-904 du 23 juillet 2015, art. 2 (1°)"
+  jorf: JORFTEXT000030921208
+  texte_actuel: |
+    Peut être privée de la capacité juridique l’association dont la capacité se fonde sur une
+    concession, lorsqu’elle poursuit un but autre que celui établi dans les statuts.
+  texte_actuel_officiel: false
+  note: "Le premier alinéa de l'article 43 (md) est abrogé ; reste l'alinéa sur les associations à capacité fondée sur une concession (devenu alinéa unique). Articulation 2003/2015 vérifiée : 2003 abroge le 'deuxième alinéa' du texte alors à 3 alinéas (politique), 2015 abroge le 'premier alinéa' (illégalité) ; pas de recouvrement. L'alinéa restant est sans objet pratique (les concessions n'existent plus, art. 23 et 44 abrogés). Lendemain de la publication (JORF 24 juillet 2015)."
+  confiance: haute
+
+# ---------- Art. 54 ----------
+- article: "54"
+  statut: remplace
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 20 (IV)"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    Seul le patrimoine affecté à l’association non inscrite garantit les dettes contractées
+    au nom de cette association. Toutefois, l’auteur d’actes juridiques accomplis envers les tiers au nom
+    d’une telle association est tenu personnellement ; si ces actes sont accomplis par plusieurs
+    personnes, celles-ci sont tenues comme débiteurs solidaires. Pour le surplus, il y a lieu
+    d’appliquer les règles régissant la société civile en participation.
+  texte_actuel_officiel: false
+  note: "Le md reflète DÉJÀ le texte de la loi 2003 (identique). Texte français de 2003, pas traduction officielle 2013. Pas de modification postérieure trouvée."
+  confiance: haute
+
+# ---------- Art. 61 ----------
+- article: "61 (al. 2)"
+  statut: remplace
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 19 (I)"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    Si la déclaration est admise, le tribunal d’instance doit la communiquer à l’autorité
+    administrative compétente.
+
+    L’autorité administrative peut faire opposition contre l’inscription lorsque les buts de
+    l’association sont contraires aux lois pénales réprimant les crimes et délits ou lorsque l’association
+    aurait pour but de porter atteinte à l’intégrité du territoire et à la forme républicaine du
+    Gouvernement.
+  texte_actuel_officiel: false
+  note: "Le md reflète DÉJÀ le texte 2003 pour l'alinéa 2 (identique). Alinéa 2 abrogé ensuite par l'ordonnance 2015-904 (entrée ci-dessous). 'tribunal d'instance' se lit 'tribunal judiciaire' depuis 2020 (entrée 'tout')."
+  confiance: haute
+- article: "61"
+  statut: modifie
+  date: 2015-07-25
+  source: "Ordonnance n° 2015-904 du 23 juillet 2015, art. 2 (1°)"
+  jorf: JORFTEXT000030921208
+  texte_actuel: |
+    Si la déclaration est admise, le tribunal d’instance doit la communiquer à l’autorité
+    administrative compétente.
+  texte_actuel_officiel: false
+  note: "Le second alinéa (droit d'opposition de l'autorité administrative, tel que réécrit en 2003) est abrogé par l'ordonnance 2015 ; l'ordonnance vise un alinéa déjà réécrit en 2003 : articulation cohérente. Alinéa 1 conservé (communication à l'autorité administrative devenue sans objet pratique). Lendemain de la publication."
+  confiance: haute
+
+# ---------- Art. 62 ----------
+- article: "62"
+  statut: remplace
+  date: 2015-07-25
+  source: "Ordonnance n° 2015-904 du 23 juillet 2015, art. 2 (2°)"
+  jorf: JORFTEXT000030921208
+  texte_actuel: |
+    Si l'association est fondée sur une cause ou en vue d'un objet illicite, contraire aux lois, aux bonnes mœurs ou qui aurait pour but de porter atteinte à l'intégrité du territoire national et à la forme républicaine du Gouvernement, sa dissolution est prononcée par le tribunal de grande instance, sur saisine de l'autorité administrative compétente, sur requête du ministère public ou de tout intéressé.
+  texte_actuel_officiel: false
+  note: "Remplace l'ancien article 62 (opposition de l'autorité administrative devant le tribunal d'instance, recours administratif). Texte publié en 2015 ; depuis le 1er janvier 2020 le 'tribunal de grande instance' se lit 'tribunal judiciaire' (loi 2019-222 art. 95 ; même lecture par transfert, pas de modification textuelle trouvée)."
+  confiance: haute
+
+# ---------- Art. 63 ----------
+- article: "63"
+  statut: remplace
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 19 (II)"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    L’opposition doit être formée dans un délai de six semaines à compter de la
+    communication de la déclaration. Passé ce délai, le tribunal inscrit l’association sur le registre
+    prévu à cet effet.
+  texte_actuel_officiel: false
+  note: "Le md reflète DÉJÀ le texte 2003 (identique). Abrogé ensuite par l'ordonnance 2015-904 (entrée suivante)."
+  confiance: haute
+- article: "63"
+  statut: abroge
+  date: 2015-07-25
+  source: "Ordonnance n° 2015-904 du 23 juillet 2015, art. 2 (1°)"
+  jorf: JORFTEXT000030921208
+  texte_actuel: ""
+  note: "Délai d'opposition de six semaines supprimé avec le droit d'opposition (art. 61 al. 2 et 62 ancien). Lendemain de la publication."
+  confiance: haute
+
+# ---------- Art. 77 ----------
+- article: "77"
+  statut: remplace
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 18 (réécriture) et art. 21 (abrogation de l''article 77' antérieur)"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    Sont fixées par décret les mesures d’exécution des articles 55 à 79-I, notamment
+    en vue de préciser les modalités d’instruction des demandes d’inscription et de tenue du registre
+    des associations, ainsi que pour définir les conditions dans lesquelles les associations peuvent être
+    radiées du registre des associations en application de l’article 79-I.
+  texte_actuel_officiel: false
+  note: "Le md reflète DÉJÀ la réécriture de 2003. Anomalie interne à la loi : l'art. 18 réécrit l'art. 77 (exécution par décret) alors que l'art. 21 abroge 'l'article 77' (ancien texte : authentification publique des déclarations au registre, selon la traduction IDLAM). Les deux se concilient : l'ancien texte est abrogé et remplacé. Texte en vigueur = nouvelle rédaction (comme dans le md). Texte français de 2003, pas traduction officielle."
+  confiance: moyenne
+
+# ---------- Art. 78 ----------
+- article: "78 (al. 1, 2e phrase)"
+  statut: abroge
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 21"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    Le tribunal d’instance peut, au moyen de pénalités disciplinaires infligées aux
+    membres de la direction imposer l’observation des règles de l’article 67, alinéa 1, de l’article 71,
+    alinéa 1, de l’article 72, de l’article 74, alinéa 2 et de l’article 76.
+
+    Les mêmes sanctions peuvent être prononcées à l’encontre des liquidateurs en vue de
+    l’observation des règles de l’article 76.
+  texte_actuel_officiel: false
+  note: "Seconde phrase du premier alinéa supprimée (selon la traduction IDLAM : plafond de 300 marks par pénalité). Le md ne la contient plus : DÉJÀ reflété. Non traduction officielle brute. 'tribunal d'instance' se lit 'tribunal judiciaire' (entrée 'tout')."
+  confiance: moyenne
+
+# ---------- Art. 79-I a 79-III (dans le md) ----------
+- article: "79-I"
+  statut: insere
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 17"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    Les associations ayant fait l’objet d’un retrait de capacité juridique ou d’une
+    dissolution sont radiées du registre des associations par le tribunal d’instance. Il en est de même
+    des associations pour lesquelles le tribunal d’instance constate qu’elles ont cessé toute activité et
+    ne possèdent plus de direction depuis plus de cinq ans.
+  texte_actuel_officiel: false
+  note: "Article inséré par la loi 2003, déjà au md (identique) : texte français de 2003, hors traduction officielle de 2013. 'tribunal d'instance' se lit 'tribunal judiciaire' (entrée 'tout')."
+  confiance: haute
+- article: "79-II"
+  statut: insere
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 17"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    Chaque fois qu’une disposition législative ou réglementaire prévoit qu’une
+    activité peut se développer dans le cadre d’une association déclarée constituée sur le fondement
+    de la loi du 1er juillet 1901 relative au contrat d’association, il y a lieu de lire cette référence
+    comme visant également les associations inscrites constituées sur le fondement du code civil
+    local.
+  texte_actuel_officiel: false
+  note: "Inséré 2003, déjà au md. Texte français de 2003, hors traduction officielle."
+  confiance: haute
+- article: "79-III"
+  statut: insere
+  date: 2003-08-03
+  source: "Loi n° 2003-709 du 1er août 2003, art. 17"
+  jorf: JORFTEXT000000791289
+  texte_actuel: |
+    L’ensemble des droits et avantages attribués aux associations reconnues
+    d’utilité publique bénéficie également aux associations régies par le code civil local dont la
+    mission aura été reconnue d’utilité publique conformément au I de l’article 80 de la loi de finances
+    pour 1985 (n° 84-1208 du 29 décembre 1984).
+  texte_actuel_officiel: false
+  note: "Inséré 2003. Le md omet la parenthèse '(n° 84-1208 du 29 décembre 1984)' présente dans le JORF. Texte français de 2003, hors traduction officielle."
+  confiance: haute
+
+# ---------- Art. 79-IV a 79-XII (hors md) ----------
+- article: "apres-79-III (79-IV)"
+  statut: insere
+  date: 2014-08-02
+  source: "Loi n° 2014-856 du 31 juillet 2014, art. 72"
+  jorf: JORFTEXT000029313296
+  texte_actuel: |
+    I. - La fusion d'associations inscrites au registre des associations avec une ou plusieurs associations est décidée par des délibérations concordantes de leur assemblée des membres adoptées dans les conditions prévues à l'article 41. Lorsque la fusion est réalisée par voie de création d'une nouvelle association, le projet de statuts de la nouvelle association est approuvé par l'assemblée des membres de chacune des associations qui disparaissent et il n'y a pas lieu à approbation de l'opération par l'assemblée des membres de la nouvelle association.
+    La scission d'une association est prononcée par l'assemblée des membres dans les conditions prévues au même article 41. Lorsque la scission est réalisée par apport à une nouvelle association, le projet de statuts de la nouvelle association est approuvé par l'organe délibérant de l'association scindée et il n'y a pas lieu à approbation de l'opération par l'organe délibérant de la nouvelle association.
+    L'apport partiel d'actif entre associations est décidé par des délibérations concordantes adoptées dans les conditions requises par leurs statuts.
+    Les associations qui participent à l'une des opérations mentionnées aux alinéas 1 à 3 du présent I établissent un projet de fusion, de scission ou d'apport partiel d'actif publié en application de l'article 50, dans des conditions et délais fixés par voie réglementaire.
+    Lorsque la valeur totale de l'ensemble des apports est d'un montant au moins égal à un seuil fixé par voie réglementaire, les délibérations prévues aux alinéas 1 à 3 sont précédées de l'examen d'un rapport établi par un commissaire à la fusion, à la scission ou aux apports désigné d'un commun accord par les associations qui procèdent à l'apport. Le rapport se prononce sur les méthodes d'évaluation et sur la valeur de l'actif et du passif des associations en cause et expose les conditions financières de l'opération. Pour l'exercice de sa mission, le commissaire peut obtenir auprès de chacune des associations communication de tous documents utiles et procéder aux vérifications nécessaires.
+    II. - La fusion ou la scission entraîne la dissolution sans liquidation des associations qui disparaissent et la transmission universelle de leur patrimoine aux associations bénéficiaires, dans l'état où il se trouve à la date de réalisation définitive de l'opération. L'apport partiel d'actif n'entraîne pas la dissolution de l'association qui apporte une partie de son actif.
+    Les membres des associations qui disparaissent acquièrent la qualité de membres de l'association résultant de la fusion ou de la scission.
+    Les articles L. 236-14, L. 236-20 et L. 236-21 du code de commerce sont applicables aux fusions ou aux scissions d'associations.
+    III. - Sauf stipulation contraire du traité d'apport, la fusion, la scission ou l'apport partiel d'actif prend effet :
+    1° En cas de création d'une ou de plusieurs associations nouvelles, à la date où la nouvelle association ou la dernière d'entre elles est inscrite dans les conditions prévues à l'article 21 du présent code ;
+    2° Lorsque l'opération entraîne une modification statutaire soumise à une approbation administrative, à la date d'entrée en vigueur de celle-ci ;
+    3° Dans les autres cas, à la date de la dernière assemblée des membres ayant approuvé l'opération.
+    IV. - Lorsqu'une association bénéficiant d'une autorisation administrative, d'un agrément, d'un conventionnement ou d'une habilitation participe à une fusion, à une scission ou à un apport partiel d'actif et qu'elle souhaite savoir si l'association résultant de la fusion ou de la scission ou bénéficiaire de l'apport bénéficiera de l'autorisation, de l'agrément, du conventionnement ou de l'habilitation pour la durée restant à courir, elle peut interroger l'autorité administrative, qui se prononce sur sa demande :
+    1° Si elles existent, selon les règles prévues pour autoriser la cession de l'autorisation, de l'agrément, du conventionnement ou de l'habilitation ;
+    2° Dans les autres cas, dans les conditions et délais prévus pour accorder le conventionnement, l'autorisation, l'agrément ou l'habilitation.
+    V. - Le IV ne s'applique pas à la reconnaissance de la mission d'utilité publique.
+    La dissolution sans liquidation de l'association dont la mission est reconnue d'utilité publique qui disparaît du fait d'une fusion ou d'une scission est approuvée par arrêté du représentant de l'Etat dans le département. Ce même arrêté abroge l'arrêté portant reconnaissance de la mission d'utilité publique de l'association absorbée.
+    VI. - L'article 51 n'est pas applicable aux opérations régies par le présent article.
+    VII. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+  texte_actuel_officiel: false
+  note: "Texte relu via get_law_article (loi 2014-856 art. 72, LEGIARTI000029314950, entrée en vigueur 2014-08-02). Article hors du md (qui s'arrête à 79-III) : texte français, pas de traduction officielle. Décrets d'application 2015-832 (art. 30-16 et s. du décret de 1901 adapté) et 2015-1017 (seuil du commissaire aux apports). Ordonnance 2023-393 du 24 mai 2023 a remplacé les renvois L. 236-14/20/21 dans la loi de 1901 (art. 9 bis) mais n'a PAS modifié le renvoi du 79-IV II (relu : seul le V de l'art. 12 vise la loi de 1901) : renvoi du 79-IV II aux anciens numéros, à revérifier (autre texte éventuel non trouvé)."
+  confiance: moyenne
+- article: "apres-79-IV (79-V)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74 (I)"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    3. - Dispositions particulières propres aux associations inscrites à objet cultuel
+
+    Art. 79-V. - Sans préjudice des articles du présent titre applicables aux associations inscrites, les associations inscrites à objet cultuel sont soumises au présent 3.
+  texte_actuel_officiel: false
+  note: "Intitulé '3.' et art. 79-V insérés après 79-IV. Texte relu en entier (LEGIARTI000043968833). Hors md. Pas de traduction officielle."
+  confiance: haute
+- article: "apres-79-IV (79-VI)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74 (I)"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Les associations inscrites à objet cultuel ne doivent, ni par leur objet statutaire, ni par leurs activités effectives, porter atteinte à l'ordre public.
+  texte_actuel_officiel: false
+  note: "Hors md."
+  confiance: haute
+- article: "apres-79-IV (79-VII)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74 (I) ; art. 88 III (transitoire)"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Nonobstant toute clause contraire des statuts, les actes de gestion financière et d'administration légale des biens accomplis par les directeurs ou administrateurs sont, chaque année au moins, présentés au contrôle de l'assemblée générale des membres de l'association et soumis à son approbation.
+  texte_actuel_officiel: false
+  note: "Hors md. Art. 88 III de la loi : les associations inscrites à objet cultuel constituées avant la loi doivent s'y conformer au plus tard le 1er janvier suivant le premier exercice comptable complet postérieur à la publication."
+  confiance: haute
+- article: "apres-79-IV (79-VIII)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74 (I) ; décret n° 2022-619 du 22 avril 2022 (application)"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    I. - Toute association inscrite à objet cultuel bénéficiant directement ou indirectement d'avantages ou de ressources versés en numéraire ou consentis en nature par un Etat étranger, par une personne morale étrangère, par tout dispositif juridique de droit étranger comparable à une fiducie ou par une personne physique non résidente en France est tenue d'en faire la déclaration à l'autorité administrative.
+    Cette obligation s'applique aux avantages et ressources dont le montant ou la valorisation dépasse un seuil défini par décret en Conseil d'Etat, qui ne peut être inférieur à 10 000 euros, ou dont le montant ou la valorisation du total des avantages et ressources dépasse ce même seuil sur un exercice comptable. Elle ne s'applique pas aux avantages et ressources qui font l'objet d'une libéralité.
+    Les avantages et ressources soumis à déclaration sont notamment les apports en fonds propres, les prêts, les subventions, les dons manuels, les mécénats de compétences, les prêts de main-d'œuvre, les dépôts et les contributions volontaires, qu'ils soient réalisés par ou sans l'intermédiaire d'un établissement de crédit, d'un établissement de monnaie électronique, d'un établissement de paiement ou d'un organisme ou service mentionné à l'article L. 518-1 du code monétaire et financier.
+    II. - Les avantages et ressources soumis à l'obligation de déclaration mentionnée au I du présent article sont les suivants :
+    1° Les avantages et ressources apportés directement à l'association bénéficiaire ;
+    2° Les avantages et ressources apportés à toute association ou à toute société sous contrôle exclusif, sous contrôle conjoint ou sous influence notable de l'association bénéficiaire, au sens des II et III de l'article L. 233-16 et de l'article L. 233-17-2 du code de commerce ;
+    3° Les avantages et ressources apportés à toute entité structurée ou organisée de manière telle que son activité est en fait exercée pour le compte de l'association bénéficiaire ou de toute association ou société mentionnée au 2° du présent II ;
+    4° Les avantages et ressources apportés aux associations, sociétés ou entités mentionnées aux 1°, 2° et 3° du présent II par l'intermédiaire d'une personne morale ou d'une fiducie sous contrôle exclusif, sous contrôle conjoint ou sous influence notable d'un Etat étranger ou d'une personne morale étrangère ou de tout dispositif juridique de droit étranger comparable à une fiducie ;
+    5° Les avantages et ressources apportés aux associations, sociétés ou entités mentionnées aux mêmes 1°, 2° et 3° par l'intermédiaire d'une personne morale, d'une fiducie ou d'une personne physique de manière telle qu'ils le sont en fait pour le compte d'un Etat étranger, d'une personne morale étrangère, de tout dispositif juridique de droit étranger comparable à une fiducie ou d'une personne physique non résidente en France.
+    Les fiducies et personnes morales de droit français mentionnées aux 2° à 5° du présent II assurent la certification de leurs comptes dans des conditions déterminées par décret en Conseil d'Etat, sans préjudice de l'application de l'article 4-1 de la loi n° 87-571 du 23 juillet 1987 sur le développement du mécénat.
+    III. - Lorsque les agissements de l'association bénéficiaire ou de l'un de ses dirigeants ou administrateurs établissent l'existence d'une menace réelle, actuelle et suffisamment grave affectant un intérêt fondamental de la société, l'autorité administrative peut s'opposer, après mise en œuvre d'une procédure contradictoire, au bénéfice des avantages et ressources mentionnés au I du présent article.
+    L'opposition peut être exercée dans les mêmes conditions lorsque constituent une menace de même nature les agissements de tout Etat étranger, organisme, entité, personne ou dispositif mentionné au II, ou de l'un de ses dirigeants, administrateurs, constituants, fiduciaires ou bénéficiaires.
+    IV. - Le non-respect de l'obligation de déclaration prévue au présent article est puni d'une amende de 3 750 euros, dont le montant peut être porté au quart de la somme sur laquelle a porté l'infraction. Les personnes physiques ou morales coupables de cette infraction encourent également, dans les conditions prévues à l'article 131-21 du code pénal, la peine complémentaire de confiscation de la valeur des avantages et ressources concernés.
+    En cas d'opposition formée par l'autorité administrative conformément au III du présent article, l'association bénéficiaire est tenue de restituer les avantages et ressources versés ou consentis. Le défaut de restitution dans un délai de trois mois est puni de deux ans d'emprisonnement et de 30 000 euros d'amende ainsi que d'une peine complémentaire de confiscation des avantages et ressources concernés.
+    Le fait pour un dirigeant, un administrateur ou un fiduciaire de ne pas respecter l'obligation prévue au dernier alinéa du II est puni de 9 000 euros d'amende.
+    V. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article, en particulier les conditions dans lesquelles les fiducies et les personnes morales de droit français mentionnées au dernier alinéa du II doivent assurer la certification de leurs comptes, notamment le montant des avantages et ressources à compter duquel s'applique l'obligation de certification.
+  texte_actuel_officiel: false
+  note: "Hors md. Décret d'application 2022-619 (JORFTEXT000045640484) ; décret 2026-726 du 1er août 2026 cite 79-VIII et 79-X (pas une modification). Aucune modification textuelle postérieure trouvée."
+  confiance: haute
+- article: "apres-79-IV (79-IX)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74 (I)"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Sans préjudice de l'article 910 du code civil, l'aliénation d'un local servant habituellement à l'exercice public d'un culte consentie directement ou indirectement à un Etat étranger, à une personne morale étrangère ou à une personne physique non résidente en France est subordonnée, à peine de nullité, à une déclaration préalable à l'autorité administrative.
+    L'autorité administrative peut s'opposer à l'aliénation, après mise en œuvre d'une procédure contradictoire, pour le motif mentionné au III de l'article 79-VIII du présent code. L'opposition à l'aliénation, formée dans des conditions fixées par décret en Conseil d'Etat, prive celle-ci d'effet.
+  texte_actuel_officiel: false
+  note: "Hors md."
+  confiance: haute
+- article: "apres-79-IV (79-X)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74 (I) ; art. 88 III (transitoire)"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Les associations inscrites à objet cultuel établissent des comptes annuels comprenant un bilan, un compte de résultat et une annexe. Ces comptes sont établis conformément à un règlement de l'Autorité des normes comptables, qui prévoit notamment la tenue d'un état séparé des avantages et ressources provenant d'un Etat étranger, d'une personne morale étrangère, d'un dispositif juridique de droit étranger comparable à une fiducie ou d'une personne physique non résidente en France. Elles établissent leurs comptes annuels de sorte que leurs activités en relation avec l'exercice public d'un culte constituent une unité fonctionnelle présentée séparément. Elles sont tenues de consacrer un compte ouvert dans un établissement mentionné à l'article L. 521-1 du code monétaire et financier à l'exercice de l'ensemble des transactions financières liées à leur activité d'exercice public du culte. Lorsqu'elles perçoivent des ressources collectées par un appel public à la générosité destiné à soutenir l'exercice du culte, elles sont soumises à l'article 4 de la loi n° 91-772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique, dans des conditions définies par un décret en Conseil d'Etat, qui fixe notamment le seuil à compter duquel le même article 4 s'applique.
+    Elles dressent également une liste des lieux dans lesquels elles organisent habituellement l'exercice public du culte.
+    Elles sont tenues de présenter les documents mentionnés aux deux premiers alinéas du présent article ainsi que le budget prévisionnel de l'exercice en cours sur demande du représentant de l'Etat dans le département.
+    Lorsqu'elles ont bénéficié, au cours de l'exercice comptable considéré, d'avantages ou de ressources mentionnés au I de l'article 79-VIII du présent code, elles assurent la certification de leurs comptes, sans préjudice de l'application de l'article 4-1 de la loi n° 87-571 du 23 juillet 1987 sur le développement du mécénat.
+    Elles assurent également la certification de leurs comptes :
+    1° Lorsqu'elles délivrent des documents tels que certificats, reçus, états, factures ou attestations permettant à un contribuable d'obtenir une réduction d'impôt en application des articles 200 et 238 bis du code général des impôts ;
+    2° Lorsque le montant des subventions publiques reçues annuellement dépasse un seuil défini par décret en Conseil d'Etat ;
+    3° Lorsque leur budget annuel dépasse un seuil défini par décret en Conseil d'Etat.
+    Elles établissent un traité d'apport lorsqu'elles reçoivent un apport en nature en pleine propriété, en jouissance, en usufruit ou en nue-propriété. Ce traité, qui est annexé aux comptes de l'exercice en cours, comporte une description précise de l'apport, sa valeur estimée et ses conditions d'affectation. Le cas échéant, il précise également la contrepartie pour l'apporteur et les conditions de reprise du bien.
+    Lorsque les associations collectent des dons par l'intermédiaire des opérations de paiement prévues au 2° du I des articles L. 521-3-1 et L. 525-6-1 du code monétaire et financier, elles sont tenues d'en faire la déclaration préalable au représentant de l'Etat dans le département ou dans la collectivité, dans les conditions prévues à l'article 3 de la loi n° 91-772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique.
+    Le contrôle financier est exercé sur les associations par le ministre chargé des finances et par l'inspection générale des finances.
+    Un décret en Conseil d'Etat détermine les modalités d'application du quatrième alinéa du présent article, y compris le montant des avantages et ressources à compter duquel s'applique l'obligation de certification.
+  texte_actuel_officiel: false
+  note: "Hors md. Art. 88 III de la loi : les associations préexistantes doivent s'y conformer au plus tard le 1er janvier suivant le premier exercice comptable complet postérieur à l'entrée en vigueur du décret en Conseil d'Etat prévu au même article 79-X. Décret 2022-1623 (JORFTEXT000046792527) : application."
+  confiance: haute
+- article: "apres-79-IV (79-XI)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74 (I)"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Est puni de 9 000 euros d'amende le fait, pour le dirigeant ou l'administrateur d'une association, de ne pas respecter les obligations prévues aux neuf premiers alinéas de l'article 79-X.
+    A la demande de toute personne ayant intérêt à agir au sens de l'article 31 du code de procédure civile, du ministère public ou du représentant de l'Etat dans le département dans lequel est situé le siège social de l'association, le président du tribunal judiciaire, statuant en référé, peut enjoindre sous astreinte aux dirigeants de l'association de produire les comptes annuels et les autres documents mentionnés à l'article 79-X du présent code. Le président du tribunal judiciaire peut, dans les mêmes conditions et à cette même fin, désigner un mandataire chargé d'effectuer ces formalités.
+  texte_actuel_officiel: false
+  note: "Hors md."
+  confiance: haute
+- article: "apres-79-IV (79-XII)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74 (I)"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Lorsqu'il constate qu'une association inscrite de droit local accomplit des actes en relation avec l'exercice public d'un culte sans que son objet le prévoie, le représentant de l'Etat dans le département met en demeure l'association, dans un délai qu'il fixe et qui ne peut être inférieur à un mois, de mettre son objet en conformité avec ses activités.
+    A l'expiration du délai prévu au premier alinéa, le représentant de l'Etat dans le département peut, si l'association n'a pas satisfait à la mise en demeure, prononcer une astreinte d'un montant maximal de 100 euros par jour de retard.
+    Un décret en Conseil d'Etat précise les conditions d'application du présent article.
+  texte_actuel_officiel: false
+  note: "Hors md. La même loi (art. 74 II) insère aussi les articles 167-1 à 167-7 du code pénal local (hors périmètre de ce fichier)."
+  confiance: haute
+
+# ---------- Fondations : loi du 1er juin 1924, art. 8 (maintien sous réserves) ----------
+- article: "80"
+  statut: modifie
+  date: 1924-06-03
+  source: "Loi du 1er juin 1924 mettant en vigueur la législation civile française, art. 7 (10°) et art. 8 al. 1 (LEGIARTI000006284008, en vigueur)"
+  jorf: ""
+  texte_actuel_officiel: false
+  note: "Art. 8 al. 1 : 'L'autorisation, la modification ou la suppression de la fondation prévues par les articles 80 et 87 du code civil local font l'objet d'un décret rendu en la forme d'un décret en Conseil d'Etat.' La traduction du md (autorisation de l'Etat confédéré / approbation du Conseil fédéral) est donc remplacée : l'autorisation relève d'un décret en Conseil d'Etat. Texte d'article reconstitué non fourni (réécriture non officielle). Entrée non datée à 2013 : modification de 1924, antérieure à la traduction."
+  confiance: haute
+- article: "82"
+  statut: modifie
+  date: 1924-06-03
+  source: "Loi du 1er juin 1924, art. 8 al. 2"
+  jorf: ""
+  texte_actuel_officiel: false
+  note: "Art. 8 al. 2 : 'Le transfert des biens à la fondation résulte du fait même de l'autorisation, à moins d'intention contraire du fondateur, et sous réserve de l'application du titre II, chapitre 3, de la présente loi.' (droits réels : livre foncier) Cette règle remplace/complète l'obligation du fondateur de transférer les biens (art. 82 md)."
+  confiance: haute
+- article: "83"
+  statut: modifie
+  date: 1924-06-03
+  source: "Loi du 1er juin 1924, art. 8 al. 3"
+  jorf: ""
+  texte_actuel_officiel: false
+  note: "Art. 8 al. 3 : 'Si la fondation est instituée par une disposition à cause de mort, le ministère public près le tribunal civil demande l'autorisation, lorsqu'elle n'est pas sollicitée par l'héritier ou l'exécuteur testamentaire.' Remplace 'le tribunal de la succession a charge d'obtenir l'autorisation' (art. 83 md) : désormais le ministère public (près le tribunal judiciaire)."
+  confiance: haute
+- article: "87"
+  statut: modifie
+  date: 1924-06-03
+  source: "Loi du 1er juin 1924, art. 8 al. 1"
+  jorf: ""
+  texte_actuel_officiel: false
+  note: "Transformation du but / suppression de la fondation par 'l'autorité compétente' (md) : décret en Conseil d'Etat (art. 8 al. 1)."
+  confiance: haute
+
+# ---------- Hypotheque / assurance ----------
+- article: "1127"
+  statut: modifie
+  date: 1924-06-03
+  source: "Loi du 1er juin 1924, art. 71 (en vigueur, jamais modifié)"
+  jorf: ""
+  texte_actuel_officiel: false
+  note: "Art. 71 : 'Les articles 1127 et 1128 du code civil local demeurent en vigueur ; leurs règles seront étendues au cas où l'objet assuré est grevé d'un privilège.' Le texte du md est donc en vigueur, avec extension aux privilèges (non à l'hypothèque seule). Précision : la loi 2002-306 (art. 36-1 loi 1924) ne maintient que 1105 al. 1, 1107, 1108 en matière de droits réels mais n'abroge pas l'art. 71 : 1127/1128 restent en vigueur (CORRECTION de ma première hypothèse d'abrogation, écartée après lecture du texte consolidé)."
+  confiance: haute
+- article: "1128"
+  statut: modifie
+  date: 1924-06-03
+  source: "Loi du 1er juin 1924, art. 71"
+  jorf: ""
+  texte_actuel_officiel: false
+  note: "Idem 1127 : en vigueur, règles étendues au cas où l'objet assuré est grevé d'un privilège. 'Livre foncier' : tenue régie par la loi du 1er juin 1924 (ch. III), réformée par la loi 2002-306 et l'ordonnance 2024-562 (non lue en détail pour ce point)."
+  confiance: haute
+
+# ---------- Tutelle des mineurs (livre IV) ----------
+- article: "1806"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 1 et 4 (abrogation des art. 15, 17, 19, 20, 21, 23 à 28 de la loi du 1er juin 1924)"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "L'art. 20 de la loi de 1924 (relu, version abrogée) maintenait le droit local pour 'les causes d'ouverture, l'organisation et le fonctionnement de la tutelle des enfants légitimes mineurs' ; l'art. 19 l'administration légale ; abrogés au 3 janvier 1991. La tutelle relève du droit français ; les tutelles ouvertes avant cette date restent régies par les anciennes règles jusqu'à la fin des fonctions (art. 4). Déduction, texte du CCL lui-même non modifié mot à mot : lecture par non-maintien."
+  confiance: moyenne
+- article: "1807"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 2 : 'Les dispositions particulières relatives aux placements autorisés applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle sont considérées comme non avenues à l'égard des mineurs ou des majeurs protégés.'"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Liste locale des placements pupillaires écartée (texte de l'art. 2 relu via get_law_article). Visé aussi par l'abrogation de l'art. 20 loi 1924."
+  confiance: haute
+- article: "1808"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 2"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Placements subsidiaires de fonds pupillaires : 'non avenues'."
+  confiance: haute
+- article: "1837"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 1 et 4"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Surveillance par le 'tribunal des tutelles' : régime local de tutelle des mineurs plus maintenu depuis le 3 janv. 1991 (art. 20 loi 1924 abrogé) ; transitoire pour les tutelles anciennes (art. 4). Déduction, voir 1806. Montant en marks sans objet."
+  confiance: moyenne
+- article: "1839"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 1 et 4"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Idem 1837."
+  confiance: moyenne
+- article: "1840"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 1 et 4"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Idem 1837 (reddition de compte)."
+  confiance: moyenne
+- article: "1841"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 1 et 4"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Idem 1837 (contenu du compte)."
+  confiance: moyenne
+- article: "1843"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 1 et 4"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Idem 1837 (examen du compte)."
+  confiance: moyenne
+- article: "1844"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 1 et 4 ; art. 20 loi 1924 (sûretés : 'sans préjudice de l'art. 2121 du code civil')"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Sûretés exigibles du tuteur : le régime français s'applique aux tutelles ouvertes depuis 1991 ; transitoire pour les anciennes (art. 4). Idem 1837."
+  confiance: moyenne
+- article: "1886"
+  statut: abroge
+  date: 1991-01-03
+  source: "Loi n° 90-1248 du 29 décembre 1990, art. 1 et 4"
+  jorf: JORFTEXT000000170394
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Destitution du tuteur par le 'tribunal des tutelles' : droit français depuis 1991 ; transitoire pour anciennes tutelles. Renvoi à l'art. 1781 (hors md). Idem 1837."
+  confiance: moyenne
+
+# ---------- Certificat d'heritier ----------
+- article: "2353"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 74 à 77 (art. 75 dans sa rédaction de l'ordonnance n° 2019-964 du 18 septembre 2019, art. 35 V) ; loi n° 2019-222 du 23 mars 2019, art. 95 (COJ art. L. 215-6)"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "Art. 74 : arts 2353 à 2368 maintenus en vigueur, 'sans déroger aux règles du droit français concernant l'étendue des pouvoirs des exécuteurs testamentaires'. Art. 75 (depuis le 1er janvier 2020) : 'Le certificat d'héritier est délivré par le juge du tribunal judiciaire de l'ouverture de la succession.' (versions antérieures : 'tribunal d'instance du lieu de l'ouverture' 1924-1994 ; 'tribunal d'instance de l'ouverture' 1994-2019). 'tribunal de la succession' (md) se lit donc 'juge du tribunal judiciaire' dans tout le livre V. Art. 76 (depuis 1991-01-03) ajoute des mentions obligatoires (légataires universels assimilés aux héritiers ; legs particuliers d'immeubles ; régime de communauté). Art. 77 : certificat valant certificat de notoriété. Texte non reformulé dans le CCL."
+  confiance: haute
+- article: "2356"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 75 (version 2020, ordonnance 2019-964 art. 35 V)"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "'tribunal de succession' se lit 'juge du tribunal judiciaire'. Art. 75 al. 2 : fausse déclaration faite 'dans les formes des articles 2356 et 2357' passible de 60 000 F (sic, non converti en euros dans le texte vu)."
+  confiance: haute
+- article: "2357"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 75"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "'tribunal de la succession' se lit 'juge du tribunal judiciaire'. Sanction pénale de l'art. 75 al. 2 (60 000 F)."
+  confiance: haute
+- article: "2358"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 75"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "'tribunal de la succession' = juge du tribunal judiciaire. La sommation publique renvoie à des règles de procédure locale (art. 80 loi 1924 : renvois du code de procédure local = règles françaises correspondantes)."
+  confiance: haute
+- article: "2359"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 75"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "'tribunal de la succession' = juge du tribunal judiciaire."
+  confiance: haute
+- article: "2360"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 75"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "'tribunal de la succession' = juge du tribunal judiciaire."
+  confiance: haute
+- article: "2361"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 75 et art. 80"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "'tribunal de la succession' = juge du tribunal judiciaire ; renvois au code de procédure civile (publication de la citation) : règles françaises correspondantes (art. 80 loi 1924, non vérifié point par point)."
+  confiance: moyenne
+- article: "2362"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 75"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "'tribunal de la succession' = juge du tribunal judiciaire."
+  confiance: haute
+- article: "2364"
+  statut: modifie
+  date: 1924-06-03
+  source: "Loi du 1er juin 1924, art. 74 (second alinéa)"
+  jorf: ""
+  texte_actuel_officiel: false
+  note: "'il n'est pas dérogé aux règles du droit français concernant l'étendue des pouvoirs des exécuteurs testamentaires' : le droit français l'emporte sur l'étendue des pouvoirs (2364, 2368). Le md dit 'testateur' pour 'exécuteur testamentaire' (coquille de traduction/typo, non corrigée)."
+  confiance: moyenne
+- article: "2366"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 75"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "'tribunal de la succession' = juge du tribunal judiciaire."
+  confiance: haute
+- article: "2368"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi du 1er juin 1924, art. 74 et 75"
+  jorf: JORFTEXT000039110186
+  texte_actuel_officiel: false
+  note: "'tribunal de la succession' = juge du tribunal judiciaire ; pouvoirs de l'exécuteur testamentaire : droit français (art. 74)."
+  confiance: haute
+
+# ---------- Transfert de competence tribunal d'instance -> tribunal judiciaire ----------
+- article: "tout"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi n° 2019-222 du 23 mars 2019, art. 95 (I 42° : titre II du livre II du COJ abrogé ; I 37° : COJ art. L. 215-6 créé) et art. 109 (XXIII) ; Décret n° 2023-105 du 17 février 2023"
+  jorf: JORFTEXT000038261631
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "L'art. 95 (relu en entier) supprime le tribunal d'instance et crée l'art. L. 215-6 COJ : 'Le tribunal judiciaire connaît : 1° De la tutelle, des administrations légales et des curatelles de droit local ; 2° Du partage judiciaire et de la vente judiciaire d'immeubles, des certificats d'héritier et des scellés ; 3° Des registres des associations et des registres des associations coopératives de droit local.' Les mentions 'tribunal d'instance' des art. 29, 37, 50, 55, 60, 61, 66, 69, 72, 73, 78, 79, 79-I se lisent 'tribunal judiciaire' ; 'tribunal de grande instance' (art. 62 de 2015) idem. Aucun texte ne réécrit littéralement ces articles du code civil local : lecture par transfert de compétence, pas modification textuelle."
+  confiance: moyenne

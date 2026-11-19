@@ -1,0 +1,27 @@
+- article: "tout"
+  statut: codifie
+  date: 1991-04-17
+  source: "Loi n° 91-363 du 15 avril 1991, art. 2, 3° ; décret n° 89-804 du 27 octobre 1989, art. 4 (liste « Loi locale du 2 juillet 1890 »)"
+  jorf: JORFTEXT000000526953
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Dispositions de nature législative remplacées par le code rural livre II (aujourd'hui C. env.). Effet sur les articles publiés en 2013 non établi."
+  confiance: a_verifier
+- article: "1er"
+  statut: abroge
+  date: 1989-11-04
+  source: "Décret n° 89-804 du 27 octobre 1989, art. 2 (« Loi locale du 2 juillet 1890 : Article 1er »)"
+  jorf: JORFTEXT000000336190
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Liste des espèces exclues de la loi de 1888 (renvoie à l'art. 8 de la loi de 1888, lui aussi abrogé). Texte de substitution non identifié."
+  confiance: moyenne
+- article: "2 (al. 2)"
+  statut: abroge
+  date: 1989-11-04
+  source: "Décret n° 89-804 du 27 octobre 1989, art. 2 (« Article 2, deuxième alinéa »)"
+  jorf: JORFTEXT000000336190
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Alinéa pénal (amende de 60 marks, détention simple de quatorze jours) des ordonnances ministérielles de protection des oiseaux."
+  confiance: moyenne

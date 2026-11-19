@@ -1,0 +1,36 @@
+{
+ "entries": [
+  {
+   "article": "3",
+   "placement": "heading",
+   "heading": "Article 3",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2020-01-01",
+   "source": "Loi n° 2019-222 du 23 mars 2019, art. 95 (I) : le tribunal de grande instance devient le tribunal judiciaire (COJ L. 211-1 s.)",
+   "jorf": "JORFTEXT000038261631",
+   "confiance": "moyenne",
+   "officiel": false,
+   "texte_actuel": "La taxation (art. 2) a lieu sans frais par ordonnance rendue par le président du\ntribunal judiciaire dans le ressort duquel le notaire a sa résidence ou a eu sa résidence\nau moment de l'établissement de l'acte. La décision doit être notifiée d'office par le greffe au\ndébiteur et au notaire, et communiquée au parquet par la production de la minute. L'ordonnance\npeut être frappée d'un pourvoi immédiat devant la Cour d'appel, dans un délai de deux semaines\nqui commence à courir à partir de la notification ou de la communication de la décision, qui\nstatue définitivement après avoir entendu le Ministère public. Le pourvoi est ouvert au débiteur,\nau notaire et au Ministère public, même s'ils n'étaient pas requérant. L'introduction d'un pourvoi\npeut être formée par procès-verbal du greffier ou adressée par écrit sans le concours d'un avocat.\nTout pourvoi subséquent est impossible.\n\nLes frais d'une décision de la Cour d'appel rendue sur pourvoi du Ministère public\ndemeurent dans tous les cas à la charge du Trésor.",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Reconstitution : seule la mention « Tribunal de grande instance » est remplacée par « tribunal judiciaire » (substitution générale au 1er janvier 2020). Aucun texte ne modifie littéralement cet article. Le texte reconstitué ne fait pas partie de la traduction officielle de 2013."
+  },
+  {
+   "article": "4",
+   "placement": "heading",
+   "heading": "Article 4",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2020-01-01",
+   "source": "Loi n° 2019-222 du 23 mars 2019, art. 95 (I) : le tribunal de grande instance devient le tribunal judiciaire (COJ L. 211-1 s.)",
+   "jorf": "JORFTEXT000038261631",
+   "confiance": "moyenne",
+   "officiel": false,
+   "texte_actuel": "L'ordonnance de taxe passée en force de chose jugée (art. 3) établie\ndéfinitivement le montant des honoraires et déboursés. L'ordonnance de taxe doit être déclarée\nexécutoire par le président du tribunal judiciaire à la requête du notaire. L'exécution\nforcée judiciaire a lieu en vertu de l'ordonnance déclarée exécutoire. Les objections portant sur\nl'obligation de payer doivent être produites par le débiteur par voie d'action judiciaire.",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Même substitution qu'à l'art. 3 (lecture par transfert, pas de modification littérale). Reconstitution hors traduction officielle de 2013."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+# Seconde passe d'audit (2026-11-19). Source lue : decret 66-807 du 28 octobre 1966 (LEGITEXT000006061378, arts 1 a 3, texte consolide lu via get_law_article).
+- article: "12 (1° et 3°)"
+  statut: abroge
+  date: 1966-11-03
+  source: "Décret n° 66-807 du 28 octobre 1966, art. 2 : sont abrogés « 9 (3°) et 12 (1° et 3°) de la loi locale du 15 novembre 1909 modifiée »"
+  jorf: LEGITEXT000006061378
+  texte_actuel: |
+    Le payement de la pension cesse:
+
+    2. Pour chacun des enfants, à l'expiration du mois au cours duquel il meurt ou accomplit
+       sa dix-huitième année ;
+  texte_actuel_officiel: true
+  note: "Abrogation explicite des points 1° (veuve : décès ou remariage) et 3° (filles mariées avant 18 ans) par le décret du 28 octobre 1966 (en vigueur le 1966-11-03), qui applique aux ayants cause des fonctionnaires du cadre local d'Alsace-Moselle tributaires du régime des lois des 17 mai 1907 et 15 novembre 1909 les art. L. 39 (dernier al.), L. 40 (al. 3 et 4), L. 41 (al. 1), L. 43 à L. 46 du code des pensions civiles et militaires de retraite, pour les droits ouverts après le 30 novembre 1964. Le md reproduit ces points abrogés. Les renvois de l'art. 13 à « l'article 12, n° 1 » et « nos 2 et 3 » sont à lire en conséquence. Le décret vise la loi locale du 15 novembre 1909 « modifiée » : texte modifiant antérieur à 1966 non recherché."
+  confiance: haute
+- article: "9 (3°)"
+  statut: abroge
+  date: 1966-11-03
+  source: "Décret n° 66-807 du 28 octobre 1966, art. 2"
+  jorf: LEGITEXT000006061378
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Le décret abroge le 3° de l'art. 9 ; le md ne comporte que les points 1° et 2° : le 3° est donc déjà absent de la traduction (texte d'origine du 3° non retrouvé, texte_origine laissé vide)."
+  confiance: haute
+- article: "tout"
+  statut: modifie
+  date: 1966-11-03
+  source: "Décret n° 66-807 du 28 octobre 1966, art. 1 et 2"
+  jorf: LEGITEXT000006061378
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Pour les droits à pension de réversion ouverts après le 30 novembre 1964, les art. L. 39 (dernier al.), L. 40 (al. 3-4), L. 41 (al. 1), L. 43, L. 44, L. 45 et L. 46 du code des pensions civiles et militaires de retraite s'appliquent aux ayants cause (veuves et orphelins) et l'art. 2 abroge toutes dispositions contraires des textes locaux antérieurs. Les art. 8 à 11 (montants, plafonds en marks, réduction pour différence d'âge) et 14 (suspension) sont vraisemblablement supplantés, mais cela n'a pas été confirmé article par article. Voir aussi décret 2003-1306 du 26 décembre 2003 (régime de retraite des fonctionnaires affiliés à la CNRACL, maintien d'un régime local par option) : non lu en détail."
+  confiance: a_verifier

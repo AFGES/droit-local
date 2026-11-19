@@ -1,0 +1,37 @@
+# Seconde passe d'audit (2026-11-19). Lecture par transfert de competence (loi 2019-222 art. 95, lue via get_law_article) ; aucun texte ne modifie litteralement la loi de 1899.
+- article: "3"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi n° 2019-222 du 23 mars 2019, art. 95 (I) : le tribunal de grande instance devient le tribunal judiciaire (COJ L. 211-1 s.)"
+  jorf: JORFTEXT000038261631
+  texte_actuel: |
+    La taxation (art. 2) a lieu sans frais par ordonnance rendue par le président du
+    tribunal judiciaire dans le ressort duquel le notaire a sa résidence ou a eu sa résidence
+    au moment de l'établissement de l'acte. La décision doit être notifiée d'office par le greffe au
+    débiteur et au notaire, et communiquée au parquet par la production de la minute. L'ordonnance
+    peut être frappée d'un pourvoi immédiat devant la Cour d'appel, dans un délai de deux semaines
+    qui commence à courir à partir de la notification ou de la communication de la décision, qui
+    statue définitivement après avoir entendu le Ministère public. Le pourvoi est ouvert au débiteur,
+    au notaire et au Ministère public, même s'ils n'étaient pas requérant. L'introduction d'un pourvoi
+    peut être formée par procès-verbal du greffier ou adressée par écrit sans le concours d'un avocat.
+    Tout pourvoi subséquent est impossible.
+
+    Les frais d'une décision de la Cour d'appel rendue sur pourvoi du Ministère public
+    demeurent dans tous les cas à la charge du Trésor.
+  texte_actuel_officiel: false
+  note: "Reconstitution : seule la mention « Tribunal de grande instance » est remplacée par « tribunal judiciaire » (substitution générale au 1er janvier 2020). Aucun texte ne modifie littéralement cet article. Le texte reconstitué ne fait pas partie de la traduction officielle de 2013."
+  confiance: moyenne
+- article: "4"
+  statut: modifie
+  date: 2020-01-01
+  source: "Loi n° 2019-222 du 23 mars 2019, art. 95 (I) : le tribunal de grande instance devient le tribunal judiciaire (COJ L. 211-1 s.)"
+  jorf: JORFTEXT000038261631
+  texte_actuel: |
+    L'ordonnance de taxe passée en force de chose jugée (art. 3) établie
+    définitivement le montant des honoraires et déboursés. L'ordonnance de taxe doit être déclarée
+    exécutoire par le président du tribunal judiciaire à la requête du notaire. L'exécution
+    forcée judiciaire a lieu en vertu de l'ordonnance déclarée exécutoire. Les objections portant sur
+    l'obligation de payer doivent être produites par le débiteur par voie d'action judiciaire.
+  texte_actuel_officiel: false
+  note: "Même substitution qu'à l'art. 3 (lecture par transfert, pas de modification littérale). Reconstitution hors traduction officielle de 2013."
+  confiance: moyenne

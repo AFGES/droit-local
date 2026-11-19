@@ -1,0 +1,27 @@
+- article: "tout"
+  statut: codifie
+  date: 1991-04-17
+  source: "Loi n° 91-363 du 15 avril 1991, art. 2, 3° (abroge les dispositions mentionnées aux articles 3 et 4 du décret n° 89-804 du 27 octobre 1989) ; décret n° 89-804, art. 4 (le code rural livre II se substitue aux dispositions de nature législative de la loi locale du 7 mai 1883)"
+  jorf: JORFTEXT000000526953
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Le décret 89-804 (JORFTEXT000000336190), art. 4, liste la loi locale du 7 mai 1883 parmi les textes dont les dispositions législatives sont remplacées par le livre II du code rural (aujourd'hui code de l'environnement, L. 429-1 et s.), et la loi 91-363 abroge les dispositions ainsi mentionnées. La traduction 2013 ne conserve que les articles 2 et 5 : les autres articles (1, 3, 4, 6 à 16) sont absents du md. Le décret 89-804, art. 2, déclasse en outre art. 1 al. 1, art. 4 al. 3, art. 7 al. 2-3, art. 12 al. 1, art. 13 al. 1, art. 14 al. 1, art. 15, art. 16 al. 1 (absents du md). Effet exact sur les art. 2 et 5 non établi : la CAA de Nancy, 11 mai 2000, n° 96NC02039, applique encore l'art. 2 après 1991."
+  confiance: a_verifier
+- article: "2"
+  statut: codifie
+  date: 1991-04-17
+  source: "Décret n° 89-804 du 27 octobre 1989, art. 4 ; loi n° 91-363 du 15 avril 1991, art. 2, 3° ; rapprocher code de l'environnement, art. L. 427-8 (version du 2016-08-10, loi n° 2016-1087, art. 157)"
+  jorf: JORFTEXT000000526953
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Équivalent général probable : C. env., L. 427-8 (un décret en Conseil d'Etat désigne l'autorité administrative compétente pour déterminer les espèces d'animaux susceptibles d'occasionner des dégâts que le propriétaire, possesseur ou fermier peut, en tout temps, détruire sur ses terres, et les conditions d'exercice de ce droit). L. 429-1 n'exclut pas L. 427-8 en Alsace-Moselle. Maintien de l'art. 2 de la loi locale non tranché (CAA Nancy 2000 l'applique). Texte actuel non reconstitué."
+  confiance: a_verifier
+- article: "5"
+  statut: codifie
+  date: 1991-04-17
+  source: "Décret n° 89-804 du 27 octobre 1989, art. 4 ; loi n° 91-363 du 15 avril 1991, art. 2, 3° ; rapprocher code de l'environnement, art. L. 427-6 et L. 427-7 (L. 427-6 modifié par loi n° 2026-796 du 18 août 2026, art. 39)"
+  jorf: JORFTEXT000000526953
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Équivalent général probable (battues administratives) : C. env., L. 427-6 (ordre du préfet après avis du DDAF et de la fédération des chasseurs ; version en vigueur au 2026-08-20) et L. 427-7. Ces articles ne sont pas exclus en Alsace-Moselle par L. 429-1. Le régime propre de l'art. 5 (injonction au titulaire de la chasse, battues aux frais du titulaire, interdiction pour lièvres et chevreuils) n'a pas été retrouvé tel quel dans le code. Reconstitution non faite."
+  confiance: a_verifier

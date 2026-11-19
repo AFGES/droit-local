@@ -1,10 +1,12 @@
 <script>
 try {
   document.documentElement.setAttribute('data-version', localStorage.getItem('version-texte') || 'orig');
+  document.documentElement.setAttribute('data-droit', localStorage.getItem('version-droit') === 'origine' ? 'origine' : 'actuel');
   var m = localStorage.getItem('monnaie');
   document.documentElement.setAttribute('data-monnaie', m === 'nf' || m === 'eur' ? m : 'af');
 } catch (e) {
   document.documentElement.setAttribute('data-version', 'orig');
+  document.documentElement.setAttribute('data-droit', 'actuel');
   document.documentElement.setAttribute('data-monnaie', 'af');
 }
 </script>

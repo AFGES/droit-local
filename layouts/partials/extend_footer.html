@@ -4,6 +4,7 @@
   <option value="eur">Euro</option>
 </select>
 <button id="toggle-version" type="button" aria-live="polite"></button>
+<button id="toggle-droit" type="button" aria-live="polite" hidden></button>
 <script>
 (function () {
     var b = document.getElementById('toggle-version'), h = document.documentElement;
@@ -23,5 +24,27 @@
       try { localStorage.setItem('monnaie', s.value); } catch (e) {}
     });
     label();
+
+    // Droit en vigueur / version de 2013 (bandeaux .modif, voir layouts/partials/fmmodif-entry.html).
+    var d = document.getElementById('toggle-droit');
+    if (document.querySelector('.modif')) {
+      d.hidden = false;
+      // Corps d'article remplacé : masqué en mode « droit en vigueur », jusqu'au prochain titre ou bandeau.
+      document.querySelectorAll('.modif[data-hide]').forEach(function (a) {
+        for (var n = a.nextElementSibling; n && !/^H[1-6]$/.test(n.tagName) && !n.classList.contains('modif'); n = n.nextElementSibling) {
+          n.classList.add('modif-orig-body');
+        }
+      });
+    }
+    function labelDroit() {
+      d.textContent = h.getAttribute('data-droit') === 'origine' ? 'Version 2013 : afficher le droit en vigueur' : 'Droit en vigueur : afficher la version 2013';
+    }
+    d.addEventListener('click', function () {
+      var v = h.getAttribute('data-droit') === 'origine' ? 'actuel' : 'origine';
+      h.setAttribute('data-droit', v);
+      try { localStorage.setItem('version-droit', v); } catch (e) {}
+      labelDroit();
+    });
+    labelDroit();
   })();
 </script>

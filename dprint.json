@@ -3,7 +3,7 @@
   },
   "markup": {
   },
-  "excludes": ["themes/**", "**/*.svg", "layouts/shortcodes/**", "layouts/partials/fm*.html", "layouts/_default/**"],
+  "excludes": ["audit/**", "themes/**", "**/*.svg", "layouts/shortcodes/**", "layouts/partials/fm*.html", "layouts/_default/**"],
   "plugins": [
     "https://plugins.dprint.dev/markdown-0.21.1.wasm",
     "https://plugins.dprint.dev/g-plane/markup_fmt-v0.26.0.wasm"

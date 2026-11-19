@@ -1,0 +1,52 @@
+{
+ "entries": [
+  {
+   "article": "9",
+   "placement": "heading",
+   "heading": "Article 9",
+   "scope": "full",
+   "statut": "abroge",
+   "date": "1996-02-24",
+   "source": "Loi n° 96-142 du 21 février 1996, art. 12, 22° (abrogation des articles 1er et 9 de la loi locale du 6 juin 1895)",
+   "jorf": "JORFTEXT000000559120",
+   "confiance": "a_verifier",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "L'article 9 figure en entier dans la liste d'abrogations du 22° de l'art. 12. Il figure pourtant dans la traduction 2013 : écart entre la liste de 1996 (numérotation) et le fichier md à vérifier sur Légifrance/IDL avant publication. Concordance : la suppléance du maire est aujourd'hui régie par CGCT L2122-17 (applicable en Alsace-Moselle, non exclu par L2541-1 : remplacement par un adjoint, à défaut par un conseiller désigné par le conseil ou pris dans l'ordre du tableau), ce qui est incompatible avec le texte local (conseiller désigné par le maire)."
+  },
+  {
+   "article": "19",
+   "placement": "heading",
+   "heading": "Article 19",
+   "scope": "full",
+   "statut": "abroge",
+   "date": "1996-02-24",
+   "source": "Loi n° 96-142 du 21 février 1996, art. 12, 22° (abrogation des articles 19 et 20 de la loi locale du 6 juin 1895)",
+   "jorf": "JORFTEXT000000559120",
+   "confiance": "a_verifier",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "L'article 19 figure en entier dans la liste d'abrogations (articles 19 et 20). Même réserve que pour l'article 9 : il figure dans la traduction 2013 ; correspondance de numérotation à vérifier."
+  },
+  {
+   "article": "70 (al. 2 et suivants)",
+   "placement": "heading",
+   "heading": "Article 70",
+   "scope": "partial",
+   "statut": "abroge",
+   "date": "1996-02-24",
+   "source": "Loi n° 96-142 du 21 février 1996, art. 12, 22° (« le d du 2° du premier alinéa, les deuxième, troisième et dernier alinéas de l'article 70 »)",
+   "jorf": "JORFTEXT000000559120",
+   "confiance": "a_verifier",
+   "officiel": false,
+   "texte_actuel": "Dans les affaires qui, aux termes de la présente loi, doivent être jugées par la voie de la\nprocédure contentieuse administrative, les dispositions suivantes sont applicables :\n\n1. Les demandes en fixation des limites litigieuses du territoire d’une commune (art. 8)\n   seront introduites par le maire avec l’autorisation de son conseil municipal ;\n2. Les oppositions contre les arrêtés du maire ou les décisions du conseil municipal\n   concernant l’usage des institutions et établissements publics de la commune ou la jouissance des\n   biens communaux (art. 54, alinéa 4) devront être formées dans les trois mois qui suivront le jour\n   où le maire aura rendu l’arrêté ou que le conseil aura pris la décision attaquée.",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Abrogation des alinéas 2, 3 et dernier de l'article 70 (et du d du 2° de l'alinéa 1) : le paragraphe du md « Si les demandes en fixation des limites litigieuses d'une commune intéressent deux districts, le conseil du troisième district statuera. » correspond très probablement au deuxième alinéa abrogé. texte_actuel = alinéa 1 du md avec ses deux points, retranché de ce paragraphe (reconstitution : identification de l'alinéa non confirmée par un texte). La procédure est de toute façon celle du CGCT / CJA (conseil de district disparu)."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "entries": [
+  {
+   "article": "3",
+   "placement": "heading",
+   "heading": "Article 3",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2001-06-24",
+   "source": "Arrêté du 29 mai 2001 modifiant l'arrêté du 9 mars 1903 relatif à la mise à la retraite non volontaire des pasteurs protestants, art. 1er, I",
+   "jorf": "JORFTEXT000000223706",
+   "confiance": "haute",
+   "officiel": false,
+   "texte_actuel": "Lorsque le pasteur, dans le délai de six semaines, ne soulève aucune objection à la notification (art. 2), il est procédé de la même manière que s'il avait lui-même demandé son admission à la retraite.\n\nLe traitement plein continue à être payé jusqu'à la fin du trimestre qui suit le mois au cours duquel la décision de sa mise à la retraite lui a été notifiée.",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Suppression, au premier alinéa, des mots « sous réserve de l'agrément du souverain du pays (chef de l'Etat) » (la virgule qui les précède dans la traduction 2013 tombe avec eux : reconstitution). Entrée en vigueur non précisée par l'arrêté : lendemain de publication supposé."
+  },
+  {
+   "article": "5",
+   "placement": "heading",
+   "heading": "Article 5",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2001-06-24",
+   "source": "Arrêté du 29 mai 2001, art. 1er, II",
+   "jorf": "JORFTEXT000000223706",
+   "confiance": "haute",
+   "officiel": false,
+   "texte_actuel": "La décision concluant à l'admission à la retraite requiert la ratification du ministre de l'intérieur.",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Seul le troisième alinéa est modifié (« souverain du pays (chef de l'Etat) » remplacé par « ministre de l'intérieur »). Les autres alinéas restent ceux de la traduction 2013. Le quatrième alinéa mentionnait déjà « ministre de l'intérieur »."
+  },
+  {
+   "article": "6",
+   "placement": "heading",
+   "heading": "Article 6",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2001-06-24",
+   "source": "Arrêté du 29 mai 2001, art. 1er, III",
+   "jorf": "JORFTEXT000000223706",
+   "confiance": "haute",
+   "officiel": false,
+   "texte_actuel": "En cas de ratification de la décision portant admission à la retraite, le plein traitement continue à être payé jusqu'à la fin du trimestre qui suit le mois au cours duquel a été notifiée au pasteur la décision du ministre de l'intérieur.",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "« souverain du pays (chef de l'Etat) » remplacé par « ministre de l'intérieur »."
+  },
+  {
+   "article": "7",
+   "placement": "heading",
+   "heading": "Article 7",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "1910-04-01",
+   "source": "Loi du 15 novembre 1909, art. 12 (abrogation de la loi du 6 juillet 1901) ; décret 2007-1341 du 11 septembre 2007 (pensions de l'Etat)",
+   "jorf": "",
+   "confiance": "a_verifier",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Renvoi à l'art. 3 de la loi du 6 juillet 1901, abrogée par l'art. 12 de la loi du 15 novembre 1909 (la pension relève désormais de l'art. 10 de la loi de 1909 modifiée par le décret 2007-1341). Effet implicite, aucun texte ne modifie formellement l'art. 7 de l'arrêté : à vérifier avant tout affichage. texte_actuel laissé vide."
+  }
+ ]
+}

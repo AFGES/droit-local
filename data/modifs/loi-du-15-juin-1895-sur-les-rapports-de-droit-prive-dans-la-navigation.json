@@ -1,0 +1,36 @@
+{
+ "entries": [
+  {
+   "article": "tout",
+   "placement": "page",
+   "heading": "",
+   "scope": "full",
+   "statut": "codifie",
+   "date": "2010-12-01",
+   "source": "Ordonnance n° 2010-1307 du 28 octobre 2010 relative à la partie législative du code des transports ; code des transports, art. L. 4471-1",
+   "jorf": "JORFTEXT000023025853",
+   "confiance": "moyenne",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "L'ancien art. 5 de la loi du 1er juin 1924 (maintien de la loi de 1895) est remplacé par L. 4471-1 CTransp : « Le transport fluvial sur le Rhin et le transport transfrontière au départ ou à destination d'un port ou lieu situé sur la Moselle entre Metz inclus et la frontière sont régis par la loi locale du 15 juin 1895 sur les rapports de droit privé dans la navigation intérieure et la législation locale relative à la responsabilité civile en matière de navigation intérieure. » Le champ d'application de la loi de 1895 est donc limité au Rhin et à la Moselle transfrontière ; le reste de la navigation intérieure relève du code des transports et du code civil. Antérieur à 2013 : la traduction 2013 reproduit l'intégralité de la loi sans mention de cette limite. Le détail article par article de ce qui reste applicable n'a pas été établi."
+  },
+  {
+   "article": "102",
+   "placement": "heading",
+   "heading": "Article 102",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2010-12-01",
+   "source": "Code des transports, art. L. 4122-23, L. 4122-25 et L. 4122-26 (ordonnance n° 2010-1307 du 28 octobre 2010)",
+   "jorf": "JORFTEXT000023025853",
+   "confiance": "moyenne",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Pour le bateau circulant habituellement sur le Rhin ou effectuant certains transports transfrontières sur la Moselle, L. 4122-23 CTransp fait primer, par dérogation à L. 4122-16, certaines créances (frais de conservation depuis la saisie, créances du contrat d'engagement du capitaine et de l'équipage pour six mois au plus, sauvetage et assistance et avaries communes, taxes de navigation et droits de port, indemnités d'abordage, lésions corporelles et pertes de cargaison) sur les privilèges du dernier alinéa du 3, des 4, 5 et 6 de l'article 102 de la loi de 1895. L. 4122-25 maintient le rang de ces privilèges et les règles de concours avec les hypothèques selon les articles 106 à 109 de la loi de 1895. L. 4122-26 fixe l'extinction des privilèges du 6° de L. 4122-23 (1° lésions corporelles : au plus tard le jour du dommage ; 2° perte ou avarie de cargaison : jour d'arrivée au port de déchargement ou jour où le créancier a su que le bateau a rompu le voyage ; 3° cas de la loi de 1895). Le texte de l'art. 102 n'est pas modifié littéralement : il s'agit d'une dérogation de rang et d'extinction. Les art. 106 à 109 restent applicables."
+  }
+ ]
+}

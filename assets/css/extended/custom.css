@@ -25,3 +25,31 @@ html[data-monnaie="nf"] .c-nf, html[data-monnaie="eur"] .c-eur { display: inline
     background: var(--entry); color: var(--primary); font-size: 14px;
 }
 html:not([data-version="actuel"]) #monnaie { display: none; }
+
+/* Droit en vigueur / version de 2013 : bandeaux des modifications (data/modifs, partial fmmodif-entry). */
+.modif {
+    margin: 8px 0 16px; padding: 8px 12px; border-left: 4px solid #b8860b;
+    background: var(--code-bg); border-radius: 4px; font-size: 0.95em;
+}
+.modif p { margin: 4px 0; }
+.modif-abroge, .modif-codifie, .modif-inconstitutionnel_differe { border-left-color: #b22222; }
+.modif-insere { border-left-color: #2e7d32; }
+.modif-c-a_verifier { border-left-style: dashed; }
+.modif-bandeau { font-size: 0.9em; }
+.modif-label { font-weight: 600; }
+.modif-badge {
+    margin-left: 6px; padding: 1px 6px; border-radius: 8px; font-size: 0.8em;
+    border: 1px solid var(--border); white-space: nowrap;
+}
+.modif-badge-warn { border-color: #b22222; }
+.modif details { margin: 4px 0; }
+.modif blockquote { margin: 6px 0; padding-left: 10px; }
+.modif-general { margin: 12px 0; padding: 8px 12px; border: 1px solid var(--border); border-radius: 6px; }
+.modif-extra-title { margin-bottom: 0; }
+html[data-droit="origine"] .modif-actuel, html[data-droit="origine"] .modif-solo-actuel { display: none; }
+html[data-droit="actuel"] .modif-origine, html[data-droit="actuel"] .modif-orig-body { display: none; }
+#toggle-droit {
+    position: fixed; right: 16px; bottom: 100px; z-index: 10;
+    padding: 8px 14px; border-radius: 20px; border: 1px solid var(--border);
+    background: var(--entry); color: var(--primary); cursor: pointer; font-size: 14px;
+}

@@ -1,0 +1,106 @@
+- article: "166"
+  statut: abroge
+  date: 2017-01-29
+  source: "Loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté, art. 172, 1°"
+  jorf: JORFTEXT000033934948
+  texte_origine: ""
+  texte_origine_allemand: |
+    Wer dadurch, daß er öffentlich in beschimpfenden Aeußerungen Gott lästert, ein Aergerniß gibt, oder wer öffentlich eine der christlichen Kirchen oder eine andere mit Korporationsrechten innerhalb des Bundesgebietes bestehende Religionsgesellschaft, oder deren Einrichtungen oder Gebräuche beschimpft, ingleichen wer in einer Kirche oder in einem anderen zu religiösen Versammlungen bestimmten Orte beschimpfenden Unfug verübt, wird mit Gefängniß bis zu drei Jahren bestraft.
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Blasphème (§ 166 du Strafgesetzbuch de 1871). Abrogé par la loi 2017-86, art. 172, 1° (vérifié via get_law_article, LEGIARTI000033938303). IMPORTANT : l'article 166 ne fait PAS partie de la traduction officielle de 2013 (décrets 2013-395 et 2013-776) : sa traduction n'a pas été publiée, ce qui explique son absence du fichier md. Le texte JORF des décrets (annexes) n'est pas dans la base justicelibre ; l'absence de traduction officielle repose sur une question écrite de l'Assemblée nationale (QE 81822, 14e législature, lue en ligne), non sur une lecture de l'annexe. Le texte allemand ci-dessus est l'original du Strafgesetzbuch de 1871 ; son début (« Wer dadurch, daß er öffentlich in beschimpfenden Aeußerungen Gott lästert, ein Aergerniß gibt, ») et la structure de la phrase (insulte publique d'une église chrétienne ou d'une société religieuse dotée de droits corporatifs ; tapage injurieux dans un lieu de culte ; Gefängniß bis zu trois ans) sont confirmés sur de.wikisource, mais la ponctuation et l'orthographe exactes n'ont pas été vérifiées mot à mot. Aucune traduction française officielle n'est donnée ici volontairement."
+  confiance: haute
+- article: "167"
+  statut: remplace
+  date: 2017-01-29
+  source: "Loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté, art. 172, 2°"
+  jorf: JORFTEXT000033934948
+  texte_actuel: |
+    Les articles 31 et 32 de la loi du 9 décembre 1905 concernant la séparation des Eglises et de l'Etat sont applicables.
+  texte_actuel_officiel: false
+  note: "Nouvelle rédaction de l'article 167 (renvoi aux articles 31 et 32 de la loi de 1905). Texte français de 2017, non issu de la traduction officielle de 2013. Le même article 172, 1°, abroge l'article 166 (blasphème), absent de la traduction 2013."
+  confiance: haute
+- article: "apres-167 (167-1)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République, art. 74, II"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Les réunions pour la célébration d'un culte dans les locaux appartenant à un établissement public du culte ou à une association à objet cultuel ou mis à leur disposition sont publiques. Elles sont dispensées des formalités prévues à l'article 8 de la loi du 30 juin 1881 sur la liberté de réunion, mais restent placées sous la surveillance des autorités dans l'intérêt de l'ordre public.
+
+    L'infraction au premier alinéa du présent article est punie de l'amende prévue pour les contraventions de la cinquième classe. Sont passibles de cette peine ceux qui ont organisé la réunion, ceux qui y ont participé en qualité de ministres du culte et ceux qui ont fourni le local.
+  texte_actuel_officiel: false
+  note: "Texte officiel de la loi de 2021 (pas de traduction 2013)."
+  confiance: haute
+- article: "apres-167 (167-2)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74, II"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Il est interdit de tenir des réunions politiques dans un local servant habituellement à l'exercice du culte ou dans les dépendances qui en constituent un accessoire indissociable. Il est également interdit d'y afficher, d'y distribuer ou d'y diffuser de la propagande électorale, que ce soit celle d'un candidat ou d'un élu.
+
+    Il est également interdit d'organiser des opérations de vote pour des élections politiques françaises ou étrangères dans un local servant habituellement à l'exercice du culte ou utilisé par un établissement public du culte ou par une association à objet cultuel.
+
+    Les délits prévus au présent article sont punis d'un an d'emprisonnement et de 15 000 euros d'amende.
+  texte_actuel_officiel: false
+  note: ""
+  confiance: haute
+- article: "apres-167 (167-3)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74, II"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Si un discours prononcé ou un écrit affiché ou distribué publiquement dans les lieux où s'exerce le culte contient une provocation à résister à l'exécution des lois ou aux actes légaux de l'autorité publique ou s'il tend à soulever ou à armer une partie des citoyens contre les autres, le ministre du culte qui s'en rend coupable est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende, sans préjudice des peines de la complicité dans le cas où la provocation est suivie d'une sédition, révolte ou guerre civile.
+  texte_actuel_officiel: false
+  note: ""
+  confiance: haute
+- article: "apres-167 (167-4)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74, II"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    En cas de condamnation en application des articles 167-1 à 167-3, l'établissement public du culte ou l'association constituée pour l'exercice du culte dans l'immeuble où l'infraction a été commise est civilement responsable, sauf si l'infraction a été commise par une personne non membre de l'établissement public du culte ou de l'association ou n'agissant pas à l'invitation de ces derniers et dans des conditions dont ils ne pouvaient avoir connaissance.
+  texte_actuel_officiel: false
+  note: ""
+  confiance: haute
+- article: "apres-167 (167-5)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74, II"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    La peine prévue au 12° de l'article 131-6 du code pénal est prononcée à la place de ou en même temps que la peine d'amende ou la peine d'emprisonnement prévue pour les délits définis aux articles 167 à 167-3 du présent code. Toutefois, la juridiction peut, par une décision spécialement motivée, décider de ne pas prononcer cette peine en considération des circonstances de l'infraction et de la personnalité de son auteur.
+  texte_actuel_officiel: false
+  note: ""
+  confiance: haute
+- article: "apres-167 (167-6)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74, II"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    Une personne condamnée pour l'une des infractions prévues aux articles 421-1 à 421-6 du code pénal ne peut diriger ou administrer un établissement public du culte ou une association à objet cultuel pendant une durée de dix ans à compter de la date à laquelle la condamnation est devenue définitive. Toutefois, pour les infractions mentionnées aux articles 421-2-5 et 421-2-5-1 du même code, cette durée est réduite à cinq ans.
+  texte_actuel_officiel: false
+  note: ""
+  confiance: haute
+- article: "apres-167 (167-7)"
+  statut: insere
+  date: 2021-08-26
+  source: "Loi n° 2021-1109 du 24 août 2021, art. 74, II"
+  jorf: JORFTEXT000043964778
+  texte_actuel: |
+    I. - Le représentant de l'Etat dans le département peut prononcer la fermeture temporaire des lieux de culte dans lesquels les propos qui sont tenus, les idées ou théories qui sont diffusées ou les activités qui se déroulent provoquent à la haine ou à la violence envers une personne ou un groupe de personnes ou tendent à justifier ou à encourager cette haine ou cette violence.
+
+    Cette fermeture, dont la durée doit être proportionnée aux circonstances qui l'ont motivée et ne peut excéder deux mois, est prononcée par arrêté motivé et précédée d'une procédure contradictoire dans les conditions prévues au chapitre II du titre II du livre Ier du code des relations entre le public et l'administration.
+
+    II. - Peuvent également faire l'objet d'une mesure de fermeture, selon les modalités prévues au second alinéa du I, les locaux dépendant du lieu de culte dont la fermeture est prononcée sur le fondement du même I et dont il existe des raisons sérieuses de penser qu'ils seraient utilisés pour faire échec à l'exécution de cette mesure. La fermeture de ces locaux prend fin à l'expiration de la mesure de fermeture du lieu de culte.
+
+    III. - L'arrêté de fermeture est assorti d'un délai d'exécution, qui ne peut être inférieur à quarante-huit heures, à l'expiration duquel la mesure peut faire l'objet d'une exécution d'office. Toutefois, si une personne y ayant un intérêt a saisi le tribunal administratif, dans ce délai, d'une demande présentée sur le fondement de l'article L. 521-2 du code de justice administrative, la mesure ne peut être exécutée d'office avant que le juge des référés ait informé les parties de la tenue ou de l'absence de tenue d'une audience publique en application du deuxième alinéa de l'article L. 522-1 du même code ou, si les parties ont été informées d'une telle audience, avant que le juge ait statué sur la demande.
+
+    IV. - La violation d'une mesure de fermeture d'un lieu de culte ou d'un lieu en dépendant prise en application du présent article est punie de six mois d'emprisonnement et de 7 500 euros d'amende.
+  texte_actuel_officiel: false
+  note: ""
+  confiance: haute

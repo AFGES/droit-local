@@ -1,0 +1,15 @@
+{{- /* End of a text page: entries without a matching article heading. */ -}}
+{{- $slug := .File.ContentBaseName -}}
+{{- with index site.Data.modifs $slug }}
+{{- $extra := where .entries "placement" "extra" }}
+{{- if $extra }}
+<section class="modif-extra">
+  <h2 id="dispositions-hors-traduction">Dispositions absentes de la traduction de 2013</h2>
+  <p>Articles insérés, abrogés ou modifiés qui ne figurent pas dans la traduction publiée en 2013.</p>
+  {{- range $extra }}
+  <h3 class="modif-extra-title">Article {{ .article }}</h3>
+  {{ partial "fmmodif-entry.html" (dict "e" . "inline" false) }}
+  {{- end }}
+</section>
+{{- end }}
+{{- end }}

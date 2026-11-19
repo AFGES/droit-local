@@ -1,0 +1,52 @@
+{
+ "entries": [
+  {
+   "article": "2 à 6 (absents du md)",
+   "placement": "extra",
+   "heading": "",
+   "scope": "full",
+   "statut": "abroge",
+   "date": "1992-03-29",
+   "source": "Décret n° 92-278 du 24 mars 1992 modifiant le décret du 26 mars 1852 sur l'organisation des cultes protestants, art. 6, II",
+   "jorf": "JORFTEXT000000162799",
+   "confiance": "haute",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Le décret dispose que « cessent de recevoir application les dispositions réglementaires locales du 7 juillet 1894 (art. 2 à 6) relatives à la procédure de nomination des pasteurs et des inspecteurs ecclésiastiques dans l'Eglise de la confession d'Augsbourg » (formule « cessent de recevoir application », rendue ici par statut abroge). Publié au JORF du 28 mars 1992 ; entrée en vigueur non précisée (lendemain supposé). Article 1er et 7 à 10 restent dans le md. La traduction de 2013 omet déjà ces articles."
+  },
+  {
+   "article": "1",
+   "placement": "heading",
+   "heading": "Article 1",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2001-01-14",
+   "source": "Décret n° 92-278 du 24 mars 1992, art. 2 à 5 (nomination des pasteurs sur proposition du conseil presbytéral) ; décret n° 2001-31 du 10 janvier 2001, art. 12, VIII et IX",
+   "jorf": "JORFTEXT000000162799",
+   "confiance": "a_verifier",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Effet IMPLICITE, aucun texte ne modifie l'art. 1er : le décret de 1852 (art. 11, 2e alinéa, rédaction de 1992) fait nommer les pasteurs de la confession d'Augsbourg par le directoire « sur proposition du conseil presbytéral », sous approbation du Gouvernement (puis du préfet, décret 2019-1330 art. 4, 5°) ; la liste de proposition établie par le directoire (art. 1er de l'ordonnance, art. 7 et 8 sur les candidats et sermons d'essai) est vraisemblablement caduque. A faire confirmer ; texte_actuel laissé vide."
+  },
+  {
+   "article": "9",
+   "placement": "heading",
+   "heading": "Article 9",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2001-01-14",
+   "source": "Décret n° 2001-31 du 10 janvier 2001, art. 12, IX (décret du 26 mars 1852, art. 12 : inspecteurs ecclésiastiques « nommés par les assemblées d'inspection sauf opposition du ministre de l'intérieur dans un délai de deux mois ») ; décret 2019-1330, art. 4, 5° (préfet)",
+   "jorf": "JORFTEXT000000754516",
+   "confiance": "a_verifier",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Effet IMPLICITE : l'art. 9 de l'ordonnance (« Le gouvernement procède à la nomination [de l'inspecteur ecclésiastique] au vu de la liste... transmise par le directoire ») est en contradiction avec l'art. 12 du décret de 1852 modifié en 2001 (nomination par l'assemblée d'inspection, opposition ministérielle sous 2 mois). Aucune abrogation expresse trouvée. texte_actuel laissé vide."
+  }
+ ]
+}

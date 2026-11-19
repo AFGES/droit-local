@@ -1,0 +1,20 @@
+{{- /* Page /textes/modifications/ : liste des textes ayant au moins une entrée dans data/modifs. */ -}}
+{{ define "main" }}
+<header class="page-header">
+  {{ partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{ with .Description }}<div class="post-description">{{ . }}</div>{{ end }}
+</header>
+<div class="post-content">
+  {{ .Content }}
+  <h2 id="textes-concernes">Textes concernés</h2>
+  <ul>
+  {{- range sort (where site.RegularPages "Section" "textes") "Title" }}
+    {{- $p := . }}
+    {{- with index site.Data.modifs $p.File.ContentBaseName }}
+    <li><a href="{{ $p.RelPermalink }}">{{ $p.Title }}</a> : {{ len .entries }} modification(s)</li>
+    {{- end }}
+  {{- end }}
+  </ul>
+</div>
+{{ end }}

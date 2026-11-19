@@ -1,0 +1,36 @@
+{{- /* Banner for one audit entry. dict: e (entry), inline (bool: follows an article heading). */ -}}
+{{- $e := .e -}}
+{{- $labels := dict "modifie" "Modifié" "remplace" "Remplacé" "abroge" "Abrogé" "insere" "Inséré" "codifie" "Repris dans un autre texte" "inconstitutionnel_differe" "Déclaré inconstitutionnel, abrogation effective" -}}
+{{- /* Original body is hidden in "droit en vigueur" mode only for a full, certain (haute) abrogation, codification or replacement.
+       "modifie" and "inconstitutionnel_differe" (usually one alinéa or phrase) never hide it. */ -}}
+{{- $removes := in (slice "abroge" "codifie" "inconstitutionnel_differe") $e.statut -}}
+{{- $replaces := or (in (slice "abroge" "codifie") $e.statut) (and (eq $e.statut "remplace") (ne $e.texte_actuel "")) -}}
+{{- $effective := or (eq $e.date "") (le (time $e.date) now) -}}
+{{- $sure := eq $e.confiance "haute" -}}
+{{- $hide := and .inline (eq $e.scope "full") $sure $replaces $effective -}}
+<aside class="modif modif-{{ $e.statut }} modif-c-{{ $e.confiance }}{{ if not .inline }} modif-extra-item{{ end }}{{ if and (not .inline) (eq $e.statut "insere") }} modif-solo-actuel{{ end }}"{{ if $hide }} data-hide="1"{{ end }}>
+  <p class="modif-bandeau">
+    <strong>{{ index $labels $e.statut }}</strong>{{ with $e.date }} le {{ time.Format site.Params.dateFormat . }}{{ end }}
+    {{- with $e.source }} · {{ . }}{{ end }}
+    {{- with $e.jorf }}{{ if hasPrefix . "JORFTEXT" }} · <a href="https://www.legifrance.gouv.fr/jorf/id/{{ . }}" rel="noopener">Légifrance</a>{{ end }}{{ end }}
+    {{- if eq $e.confiance "moyenne" }}<span class="modif-badge">à confirmer</span>{{ end }}
+    {{- if eq $e.confiance "a_verifier" }}<span class="modif-badge modif-badge-warn">non confirmé</span>{{ end }}
+  </p>
+  {{- if and (not .inline) (ne $e.texte_origine "") }}
+  <div class="modif-origine"><p class="modif-label">Texte d'origine (traduction officielle de 2013)</p>{{ $e.texte_origine | markdownify }}</div>
+  {{- end }}
+  {{- if and (not .inline) (ne $e.texte_origine_allemand "") }}
+  <div class="modif-origine"><p class="modif-label">Version d'origine, en allemand (<em>Strafgesetzbuch</em> de 1871). Elle ne fait pas partie de la traduction officielle de 2013 : aucune traduction française officielle n'en a été publiée.</p><blockquote lang="de">{{ $e.texte_origine_allemand | markdownify }}</blockquote></div>
+  {{- end }}
+  {{- if and $removes $sure }}
+  <div class="modif-actuel"><p class="modif-label">{{ if eq $e.statut "codifie" }}Dispositions reprises dans une autre norme{{ else if eq $e.statut "inconstitutionnel_differe" }}Disposition censurée : le texte de 2013 reste affiché, voir la décision citée{{ else if eq $e.scope "partial" }}Passage supprimé (texte ci-dessus){{ else }}Texte abrogé{{ end }}.</p>{{ if not (or (eq $e.scope "partial") (eq $e.statut "inconstitutionnel_differe")) }}{{ with $e.texte_actuel }}{{ . | markdownify }}{{ end }}{{ end }}</div>
+  {{- else if $removes }}
+  <div class="modif-actuel"><p class="modif-label">Abrogation probable, non confirmée.</p></div>
+  {{- else if ne $e.texte_actuel "" }}
+  {{- if $sure }}
+  <div class="modif-actuel"><p class="modif-label">{{ if eq $e.scope "partial" }}Rédaction modifiée{{ else }}Rédaction en vigueur{{ end }}{{ if not $e.officiel }} <span class="modif-badge">hors traduction officielle de 2013</span>{{ end }}</p>{{ $e.texte_actuel | markdownify }}</div>
+  {{- else }}
+  <details class="modif-actuel"><summary>Rédaction possible, non confirmée <span class="modif-badge">hors traduction officielle de 2013</span></summary>{{ $e.texte_actuel | markdownify }}</details>
+  {{- end }}
+  {{- end }}
+</aside>

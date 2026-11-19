@@ -1,0 +1,52 @@
+{
+ "entries": [
+  {
+   "article": "1er",
+   "placement": "heading",
+   "heading": "Article 1er",
+   "scope": "full",
+   "statut": "inconstitutionnel_differe",
+   "date": "2026-07-01",
+   "source": "Conseil constitutionnel, décision n° 2025-1145 QPC du 2 juillet 2025 (École Mathias Grünewald et autre), art. 1er et 2, §§ 18 à 20",
+   "jorf": "JORFTEXT000051837257",
+   "confiance": "haute",
+   "officiel": false,
+   "texte_actuel": "Tout ce qui concerne l’enseignement primaire et secondaire est placé sous la surveillance\net la direction des autorités de l’Etat.\n\nLes dispositions existantes relatives à la surveillance locale de l’enseignement primaire\nresteront en vigueur jusqu’à nouvel ordre.\n\nL’autorisation de l’Etat est nécessaire :\n\n1. Pour donner l’enseignement à titre professionnel ou dans un but lucratif ;\n2. Pour ouvrir une école.\n\nToute école peut être fermée par les autorités administratives lorsqu’elle ne se conforme\npas aux prescriptions officielles en ce qui concerne l’organisation et le programme.",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Le Conseil constitutionnel a déclaré contraire à la Constitution le 3° (« Pour engager un maître dans une école », désigné par la décision comme « sixième alinéa » de l'article 1er) pour atteinte à la liberté de l'enseignement (régime d'autorisation insuffisamment encadré). Abrogation reportée au 1er juillet 2026 ; mesures prises avant cette date non contestables sur ce fondement. Aucune loi de remplacement ou d'harmonisation trouvée au JORF au 2026-11-19 : le 3° est donc réputé abrogé depuis le 1er juillet 2026 (texte_actuel reconstitué en conséquence). Aucune autre disposition de l'article 1er n'est visée."
+  },
+  {
+   "article": "2",
+   "placement": "heading",
+   "heading": "Article 2",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2021-08-26",
+   "source": "Loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République, art. 103 (complétant l'art. L. 481-1 du code de l'éducation) et art. 53 (art. L. 441-4)",
+   "jorf": "JORFTEXT000043964778",
+   "confiance": "a_verifier",
+   "officiel": false,
+   "texte_actuel": "Quiconque, sans l’autorisation prévue à l’article 1er, donne l’enseignement à titre\nprofessionnel ou dans un but lucratif, engage un maître dans une école tenue ou dirigée par\nlui, et aussi quiconque continue à donner ou à faire donner l’enseignement dans une école\nfermée pour non-observation des règlements officiels, sera condamné à une amende de 100\nthalers (300 marks) au maximum.\n\nLe fait d’ouvrir un établissement d’enseignement privé sans en avoir préalablement obtenu\nl’autorisation délivrée par les autorités compétentes est puni des peines prévues à l’article\nL. 441-4 du code de l’éducation (un an d’emprisonnement et 15 000 euros d’amende ; peine\ncomplémentaire d’interdiction d’ouvrir et de diriger un établissement scolaire ainsi que d’y\nenseigner).",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Reconstitution interprétative (a_verifier par le relecteur) : l'art. L. 481-1 al. 3 du code de l'éducation (rédaction du 26 août 2021) punit désormais l'ouverture sans autorisation d'un établissement privé des peines de l'art. L. 441-4, ce qui se substitue à l'amende locale pour ce seul cas ; les autres infractions de l'article 2 ne sont pas expressément abrogées. L'al. 2 de L. 481-1 permet aussi de fonder les décisions d'ouverture et sur les personnes qui y exercent sur la prévention de toute ingérence étrangère ou la protection des intérêts fondamentaux de la Nation (complète l'autorisation de l'article 1er, 2°). Texte exact de la loi du 24 août 2021 non relu intégralement (lu via LEGI : art. 103 modifie L. 441-1 et L. 481-1). Seconde passe : L. 481-1 al. 3 relu (version en vigueur au 2021-08-26) ; la substitution de peines est une inférence non confirmée par un texte ; de plus, depuis la décision 2025-1145 QPC (effet 2026-07-01), le grief « engage un maître » vise une autorisation (art. 1er 3°) abrogée : la mention reste dans le texte local mais est privée de base. Le texte_actuel ci-dessus est donc une reconstitution (ouvre une école retiré, alinéa L. 441-4 ajouté), pas la traduction officielle."
+  },
+  {
+   "article": "tout",
+   "placement": "page",
+   "heading": "",
+   "scope": "full",
+   "statut": "codifie",
+   "date": "2000-06-22",
+   "source": "Code de l'éducation, art. L. 481-1 (maintien en vigueur des dispositions particulières régissant l'enseignement dans le Bas-Rhin, le Haut-Rhin et la Moselle), rédaction issue de la loi n° 2021-1109 du 24 août 2021, art. 103",
+   "jorf": "JORFTEXT000043964778",
+   "confiance": "haute",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Pas de transfert : la loi reste du droit local maintenu par L. 481-1. Entrée informative (maintien confirmé et complété en 2021)."
+  }
+ ]
+}

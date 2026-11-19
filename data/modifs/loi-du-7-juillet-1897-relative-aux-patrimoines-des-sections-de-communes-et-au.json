@@ -1,0 +1,52 @@
+{
+ "entries": [
+  {
+   "article": "7 (al. 1 et al. 4)",
+   "placement": "heading",
+   "heading": "Article 7",
+   "scope": "partial",
+   "statut": "abroge",
+   "date": "1996-02-24",
+   "source": "Loi n° 96-142 du 21 février 1996, art. 12 (23°) : sont abrogés « les premier et quatrième alinéas de l'article 7 de la loi locale du 7 juillet 1897 »",
+   "jorf": "JORFTEXT000000559120",
+   "confiance": "moyenne",
+   "officiel": true,
+   "texte_actuel": "Chaque conseil municipal nommera dans son sein, au vote secret, le nombre de délégués\nfixé par l'arrêté du président de district. Sont nommés les membres du conseil qui obtiennent le\nplus grand nombre de voix.\n\nLe président de la commission sera nommé parmi les membres par l'autorité de\nsurveillance.\n\nL'autorité de surveillance pourra suspendre ou révoquer le président de la commission.",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Abrogés : le 1er alinéa (institution de la commission syndicale par arrêté du président de district, à la requête d'une commune) et le 4e alinéa (dissolution de la commission par arrêté). Le régime est désormais celui du CGCT, art. L. 5222-1 s. (L. 5222-1 : commission syndicale instituée par arrêté du préfet, présidée par un syndic élu). Les alinéas restants (2, 3 et 5 du md) sont conservés tels quels dans la traduction, mais le CGCT L. 5222-1 (président = syndic élu parmi les délégués) est en tension avec l'al. 3 (président nommé par l'autorité de surveillance) : à vérifier. La numérotation des alinéas de la loi de 1996 est celle du texte local ; la correspondance avec les paragraphes du md (1er = institution, 4e = dissolution) est déduite du contenu. Le md reproduit ces alinéas abrogés."
+  },
+  {
+   "article": "11 (al. 2, deuxième phrase)",
+   "placement": "heading",
+   "heading": "Article 11",
+   "scope": "partial",
+   "statut": "abroge",
+   "date": "1996-02-24",
+   "source": "Loi n° 96-142 du 21 février 1996, art. 12 (23°) : est abrogée « la deuxième phrase du deuxième alinéa de l'article 11 de la loi locale du 7 juillet 1897 »",
+   "jorf": "JORFTEXT000000559120",
+   "confiance": "a_verifier",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Le md présente l'article 11 en deux alinéas d'une phrase chacun ; la deuxième phrase du 2e alinéa visée par la loi de 1996 n'est donc pas identifiable avec certitude (probablement la règle de compétence du Ministère pour des communes de districts différents, ou une phrase fusionnée dans la traduction). Abrogation certaine, objet exact à confirmer sur le texte allemand ou le texte local numéroté."
+  },
+  {
+   "article": "tout",
+   "placement": "page",
+   "heading": "",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "1996-02-24",
+   "source": "Loi n° 96-142 du 21 février 1996, art. 12 (23°)",
+   "jorf": "JORFTEXT000000559120",
+   "confiance": "a_verifier",
+   "officiel": false,
+   "texte_actuel": "",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "La même disposition abroge les deux premières phrases de l'art. 1er, les al. 1 et 2 de l'art. 5, l'art. 6 et l'art. 8 : ces articles sont absents du md (la traduction 2013 ne les contient pas, texte d'origine non retrouvé dans les décrets 2013-395/2013-776 lus par extraits : texte_origine laissé vide). Les renvois des art. 9, 10 et 12 (articles 56 à 58 et 70 à 73 de la loi du 18 juillet 1837, art. 73 et 76 de la loi communale de 1895) concernent des textes largement abrogés ou codifiés dans le CGCT (livre V, partie 2, titre IV pour les communes d'Alsace-Moselle) : non vérifié article par article."
+  }
+ ]
+}

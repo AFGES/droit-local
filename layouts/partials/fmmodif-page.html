@@ -1,0 +1,10 @@
+{{- /* Top of a text page: general notice and entries targeting the whole text. */ -}}
+{{- $slug := .File.ContentBaseName -}}
+{{- with index site.Data.modifs $slug }}
+<div class="modif-general">
+  <p>Ce texte a été modifié, abrogé ou complété depuis sa traduction de 2013 : les changements sont signalés article par article. Le bouton en bas à droite permet d'afficher le <strong>droit en vigueur</strong> ou la <strong>version de 2013</strong>. Information indicative et non officielle ; les rédactions « en vigueur » sont reconstituées à partir des textes modificatifs publiés au Journal officiel (<a href="{{ relref $ "/textes/modifications/" }}">méthode et liste des textes concernés</a>).</p>
+  {{- range .entries }}{{ if eq .placement "page" }}
+  {{ partial "fmmodif-entry.html" (dict "e" . "inline" false) }}
+  {{- end }}{{ end }}
+</div>
+{{- end }}

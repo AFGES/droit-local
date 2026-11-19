@@ -1,0 +1,8 @@
+{{- /* Default heading + banners of data/modifs/<texte>.json attached to "Article N" headings. */ -}}
+{{- $text := .Text | plainify | htmlUnescape | strings.TrimSpace -}}
+<h{{ .Level }} id="{{ .Anchor | safeURL }}">{{ .Text | safeHTML }}</h{{ .Level }}>
+{{- with .Page.File }}{{ with index site.Data.modifs .ContentBaseName }}
+{{- range where .entries "placement" "heading" }}{{ if eq .heading $text }}
+{{ partial "fmmodif-entry.html" (dict "e" . "inline" true) }}
+{{- end }}{{ end }}
+{{- end }}{{ end -}}

@@ -1,0 +1,7 @@
+# Couverture seconde passe : code pénal local du 15 mai 1871
+
+- Art. 166 (blasphème) : entrée ajoutée (abrogé 2017-01-29, loi 2017-86 art. 172 1°, relu via get_law_article). Pas dans la traduction officielle 2013 : texte français jamais publié par les décrets 2013-395/2013-776 (source : QE AN n° 81822, 14e lég. ; annexes JORF absentes de justicelibre, non relues). Texte original allemand de 1871 consigné dans `texte_origine_allemand` (orthographe exacte à vérifier). texte_origine français laissé vide volontairement.
+- Art. 167 : remplacé 2017 (texte de 1905 art. 31-32), 167-1 à 167-7 insérés 2021 : relus, conservés, `texte_actuel_officiel: false` ajouté.
+- Art. 128, 129, 130a, 361 : aucune modification trouvée (recherches JORF plein texte "code pénal local", articles par numéro, CASE_LAW : que du bruit). Non vérifié : modifications pré-2013 éventuelles (ordonnance 2000-916, loi 92-683 d'adaptation, lois 1994), abrogation implicite par le code pénal de 1994, vérification de 361 (n° 9 / marks), décision 2021-823 DC.
+- Loi 2003-709 (JORFTEXT000000791289) lue : art. 17 à 21 modifient le code civil local (assoc.), pas le code pénal local. Hors périmètre ici, à répercuter sur code-civil-local-du-18-aout-1896-extraits (art. 21, 25, 42, 54, 61, 63, 77, 79-I à 79-III, abrogation 23, 44, etc.).
+- Limite : les annexes des décrets de 2013 ne sont pas dans la base, donc aucun texte_origine français recopiable.

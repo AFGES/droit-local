@@ -1,0 +1,36 @@
+{
+ "entries": [
+  {
+   "article": "2",
+   "placement": "heading",
+   "heading": "Article 2",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2018-07-21",
+   "source": "Décret n° 2018-635 du 18 juillet 2018 relatif à l'organisation des cultes protestants et au chapitre de la fondation Saint-Thomas, art. 3",
+   "jorf": "JORFTEXT000037226114",
+   "confiance": "moyenne",
+   "officiel": false,
+   "texte_actuel": "Le chapitre de la fondation Saint-Thomas se composera de onze membres, à savoir :\n\n1. Le président du directoire de l’église de la confession d’Augsbourg ;\n2. 2-4. Le pasteur le plus ancien de chacune des églises protestantes de :\n\n   - Saint-Thomas,\n   - Sainte-Aurélie,\n   - Saint-Nicolas,\n\n   à Strasbourg ;\n3. 5-8. Quatre professeurs titulaires, de religion protestante, près l’Université de\n   Strasbourg, à savoir les deux plus anciens professeurs de la faculté de théologie protestante, le\n   plus ancien professeur titulaire de la faculté de droit, le plus ancien professeur titulaire de la\n   faculté de philosophie. Pour déterminer l’ancienneté on s’en rapportera à l’époque de la\n   nomination comme professeur titulaire auxdites facultés de l’Université de Strasbourg ; en cas de\n   nomination simultanée, la priorité de nomination comme professeur titulaire dans une faculté\n   quelconque décidera et, en cas de parité, le plus âgé sera préféré.\n4. 9-11. Trois chanoines qui seront nommés par le directoire de l’église de la confession\n   d’Augsbourg, sur la présentation du chapitre ;",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Décret 2018-635 art. 3 : à l'antépénultième alinéa, « 9-10 » devient « 9-11 » et « Deux chanoines » devient « Trois chanoines » ; « les deux derniers alinéas sont supprimés » (le point 11, chanoine nommé par le président supérieur, et l'alinéa final sur la religion protestante et la résidence à Strasbourg des chanoines). Le pouvoir de nomination du gouvernement est supprimé. Application littérale du décret aux alinéas de la traduction 2013 ; la ponctuation finale du point 9-11 est reconstituée. Le texte consolidé officiel n'a pas été relu."
+  },
+  {
+   "article": "3",
+   "placement": "heading",
+   "heading": "Article 3",
+   "scope": "full",
+   "statut": "modifie",
+   "date": "2018-07-21",
+   "source": "Décret n° 2018-635 du 18 juillet 2018, art. 4",
+   "jorf": "JORFTEXT000037226114",
+   "confiance": "haute",
+   "officiel": false,
+   "texte_actuel": "Les membres désignés à l’article 2 sous 5 à 8 seront maintenus même après leur\nadmission à l’éméritat.\n\nLes membres désignés à l’article 2 sous 9 à 11 sont nommés à vie.",
+   "texte_origine": "",
+   "texte_origine_allemand": "",
+   "note": "Dans le dernier alinéa, « 9 et 10 » devient « 9 à 11 » ; la fin de phrase sur la durée des fonctions du chanoine n° 11 fixée par le président supérieur est supprimée. Entrée en vigueur le lendemain de la publication (JORF du 20 juillet 2018)."
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+- article: "7"
+  statut: modifie
+  date: 1996-02-24
+  source: "Loi n° 96-142 du 21 février 1996, art. 12, 23° (abrogation partielle de la loi locale du 7 juillet 1897, dont art. 7 al. 1 et 4, art. 8) ; code des communes, art. L. 501-3 ; CGCT, art. L. 5815-2 (renvoi aux art. L. 5816-3 à L. 5816-8)"
+  jorf: JORFTEXT000000559120
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Renvoi aux « articles 7 à 11 de la loi du 7 juillet 1897 » (commission syndicale) : cette loi est en grande partie remplacée par le CGCT (livre VIII de la cinquième partie), mais la correspondance article par article avec L. 5816-3 à L. 5816-8 n'est établie que pour la loi du 11 juin 1902 (L. 5815-2). La loi du 9 juillet 1900 elle-même n'a pas été trouvée modifiée ni codifiée."
+  confiance: a_verifier
+- article: "8"
+  statut: modifie
+  date: 1996-02-24
+  source: "Loi n° 96-142 du 21 février 1996, art. 12, 23° (loi locale du 7 juillet 1897 : art. 1 deux premières phrases abrogées)"
+  jorf: JORFTEXT000000559120
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Renvoi aux art. 1 à 4 de la loi du 7 juillet 1897 (le md porte « articles et 2, 3 et 4 », faute de frappe de l'original ou de la traduction) : les deux premières phrases de l'art. 1er de la loi de 1897 sont abrogées en 1996."
+  confiance: a_verifier
+- article: "9"
+  statut: modifie
+  date: 1996-02-24
+  source: "Loi n° 96-142 du 21 février 1996, art. 12, 23° (loi locale du 7 juillet 1897 : art. 5 al. 1 et 2, art. 6 abrogés)"
+  jorf: JORFTEXT000000559120
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Renvoi aux art. 5 et 6 de la loi du 7 juillet 1897 : les al. 1 et 2 de l'art. 5 et l'art. 6 sont abrogés par la loi 96-142 ; le renvoi est donc en partie sans objet."
+  confiance: a_verifier

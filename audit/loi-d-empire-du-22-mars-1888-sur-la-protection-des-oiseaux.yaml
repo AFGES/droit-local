@@ -1,0 +1,54 @@
+- article: "tout"
+  statut: codifie
+  date: 1991-04-17
+  source: "Loi n° 91-363 du 15 avril 1991, art. 2, 3° ; décret n° 89-804 du 27 octobre 1989, art. 4 (liste « Loi locale du 22 mars 1888 (texte unifié de la loi d'Empire du 30 mai 1908) »)"
+  jorf: JORFTEXT000000526953
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Les dispositions de nature législative de ce texte sont remplacées par le livre II du code rural (aujourd'hui C. env.). Le décret 89-804 vise le « texte unifié de la loi d'Empire du 30 mai 1908 » : à vérifier si la traduction 2013 est celle du texte de 1888 ou du texte unifié de 1908. La traduction 2013 publie pourtant les art. 1 à 9 : effet réel non établi."
+  confiance: a_verifier
+- article: "1er (al. 3 et 4)"
+  statut: abroge
+  date: 1989-11-04
+  source: "Décret n° 89-804 du 27 octobre 1989, art. 2 (version en vigueur au 2020-01-01, décret n° 2019-966, art. 8) : « Sont abrogées les dispositions de forme législative suivantes intervenues dans des matières de caractère réglementaire »"
+  jorf: JORFTEXT000000336190
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Le texte de l'art. 2 du décret dit « abrogées » (et non « déclassées »). Texte réglementaire de substitution non identifié ; la traduction 2013 publie néanmoins ces alinéas."
+  confiance: moyenne
+- article: "2"
+  statut: modifie
+  date: 1989-11-04
+  source: "Décret n° 89-804 du 27 octobre 1989, art. 2 : « Article 2, sauf en tant qu'il prohibe la destruction des oiseaux, de nuit, ou à l'aide d'engins, ou de toxiques, et qu'il confère à l'autorité administrative le pouvoir d'interdire certains procédés de chasse »"
+  jorf: JORFTEXT000000336190
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Abrogé sauf pour les interdictions de destruction de nuit, par engins ou par toxiques et le pouvoir d'interdire d'autres procédés. Les interdictions 1 (neige), 2 (glu, lacets) et 5 (cages, nasses, etc.) du texte pourraient donc relever de la partie abrogée : lecture à confirmer."
+  confiance: moyenne
+- article: "5"
+  statut: modifie
+  date: 1989-11-04
+  source: "Décret n° 89-804 du 27 octobre 1989, art. 2 : « Article 5, sauf en tant qu'il confère à l'autorité administrative le pouvoir de déterminer les animaux nuisibles, les conditions de leur destruction et de leur commercialisation »"
+  jorf: JORFTEXT000000336190
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Abrogé sauf en tant qu'il donne à l'autorité administrative le pouvoir de déterminer les animaux nuisibles, les conditions de leur destruction et de leur commercialisation."
+  confiance: moyenne
+- article: "6"
+  statut: abroge
+  date: 1989-11-04
+  source: "Décret n° 89-804 du 27 octobre 1989, art. 2 (« Articles 6 et 8 »)"
+  jorf: JORFTEXT000000336190
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Sanctions (amende de 150 marks, détention simple) : abrogé comme disposition de forme législative en matière réglementaire. Sanctions de remplacement non identifiées (contraventions du code pénal ?) : a vérifier."
+  confiance: moyenne
+- article: "8"
+  statut: abroge
+  date: 1989-11-04
+  source: "Décret n° 89-804 du 27 octobre 1989, art. 2 (« Articles 6 et 8 »)"
+  jorf: JORFTEXT000000336190
+  texte_actuel: ""
+  texte_actuel_officiel: false
+  note: "Liste des oiseaux exclus de la loi : abrogée comme disposition de forme législative. Liste de remplacement non identifiée (cf. loi du 2 juillet 1890, art. 1, également visée). La liste est désormais à rapprocher des arrêtés de protection de la faune : a vérifier."
+  confiance: moyenne
