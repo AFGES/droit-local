@@ -5,7 +5,7 @@
 # ///
 """Insert {{< t >}} / {{< m >}} shortcodes in content/textes/**/*.md.
 
-Usage: mark_terms.py [--dry-run]. Idempotent. Reports ambiguous words left untouched.
+Usage: mark_terms.py [--dry-run]. Idempotent. Reports ambiguous words (allemand, cercle, province), never replaced.
 Texts are hard-wrapped, so matching runs per paragraph: a term or an amount split by a
 line break is still found (the break becomes a space inside the shortcode).
 """

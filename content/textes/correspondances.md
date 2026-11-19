@@ -15,7 +15,6 @@ aux **termes actuels**. Les correspondances viennent de deux textes :
 | -------------------------------------------------- | ------------------------------------------------------------ |
 | Etat allemand, Empire allemand                     | Etat français                                                |
 | président de province, de département, de district | préfet                                                       |
-| cercle                                             | arrondissement                                               |
 | directeur de cercle, directeur d’arrondissement    | sous-préfet                                                  |
 | territoire allemand                                | territoire français                                          |
 | nationalité allemande                              | nationalité française                                        |
@@ -23,10 +22,25 @@ aux **termes actuels**. Les correspondances viennent de deux textes :
 | allemand (nationalité, Etat)                       | français                                                     |
 | Banque d’Empire                                    | Banque de France                                             |
 | formes judiciaires                                 | formes notariées                                             |
+| Code pénal allemand                                | Code pénal local                                             |
 | 1 mark                                             | 1,25 ancien franc (ou nouveau franc, euro : voir ci-dessous) |
 
 La mention des Etats confédérés (ou Etats allemands) est supprimée, sans
 remplacement : le texte original reste affiché dans les deux modes.
+
+« Code pénal allemand » devient « Code pénal local » : c’est un choix
+éditorial, qui ne figure pas dans les articles 9 et 11. Le Code pénal reste en
+vigueur localement.
+
+**Termes laissés tels quels.** Le terme « allemand » n’est pas remplacé
+partout : la règle générale « allemand » par « français » figure seulement à
+l’article 9 de la loi commerciale, et elle donnerait des phrases absurdes pour
+la langue allemande, l’armée allemande ou l’« Empereur allemand » des
+préambules. De même, « cercle » seul n’est pas remplacé : les articles 9 et 11
+ne prévoient que « directeur de cercle » et « directeur d’arrondissement » par
+« sous-préfet ». Les articles 10 (loi civile) et 8 (loi commerciale) évoquent
+les « provinces, cercles » pour les placements autorisés, sans dire par quel
+terme les remplacer.
 
 Les montants en marks sont convertis qu’ils soient écrits en chiffres, en
 toutes lettres (« trois mille marks », « un demi mark ») ou dans un tableau

@@ -59,4 +59,4 @@ En outre, le Ministère pourra, par voie de disposition générale, permettre de
 ## Article 8
 
 Les infractions à la présente loi et aux ordonnances prises en vertu de ses dispositions
-sont passibles des peines établies par l’article 366 du Code pénal allemand.
+sont passibles des peines établies par l’article 366 du {{< t "Code pénal allemand" "Code pénal local" >}}.

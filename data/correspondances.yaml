@@ -21,3 +21,5 @@
 # Pfennigs sans montant : 1 pfennig = 1,25 centime.
 - {orig: "de pfennigs", new: "de centimes"}
 - {orig: "les pfennigs", new: "les centimes"}
+# Choix éditorial (hors articles 9 et 11) : le Code pénal reste en vigueur localement.
+- {orig: "Code pénal allemand", new: "Code pénal local"}

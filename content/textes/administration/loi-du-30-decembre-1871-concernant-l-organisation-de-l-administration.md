@@ -25,57 +25,57 @@ L’Alsace-Lorraine est divisée en trois districts administratifs :
 
 #### Article 2
 
-Les districts sont divisés en {{< t "cercles" "arrondissements" >}}.
+Les districts sont divisés en cercles.
 
 I. Le district de Basse-Alsace comprend :
 
-1. {{< t "Le cercle" "L’arrondissement" >}} de Strasbourg-ville, formé par la commune de Strasbourg ;
-2. {{< t "Le cercle" "L’arrondissement" >}} de Strasbourg-campagne, formé des cantons de Brumath, Hochfelden, Schiltigheim,
+1. Le cercle de Strasbourg-ville, formé par la commune de Strasbourg ;
+2. Le cercle de Strasbourg-campagne, formé des cantons de Brumath, Hochfelden, Schiltigheim,
    Truchtersheim ;
-3. {{< t "Le cercle" "L’arrondissement" >}} d’Erstein, formé des cantons de Benfeld, Erstein, Geispolsheim, Obernai ;
-4. {{< t "Le cercle" "L’arrondissement" >}} d’Haguenau, formé des cantons d’Haguenau, Bischwiller, Niederbronn ;
-5. {{< t "Le cercle" "L’arrondissement" >}} de Molsheim, formé des cantons de Molsheim, Rosheim, Wasselonne et des parties
+3. Le cercle d’Erstein, formé des cantons de Benfeld, Erstein, Geispolsheim, Obernai ;
+4. Le cercle d’Haguenau, formé des cantons d’Haguenau, Bischwiller, Niederbronn ;
+5. Le cercle de Molsheim, formé des cantons de Molsheim, Rosheim, Wasselonne et des parties
    des cantons de Schirmeck et de Saales annexées à l’Allemagne ;
-6. {{< t "Le cercle" "L’arrondissement" >}} de Sélestat, formé des cantons de Barr, Marckolsheim, Sélestat et Villé ;
-7. {{< t "Le cercle" "L’arrondissement" >}} de Wissembourg, formé des cantons de Lauterbourg, Seltz, Soultz, Wissembourg, et
+6. Le cercle de Sélestat, formé des cantons de Barr, Marckolsheim, Sélestat et Villé ;
+7. Le cercle de Wissembourg, formé des cantons de Lauterbourg, Seltz, Soultz, Wissembourg, et
    Woerth ;
-8. {{< t "Le cercle" "L’arrondissement" >}} de Saverne, formé des cantons de Bouxwiller, Drulange, la Petite-Pierre,
+8. Le cercle de Saverne, formé des cantons de Bouxwiller, Drulange, la Petite-Pierre,
    Marmoutier, Saverne et Sarre-Union.
 
 II. Le district de Haute-Alsace comprend :
 
-1. {{< t "Le cercle" "L’arrondissement" >}} de Colmar, formé des cantons de Colmar, Andolsheim, Munster, Neufbrisach et
+1. Le cercle de Colmar, formé des cantons de Colmar, Andolsheim, Munster, Neufbrisach et
    Wintzenheim ;
-2. {{< t "Le cercle" "L’arrondissement" >}} de Ribeauvillé, formé des cantons de Ribeauvillé, Kaisersberg, Sainte-Marie-aux-
+2. Le cercle de Ribeauvillé, formé des cantons de Ribeauvillé, Kaisersberg, Sainte-Marie-aux-
    Mines et La Poutroye ;
-3. {{< t "Le cercle" "L’arrondissement" >}} de Guebwiller, formé des cantons d’Ensisheim, Guebwiller, Rouffach et Soultz ;
-4. {{< t "Le cercle" "L’arrondissement" >}} de Thann, formé des cantons de Saint-Amarin, Thann, Sentheim, et des parties du
+3. Le cercle de Guebwiller, formé des cantons d’Ensisheim, Guebwiller, Rouffach et Soultz ;
+4. Le cercle de Thann, formé des cantons de Saint-Amarin, Thann, Sentheim, et des parties du
    canton de Masevaux annexées à l’Allemagne ;
-5. {{< t "Le cercle" "L’arrondissement" >}} de Mulhouse, formé des cantons de Mulhouse, Habsheim, Landser et Huningue ;
-6. {{< t "Le cercle" "L’arrondissement" >}} d’Altkirch, formé des cantons d’Altkirch, Hirsinger, Ferrette et des parties, devenues
+5. Le cercle de Mulhouse, formé des cantons de Mulhouse, Habsheim, Landser et Huningue ;
+6. Le cercle d’Altkirch, formé des cantons d’Altkirch, Hirsinger, Ferrette et des parties, devenues
    allemandes, des cantons de Dannemarie et Fontaine.
 
 III. Le district de Lorraine comprend :
 
-1. {{< t "Le cercle" "L’arrondissement" >}} de Metz-ville, formé par la commune de Metz ;
-2. {{< t "Le cercle" "L’arrondissement" >}} de Metz- campagne, formé des premier, deuxième et troisièmes cantons de Metz à
+1. Le cercle de Metz-ville, formé par la commune de Metz ;
+2. Le cercle de Metz- campagne, formé des premier, deuxième et troisièmes cantons de Metz à
    l’exception de la ville, des cantons de Pange, Verny, Vigy et des parties, devenues allemandes,
    des cantons de Briey et de Gorze ;
-3. {{< t "Le cercle" "L’arrondissement" >}} de Thionville, formé des cantons de Thionville, Cattenom, Metzerwisse, Sierck et
+3. Le cercle de Thionville, formé des cantons de Thionville, Cattenom, Metzerwisse, Sierck et
    des parties, devenues allemandes, des cantons d’Audun et Longwy ;
-4. {{< t "Le cercle" "L’arrondissement" >}} de Sarrebourg, formé des cantons de Sarrebourg, Fénétrange, Phalsbourg et des
+4. Le cercle de Sarrebourg, formé des cantons de Sarrebourg, Fénétrange, Phalsbourg et des
    parties, annexées à l’Allemagne, des cantons de Lorquin et Rechicourt ;
-5. {{< t "Le cercle" "L’arrondissement" >}} de Château-Salins, formé des cantons de Delme, Albestroff, Dieuze et des parties,
+5. Le cercle de Château-Salins, formé des cantons de Delme, Albestroff, Dieuze et des parties,
    devenues allemandes, des cantons de Château-Salins et Vic ;
-6. {{< t "Le cercle" "L’arrondissement" >}} de Boulay, formé des cantons de Boulay, Faulquemont et Bouzonville ;
-7. {{< t "Le cercle" "L’arrondissement" >}} de Sarreguemines, formé des cantons de Sarreguemines, Volmunster, Bitche et
+6. Le cercle de Boulay, formé des cantons de Boulay, Faulquemont et Bouzonville ;
+7. Le cercle de Sarreguemines, formé des cantons de Sarreguemines, Volmunster, Bitche et
    Rohrbach ;
-8. {{< t "Le cercle" "L’arrondissement" >}} de Forbach, formé des cantons de Forbach, Saint- Avold, Sarralbe et Grostenquin.
+8. Le cercle de Forbach, formé des cantons de Forbach, Saint- Avold, Sarralbe et Grostenquin.
 
 #### Article 3
 
-Les changements de limites des districts et des {{< t "cercles" "arrondissements" >}}, la réunion de plusieurs {{< t "cercles" "arrondissements" >}} ou la
-formation de nouveaux {{< t "cercles" "arrondissements" >}} auront lieu par ordonnance impériale.
+Les changements de limites des districts et des cercles, la réunion de plusieurs cercles ou la
+formation de nouveaux cercles auront lieu par ordonnance impériale.
 
 Les changements de limites des cantons, la réunion de plusieurs d’entre eux ou la formation de
 nouveaux cantons seront ordonnés par le Chancelier de l’empire.
@@ -221,10 +221,10 @@ public, les délais et la forme des recours contre les décisions rendues, ainsi
 
 ### Article 14
 
-L’administration de chaque {{< t "cercle" "arrondissement" >}} sera confiée à un {{< t "directeur de cercle" "sous-préfet" >}} auquel sera adjoint le
+L’administration de chaque cercle sera confiée à un {{< t "directeur de cercle" "sous-préfet" >}} auquel sera adjoint le
 personnel subsidiaire nécessaire, notamment un fonctionnaire ayant qualité pour le suppléer.
 
-Dans les {{< t "cercles" "arrondissements" >}} de Strasbourg-ville et de Metz-ville, le {{< t "président de district" "préfet" >}} remplira les
+Dans les cercles de Strasbourg-ville et de Metz-ville, le {{< t "président de district" "préfet" >}} remplira les
 fonctions de {{< t "directeur de cercle" "sous-préfet" >}}, la police sera dirigée, sous la surveillance du {{< t "président de district" "préfet" >}}, par un directeur de police pour tout ce qui ne sera pas laissé à l’administration
 communale par les instructions du président supérieur.
 
@@ -232,7 +232,7 @@ Dans la ville de Mulhouse, un directeur de police dirigera la police dans les co
 ci-dessus ; le {{< t "directeur de cercle" "sous-préfet" >}} pourra en remplir les fonctions.
 
 Les {{< t "directeurs de cercle" "sous-préfets" >}} auront les fonctions attribuées par les lois existantes aux sous-préfets. Ils
-ont leur résidence dans la localité dont leur {{< t "cercle" "arrondissement" >}} porte le nom.
+ont leur résidence dans la localité dont leur cercle porte le nom.
 
 Le Chancelier de l’Empire pourra leur conférer certaines des fonctions qui, en vertu de la loi,
 appartiennent actuellement aux autorités de district.
@@ -249,7 +249,7 @@ recteurs et inspecteurs d’académie et au conseil académique. En ce qui conce
 primaire, les {{< t "présidents de district" "préfets" >}} exercent les fonctions des inspecteurs départementaux. Des
 conseillers compétents seront adjoints au président supérieur et aux {{< t "présidents de districts" "préfets" >}} pour
 surveiller l’enseignement ; la surveillance de l’enseignement primaire sera exercée, dans les
-{{< t "cercles" "arrondissements" >}}, par des inspecteurs scolaires {{< t "de cercle" "d’arrondissement" >}}.
+cercles, par des inspecteurs scolaires de cercle.
 
 ## Travaux publics
 
@@ -323,7 +323,7 @@ Les fonctionnaires administratifs supérieurs, y compris les conseillers titulai
 supérieur, près les {{< t "présidents de district" "préfets" >}} et près les directions des administrations, les {{< t "directeurs de cercle" "sous-préfets" >}}, les directeurs de police, les trésoriers principaux seront nommés par l’Empereur. Le
 Chancelier de l’Empire nommera les inspecteurs du cadastre, et de l’enregistrement, les
 conservateurs des hypothèques, inspecteurs en chef des douanes et les membres des bureaux
-principaux des douanes, les inspecteurs des contributions et les inspecteurs scolaires {{< t "de cercle" "d’arrondissement" >}}.
+principaux des douanes, les inspecteurs des contributions et les inspecteurs scolaires de cercle.
 
 Le personnel adjoint de l’administration supérieure sera désigné par le président supérieur.
 
