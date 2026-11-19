@@ -26,6 +26,8 @@ params:
     - loi
     - règlement
   author: Préfecture du Bas-Rhin
+  images:
+    - og-image.png
   dateFormat: 2 January 2006
   defaultTheme: light
   disableThemeToggle: false
