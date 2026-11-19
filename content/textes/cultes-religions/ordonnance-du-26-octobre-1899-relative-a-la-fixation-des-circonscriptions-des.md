@@ -45,7 +45,7 @@ Les Consistoires de l’Eglise Réformée comprennent les circonscriptions suiva
 ## Article 3
 
 Le décret du 10 novembre 1852 relatif à la fixation des circonscriptions
-consistoriales des églises protestantes et à l’exécution de l’art.4 du décret du 26 mars 1852
+consistoriales des églises protestantes et à l’exécution de l’art.4 du [décret du 26 mars 1852](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000296132)
 (Bulletin des lois, Série XI N° 699) est abrogé.
 
 Strasbourg, le 26 octobre 1899

@@ -468,7 +468,7 @@ ne possèdent plus de direction depuis plus de cinq ans.
 
 Chaque fois qu’une disposition législative ou réglementaire prévoit qu’une
 activité peut se développer dans le cadre d’une association déclarée constituée sur le fondement
-de la loi du 1er juillet 1901 relative au contrat d’association, il y a lieu de lire cette référence
+de la [loi du 1er juillet 1901](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006069570) relative au contrat d’association, il y a lieu de lire cette référence
 comme visant également les associations inscrites constituées sur le fondement du code civil
 local.
 

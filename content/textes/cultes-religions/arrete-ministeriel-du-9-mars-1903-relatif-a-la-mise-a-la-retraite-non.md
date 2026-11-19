@@ -10,7 +10,7 @@ categories:
 
 Conformément aux propositions du consistoire supérieur et du directoire de l’Eglise de la
 confession d’Augsbourg et du synode et des consistoires de l’Eglise réformée ainsi qu’en vertu de
-l’article 14 du décret du 26 mars 1852 les dispositions ci-après sont prises avec effet au 1er avril
+l’article 14 du [décret du 26 mars 1852](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000296132) les dispositions ci-après sont prises avec effet au 1er avril
 1903.
 
 ## Article 1

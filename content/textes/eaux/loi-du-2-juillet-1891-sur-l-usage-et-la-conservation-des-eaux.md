@@ -150,7 +150,7 @@ Pour que l’exercice de cette servitude puisse être invoqué, il faut :
 3. Que l’irrigation ne puisse être obtenue utilement d’une autre manière ;
 4. Que sur le tracé des travaux projetés il n’y ait pas de bâtiments, cours, jardins, parcs ou autres enclos attenant aux habitations.
 
-Le même droit appartient aux associations syndicales créées en vertu de la loi du 21 juin 1865 et
+Le même droit appartient aux associations syndicales créées en vertu de la [loi du 21 juin 1865](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074259) et
 de la loi du 11 mai 1877, qui ont besoin d’amener l’eau pour l’irrigation des propriétés de leurs
 membres.
 
@@ -235,9 +235,8 @@ tombent sous l’application de l’article 6.
 #### Article 20
 
 Toutes les fois qu’une procédure d’expropriation sera motivée par des entreprises d’irrigation ou
-de drainage, il sera procédé à la fixation de l’indemnité conformément à l’article 16 de la loi du 21
-mai 1836 sur les chemins vicinaux, alors même que l’entreprise serait poursuivie par d’autres
-associations que les associations syndicales autorisées (art 18 de la loi du 21 juin 1865).
+de drainage, il sera procédé à la fixation de l’indemnité conformément à l’article 16 de la [loi du 21 mai 1836](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000332149) sur les chemins vicinaux, alors même que l’entreprise serait poursuivie par d’autres
+associations que les associations syndicales autorisées (art 18 de la [loi du 21 juin 1865](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074259)).
 
 ## II. De la conservation des cours d’eau
 
@@ -274,8 +273,7 @@ on appliquera les mêmes règles qu’en matière de contributions directes.
 
 Lorsqu’il n’existe ni usages locaux ni règlements en ce qui concerne la répartition des frais
 d’entretien, ou lorsque l’intérêt général exigera impérieusement des dispositions nouvelles pour
-régler la contribution des intéressés et que des associations syndicales au sens de la loi du 21 juin
-1865, art. 1, n° 2, n’auront pas été formées pour exécuter les travaux, la part incombant à chacune des deux classes d’intéressés sera fixée par le ministère.
+régler la contribution des intéressés et que des associations syndicales au sens de la [loi du 21 juin 1865](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074259), art. 1, n° 2, n’auront pas été formées pour exécuter les travaux, la part incombant à chacune des deux classes d’intéressés sera fixée par le ministère.
 
 La proportion selon laquelle l’obligation doit être répartie se détermine tant d’après le degré
 d’intérêt que chaque classe a à l’entretien, que d’après la mesure dans laquelle le mode d’usage du
@@ -347,7 +345,7 @@ hydrauliques, lorsque cette mesure est indispensable pour l’exécution des tra
 Lorsque des cours d’eau d’une certaine importance, non navigables, ni flottables, ou portions de
 ceux-ci ne pourront être maintenus en un état conforme aux exigences de l’intérêt général sans la
 coopération constante d’une représentation des intéressés, et lorsqu’il n’existera point
-d’associations syndicales au sens de l’article 1, n° 1 et 2 de la loi du 21 juin 1865, les intéressés
+d’associations syndicales au sens de l’article 1, n° 1 et 2 de la [loi du 21 juin 1865](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074259), les intéressés
 pourront être réunis en associations syndicales aux fins d’entretien du cours et, au besoin, aux
 fins d’endiguement et de régularisation de son lit ainsi qu’aux fins d’établissement de travaux pour
 améliorer dans la zone d’inondation l’aménagement et l’écoulement des hautes eaux. Dans les
@@ -395,7 +393,7 @@ territoire de l’association ; toute convention contraire est sans effet à l
 
 Pour les expropriations forcées devenues nécessaires dans l’intérêt d’une association syndicale,
 on appliquera, en ce qui concerne les formes de la procédure pour une fixation de l’indemnité,
-l’article 16 de la loi du 21 mai 1836 sur les chemins vicinaux.
+l’article 16 de la [loi du 21 mai 1836](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000332149) sur les chemins vicinaux.
 
 ### B. Des mesures destinées à assurer l’écoulement des eaux
 
@@ -579,7 +577,7 @@ qu’elles concernent les matières réglées par la présente loi sont abrogée
 2. Les prescriptions spéciales en vigueur en ce qui concerne le desséchement et l’utilisation des
    marais ;
 3. Les dispositions existantes concernant les sources d’eaux minérales ;
-4. Les dispositions de la loi du 21 juin 1865 sur les associations et des lois complémentaires
+4. Les dispositions de la [loi du 21 juin 1865](https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006074259) sur les associations et des lois complémentaires
    postérieures sur la même matière ;
 5. Les dispositions légales sur les indemnités de chômage qui peuvent être dues aux usiniers pour le passage des bateaux ou trains d’eau ;
 6. Les articles 30 et 31 de la [loi du 9 juillet 1888](/textes/chasse/loi-penale-du-9-juillet-1888-sur-la-police-rurale/) sur la police rurale.

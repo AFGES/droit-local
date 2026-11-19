@@ -187,7 +187,7 @@ Sont abrogés notamment :
 - Les articles 66, 68 al. 2 des articles organiques de la loi du 18 germinal an x relatifs au culte catholique ;
 - L’ordonnance du 27 brumaire an XI, relative aux curés de 1ère et de 2ème classe ainsi qu’au payement des traitements ecclésiastiques ;
 - Les articles 5 à 8 du décret du 11 prairial an XII, portant règlement sur une nouvelle circonscription des succursales ;
-- L’article 40 du décret du 30 décembre 1809, relatif aux fabriques des églises ;
+- L’article 40 du [décret du 30 décembre 1809](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000479171), relatif aux fabriques des églises ;
 - Les articles 2 à 14 du décret du 17 novembre 1811, relatif au remplacement des titulaires des cures en cas d’absence ou de maladie ;
 - L’article 27 du décret du 6 novembre 1813 sur la conservation et l’administration des biens que possède le clergé dans plusieurs parties de l’Empire ;
 - L’ordonnance du 13 mars 1832, relative à l’époque de jouissance du traitement alloué aux titulaires d’emplois ecclésiastiques ;

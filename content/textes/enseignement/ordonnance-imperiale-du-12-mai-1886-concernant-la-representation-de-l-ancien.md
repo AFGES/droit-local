@@ -12,8 +12,7 @@ Nous, Guillaume, Empereur allemand par la grâce de Dieu, roi de Prusse, etc…
 en vue du remplacement du représentant de l’ancien séminaire protestant au consistoire
 supérieur de l’Eglise de la confession d’Augsbourg, après consultation et en tenant compte des
 demandes des deux corps concernés en tant qu’ayants droit du séminaire qu’ils ont remplacé
-simultanément, ainsi que de l’accord du consistoire supérieur, en application du décret du 26
-mars 1852 relatif à la constitution du culte protestant (Bulletin des lois, série X, n° 4039), de la
+simultanément, ainsi que de l’accord du consistoire supérieur, en application du [décret du 26 mars 1852](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000296132) relatif à la constitution du culte protestant (Bulletin des lois, série X, n° 4039), de la
 loi du 28 avril 1872, concernant l’université de Strasbourg (Bulletin des lois, p. 166) ainsi que de
 la [loi du 29 novembre 1873](/textes/enseignement/loi-du-29-novembre-1873-relative-aux-fondations-administrees-par-le-seminaire/), concernant les fondations gérées par le séminaire protestant de
 Strasbourg (Bulletin des lois, p. 298), ordonnons an nom de l'{{< t "Empire" "Etat français" >}}, pour l’Alsace-Lorraine, ce

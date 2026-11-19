@@ -114,7 +114,7 @@ versées dans la caisse municipale.
 Toutes les dispositions contraires à la présente loi sont abrogées. Sont abrogées
 notamment :
 
-1. La loi du 18 juillet 1837 sur l’administration municipale, sans préjudice des
+1. La [loi du 18 juillet 1837](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000332150) sur l’administration municipale, sans préjudice des
    dispositions de l’article 81 de la présente loi ;
 2. La loi du 5 mai 1855 sur l’organisation municipale ;
 3. La loi du 24 juillet 1867 sur les conseils municipaux, à l’exception des articles 12 et

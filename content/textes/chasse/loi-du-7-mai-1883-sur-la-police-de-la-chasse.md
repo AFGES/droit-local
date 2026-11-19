@@ -37,5 +37,5 @@ la chasse, dans la mesure où ces frais ne dépassent pas la valeur du gibier tu
 
 ---
 
-1. Le texte allemand porte par erreur 30 septembre. Il ne peut s’agir que de la loi du 16 septembre 1807
+1. Le texte allemand porte par erreur 30 septembre. Il ne peut s’agir que de la [loi du 16 septembre 1807](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000332141)
    relative au dessèchement des marais, dont l’article 30 contient le principe d’une indemnité pour plus-value.

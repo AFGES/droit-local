@@ -15,7 +15,7 @@ premier établissement, du nivellement, de l’écoulement des eaux, du pavage e
 
 Toutefois aucun propriétaire ne peut être tenu de supporter les frais pour plus de la moitié
 de la voie ou, si celle-ci a plus de 20 mètres de largeur, pour plus de 10 mètres. La ville n’est pas
-autorisée à réclamer, en vertu de l’article 30 de la loi du 16 septembre 1807, aux propriétaires
+autorisée à réclamer, en vertu de l’article 30 de la [loi du 16 septembre 1807](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000332141), aux propriétaires
 des terrains compris dans l’agrandissement de la ville une indemnité pour plus-value dont
 profitent les terrains du fait de l’établissement des voies et places.
 

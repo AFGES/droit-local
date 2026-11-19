@@ -29,6 +29,19 @@ CITATION = re.compile(
     r"(?P<after>.{0,70})",
     re.S,
 )
+LF = "https://www.legifrance.gouv.fr/"
+# French texts (not in the corpus) with a direct Légifrance page, keyed by (day, month, year).
+# Ids were found by search, not derived; others (old décrets, ordonnances) are absent from Légifrance.
+LEGIFRANCE = {
+    (16, 9, 1807): LF + "loda/id/JORFTEXT000000332141",
+    (30, 12, 1809): LF + "loda/id/JORFTEXT000000479171",
+    (21, 5, 1836): LF + "jorf/id/JORFTEXT000000332149",
+    (18, 7, 1837): LF + "jorf/id/JORFTEXT000000332150",
+    (15, 3, 1850): LF + "loda/id/JORFTEXT000000332156",
+    (26, 3, 1852): LF + "loda/id/JORFTEXT000000296132",
+    (21, 6, 1865): LF + "loda/id/LEGITEXT000006074259",
+    (1, 7, 1901): LF + "loda/id/LEGITEXT000006069570",
+}
 STOP = {"relative", "relatif", "portant", "concernant", "pour", "dans", "avec", "sont", "cette", "leur", "ainsi"}
 
 
@@ -114,8 +127,12 @@ def link_seg(seg: str, idx, here: pathlib.Path, report: list[str]) -> str:
         cands = idx.get(key, [])
         flat = " ".join(cite.split())
         if not cands:
-            report.append(f"ABSENT {here.relative_to(BASE)}: {flat}")
-            res.append(cite)
+            if key in LEGIFRANCE:
+                report.append(f"LEGIFRANCE {here.relative_to(BASE)}: {flat}")
+                res.append(f"[{cite}]({LEGIFRANCE[key]})")
+            else:
+                report.append(f"ABSENT {here.relative_to(BASE)}: {flat}")
+                res.append(cite)
             continue
         target = resolve(cands, cite, m.group("after"), here)
         if target is None:

@@ -68,7 +68,7 @@ seront exercées par le Ministère.
 ### Article 12
 
 Toutes les dispositions contraires à la présente loi sont abrogées. Cesseront notamment
-d’être en vigueur les articles 56 à 58 et 70 à 73 de la loi du 18 juillet 1837 sur l’administration
+d’être en vigueur les articles 56 à 58 et 70 à 73 de la [loi du 18 juillet 1837](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000000332150) sur l’administration
 communale.
 
 ### Article 13

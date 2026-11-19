@@ -34,7 +34,7 @@ thalers ({{< m "300" "marks" >}}) au maximum.
 
 ## Article 3
 
-Ceux qui, en vertu du brevet de capacité prévu à l’article 25 de la loi du 15 mars 1850
+Ceux qui, en vertu du brevet de capacité prévu à l’article 25 de la [loi du 15 mars 1850](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000332156)
 sur l’enseignement, ont déjà commencé à donner l’enseignement à titre professionnel ou dans un
 but lucratif et ceux qui, en vertu des lois jusqu’ici en vigueur, ont ouvert une école, n’ont pas
 besoin de l’autorisation officielle pour continuer à exercer.
