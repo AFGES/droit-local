@@ -21,8 +21,7 @@ conformément aux prescriptions suivantes :
 
 L’ancienneté de traitement des pasteurs protestants, des grands
 rabbins et des rabbins est comptée, dans chacune de ces fonctions, à partir du jour où commence le droit au
-traitement d’Etat afférent à la fonction conformément à l’article 7, alinéa 2, de la loi du 15
-novembre 1909 ou à partir du jour où a commencé ce droit conformément aux prescriptions
+traitement d’Etat afférent à la fonction conformément à l’article 7, alinéa 2, de la [loi du 15 novembre 1909](/textes/cultes-religions/loi-du-15-novembre-1909-relative-aux-traitements-et-pensions-des-ministres-des/) ou à partir du jour où a commencé ce droit conformément aux prescriptions
 antérieurement en vigueur.
 
 ### Article 3
@@ -61,7 +60,7 @@ antérieures.
 
 Le temps de service valable pour la retraite des ministres du culte catholique est
 compté avec effet du jour auquel l’intéressé a touché pour la première fois un traitement de t’Etat
-ou un supplément de traitement (article 7, alinéa 2, de 1a loi du 15 novembre 1909, ordonnance
+ou un supplément de traitement (article 7, alinéa 2, de 1a [loi du 15 novembre 1909](/textes/cultes-religions/loi-du-15-novembre-1909-relative-aux-traitements-et-pensions-des-ministres-des/), ordonnance
 du 13 mars 1832).
 
 Si un ministre du culte catholique ayant quitté un poste rétribué par l’Etat a été réintégré

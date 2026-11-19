@@ -84,14 +84,14 @@ Les délibérations relatives au mode d’organisation de l’entretien des taur
 
 Il pourra être institué une commission syndicale pour l’administration en commun de
 l’entretien de taureaux reproducteurs, par application des dispositions des articles 7 à 11 de la
-loi du 7 juillet 1897 relative aux patrimoines des sections de commune et au patrimoine
+[loi du 7 juillet 1897](/textes/droit-civil/loi-du-7-juillet-1897-relative-aux-patrimoines-des-sections-de-communes-et-au/) relative aux patrimoines des sections de commune et au patrimoine
 possédé indivisément par plusieurs communes ou sections de communes.
 
 ## Article 8
 
 Lorsque, conformément aux articles 6 et 7, le conseil municipal aura pris, pour des parties de
 communes, une délibération, qui concerne l’entretien des taureaux, les dispositions des articles
-et 2, 3 et 4 de la loi du 7 juillet 1897 s’appliqueront avec cette modalité que l’institution d’une
+et 2, 3 et 4 de la [loi du 7 juillet 1897](/textes/droit-civil/loi-du-7-juillet-1897-relative-aux-patrimoines-des-sections-de-communes-et-au/) s’appliqueront avec cette modalité que l’institution d’une
 commission locale sera aussi obligatoire lorsque dans la section le tiers des possesseurs des
 bêtes propres à saillies le demande.
 
@@ -106,7 +106,7 @@ pour l’entretien de taureaux seront tranchées par l’autorité de surveillan
 Contre sa décision, un recours au conseil de district est ouvert, qui devra être intenté sous
 peine de forclusion dans les quatre semaines du jour de la notification de la décision. Le
 conseil de district statuera en dernier ressort. S’il y a lieu, on appliquera les dispositions des
-articles 5 et 6 de la loi du 7 juillet 1897.
+articles 5 et 6 de la [loi du 7 juillet 1897](/textes/droit-civil/loi-du-7-juillet-1897-relative-aux-patrimoines-des-sections-de-communes-et-au/).
 
 ## Article 10
 

@@ -524,7 +524,7 @@ plus sévère ne soit encourue :
 
 #### Article 46
 
-Dans les cas prévus par l’article 31 de la loi du 9 juillet 1888 sur la police rurale, la peine doit être
+Dans les cas prévus par l’article 31 de la [loi du 9 juillet 1888](/textes/chasse/loi-penale-du-9-juillet-1888-sur-la-police-rurale/) sur la police rurale, la peine doit être
 prononcée contre le propriétaire des ouvrages et, quand ce dernier ne dirige pas personnellement
 l’exploitation, contre celui qui y est préposé, à moins qu’il ne soit prouvé ou qu’il ne ressorte des
 circonstances que l’infraction a été commise contre ses ordres formels. La peine de la détention
@@ -582,7 +582,7 @@ qu’elles concernent les matières réglées par la présente loi sont abrogée
 4. Les dispositions de la loi du 21 juin 1865 sur les associations et des lois complémentaires
    postérieures sur la même matière ;
 5. Les dispositions légales sur les indemnités de chômage qui peuvent être dues aux usiniers pour le passage des bateaux ou trains d’eau ;
-6. Les articles 30 et 31 de la loi du 9 juillet 1888 sur la police rurale.
+6. Les articles 30 et 31 de la [loi du 9 juillet 1888](/textes/chasse/loi-penale-du-9-juillet-1888-sur-la-police-rurale/) sur la police rurale.
 
 #### Article 52
 

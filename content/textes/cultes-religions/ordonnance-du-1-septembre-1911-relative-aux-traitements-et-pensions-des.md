@@ -8,7 +8,7 @@ categories:
   - "fonctionnaires"
 ---
 
-En vertu de l’article 12, alinéa 3, de la loi du 20 mai 1911 relative au budget d’Alsace-Lorraine
+En vertu de l’article 12, alinéa 3, de la [loi du 20 mai 1911](/textes/administration/loi-du-20-mai-1911-relative-au-budget-d-alsace-lorraine-pour-l-exercice-1911/) relative au budget d’Alsace-Lorraine
 pour l’exercice 1911, il est arrêté ce qui suit en ce qui concerne les traitements et les
 pensions des employés de secrétariat au service des autorités supérieures des cultes reconnus.
 
@@ -28,7 +28,7 @@ sont effectués par le ministère conformément aux prescriptions suivantes.
 L’ancienneté de traitement de ceux des employés de secrétariat des autorités
 supérieures du culte protestant qui ont obtenu la qualification pour être nommés à une charge de
 pasteur, est fixée, lors de leur entrée à un poste de secrétariat, conformément aux dispositions de
-l’ordonnance du 16 mars 1910 relative à l’ancienneté de traitement et le temps de service
+l’[ordonnance du 16 mars 1910](/textes/cultes-religions/ordonnance-du-16-mars-1910-relative-a-la-fixation-de-l-anciennete-de-traitement/) relative à l’ancienneté de traitement et le temps de service
 complant pour la retraite des ministres de cultes, le service de secrétariat étant considéré comme
 service accompli en qualité de pasteur.
 
@@ -59,7 +59,7 @@ mémoires relatifs aux budgets du pays pour les exercices 1896/97, pages 319 et 
 Le temps de service comptant pour la retraite de ceux des employés de
 secrétariat des autorités supérieures des cultes catholique, protestant et israélite qui ont obtenu la
 qualification pour être nommés à une charge de curé, au pastorat ou au rabbinat, est fixé
-conformément aux dispositions de l’ordonnance du 16 mars 1910 en ce sens que :
+conformément aux dispositions de l’[ordonnance du 16 mars 1910](/textes/cultes-religions/ordonnance-du-16-mars-1910-relative-a-la-fixation-de-l-anciennete-de-traitement/) en ce sens que :
 
 1. le temps passé dans plusieurs postes au service du secrétariat sera additionné en y
    ajoutant le temps qui dans le premier poste au service du secrétariat a été compté pour la fixation
@@ -78,7 +78,7 @@ départ du temps valable pour la retraite.
 
 Le service militaire actif ainsi que le temps pris en compte pour la fixation de l’ancienneté
 de traitement s’ajoutent au temps de service valable pour la retraite, Le temps visé à l’article 4 de
-l’ordonnance du 16 mars 1910 peut être pris en compte pour la fixation dudit temps de service
+l’[ordonnance du 16 mars 1910](/textes/cultes-religions/ordonnance-du-16-mars-1910-relative-a-la-fixation-de-l-anciennete-de-traitement/) peut être pris en compte pour la fixation dudit temps de service
 des employés de secrétariat des autorités supérieures des cultes catholique et israélite, La même
 règle est applicable aux employés de secrétariat du culte protestant, en tant que l’ancienneté de
 traitement n’a pas été fixée dans les conditions prévues à l’article 3, alinéa 2.

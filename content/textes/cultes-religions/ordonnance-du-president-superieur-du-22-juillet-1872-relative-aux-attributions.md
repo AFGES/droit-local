@@ -7,7 +7,7 @@ categories:
   - "cultes-religions"
 ---
 
-En vertu de l’article 23 de la loi du 30 décembre 1871 relative à l’organisation de
+En vertu de l’article 23 de la [loi du 30 décembre 1871](/textes/administration/loi-du-30-decembre-1871-concernant-l-organisation-de-l-administration/) relative à l’organisation de
 l’administration, il est par la présente ordonné ce qui suit :
 
 ## Article 1er

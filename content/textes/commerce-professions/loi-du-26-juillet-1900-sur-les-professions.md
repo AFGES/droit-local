@@ -399,7 +399,7 @@ En outre, ne peuvent être pratiqués sous forme de profession ambulante:
    les emploient pas dans leur exploitation;
 4. L’offre en vente et la recherche de commandes pour des marchandises qui sont vendues à
    tempérament et sous la réserve que le vendeur aura le droit de résilier le contrat en cas
-   d’inexécution des obligations incombant à l’acquéreur (art. 1er et 6 de la loi du 16 mai 1894
+   d’inexécution des obligations incombant à l’acquéreur (art. 1er et 6 de la [loi du 16 mai 1894](/textes/droit-civil/loi-du-16-mai-1894-sur-les-ventes-a-temperament/)
    concernant les ventes à tempérament).
 
 **Article 56** b
@@ -1093,8 +1093,7 @@ cotisations dans ce but.
 Si lors de la création d’une corporation obligatoire, une exploitation en commun d’une
 corporation, annexée à une corporation dissoute en vertu de l’article 100 b, alinéa 4, se
 transforme, dans les six mois de la publication de l’arrêté visé à l’article 100, alinéa 1er, en une
-association coopérative de production et de consommation conforme à la loi
-du 1er mai 1889, la part du patrimoine corporatif affecté à cette exploitation sera dévolue à
+association coopérative de production et de consommation conforme à la [loi du 1er mai 1889](/textes/commerce-professions/loi-du-1-mai-1889-sur-les-associations-cooperatives-de-production-et-de/), la part du patrimoine corporatif affecté à cette exploitation sera dévolue à
 l’association coopérative avec tous les droits et obligations y afférents. Les exploitations en
 commun, dont le maintien est désirable dans l’intérêt public peuvent être conservées dans la
 corporation obligatoire avec l’approbation de l’autorité administrative supérieure. Dans les

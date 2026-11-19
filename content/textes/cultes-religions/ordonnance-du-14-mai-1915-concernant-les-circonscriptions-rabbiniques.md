@@ -10,7 +10,7 @@ categories:
 Nous Guillaume, Empereur allemand par la grâce de Dieu, Roi de Prusse,
 Ordonnons, au nom de {{< t "l'Empire" "l'Etat français" >}} pour l’Alsace-Lorraine, sur le fondement des articles 60 et
 61 de l’ordonnance portant règlement pour l’organisation du culte israélite du 25 mai 1844, en
-modification de l’ordonnance du 19 mars 1910, en vue d’une nouvelle répartition des rabbinats, -
+modification de l’[ordonnance du 19 mars 1910](/textes/cultes-religions/ordonnance-du-19-mars-1910-concernant-les-circonscriptions-rabbiniques/), en vue d’une nouvelle répartition des rabbinats, -
 bulletin des lois pour l’Alsace-Lorraine n° 11 -, ce qui suit :
 
 ## Article 1

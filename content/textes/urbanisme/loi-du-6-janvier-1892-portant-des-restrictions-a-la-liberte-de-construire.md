@@ -9,6 +9,6 @@ categories:
 
 ## Article 3
 
-Les dispositions de la présente loi et de la loi du 21 mai 1879 pourront, par ordonnance
+Les dispositions de la présente loi et de la [loi du 21 mai 1879](/textes/urbanisme/loi-du-21-mai-1879-portant-des-restrictions-a-la-liberte-de-construire-dans-les/) pourront, par ordonnance
 impériale, être étendues à d’autres communes ou parties déterminées de communes, lorsque le
 conseil municipal le demande.

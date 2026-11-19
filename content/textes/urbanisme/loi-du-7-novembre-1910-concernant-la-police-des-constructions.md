@@ -18,7 +18,7 @@ Les dispositions de l’article 142 de la loi sur les professions pour l’{{< t
 s’appliqueront à cet arrêté avec cette modalité qu’à la place des patrons et ouvriers intéressés on
 entendra des représentants des propriétaires fonciers intéressés et des experts désignés à raison
 de leur compétence. Dans les communes où ne s’appliquent pas les dispositions édictées par la
-loi communale locale du 6 juin 1895 pour les communes de 25 000 habitants et au-dessus les
+[loi communale locale du 6 juin 1895](/textes/administration/loi-communale-du-6-juin-1895/) pour les communes de 25 000 habitants et au-dessus les
 plus imposés seront appelés, conformément à l’article 44 de la loi communale, à prendre part à la
 délibération du conseil municipal.
 

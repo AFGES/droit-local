@@ -26,7 +26,7 @@ Le conseil impérial connaîtra des recours :
 3. Contre les arrêtés des {{< t "présidents de districts" "préfets" >}} rejetant ou n’accordant qu’avec des
    restrictions les demandes en autorisation d’ouvrir une école ou d’engager un chef
    d’établissement ou maître ou de donner des leçons particulières, ou fermant une école
-   conformément à l’article 12 de l’ordonnance du 10 juillet 1873, dans sa rédaction du 16
+   conformément à l’article 12 de l’[ordonnance du 10 juillet 1873](/textes/enseignement/ordonnance-du-chancelier-du-10-juillet-1873-pour-l-execution-de-la-loi-du-12/), dans sa rédaction du 16
    novembre 1887.
 
 ## Article 2
@@ -72,4 +72,4 @@ l’élection, si une décision pareille n’a pas à être rendue.
 ## Article 9
 
 La procédure devant le Conseil impérial se règle d’après les dispositions prises en vertu de
-l’article 8 de la loi du 30 décembre 1871 concernant l’organisation de l’administration.
+l’article 8 de la [loi du 30 décembre 1871](/textes/administration/loi-du-30-decembre-1871-concernant-l-organisation-de-l-administration/) concernant l’organisation de l’administration.

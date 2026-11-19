@@ -15,7 +15,7 @@ travaux de drainage et d’irrigation, un arrêté du ministère pourra, à la r
 communes instituer pour l’exécution des travaux, leur entretien et leur administration
 ultérieure, une commission syndicale composée des délégués des intéressés.
 
-Les dispositions de l’article 7, al. 2 à 5 et des articles 8 à 10 de la loi du 7 juillet 1897 relative
+Les dispositions de l’article 7, al. 2 à 5 et des articles 8 à 10 de la [loi du 7 juillet 1897](/textes/droit-civil/loi-du-7-juillet-1897-relative-aux-patrimoines-des-sections-de-communes-et-au/) relative
 au patrimoine des sections de commune et au patrimoine possédé indivisément par plusieurs
 communes ou sections de commune, s’appliqueront à des commissions syndicales avec cette
 modalité que le ministère exercera les attributions du {{< t "président de district" "préfet" >}} et de l’autorité de
