@@ -45,9 +45,9 @@ L’assurance s’étend :
 9. aux exploitations industrielles d’emballage, de chargement, de manutention, de triage, de pesage,
    de mesurage, de débardage et d’arrimage ;
 10. aux entreprises de transport de personnes ou de marchandises, d’abatage du bois, lorsque ces
-exploitations sont rattachées à une entreprise commerciale excédant les limites de la petite entreprise ;
+    exploitations sont rattachées à une entreprise commerciale excédant les limites de la petite entreprise ;
 11. dans les mêmes conditions (n°10) aux entreprises s’occupant du traitement et de la manutention
-des marchandises.
+    des marchandises.
 
 L’Office impérial des assurances sociales détermine quelles sont les entreprises commerciales (nos 10
 et 11) qui, comme petites exploitations, ne sont pas soumises à l’assurance contre les accidents.
@@ -1388,15 +1388,15 @@ Les statuts doivent contenir des dispositions relatives :
 9. à la procédure à suivre en cas de changements survenus dans les exploitations et dans la personne
    des chefs d’entreprises ;
 10. aux conséquences des arrêts d’exploitation ou d’un changement d’un chef d’entreprise, en
-particulier au mode de garantie des cotisations dues par les chefs d’entreprises qui cessent leur exploitation
-;
+    particulier au mode de garantie des cotisations dues par les chefs d’entreprises qui cessent leur exploitation
+    ;
 11. à l’établissement, à l’examen et à l’approbation du compte annuel ;
 
 12. à l’exercice du droit d’arrêter des prescriptions en vue de la prévention des accidents, et du
-contrôle des exploitations ;
+    contrôle des exploitations ;
 13. à la procédure à suivre pour la déclaration d’affiliation et de désaffiliation des chefs d’entreprises
-assurés, des pilotes et autres assurés visés au § 548, n° 3 et § 552, ainsi qu’au montant et à la détermination
-du gain annuel des chefs d’entreprises et pilotes ;
+    assurés, des pilotes et autres assurés visés au § 548, n° 3 et § 552, ainsi qu’au montant et à la détermination
+    du gain annuel des chefs d’entreprises et pilotes ;
 14. au mode des publications ;
 15. à la modification des statuts.
 
@@ -4056,17 +4056,17 @@ Les statuts doivent contenir des dispositions relatives :
 9. à la détermination des bases de répartition des cotisations et, si la répartition n’a pas pour base les
    impôts, à la procédure à suivre pour l’évaluation et le classement de celles-ci ;
 10. à la procédure à suivre en cas d’ouverture de nouvelles exploitations et en cas de changements,
-soit dans l’exploitation, soit dans la personne du chef d’exploitation ;
+    soit dans l’exploitation, soit dans la personne du chef d’exploitation ;
 11. aux conséquences de la cessation de l’exploitation ou d’un changement dans la personne du chef
-d’exploitation en particulier à la garantie des versements des chefs d’exploitation qui cessent leur
-exploitation ;
+    d’exploitation en particulier à la garantie des versements des chefs d’exploitation qui cessent leur
+    exploitation ;
 12. à l’établissement, à l’examen et à l’approbation du compte annuel ;
 13. à l’exercice du droit de la Corporation d’arrêter des prescriptions, en vue de la prévention des
-accidents et du contrôle des exploitations ;
+    accidents et du contrôle des exploitations ;
 14. à la procédure à suivre pour la déclaration d’affiliation
-et de sa désaffiliation des chefs d’exploitations assurés et
-d' autres personnes assurées d’après le § 925 (n° 2) et le § 929 (n° 1), ainsi qu’au montant et à la
-détermination du gain annuel des chefs d’exploitations ;
+    et de sa désaffiliation des chefs d’exploitations assurés et
+    d' autres personnes assurées d’après le § 925 (n° 2) et le § 929 (n° 1), ainsi qu’au montant et à la
+    détermination du gain annuel des chefs d’exploitations ;
 15. au mode des publications ;
 16. à la modification des statuts ;
 17. à la question de savoir quelles personnes doivent être considérées comme ouvriers techniques.
@@ -4706,11 +4706,11 @@ La législation d’Etat a le droit de régler :
   - du § 28, alinéas 1 et 2, concernant la fortune ;
   - du § 967 sur la déclaration des exploitations ;
   - du § 968, du § 969 en connexion avec les §§ 665, 666, 667, alinéa 2, et les §§ 669 à 672, et du § 970
-sur le changement apporté dans la personne du chef d’exploitation, sur la déclaration des modifications
-dans l’exploitation et sur la procédure ultérieure ;
+    sur le changement apporté dans la personne du chef d’exploitation, sur la déclaration des modifications
+    dans l’exploitation et sur la procédure ultérieure ;
   - des §§ 971 à 974 concernant les statuts ;
   - du § 975, alinéa 1, en connexion avec les §§ 685, 686, numéros 3 et 4, et les §§ 687 à 689, du § 976,
-alinéa 1, et du § 977, alinéa 1, concernant les organes de la Corporation ;
+    alinéa 1, et du § 977, alinéa 1, concernant les organes de la Corporation ;
   - du § 978 concernant les agents de la Corporation ;
   - du § 979 sur l’établissement des classes de risques ;
   - des §§ 980 à 982 concernant le partage et la mise en commun des charges ;
@@ -4718,7 +4718,7 @@ alinéa 1, et du § 977, alinéa 1, concernant les organes de la Corporation ;
   - des §§1014 à 1027 concernant la procédure de répartition et de recouvrement
 - ainsi que, par dérogation aux dispositions de la présente loi :
   - de spécifier les organes qui assurent l’administration des Corporations et auxquels appartiennent les
-droits et les obligations que la présente loi attribue aux comités-directeurs, et
+    droits et les obligations que la présente loi attribue aux comités-directeurs, et
   - de charger l’Office d’assurance du soin d’établir les faits en cas d’accident.
 
 ##### Article 1038

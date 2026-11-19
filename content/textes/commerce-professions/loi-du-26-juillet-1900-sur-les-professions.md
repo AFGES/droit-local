@@ -530,18 +530,18 @@ Les statuts doivent renfermer les dispositions sur:
 8. L’établissement et la vérification des comptes annuels;
 9. La constitution et la gestion de la commission des compagnons;
 10. La surveillance de l’observation des prescriptions relatives aux compagnons, apprentis et
-des ouvriers, à la fréquentation des écoles de perfectionnement ou des écoles professionnelles
-ainsi que la réglementation de l’apprentissage;
+    des ouvriers, à la fréquentation des écoles de perfectionnement ou des écoles professionnelles
+    ainsi que la réglementation de l’apprentissage;
 11. Les conditions et les modes d’application des sanctions disciplinaires ;
 12. Les conditions et les formes selon lesquelles les statuts seront modifiés, ainsi que
-l‘établissement de règlements particuliers et leur modification ;
+    l‘établissement de règlements particuliers et leur modification ;
 13. Les conditions et les formes selon lesquelles la corporation sera dissoute ;
 14. Les feuilles publiques ou seront insérés les avis émanant de la corporation.
-Les statuts ne peuvent contenir aucune disposition qui ne se rattache aux buts de la
-corporation ou qui serait contraire aux lois.
-Les statuts de la corporation ne peuvent comporter de dispositions relatives au
-fonctionnement des institutions créées pour l’accomplissement des missions obligatoires
-visées aux 3° et 5° de l’article 81 b.
+    Les statuts ne peuvent contenir aucune disposition qui ne se rattache aux buts de la
+    corporation ou qui serait contraire aux lois.
+    Les statuts de la corporation ne peuvent comporter de dispositions relatives au
+    fonctionnement des institutions créées pour l’accomplissement des missions obligatoires
+    visées aux 3° et 5° de l’article 81 b.
 
 ##### Article 84
 
@@ -1444,7 +1444,7 @@ devoirs des chambres des artisans, lorsque leurs membres – en tant qu’ils so
 représentation des intérêts des artisans- sont élus par les artisans de la circonscription de la
 chambre, et qu’un vote séparé est assuré aux membres appartenant aux métiers.
 
-IV  Fédération de corporations
+IV Fédération de corporations
 
 #### Article 104
 
@@ -2385,39 +2385,39 @@ détention simple jusqu’à quatre semaines:
    aux articles 56 a ou 56 b ;
 
 10. b) Quiconque aura contrevenu aux prescriptions des articles 56 c, 60 a, 60 b, alinéas 2,3 ou
-à l’article 60 c, alinéas 2, 3 ;
+    à l’article 60 c, alinéas 2, 3 ;
 11. c) Quiconque aura contrevenu aux dispositions restrictives qui lui auront été imposées dans
-le permis de profession ambulante conformément aux articles 60, alinéa 1 el', 60 b, alinéa 1er
-ou 60 d, alinéa 3 ;
+    le permis de profession ambulante conformément aux articles 60, alinéa 1 el', 60 b, alinéa 1er
+    ou 60 d, alinéa 3 ;
 12. d) Quiconque emmènera, dans une profession ambulante, des enfants de moins de quatorze
-ans, pour leur faire exécuter des travaux dans cette profession ou qui instruira ou emploiera
-des enfants âgés de moins de quatorze ans pour une profession interdite en vertu de l’article
-42, b, alinéa 5 ;
+    ans, pour leur faire exécuter des travaux dans cette profession ou qui instruira ou emploiera
+    des enfants âgés de moins de quatorze ans pour une profession interdite en vertu de l’article
+    42, b, alinéa 5 ;
 13. e) L’étranger qui aura contrevenu, dans l’exploitation d’une profession ambulante, aux
-prescriptions édictées par le Conseil fédéral en vertu de l’article 56 d ;
+    prescriptions édictées par le Conseil fédéral en vertu de l’article 56 d ;
 14. Quiconque, dans l’exercice de sa profession, aura contrevenu aux tarifs établis par
-l’autorité ou fixés par une déclaration faite près de celle-ci, ou aura négligé de fournir la liste
+    l’autorité ou fixés par une déclaration faite près de celle-ci, ou aura négligé de fournir la liste
 15. Quiconque aura contrevenu aux obligations que lui impose la loi vis-à-vis des apprentis qui
-lui sont confiés;
+    lui sont confiés;
 16. a) Quiconque aura, formera ou fera instruire des apprentis en violation des articles 126 et
-126 a;
+    126 a;
 17. b) Quiconque aura, formera ou fera instruire des apprentis contrairement à l’article 129 ou
-aux prescriptions édictées en vertu des articles 128 et 13 0 ;
+    aux prescriptions édictées en vertu des articles 128 et 13 0 ;
 18. c) Quiconque prendra, sans y avoir droit, le titre de maître;
 19. Quiconque sciemment aura occupé un apprenti en contrevenant aux dispositions de
-l’article 127 e, alinéa 2 ;
-Il. Quiconque, contrairement aux dispositions de l’article 134 c, alinéa 2, infligera à des
-ouvriers des pénalités non prévues dans le règlement d’atelier, ou qui outrepassera le taux
-prévu par la loi, ou qui emploiera les amendes ou bien les sommes désignées à l’article 134 b,
-n. 5, d’une façon non prévue dans le règlement d’atelier;
+    l’article 127 e, alinéa 2 ;
+    Il. Quiconque, contrairement aux dispositions de l’article 134 c, alinéa 2, infligera à des
+    ouvriers des pénalités non prévues dans le règlement d’atelier, ou qui outrepassera le taux
+    prévu par la loi, ou qui emploiera les amendes ou bien les sommes désignées à l’article 134 b,
+    n. 5, d’une façon non prévue dans le règlement d’atelier;
 20. Quiconque négligera de se conformer à l’obligation qui lui est imposée par les articles 134
-e, alinéa 1 er, 134 g, 139 k, alinéa 5 de produire le règlement d’atelier ou de travail, les
-modifications et additions y relatives;
+    e, alinéa 1 er, 134 g, 139 k, alinéa 5 de produire le règlement d’atelier ou de travail, les
+    modifications et additions y relatives;
 21. Quiconque aura contrevenu à l’article 115 a ou aux dispositions statutaires prises en vertu
-de l’article 119 a ;
+    de l’article 119 a ;
 22. Quiconque aura contrevenu aux prescriptions de l’article 15 a.
-Dans tous ces cas, il n’y aura pas lieu d’appliquer la peine si le fait constitue en même temps
-une infraction aux lois fiscales.
+    Dans tous ces cas, il n’y aura pas lieu d’appliquer la peine si le fait constitue en même temps
+    une infraction aux lois fiscales.
 
 ### Article 149
 
