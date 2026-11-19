@@ -1,11 +1,12 @@
-{{- /* {{< m "3000" "marks" [texte original] >}} : montant en marks, converti à
-1 mark = 1,25 ancien franc. */ -}} {{- $v := .Get 0 | float -}} {{- $o := .Get 1
-| default "marks" -}} {{- $f := mul $v 1.25 -}} {{- $fv := partial "fmtnum.html"
-$v -}} {{- $ff := partial "fmtnum.html" $f -}} {{- $orig := .Get 2 | default
-(printf "%s %s" $fv $o) -}} {{- $new := printf "%s %s" $ff (cond (ge $f 2.0)
-"anciens francs" "ancien franc") -}}
-<span
-  class="t"
-  title="{{ $orig }} → {{ $new }} (1 mark = 1,25 ancien franc)"
-><span class="t-orig">{{ $orig }}</span><span class="t-new"
-  >{{ $new }}</span></span>
+{{- /* {{< m "3000" "marks" [texte original] >}} : montant en marks (1 mark =
+1,25 ancien franc) ou en pfennigs (1 pfennig = 1,25 centime). */ -}} {{- $v :=
+.Get 0 | float -}} {{- $o := .Get 1 | default "marks" -}} {{- $f := mul $v 1.25
+-}} {{- $fv := partial "fmtnum.html" $v -}} {{- $ff := partial "fmtnum.html" $f
+-}} {{- $orig := .Get 2 | default (printf "%s %s" $fv $o) -}} {{- $unit := cond
+(hasPrefix $o "pfennig") (cond (ge $f 2.0) "centimes" "centime") (cond (ge $f
+2.0) "anciens francs" "ancien franc") -}} {{- $rate := cond (hasPrefix $o
+"pfennig") "1 pfennig = 1,25 centime" "1 mark = 1,25 ancien franc" -}} {{- $new
+:= printf "%s %s" $ff $unit -}}
+<span class="t" title="{{ $orig }} → {{ $new }} ({{ $rate }})"><span
+    class="t-orig"
+  >{{ $orig }}</span><span class="t-new">{{ $new }}</span></span>

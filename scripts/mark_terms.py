@@ -19,7 +19,7 @@ BASE = pathlib.Path(__file__).resolve().parent.parent
 TERMS = yaml.safe_load((BASE / "data" / "correspondances.yaml").read_text("utf-8"))
 SC = re.compile(r"\{\{<.*?>\}\}")
 # Amount (digits; space, nbsp or dot as thousands separator), then "mark(s)", maybe after a line break.
-MARKS = re.compile(r"(?<![\w,.])(\d{1,3}(?:[  .]\d{3})+|\d+)(\s+)(marks?)\b")
+MARKS = re.compile(r"(?<![\w,.])(\d{1,3}(?:[  .]\d{3})+|\d+)(\s+)(marks?|pfennigs?)\b(\s+½)?")
 SPELLED_MARKS = re.compile(r"\b(?:[a-zéè-]+\s+){1,3}marks?\b", re.I)
 NUMBER_WORDS = {
     "un": 1, "une": 1, "deux": 2, "trois": 3, "quatre": 4, "cinq": 5, "six": 6, "sept": 7,
@@ -93,6 +93,13 @@ def mark_table(block: list[str]) -> list[str]:
     return out
 
 
+def marks_to_shortcode(m: re.Match) -> str:
+    amount = re.sub(r"\D", "", m.group(1))
+    if m.group(4):  # "2 pfennigs ½": keep the original wording as label
+        return '{{< m "%s.5" "%s" "%s" >}}' % (amount, m.group(3), esc(m.group(0)))
+    return '{{< m "%s" "%s" >}}' % (amount, m.group(3))
+
+
 def mark_text(text: str) -> str:
     # Protect existing shortcodes.
     parts = SC.split(text)
@@ -108,7 +115,7 @@ def mark_text(text: str) -> str:
             p = rx.sub(rep, p)
         p = SPELLED_AMOUNT.sub(spelled_to_shortcode, p)
         p = MARKS.sub(
-            lambda m: '{{< m "%s" "%s" >}}' % (re.sub(r"\D", "", m.group(1)), m.group(3)),
+            marks_to_shortcode,
             p,
         )
         out.append(p)

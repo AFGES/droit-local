@@ -1801,7 +1801,7 @@ est effectuée par la police de la localité ou le titulaire du livret a eu en d
 résidence permanente.
 Le livret rempli ou inutilisable doit être clos par une note de l’autorité.
 Quand un nouveau livret est délivré à la place d’un livret devenu inutilisable, perdu, ou
-détruit, il doit y être fait mention de ces circonstances .Dans ce cas, une taxe de 15 pfennigs
+détruit, il doit y être fait mention de ces circonstances .Dans ce cas, une taxe de {{< m "15" "pfennigs" >}}
 au maximum pourra être perçue pour la délivrance.
 
 Article.110

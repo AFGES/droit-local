@@ -759,7 +759,7 @@ selon les prévisions, prendre fin avant l’expiration du trimestre.
 D’un commun accord avec l’intéressé, la Corporation peut fixer de plus longs intervalles pour le
 paiement de la rente.
 
-Le montant de la rente est arrondi en 5 pfennig pleins pour le mois ou pour le trimestre.
+Le montant de la rente est arrondi en {{< m "5" "pfennig" >}} pleins pour le mois ou pour le trimestre.
 
 ###### Article 613
 
@@ -5214,7 +5214,7 @@ moins élevées.
 
 On compte pour chaque semaine de cotisation :
 
-dans la Ière classe de salaires 12 pfennigs (15 c.)
+dans la Ière classe de salaires {{< m "12" "pfennigs" >}} (15 c.)
 
 — IIe — 14 — (17 c. 1/2)
 
@@ -5225,7 +5225,7 @@ dans la Ière classe de salaires 12 pfennigs (15 c.)
 — Ve — 20 — (25 c.)
 **§ 1289**). — Les majorations s’élèvent pour chaque semaine de cotisation :
 
-dans la Ière classe de salaires à 3 pfennigs (3 c. 3/4)
+dans la Ière classe de salaires à {{< m "3" "pfennigs" >}} (3 c. 3/4)
 
 — IIe — 6 — (7 c. 1/2)
 
@@ -5292,7 +5292,7 @@ multiplié par 12 et aux orphelins, à titre de dotation, le montant mensuel de 
 
 ###### Article 1297
 
-Les rentes sont payées d’avance par fractions mensuelles arrondies à 5 pfennigs.
+Les rentes sont payées d’avance par fractions mensuelles arrondies à {{< m "5" "pfennigs" >}}.
 
 X. — CESSATION DES PRESTATIONS
 
@@ -5589,7 +5589,7 @@ Les déficits ou les excédents doivent être équilibrés par les cotisations n
 
 Jusqu’à nouvelle fixation, il est perçu à titre de cotisation hebdomadaire :
 dans la classe I de salaire
-à 18 pfennigs (22 c. ½)
+à {{< m "18" "pfennigs" >}} (22 c. ½)
 —
 IIe —
 à 26
@@ -6235,9 +6235,9 @@ VIII. — ARRONDISSEMENT DES FRACTIONS
 
 ###### Article 1458
 
-Si le calcul de la répartition entre employeurs et assurés donne des fractions de pfennigs
-(centimes), la part incombant à l’employeur doit être arrondie au nombre entier de pfennigs supérieur, et la
-part incombant à l’assuré doit être ramenée au nombre entier de pfennigs immédiatement inférieur.
+Si le calcul de la répartition entre employeurs et assurés donne des fractions {{< t "de pfennigs" "de centimes" >}}
+(centimes), la part incombant à l’employeur doit être arrondie au nombre entier {{< t "de pfennigs" "de centimes" >}} supérieur, et la
+part incombant à l’assuré doit être ramenée au nombre entier {{< t "de pfennigs" "de centimes" >}} immédiatement inférieur.
 
 IX. — CONTESTATIONS RELATIVES AUX COTISATIONS
 
@@ -6368,7 +6368,7 @@ Le droit à la rente, acquis par les timbres supplémentaires, ne s’éteint pa
 ###### Article 1473
 
 L’assuré reçoit comme rente supplémentaire annuelle, au moment où l’invalidité se
-manifeste, pour chaque timbre supplémentaire collé sur la carte-quittance, autant de fois 2 pfennigs ½)
+manifeste, pour chaque timbre supplémentaire collé sur la carte-quittance, autant de fois {{< m "2.5" "pfennigs" "2 pfennigs ½" >}})
 qu’il y a d’années écoulées entre l’emploi de ces timbres et le commencement de l’invalidité.
 
 On compte les années à partir de l’année civile dans laquelle la carte-quittance a été décomptée
@@ -6385,8 +6385,8 @@ Les dispositions du § 1254 sont également applicables aux rentes supplémentai
 ###### Article 1475
 
 La rente supplémentaire est payée entièrement et d’avance tous les mois, soit en même
-temps que la rente d’invalidité, soit indépendamment de celle-ci, et les pfennigs sont arrondis au chiffre de
-5 pfennigs pleins.
+temps que la rente d’invalidité, soit indépendamment de celle-ci, et {{< t "les pfennigs" "les centimes" >}} sont arrondis au chiffre de
+{{< m "5" "pfennigs" >}} pleins.
 
 ###### Article 1476
 

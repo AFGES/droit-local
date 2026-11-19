@@ -18,3 +18,6 @@
 # Marks sans montant : les marks sont remplacés par des francs (1 mark = 1,25 F).
 - {orig: "(en marks)", new: "(en anciens francs)"}
 - {orig: "des marks entiers", new: "des francs entiers"}
+# Pfennigs sans montant : 1 pfennig = 1,25 centime.
+- {orig: "de pfennigs", new: "de centimes"}
+- {orig: "les pfennigs", new: "les centimes"}
