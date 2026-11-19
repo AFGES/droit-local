@@ -2556,7 +2556,7 @@ ressort, d’autres travaux de construction pour lesquels des états auraient d�
 ###### Article 802
 
 Le tarif des primes doit indiquer le taux de base de la prime à payer pour chaque fraction de
-un demi mark commencée du salaire comptable.
+{{< m "0.5" "marks" "un demi mark" >}} commencée du salaire comptable.
 
 ###### Article 803
 
@@ -2863,7 +2863,7 @@ détenteurs non industriels de montures ou de véhicules (§ 537, nos 6, 7) dans
 ###### Article 841
 
 Le tarif des primes doit indiquer le taux de base de la prime à payer pour chaque fraction de
-un demi-mark du salaire comptable.
+{{< m "0.5" "marks" "un demi-mark" >}} du salaire comptable.
 
 ###### Article 842
 

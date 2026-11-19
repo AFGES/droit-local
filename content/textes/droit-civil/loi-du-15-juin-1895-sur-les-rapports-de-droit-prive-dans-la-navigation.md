@@ -152,8 +152,7 @@ cela paraît nécessaire pour établir l’état de choses.
 
 En ce qui concerne les droits et frais il y a lieu d’appliquer les dispositions de la loi sur les frais de
 justice relatives à la procédure des preuves avec cette restriction que les frais ne peuvent dépasser
-la moitié de la somme indiquée dans cette loi et n’atteignent au plus qu’une somme de trente
-marks. Si la procédure a été introduite sur la demande d’un intéressé dans la cargaison, celui-ci
+la moitié de la somme indiquée dans cette loi et n’atteignent au plus qu’une somme de {{< m "30" "marks" "trente marks" >}}. Si la procédure a été introduite sur la demande d’un intéressé dans la cargaison, celui-ci
 doit supporter les frais quand il n’a pas droit à la réparation du préjudice causé par l’accident.
 L’obligation du propriétaire du bâtiment de rembourser au capitaine les frais, n’est pas modifiée
 par là. Dans les cas d’avarie grosse, la disposition de l’article 84 s’applique.

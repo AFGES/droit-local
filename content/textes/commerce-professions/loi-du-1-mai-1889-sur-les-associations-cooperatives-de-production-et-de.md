@@ -1601,7 +1601,7 @@ ils étaient alors tenus.
 
 Les membres du Conseil d’administration et du Conseil de surveillance et les liquidateurs, s’ils
 agissent intentionnellement au préjudice de l’association, sont punis d’une peine
-d’emprisonnement et, en même temps, d’une amende jusqu’à trois mille marks.
+d’emprisonnement et, en même temps, d’une amende jusqu’à {{< m "3000" "marks" "trois mille marks" >}}.
 
 En même temps, la perte des droits civiques peut être prononcée.
 

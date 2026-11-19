@@ -15,3 +15,6 @@
 - {orig: "établissements allemands", new: "établissements français"}
 - {orig: "Banque d’Empire", new: "Banque de France"}
 - {orig: "formes judiciaires", new: "formes notariées"}
+# Marks sans montant : les marks sont remplacés par des francs (1 mark = 1,25 F).
+- {orig: "(en marks)", new: "(en anciens francs)"}
+- {orig: "des marks entiers", new: "des francs entiers"}

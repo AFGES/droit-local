@@ -1,0 +1,7 @@
+{{- /* {{< mb "4600" >}} : nombre seul (colonne « en marks » d'un tableau),
+converti à 1 mark = 1,25 ancien franc. */ -}} {{- $v := .Get 0 | float -}} {{-
+$fv := partial "fmtnum.html" $v -}} {{- $ff := partial "fmtnum.html" (mul $v
+1.25) -}}
+<span class="t" title="{{ $fv }} marks → {{ $ff }} anciens francs"><span
+    class="t-orig"
+  >{{ $fv }}</span><span class="t-new">{{ $ff }}</span></span>

@@ -86,7 +86,7 @@ Dans le cas prévu à l’article 39, la pension s’élève au maximum aux 20/6
 émoluments ci-dessus désignés.
 
 Le montant annuel de la pension doit être augmenté de telle manière que son chiffre
-divisé par 3 donne comme quotient des marks entiers.
+divisé par 3 donne comme quotient {{< t "des marks entiers" "des francs entiers" >}}.
 
 ### Article 43
 

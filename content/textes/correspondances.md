@@ -28,6 +28,11 @@ aux **termes actuels**. Les correspondances viennent de deux textes :
 La mention des Etats confédérés (ou Etats allemands) est supprimée, sans
 remplacement : le texte original reste affiché dans les deux modes.
 
+Les montants en marks sont convertis qu’ils soient écrits en chiffres, en
+toutes lettres (« trois mille marks », « un demi mark ») ou dans un tableau
+(colonne « en marks »). Un « marks » sans montant (« des marks entiers »)
+devient « des francs entiers ».
+
 **Lecture indicative** : seul le texte original fait foi. Les montants en
 anciens francs sont une simple conversion à 1,25 et ne tiennent pas compte de
 l’évolution de la monnaie. Les cas où le sens dépend du contexte (« allemand » pour la langue,

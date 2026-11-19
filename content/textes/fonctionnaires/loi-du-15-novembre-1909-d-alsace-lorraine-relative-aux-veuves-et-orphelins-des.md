@@ -90,7 +90,7 @@ pension de la veuve sera calculée sur le montant total de la pension accordée 
 Lorraine.
 
 Le montant annuel de la pension de veuve sera augmenté de telle manière que son chiffre,
-divisé par trois, donne comme quotient des marks entiers.
+divisé par trois, donne comme quotient {{< t "des marks entiers" "des francs entiers" >}}.
 
 ## Article 9
 
@@ -102,7 +102,7 @@ La pension des orphelins s’élève:
    n’a pas droit à une pension.
 
 Le montant annuel de la pension des orphelins sera augmenté de telle manière que son
-chiffre, divisé par trois, donne comme quotient des marks entiers.
+chiffre, divisé par trois, donne comme quotient {{< t "des marks entiers" "des francs entiers" >}}.
 
 ## Article 10
 

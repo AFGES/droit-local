@@ -21,6 +21,16 @@ SC = re.compile(r"\{\{<.*?>\}\}")
 # Amount (digits; space, nbsp or dot as thousands separator), then "mark(s)", maybe after a line break.
 MARKS = re.compile(r"(?<![\w,.])(\d{1,3}(?:[  .]\d{3})+|\d+)(\s+)(marks?)\b")
 SPELLED_MARKS = re.compile(r"\b(?:[a-zéè-]+\s+){1,3}marks?\b", re.I)
+NUMBER_WORDS = {
+    "un": 1, "une": 1, "deux": 2, "trois": 3, "quatre": 4, "cinq": 5, "six": 6, "sept": 7,
+    "huit": 8, "neuf": 9, "dix": 10, "onze": 11, "douze": 12, "treize": 13, "quatorze": 14,
+    "quinze": 15, "seize": 16, "vingt": 20, "vingts": 20, "trente": 30, "quarante": 40,
+    "cinquante": 50, "soixante": 60,
+}
+SPELLED_AMOUNT = re.compile(
+    r"\b((?:(?:%s|cents?|mille|demi|et)[\s-]+)+)(marks?)\b" % "|".join(NUMBER_WORDS), re.I
+)
+CELL_AMOUNT = re.compile(r"\d{1,3}(?:[  ]\d{3})*|\d+")
 AMBIGUOUS = re.compile(r"\b(cercles?|provinces?|allemande?s?)\b", re.I)
 
 
@@ -37,6 +47,52 @@ def esc(s: str) -> str:
     return " ".join(s.split()).replace('"', "&quot;")
 
 
+def parse_spelled(words: str) -> float | None:
+    """French number words -> value, None when the phrase is not understood."""
+    toks = [t.lower() for t in re.split(r"[\s-]+", words.strip()) if t]
+    while toks and toks[0] == "et":
+        toks.pop(0)
+    if toks in (["un", "demi"], ["une", "demi"]):
+        return 0.5
+    total = cur = 0
+    for t in toks:
+        if t in NUMBER_WORDS:
+            n = NUMBER_WORDS[t]
+            # "quatre-vingt(s)" is 80, "quatre-vingt-dix" 90.
+            cur = cur * n if (t.startswith("vingt") and cur == 4) else cur + n
+        elif t.startswith("cent"):
+            cur = max(cur, 1) * 100
+        elif t == "mille":
+            total += max(cur, 1) * 1000
+            cur = 0
+        elif t != "et":
+            return None
+    return float(total + cur) if total + cur else None
+
+
+def spelled_to_shortcode(m: re.Match) -> str:
+    value = parse_spelled(m.group(1))
+    if value is None:
+        return m.group(0)
+    return '{{< m "%s" "marks" "%s" >}}' % (f"{value:g}", esc(m.group(0)))
+
+
+def mark_table(block: list[str]) -> list[str]:
+    """In a table whose header says « en marks », turn the numeric cells of that column into {{< mb >}}."""
+    cells = block[0].split("|")
+    idx = next((k for k, c in enumerate(cells) if "(en marks)" in c), None)
+    if idx is None:
+        return block
+    out = [block[0]]
+    for row in block[1:]:
+        parts = row.split("|")
+        if idx < len(parts) and CELL_AMOUNT.fullmatch(parts[idx].strip()):
+            digits = re.sub(r"\D", "", parts[idx])
+            parts[idx] = ' {{< mb "%s" >}} ' % digits
+        out.append("|".join(parts))
+    return out
+
+
 def mark_text(text: str) -> str:
     # Protect existing shortcodes.
     parts = SC.split(text)
@@ -50,6 +106,7 @@ def mark_text(text: str) -> str:
                     new = new[0].upper() + new[1:]
                 return '{{< t "%s" "%s" >}}' % (esc(m.group(0)), esc(new))
             p = rx.sub(rep, p)
+        p = SPELLED_AMOUNT.sub(spelled_to_shortcode, p)
         p = MARKS.sub(
             lambda m: '{{< m "%s" "%s" >}}' % (re.sub(r"\D", "", m.group(1)), m.group(3)),
             p,
@@ -74,7 +131,13 @@ def mark_body(lines: list[str]) -> list[str]:
         if is_plain(lines[i]):
             while j < len(lines) and is_plain(lines[j]):
                 j += 1
-        new.extend(mark_text("\n".join(lines[i:j])).split("\n"))
+        if lines[i].startswith("|"):
+            while j < len(lines) and lines[j].startswith("|"):
+                j += 1
+            block = [mark_text(l) for l in mark_table(lines[i:j])]
+            new.extend(block)
+        else:
+            new.extend(mark_text("\n".join(lines[i:j])).split("\n"))
         i = j
     return new
 
