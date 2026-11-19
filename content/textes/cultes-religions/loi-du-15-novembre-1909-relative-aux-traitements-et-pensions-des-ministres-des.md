@@ -1,5 +1,6 @@
 ---
 title: "Loi du 15 novembre 1909 relative aux traitements et pensions des ministres des cultes rétribués par l'État et de leurs veuves et orphelins"
+description: "Fixe les traitements d'État des ministres du culte catholique (curés, desservants, vicaires) et les allocations des chapelains et remplaçants."
 date: 1909-11-15
 type_texte: "Loi"
 categories:

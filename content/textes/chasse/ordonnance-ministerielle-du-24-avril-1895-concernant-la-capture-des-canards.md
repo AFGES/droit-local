@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance ministérielle du 24 avril 1895 concernant la capture des canards sauvages au moyen de filets rabattants et d'appelants"
+description: "Autorise la capture des canards sauvages au moyen de filets rabattants et d'appelants uniquement en novembre, décembre et janvier."
 date: 1895-04-24
 type_texte: "Ordonnance"
 categories:

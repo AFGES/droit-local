@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 7 juillet 1894 concernant la procédure de nomination des pasteurs et des inspecteurs ecclésiastiques dans l'église de la confession d'Augsbourg"
+description: "Fixe la procédure de nomination des pasteurs et inspecteurs ecclésiastiques de l'Eglise de la Confession d'Augsbourg : liste de candidats et sermons d'essai."
 date: 1894-07-07
 type_texte: "Ordonnance"
 categories:

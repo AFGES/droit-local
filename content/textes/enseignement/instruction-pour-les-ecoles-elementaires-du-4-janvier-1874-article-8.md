@@ -1,5 +1,6 @@
 ---
 title: "Instruction pour les écoles élémentaires du 4 janvier 1874, article 8"
+description: "Fixe l'enseignement religieux dans les écoles élémentaires : histoire biblique, catéchisme hors des heures de classe et contenus propres à chaque confession."
 date: 1874-01-04
 type_texte: "Instruction"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Loi du 15 juin 1895 sur les rapports de droit privé dans la navigation intérieure"
+description: "Loi (1895) sur les rapports de droit privé dans la navigation intérieure : responsabilité du propriétaire de bâtiment, de son équipage et des créanciers."
 date: 1895-06-15
 type_texte: "Loi"
 categories:

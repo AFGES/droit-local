@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 22 avril 1902 étendant la compétence du Conseil impérial"
+description: "Étend la compétence du Conseil impérial aux recours contre des arrêtés de présidents de district : cimetières, alignements, écoles, listes électorales."
 date: 1902-04-22
 type_texte: "Ordonnance"
 categories:

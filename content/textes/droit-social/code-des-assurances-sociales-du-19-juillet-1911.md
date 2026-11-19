@@ -1,5 +1,6 @@
 ---
 title: "Code des assurances sociales du 19 juillet 1911"
+description: "Assurance contre les accidents du travail : entreprises et personnes assurées, indemnités et rentes, organisation des corporations professionnelles et procédure."
 date: 1911-07-19
 type_texte: "Code"
 categories:

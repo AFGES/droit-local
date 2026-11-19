@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 14 mai 1915 concernant les circonscriptions rabbiniques"
+description: "Supprime le rabbinat de Mutzig et redéfinit les circonscriptions des rabbinats de Barr, Fegersheim et Obernai en Alsace-Lorraine."
 date: 1915-05-14
 type_texte: "Ordonnance"
 categories:

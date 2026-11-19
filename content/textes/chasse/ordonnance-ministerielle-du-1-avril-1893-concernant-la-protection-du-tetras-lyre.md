@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance ministérielle du 1er avril 1893 concernant la protection du tétras-lyre"
+description: "Interdit de capturer ou tuer les poules de bouleau, et provisoirement les coqs de bouleau, à toute époque de l'année, y compris par filets ou lacets."
 date: 1893-04-01
 type_texte: "Ordonnance"
 categories:

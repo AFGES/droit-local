@@ -1,5 +1,6 @@
 ---
 title: "Loi du 4 décembre 1899 sur les honoraires des notaires"
+description: "Loi (1899) sur les honoraires des notaires : taxation judiciaire par ordonnance, voies de recours et force exécutoire de la décision de taxe."
 date: 1899-12-04
 type_texte: "Loi"
 categories:

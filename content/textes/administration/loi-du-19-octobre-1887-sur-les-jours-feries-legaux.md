@@ -1,5 +1,6 @@
 ---
 title: "Loi du 19 octobre 1887 sur les jours fériés légaux"
+description: "Définit les jours fériés et chômés, en plus des jours légaux, pour l'application du Code de procédure civile et de la loi sur l'enregistrement."
 date: 1887-10-19
 type_texte: "Loi"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Loi du 20 décembre 1911 sur l'assurance des employés"
+description: "Organise l'assurance des employés pour la retraite et les rentes de survivants (veuves, orphelins, veufs), avec leurs conditions d'attribution et de paiement."
 date: 1911-12-20
 type_texte: "Loi"
 categories:

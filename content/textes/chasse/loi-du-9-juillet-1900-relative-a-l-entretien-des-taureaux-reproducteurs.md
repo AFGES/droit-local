@@ -1,5 +1,6 @@
 ---
 title: "Loi du 9 juillet 1900 relative à l'entretien des taureaux reproducteurs"
+description: "Oblige les communes à régler l'entretien des taureaux reproducteurs : nombre calculé à raison d'un taureau pour 80 bêtes, modes d'entretien et taxes possibles."
 date: 1900-07-09
 type_texte: "Loi"
 categories:

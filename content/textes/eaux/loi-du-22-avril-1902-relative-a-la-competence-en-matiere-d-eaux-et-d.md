@@ -1,5 +1,6 @@
 ---
 title: "Loi du 22 avril 1902 relative à la compétence en matière d'eaux et d'améliorations hydrauliques"
+description: "Permet au ministère de confier certaines affaires d'eaux et de chemins ruraux à d'autres autorités, et lui réserve les ordonnances de police de navigation."
 date: 1902-04-22
 type_texte: "Loi"
 categories:

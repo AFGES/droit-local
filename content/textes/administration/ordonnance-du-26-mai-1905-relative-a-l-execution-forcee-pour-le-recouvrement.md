@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 26 mai 1905 relative à l'exécution forcée pour le recouvrement des sommes d'argent par voie administrative"
+description: "Fixe les modalités de signification des actes de recouvrement administratif, notamment par affichage lorsque la résidence du débiteur est inconnue."
 date: 1905-05-26
 type_texte: "Ordonnance"
 categories:

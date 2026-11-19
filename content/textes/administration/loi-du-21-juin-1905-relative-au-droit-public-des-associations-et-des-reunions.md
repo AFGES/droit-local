@@ -1,5 +1,6 @@
 ---
 title: "Loi du 21 juin 1905 relative au droit public des associations et des réunions"
+description: "Encadre les associations de sept membres et plus : déclaration au sous-préfet, langue des statuts, admission des mineurs, uniformes et dissolution."
 date: 1905-06-21
 type_texte: "Loi"
 categories:

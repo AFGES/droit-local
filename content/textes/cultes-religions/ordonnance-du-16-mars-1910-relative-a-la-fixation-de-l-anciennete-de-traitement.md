@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 16 mars 1910 relative à la fixation de l'ancienneté de traitement et de l'ancienneté de pension des ministres des cultes"
+description: "Fixe le calcul de l'ancienneté de traitement des pasteurs protestants et des rabbins, et du temps de service compté pour la retraite des ministres du culte."
 date: 1910-03-16
 type_texte: "Ordonnance"
 categories:

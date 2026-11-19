@@ -1,5 +1,6 @@
 ---
 title: "Loi d'Alsace-Lorraine sur les frais de justice du 6 décembre 1899"
+description: "Loi d'Alsace-Lorraine (1899) sur les frais de justice : avances de frais, fixation de la valeur de l'objet et recours contre les décisions en la matière."
 date: 1899-12-06
 type_texte: "Loi"
 categories:

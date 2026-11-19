@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 5 février 1895 relative aux exceptions à l'interdiction du travail dominical dans l'industrie"
+description: "Fixe les exceptions au travail dominical dans l'industrie (mines, carrières, métallurgie, cokeries) et les repos compensateurs accordés aux travailleurs."
 date: 1895-02-05
 type_texte: "Ordonnance"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Loi d'Empire sur les frais de justice du 18 juin 1878"
+description: "Loi d'Empire (1878) sur les frais de justice : contestation des comptes de frais, recours et calcul de la valeur des demandes en justice."
 date: 1878-06-18
 type_texte: "Loi"
 categories:

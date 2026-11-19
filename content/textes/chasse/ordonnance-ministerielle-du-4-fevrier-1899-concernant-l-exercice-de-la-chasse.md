@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance ministérielle du 4 février 1899 concernant l'exercice de la chasse"
+description: "Interdit l'utilisation du poison comme mode de chasse, sauf autorisation exceptionnelle des directeurs de police dans des cas particuliers."
 date: 1899-02-04
 type_texte: "Ordonnance"
 categories:

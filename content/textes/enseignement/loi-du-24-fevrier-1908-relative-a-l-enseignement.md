@@ -1,5 +1,6 @@
 ---
 title: "Loi du 24 février 1908 relative à l'enseignement"
+description: "Préserve le droit du ministre du culte de la commune de surveiller l'enseignement religieux donné à l'école pour son culte."
 date: 1908-02-24
 type_texte: "Loi"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Loi du 10 juin 1914 modifiant les articles 74, 75 et suivants du code de commerce allemand"
+description: "Encadre les clauses de non-concurrence entre patron et commis : écrit, indemnité, durée maximale de deux ans et cas de nullité."
 date: 1914-06-10
 type_texte: "Loi"
 categories:

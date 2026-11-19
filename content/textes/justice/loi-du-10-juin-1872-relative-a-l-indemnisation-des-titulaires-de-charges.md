@@ -1,5 +1,6 @@
 ---
 title: "Loi du 10 juin 1872 relative à l'indemnisation des titulaires de charges judiciaires vénales"
+description: "Abolit le droit des notaires, avoués, greffiers, huissiers et commissaires-priseurs de présenter un successeur, remplacé par une indemnité."
 date: 1872-06-10
 type_texte: "Loi"
 categories:

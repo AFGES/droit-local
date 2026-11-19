@@ -1,5 +1,6 @@
 ---
 title: "Loi d'Alsace-Lorraine du 19 juin 1906 sur le certificat de non-dommageabilité"
+description: "Permet, sous conditions, de libérer une parcelle détachée d'un fonds grevé de charges, par un certificat de non-dommageabilité du tribunal cantonal."
 date: 1906-06-19
 type_texte: "Loi"
 categories:

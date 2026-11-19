@@ -1,5 +1,6 @@
 ---
 title: "Loi du 30 décembre 1871 concernant l'organisation de l'administration"
+description: "Organise l'administration de l'Alsace-Lorraine en trois districts, eux-mêmes divisés en cercles."
 date: 1871-12-30
 type_texte: "Loi"
 categories:

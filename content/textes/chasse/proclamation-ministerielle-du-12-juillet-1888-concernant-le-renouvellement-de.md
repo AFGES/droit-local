@@ -1,5 +1,6 @@
 ---
 title: "Proclamation ministérielle du 12 juillet 1888 concernant le renouvellement de la location de la chasse par les communes"
+description: "Règle le renouvellement de la location de la chasse par les communes : terrains exclus, publication et délibération sur l'emploi du produit de la location."
 date: 1888-07-12
 type_texte: "Proclamation"
 categories:

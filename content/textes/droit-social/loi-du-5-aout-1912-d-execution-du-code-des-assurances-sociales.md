@@ -1,5 +1,6 @@
 ---
 title: "Loi du 5 août 1912 d'exécution du code des assurances sociales"
+description: "Fixe la répartition et la perception des cotisations des membres des corporations agricoles, sur la base des superficies cultivées et du risque d'accident."
 date: 1912-08-05
 type_texte: "Loi"
 categories:

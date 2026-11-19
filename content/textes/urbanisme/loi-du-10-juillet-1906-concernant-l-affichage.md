@@ -1,5 +1,6 @@
 ---
 title: "Loi du 10 juillet 1906 concernant l'affichage"
+description: "Affichage sur la voie publique: lieux réservés aux avis officiels, usage du papier blanc, autorisation de la police locale pour les avis non officiels."
 date: 1906-07-10
 type_texte: "Loi"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Loi du 15 novembre 1909 d'Alsace-Lorraine relative aux veuves et orphelins des fonctionnaires"
+description: "Droit à pension sur le Trésor d'Alsace-Lorraine pour la veuve et les orphelins d'un fonctionnaire, et les cas qui l'excluent (divorce, mariage récent)."
 date: 1909-11-15
 type_texte: "Loi"
 categories:

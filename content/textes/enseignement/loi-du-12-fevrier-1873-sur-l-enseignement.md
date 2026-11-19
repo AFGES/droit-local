@@ -1,5 +1,6 @@
 ---
 title: "Loi du 12 février 1873 sur l'enseignement"
+description: "Place l'enseignement primaire et secondaire sous la surveillance de l'État et soumet à autorisation l'ouverture d'une école, l'enseignement lucratif et l'engagement d'un maître."
 date: 1873-02-12
 type_texte: "Loi"
 categories:

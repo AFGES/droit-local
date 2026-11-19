@@ -1,5 +1,6 @@
 ---
 title: "Code local de procédure civile du 30 janvier 1877"
+description: "Code de procédure civile local (1877) : compétence des tribunaux et détermination de la valeur de l'objet du litige."
 date: 1877-01-30
 type_texte: "Code"
 categories:

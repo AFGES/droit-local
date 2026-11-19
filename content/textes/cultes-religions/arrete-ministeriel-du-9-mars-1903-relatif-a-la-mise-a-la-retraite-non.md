@@ -1,5 +1,6 @@
 ---
 title: "Arrêté ministériel du 9 mars 1903 relatif à la mise à la retraite non volontaire des pasteurs protestants"
+description: "Fixe la procédure de mise à la retraite non volontaire des pasteurs protestants devenus incapables d'exercer, avec notification et recours."
 date: 1903-03-09
 type_texte: "Arrêté"
 categories:

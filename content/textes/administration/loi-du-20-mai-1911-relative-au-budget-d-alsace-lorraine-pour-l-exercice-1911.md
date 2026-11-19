@@ -1,5 +1,6 @@
 ---
 title: "Loi du 20 mai 1911 relative au budget d'Alsace-Lorraine pour l'exercice 1911"
+description: "Fixe, pour le budget 1911, les traitements et pensions des employés de secrétariat des autorités supérieures des cultes reconnus."
 date: 1911-05-20
 type_texte: "Loi"
 categories:

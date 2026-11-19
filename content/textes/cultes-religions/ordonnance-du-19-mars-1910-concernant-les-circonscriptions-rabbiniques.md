@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 19 mars 1910 concernant les circonscriptions rabbiniques"
+description: "Supprime 20 rabbinats, en crée 8 et fixe les circonscriptions des 31 rabbinats d'Alsace-Lorraine, par canton et par commune."
 date: 1910-03-19
 type_texte: "Ordonnance"
 categories:

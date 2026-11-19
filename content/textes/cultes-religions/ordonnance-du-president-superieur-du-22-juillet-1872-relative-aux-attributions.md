@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du président supérieur du 22 juillet 1872 relative aux attributions du consistoire central"
+description: "Transfère provisoirement les attributions du consistoire central israélite aux consistoires de district et les droits de surveillance aux présidents de district."
 date: 1872-07-22
 type_texte: "Ordonnance"
 categories:

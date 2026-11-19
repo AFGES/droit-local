@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance impériale du 12 mai 1886 concernant la représentation de l'ancien séminaire protestant au consistoire supérieur de l'Eglise de la confession d'Augsbourg"
+description: "Remplace le député de l'ancien séminaire protestant au consistoire supérieur par un représentant de l'université et un du chapitre Saint-Thomas, et fixe leur élection."
 date: 1886-05-12
 type_texte: "Ordonnance"
 categories:

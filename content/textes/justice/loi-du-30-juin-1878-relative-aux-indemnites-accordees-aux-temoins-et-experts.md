@@ -1,5 +1,6 @@
 ---
 title: "Loi du 30 juin 1878 relative aux indemnités accordées aux témoins et experts"
+description: "Indemnités des témoins et experts devant les tribunaux ordinaires: perte de temps, honoraires d'expertise, frais de voyage et de séjour."
 date: 1878-06-30
 type_texte: "Loi"
 categories:

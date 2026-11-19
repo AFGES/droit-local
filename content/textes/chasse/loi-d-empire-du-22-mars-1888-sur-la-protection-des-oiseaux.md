@@ -1,5 +1,6 @@
 ---
 title: "Loi d'Empire du 22 mars 1888 sur la protection des oiseaux"
+description: "Protège les oiseaux : interdit la destruction des nids et œufs, certains modes de capture, et la capture ou le commerce des oiseaux du 1er mars au 1er octobre."
 date: 1888-03-22
 type_texte: "Loi"
 categories:

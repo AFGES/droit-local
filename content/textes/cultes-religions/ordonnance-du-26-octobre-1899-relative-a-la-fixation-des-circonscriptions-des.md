@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 26 octobre 1899 relative à la fixation des circonscriptions des Consistoires protestants"
+description: "Fixe les circonscriptions des consistoires des Eglises protestantes d'Alsace-Lorraine et abroge le décret du 10 novembre 1852."
 date: 1899-10-26
 type_texte: "Ordonnance"
 categories:

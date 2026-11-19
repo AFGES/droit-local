@@ -1,5 +1,6 @@
 ---
 title: "Code pénal local du 15 mai 1871"
+description: "Code pénal local (1871) : répression des associations secrètes ou subversives, des atteintes à l'exercice du culte et de certains propos de ministres du culte."
 date: 1871-05-15
 type_texte: "Code"
 categories:

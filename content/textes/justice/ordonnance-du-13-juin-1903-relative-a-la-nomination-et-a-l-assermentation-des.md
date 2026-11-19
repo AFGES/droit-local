@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 13 juin 1903 relative à la nomination et à l'assermentation des interprètes"
+description: "Qui assermente un interprète pour un acte authentique, une légalisation ou un testament privilégié, et conditions de nomination fixées par le ministère."
 date: 1903-06-13
 type_texte: "Ordonnance"
 categories:

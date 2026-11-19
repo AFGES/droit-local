@@ -1,5 +1,6 @@
 ---
 title: "Loi pénale du 9 juillet 1888 sur la police rurale"
+description: "Fixe les règles pénales de police rurale : responsabilité de la personne qui a autorité sur l'auteur, réparation pécuniaire et mineurs délinquants."
 date: 1888-07-09
 type_texte: "Loi"
 categories:

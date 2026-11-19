@@ -1,5 +1,6 @@
 ---
 title: "Arrêté ministériel du 7 décembre 1891 sur l'établissement du bulletin de vote en dehors du bureau de vote"
+description: "Autorise le remplissage des bulletins de vote en dehors du bureau de vote, dans l'Église de la Confession d'Augsbourg."
 date: 1891-12-07
 type_texte: "Arrêté"
 categories:

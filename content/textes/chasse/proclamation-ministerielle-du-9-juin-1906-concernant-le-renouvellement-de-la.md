@@ -1,5 +1,6 @@
 ---
 title: "Proclamation ministérielle du 9 juin 1906 concernant le renouvellement de la location des chasses communales"
+description: "Fixe les modalités de la nouvelle adjudication des chasses communales : modèle de procès-verbal, cahier des charges et règles de mise à prix."
 date: 1906-06-09
 type_texte: "Proclamation"
 categories:

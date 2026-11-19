@@ -1,5 +1,6 @@
 ---
 title: "Loi du 11 décembre 1909 relative au traitement des instituteurs des écoles élémentaires publiques"
+description: "Fixe le traitement des instituteurs des écoles élémentaires publiques : traitement de base, logement ou indemnité, et augmentations d'ancienneté."
 date: 1909-12-11
 type_texte: "Loi"
 categories:

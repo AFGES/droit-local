@@ -1,5 +1,6 @@
 ---
 title: "Règlement ministériel du 16 janvier 1911 concernant l'ouverture de nouveaux lieux de culte"
+description: "Rassemble les règles d'ouverture de nouveaux lieux de culte : catégories de lieux, autorisation de l'Etat et changement de lieu ou de genre."
 date: 1911-01-16
 type_texte: "Règlement"
 categories:

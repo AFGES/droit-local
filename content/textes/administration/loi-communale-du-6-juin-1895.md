@@ -1,5 +1,6 @@
 ---
 title: "Loi communale du 6 juin 1895"
+description: "Régit les communes : suppléance du maire, discipline des employés municipaux, cadeaux et emplois des maires et adjoints, mandat des conseillers."
 date: 1895-06-06
 type_texte: "Loi"
 categories:

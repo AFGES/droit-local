@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 16 juillet 1890 concernant le gibier nuisible"
+description: "Encadre l'usage d'armes à feu et de pièges autorisé aux propriétaires pour prendre loups, renards et blaireaux, et son information au fermier de chasse."
 date: 1890-07-16
 type_texte: "Ordonnance"
 categories:

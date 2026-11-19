@@ -1,5 +1,6 @@
 ---
 title: "Arrêté du 1er mai 1892 concernant le repos dominical dans les professions commerciales"
+description: "Règle l'application du repos dominical dans les professions commerciales (commerce, banques, colportage) : compétences de police et horaires de travail autorisés."
 date: 1892-05-01
 type_texte: "Arrêté"
 categories:

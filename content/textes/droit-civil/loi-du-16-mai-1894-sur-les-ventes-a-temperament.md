@@ -1,5 +1,6 @@
 ---
 title: "Loi du 16 mai 1894 sur les ventes à tempérament"
+description: "Loi (1894) sur les ventes à tempérament : résiliation pour non-paiement des acomptes, restitutions, indemnités et clauses pénales."
 date: 1894-05-16
 type_texte: "Loi"
 categories:

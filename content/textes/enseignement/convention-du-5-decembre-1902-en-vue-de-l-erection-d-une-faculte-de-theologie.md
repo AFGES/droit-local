@@ -1,5 +1,6 @@
 ---
 title: "Convention du 5 décembre 1902 en vue de l'érection d'une faculté de théologie catholique à l'université de Strasbourg"
+description: "Convention entre le Saint-Siège et le gouvernement allemand créant une faculté de théologie catholique à Strasbourg, avec la nomination de ses professeurs."
 date: 1902-12-05
 type_texte: "Convention"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Loi du 29 novembre 1873 relative aux fondations administrées par le séminaire protestant de Strasbourg"
+description: "Confie l'administration des fondations du séminaire protestant de Strasbourg au chapitre Saint-Thomas et fixe la composition de ce chapitre."
 date: 1873-11-29
 type_texte: "Loi"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Loi du 7 novembre 1910 concernant la police des constructions"
+description: "Permet aux communes d'adopter par arrêté local des règles d'esthétique (situation et aspect extérieur des constructions), outre la sécurité et l'hygiène."
 date: 1910-11-07
 type_texte: "Loi"
 categories:

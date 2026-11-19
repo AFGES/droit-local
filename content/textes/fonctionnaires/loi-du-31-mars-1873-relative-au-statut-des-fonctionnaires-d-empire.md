@@ -1,5 +1,6 @@
 ---
 title: "Loi du 31 mars 1873 relative au statut des fonctionnaires d'Empire"
+description: "Statut des fonctionnaires de l'Empire: paiement des traitements, trimestre de grâce pour les survivants et conditions de mise à la retraite avec pension."
 date: 1873-03-31
 type_texte: "Loi"
 categories:

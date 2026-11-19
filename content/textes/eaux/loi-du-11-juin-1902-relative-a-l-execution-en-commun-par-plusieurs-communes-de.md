@@ -1,5 +1,6 @@
 ---
 title: "Loi du 11 juin 1902 relative à l'exécution en commun, par plusieurs communes, de canalisations d'eau"
+description: "Permet à plusieurs communes de réaliser en commun canalisations d'eau, drainage et irrigation, par une commission syndicale désignée par arrêté ministériel."
 date: 1902-06-11
 type_texte: "Loi"
 categories:

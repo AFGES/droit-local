@@ -1,5 +1,6 @@
 ---
 title: "Loi du 21 mai 1879 portant des restrictions à la liberté de construire dans les nouveaux quartiers de la ville de Strasbourg"
+description: "Frais de voirie des nouvelles rues de Strasbourg (pavage, trottoirs, nivellement) mis à la charge des riverains, plafonnés à la moitié de la voie."
 date: 1879-05-21
 type_texte: "Loi"
 categories:

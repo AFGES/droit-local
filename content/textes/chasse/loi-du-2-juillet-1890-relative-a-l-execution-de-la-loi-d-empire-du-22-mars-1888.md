@@ -1,5 +1,6 @@
 ---
 title: "Loi du 2 juillet 1890 relative à l'exécution de la loi d'Empire du 22 mars 1888 sur la protection des oiseaux"
+description: "Fixe les espèces d'oiseaux exclues de la loi du 22 mars 1888 et autorise le ministère à prendre des mesures de protection complémentaires."
 date: 1890-07-02
 type_texte: "Loi"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Arrêté ministériel du 30 juin 1905 relatif à l'organisation du synode de l'Eglise réformée en Alsace-Lorraine"
+description: "Fixe l'organisation du synode de l'Eglise réformée d'Alsace-Lorraine : mandat de six ans, élections, convocation, quorum et votes."
 date: 1905-06-30
 type_texte: "Arrêté"
 categories:

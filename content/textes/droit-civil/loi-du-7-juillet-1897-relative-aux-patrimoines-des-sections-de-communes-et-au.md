@@ -1,5 +1,6 @@
 ---
 title: "Loi du 7 juillet 1897 relative aux patrimoines des sections de communes et au patrimoine possédé indivisément par plusieurs communes ou sections de communes"
+description: "Loi (1897) sur le patrimoine indivis entre communes ou sections de communes : commission syndicale, approbations et répartition des dépenses."
 date: 1897-07-07
 type_texte: "Loi"
 categories:

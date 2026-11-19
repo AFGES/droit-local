@@ -1,5 +1,6 @@
 ---
 title: "Loi du 18 août 1896 d'introduction du Code civil local"
+description: "Loi (1896) d'introduction du Code civil local : maintien des lois des États sur la dévolution des biens d'associations et les acquisitions des personnes morales."
 date: 1896-08-18
 type_texte: "Loi"
 categories:

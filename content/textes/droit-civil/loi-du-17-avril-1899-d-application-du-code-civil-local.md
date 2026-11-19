@@ -1,5 +1,6 @@
 ---
 title: "Loi du 17 avril 1899 d'application du Code civil local"
+description: "Loi (1899) d'application du Code civil local : fin et surveillance des fondations, et redevances foncières sur les immeubles."
 date: 1899-04-17
 type_texte: "Loi"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Règlement ministériel du 19 mars 1910 portant règlement d'administration publique pour l'exécution de la loi du 15 novembre 1909 relative aux traitements et pensions des ministres des cultes rétribués par l'État et de leurs ayants cause"
+description: "Fixe les notifications au ministère des nominations, révocations, retraites, démissions et décès des ministres des cultes, ainsi que les règles de congé."
 date: 1910-03-19
 type_texte: "Règlement"
 categories:

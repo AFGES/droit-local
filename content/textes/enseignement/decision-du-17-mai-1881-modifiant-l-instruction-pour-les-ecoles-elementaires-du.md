@@ -1,5 +1,6 @@
 ---
 title: "Décision du 17 mai 1881 modifiant l'instruction pour les écoles élémentaires du 4 janvier 1881"
+description: "Maintient la création d'écoles distinctes selon la confession dans les écoles élémentaires, malgré l'instruction du 4 janvier 1881."
 date: 1881-05-17
 type_texte: "Décision"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Loi du 1er mai 1889 sur les associations coopératives de production et de consommation"
+description: "Régit la formation des associations coopératives de production et de consommation, leur raison sociale et la responsabilité de leurs membres."
 date: 1889-05-01
 type_texte: "Loi"
 categories:

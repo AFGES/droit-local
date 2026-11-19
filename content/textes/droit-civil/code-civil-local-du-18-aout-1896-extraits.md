@@ -1,5 +1,6 @@
 ---
 title: "Code civil local du 18 août 1896 (extraits)"
+description: "Extraits du Code civil local (1896) sur les personnes juridiques, notamment les associations : capacité, siège, direction et représentation."
 date: 1896-08-18
 type_texte: "Code"
 categories:

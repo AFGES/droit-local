@@ -1,5 +1,6 @@
 ---
 title: "Loi du 14 juillet 1903 relative à l'impôt foncier"
+description: "Organise la mise à jour annuelle du cadastre et le classement des terres par nature de culture pour l'impôt foncier en Alsace-Lorraine."
 date: 1903-07-14
 type_texte: "Loi"
 categories:

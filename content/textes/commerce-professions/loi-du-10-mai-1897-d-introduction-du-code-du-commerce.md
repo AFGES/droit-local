@@ -1,5 +1,6 @@
 ---
 title: "Loi du 10 mai 1897 d'introduction du code du commerce"
+description: "Régit la procuration générale (procuriste) : conditions de délivrance, étendue des pouvoirs, révocation et inscription au registre du commerce."
 date: 1897-05-10
 type_texte: "Loi"
 categories:

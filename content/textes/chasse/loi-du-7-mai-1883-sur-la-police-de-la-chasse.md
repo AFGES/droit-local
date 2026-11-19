@@ -1,5 +1,6 @@
 ---
 title: "Loi du 7 mai 1883 sur la police de la chasse"
+description: "Police de la chasse : définit la destruction des animaux nuisibles par les propriétaires et encadre la réduction du gibier qui cause des dégâts aux cultures."
 date: 1883-05-07
 type_texte: "Loi"
 categories:

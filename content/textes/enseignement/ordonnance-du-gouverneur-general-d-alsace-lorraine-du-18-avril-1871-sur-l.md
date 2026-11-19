@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du Gouverneur général d'Alsace-Lorraine du 18 avril 1871 sur l'enseignement"
+description: "Rend obligatoire la fréquentation scolaire dès six ans jusqu'à l'examen de sortie, et fixe les congés, le contrôle des absences et les sanctions des parents."
 date: 1871-04-18
 type_texte: "Ordonnance"
 categories:

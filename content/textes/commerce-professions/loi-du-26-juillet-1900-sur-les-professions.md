@@ -1,5 +1,6 @@
 ---
 title: "Loi du 26 juillet 1900 sur les professions"
+description: "Liberté d'exercice des professions et ses restrictions, colportage et commerce ambulant, apprentis et ouvriers, et organisation des corporations."
 date: 1900-07-26
 type_texte: "Loi"
 categories:

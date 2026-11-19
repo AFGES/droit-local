@@ -1,5 +1,6 @@
 ---
 title: "Ordonnance du 1er septembre 1911 relative aux traitements et pensions des employés de secrétariat des autorités supérieures des cultes reconnus"
+description: "Fixe l'ancienneté de traitement et le temps de service compté pour la retraite des employés de secrétariat des autorités supérieures des cultes."
 date: 1911-09-01
 type_texte: "Ordonnance"
 categories:

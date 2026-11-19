@@ -1,5 +1,6 @@
 ---
 title: "Loi du 2 juillet 1891 sur l'usage et la conservation des eaux"
+description: "Soumet à autorisation préalable les travaux modifiant le cours des eaux (barrages, dérivations, prises d'eau) et à permission les installations sur cours navigables."
 date: 1891-07-02
 type_texte: "Loi"
 categories:

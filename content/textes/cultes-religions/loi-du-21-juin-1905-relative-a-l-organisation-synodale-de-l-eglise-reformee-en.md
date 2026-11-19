@@ -1,5 +1,6 @@
 ---
 title: "Loi du 21 juin 1905 relative à l'organisation synodale de l'église réformée en Alsace-Lorraine et portant abrogation de certaines dispositions de la loi du 18 Germinal An X"
+description: "Place l'Eglise réformée d'Alsace-Lorraine sous un synode central : composition, délégués, convocation et attributions."
 date: 1905-06-21
 type_texte: "Loi"
 categories:

@@ -1,5 +1,6 @@
 ---
 title: "Loi du 31 mars 1884 concernant le renouvellement du cadastre, la péréquation de l'impôt foncier et la conservation du cadastre"
+description: "Régit le renouvellement du cadastre des communes, par révision ou par nouveaux documents, avec la participation des propriétaires."
 date: 1884-03-31
 type_texte: "Loi"
 categories:
