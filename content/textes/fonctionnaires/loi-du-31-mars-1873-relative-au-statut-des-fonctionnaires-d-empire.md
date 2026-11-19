@@ -160,8 +160,7 @@ confédérés, il est compté à ce fonctionnaire, outre le temps effectif de so
 supplémentaire (année de guerre) ; toutefois, au cas de plusieurs guerres dans une même année
 civile, il pourra n’être compté qu’une seule année de guerre.
 
-La disposition impériale à prendre dans chaque cas, conformément à l’article 17 de la loi
-du 31 mai 1906 sur les pensions des officiers, déterminera quelles personnes seront considérées
+La disposition impériale à prendre dans chaque cas, conformément à l’article 17 de la [loi du 31 mai 1906](https://de.wikisource.org/wiki/Gesetz_%C3%BCber_die_Pensionierung_der_Offiziere_einschlie%C3%9Flich_Sanit%C3%A4tsoffiziere_des_Reichsheeres,_der_Kaiserlichen_Marine_und_der_kaiserlichen_Schutztruppen) sur les pensions des officiers, déterminera quelles personnes seront considérées
 comme ayant pris part à une guerre ; à quelles conditions, pour les guerres de longue durée, il
 sera compté plusieurs années de guerre ; quelles entreprises militaires devront être considérées
 comme guerre au sens de la présente loi ; enfin ce qu’il faudra considérer comme temps de
@@ -356,7 +355,7 @@ formes des articles 61 à 67.
 ### Article 69
 
 Lorsqu’un pensionné laisse une veuve ou des descendants légitimes ou légitimés, la
-pension, y compris les suppléments qui auront pu être alloués, en vertu de la loi du 31 mai 1906
+pension, y compris les suppléments qui auront pu être alloués, en vertu de la [loi du 31 mai 1906](https://de.wikisource.org/wiki/Gesetz_%C3%BCber_die_Pensionierung_der_Offiziere_einschlie%C3%9Flich_Sanit%C3%A4tsoffiziere_des_Reichsheeres,_der_Kaiserlichen_Marine_und_der_kaiserlichen_Schutztruppen)
 sur les pensions des officiers, à raison d’infirmités contractées au service, de campagnes, d’âge,
 d’augmentations de pension, indemnités de séjour aux colonies, continue à être payée pendant le
 trimestre qui suit le mois du décès en y imputant les arrérages échus au jour du décès. Le

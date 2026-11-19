@@ -207,7 +207,7 @@ dans une armée allemande ou dans l’armée française à la guerre de 1870-187
 antérieure, leurs veuves et orphelins, lorsqu’ils ont droit à une pension de veuve ou d’orphelin en
 vertu des lois antérieures et lorsque le lien conjugal existait déjà à l’époque de ladite guerre,
 toucheront, à partir du 1er avril 1909, une pension de veuve ou d’orphelin du montant qui leur
-serait dû, si, pour le calcul de la pension du défunt, l’article 1er, n° X, de la loi du 17 mai 1907
+serait dû, si, pour le calcul de la pension du défunt, l’article 1er, n° X, de la [loi du 17 mai 1907](https://de.wikisource.org/wiki/Gesetz,_betreffend_%C3%84nderungen_des_Reichsbeamtengesetzes)
 portant modification de la loi sur le statut des fonctionnaires d’Empire (R. G. B., p. 210 ) eût été
 appliqué.
 

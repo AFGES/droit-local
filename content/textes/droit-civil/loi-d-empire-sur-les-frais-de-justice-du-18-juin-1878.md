@@ -35,7 +35,7 @@ Pour les demandes d’aliments fondées sur une disposition légale, la valeur d
 prestations qui se renouvellent est calculée au quintuple du produit annuel, à moins que le total
 des prestations demandées ne soit inférieur. Il en est de même pour les demandes en payement
 d’une rente en argent intentées conformément aux articles 843, 844 et suivants du code civil, ou
-conformément aux articles 3, 3 a, 7 de la loi du 7 juin 1871 concernant les indemnités dues à
+conformément aux articles 3, 3 a, 7 de la [loi du 7 juin 1871](https://de.wikisource.org/wiki/Gesetz,_betreffend_die_Verbindlichkeit_zum_Schadenersatz_f%C3%BCr_die_beim_Betriebe_von_Eisenbahnen,_Bergwerken_etc._herbeigef%C3%BChrten_T%C3%B6dtungen_und_K%C3%B6rperverletzungen) concernant les indemnités dues à
 raison de mort ou de blessures occasionnées par l’exploitation de chemins de fer, de mines, etc.
 
 ## Article 10

@@ -8,7 +8,7 @@ categories:
   - "commerce-professions"
 ---
 
-Les prescriptions de la loi du 1er juin 1891, sur le repos dominical (§ 41a, 55a, 105b, alinéa 2,
+Les prescriptions de la [loi du 1er juin 1891](https://de.wikisource.org/wiki/Gesetz,_betreffend_Ab%C3%A4nderung_der_Gewerbeordnung._Vom_1._Juni_1891), sur le repos dominical (§ 41a, 55a, 105b, alinéa 2,
 105e et 105h de la loi organique sur l’industrie) entreront en vigueur, pour les professions
 commerciales, conformément à l’ordonnance du 28 mars 1892, le 1er juillet 1892.
 

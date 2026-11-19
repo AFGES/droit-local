@@ -218,7 +218,7 @@ Ne sont pas assujettis à l’assurance :
 1. les officiers et les officiers du service de santé auxquels s’applique la loi sur la pension des
    officiers ;
 2. les militaires des grades inférieurs auxquels s’applique la loi sur l’assistance des soldats ;
-3. les autres personnes désignées au § 1er de la loi du 18 juin 1901 relative à l’assistance des
+3. les autres personnes désignées au § 1er de la [loi du 18 juin 1901](https://de.wikisource.org/wiki/Unfallf%C3%BCrsorgegesetz_f%C3%BCr_Beamte_und_f%C3%BCr_Personen_des_Soldatenstandes) relative à l’assistance des
    fonctionnaires, etc., en cas d’accident ;
 4. les fonctionnaires occupés dans les services des exploitations administrées pour le compte d’un
    Etat Confédéré, d’une union de communes ou d’une commune et qui jouissent d’un traitement fixe et du
@@ -889,8 +889,7 @@ se fait pour son compte :
 
 L’Empire ou l’Etat Confédéré est l’institution chargée de l’assurance, dans les entreprises de
 dragage, de navigation intérieure, de flottage, de transport par bacs, lorsque l’exploitation se fait pour son
-compte, à moins que ces entreprises ne soient affiliées conformément au § 2, alinéa 2, de la loi du 28 mai
-1885 aux Corporations établies pour elles.
+compte, à moins que ces entreprises ne soient affiliées conformément au § 2, alinéa 2, de la [loi du 28 mai 1885](https://de.wikisource.org/wiki/Gesetz_%C3%BCber_die_Ausdehnung_der_Unfall-_und_Krankenversicherung) aux Corporations établies pour elles.
 
 L’affiliation ultérieure d’entreprises de cette nature à la Corporation, la désaffiliation ou la ré
 affiliation ne sont, à défaut du consentement de la Corporation, admises qu’avec l’autorisation du Conseil
@@ -3959,7 +3958,7 @@ En ce qui concerne les modifications dans la composition des Corporations, les �
 de l’assurance contre les accidents dans les entreprises industrielles sont applicables.
 
 Si l’approbation est accordée par le les statuts de la nouvelle Corporation sont arrêtés conformément
-aux prescriptions des §§ 20, 21 et 24, Conseil Fédéral alinéa 3, de la loi du 5 mai 1886.
+aux prescriptions des §§ 20, 21 et 24, Conseil Fédéral alinéa 3, de la [loi du 5 mai 1886](https://de.wikisource.org/wiki/Gesetz,_betreffend_die_Unfall-_und_Krankenversicherung_der_in_land-_und_forstwirthschaftlichen_Betrieben_besch%C3%A4ftigten_Personen).
 
 ###### Article 961
 
@@ -4301,7 +4300,7 @@ Les statuts peuvent porter que les services domestiques et autres seront calcul�
 ###### Article 992
 
 L’évaluation se fait en prenant pour base la liste des chefs d’exploitations établie lors de la
-création de la Corporation (art. 34 de la loi du 5 mai 1886 ) ou plus tard.
+création de la Corporation (art. 34 de la [loi du 5 mai 1886](https://de.wikisource.org/wiki/Gesetz,_betreffend_die_Unfall-_und_Krankenversicherung_der_in_land-_und_forstwirthschaftlichen_Betrieben_besch%C3%A4ftigten_Personen) ) ou plus tard.
 
 Il doit être tenu compte des modifications apportées à l’exploitation.
 
