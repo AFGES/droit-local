@@ -1,7 +1,13 @@
+<select id="monnaie" aria-label="Monnaie des montants convertis">
+  <option value="af">Ancien franc</option>
+  <option value="nf">Nouveau franc (1960)</option>
+  <option value="eur">Euro</option>
+</select>
 <button id="toggle-version" type="button" aria-live="polite"></button>
 <script>
 (function () {
     var b = document.getElementById('toggle-version'), h = document.documentElement;
+    var s = document.getElementById('monnaie');
     function label() {
       b.textContent = h.getAttribute('data-version') === 'actuel' ? 'Termes actuels : afficher l’original' : 'Texte original : afficher les termes actuels';
     }
@@ -10,6 +16,11 @@
       h.setAttribute('data-version', v);
       try { localStorage.setItem('version-texte', v); } catch (e) {}
       label();
+    });
+    s.value = h.getAttribute('data-monnaie') || 'af';
+    s.addEventListener('change', function () {
+      h.setAttribute('data-monnaie', s.value);
+      try { localStorage.setItem('monnaie', s.value); } catch (e) {}
     });
     label();
   })();

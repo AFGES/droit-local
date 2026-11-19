@@ -12,21 +12,21 @@ categories:
 Les vicaires généraux, chanoines, curés et desservants du culte catholique reçoivent, sur la
 Caisse d’Alsace-Lorraine, les traitements ci-après :
 
-| Catégorie              | Traitement {{< t "(en marks)" "(en anciens francs)" >}} |
-| :--------------------- | :------------------------------------------------------ |
-| Vicaires généraux      | {{< mb "4600" >}}                                       |
-| Chanoines              | {{< mb "3800" >}}                                       |
-| **Curés**              |                                                         |
-| Jusqu’à 45 ans révolus | {{< mb "2100" >}}                                       |
-| De 45 à 50 ans révolus | {{< mb "2300" >}}                                       |
-| De 50 à 55 ans révolus | {{< mb "2400" >}}                                       |
-| De 55 à 60 ans révolus | {{< mb "2500" >}}                                       |
-| Après 60 ans           | {{< mb "2600" >}}                                       |
-| **Desservants**        |                                                         |
-| Jusqu’à 40 ans révolus | {{< mb "1700" >}}                                       |
-| De 40 à 50 ans révolus | {{< mb "1800" >}}                                       |
-| De 50 à 60 ans révolus | {{< mb "2000" >}}                                       |
-| Après 60 ans           | {{< mb "2100" >}}                                       |
+| Catégorie              | Traitement {{< t "(en marks)" "(en anciens francs)" "(en nouveaux francs)" "(en euros)" >}} |
+| :--------------------- | :------------------------------------------------------------------------------------------ |
+| Vicaires généraux      | {{< mb "4600" >}}                                                                           |
+| Chanoines              | {{< mb "3800" >}}                                                                           |
+| **Curés**              |                                                                                             |
+| Jusqu’à 45 ans révolus | {{< mb "2100" >}}                                                                           |
+| De 45 à 50 ans révolus | {{< mb "2300" >}}                                                                           |
+| De 50 à 55 ans révolus | {{< mb "2400" >}}                                                                           |
+| De 55 à 60 ans révolus | {{< mb "2500" >}}                                                                           |
+| Après 60 ans           | {{< mb "2600" >}}                                                                           |
+| **Desservants**        |                                                                                             |
+| Jusqu’à 40 ans révolus | {{< mb "1700" >}}                                                                           |
+| De 40 à 50 ans révolus | {{< mb "1800" >}}                                                                           |
+| De 50 à 60 ans révolus | {{< mb "2000" >}}                                                                           |
+| Après 60 ans           | {{< mb "2100" >}}                                                                           |
 
 La distribution des curés en curés de 1ère classe et curés de 2ème classe est supprimée.
 
@@ -61,17 +61,17 @@ l’exercice de leur ministère.
 
 Les pasteurs protestants reçoivent sur la Caisse d’Alsace-Lorraine les traitements ci-après :
 
-| Ancienneté                      | Traitement {{< t "(en marks)" "(en anciens francs)" >}} |
-| :------------------------------ | :------------------------------------------------------ |
-| Jusqu’à 3 années de service     | {{< mb "2200" >}}                                       |
-| De 3 à 6 années de service      | {{< mb "2500" >}}                                       |
-| De 6 à 9 années de service      | {{< mb "2800" >}}                                       |
-| De 9 à 12 années de service     | {{< mb "3100" >}}                                       |
-| De 12 à 15 années de service    | {{< mb "3400" >}}                                       |
-| De 15 à 18 années de service    | {{< mb "3700" >}}                                       |
-| De 18 à 21 années de service    | {{< mb "4000" >}}                                       |
-| De 21 à 24 années de service    | {{< mb "4200" >}}                                       |
-| Au-delà de 24 années de service | {{< mb "4400" >}}                                       |
+| Ancienneté                      | Traitement {{< t "(en marks)" "(en anciens francs)" "(en nouveaux francs)" "(en euros)" >}} |
+| :------------------------------ | :------------------------------------------------------------------------------------------ |
+| Jusqu’à 3 années de service     | {{< mb "2200" >}}                                                                           |
+| De 3 à 6 années de service      | {{< mb "2500" >}}                                                                           |
+| De 6 à 9 années de service      | {{< mb "2800" >}}                                                                           |
+| De 9 à 12 années de service     | {{< mb "3100" >}}                                                                           |
+| De 12 à 15 années de service    | {{< mb "3400" >}}                                                                           |
+| De 15 à 18 années de service    | {{< mb "3700" >}}                                                                           |
+| De 18 à 21 années de service    | {{< mb "4000" >}}                                                                           |
+| De 21 à 24 années de service    | {{< mb "4200" >}}                                                                           |
+| Au-delà de 24 années de service | {{< mb "4400" >}}                                                                           |
 
 Les ministres auxiliaires protestants dont l’emploi est prévu au budget reçoivent, sur la
 Caisse d’Alsace-Lorraine, un traitement de {{< m "2200" "marks" >}}.
@@ -81,21 +81,21 @@ Caisse d’Alsace-Lorraine, un traitement de {{< m "2200" "marks" >}}.
 Les grands rabbins et rabbins reçoivent, sur la Caisse d’Alsace-Lorraine, les traitements
 ci-après :
 
-| Fonction / Ancienneté           | Traitement {{< t "(en marks)" "(en anciens francs)" >}} |
-| :------------------------------ | :------------------------------------------------------ |
-| **Grands rabbins**              |                                                         |
-| Jusqu’à 6 années de service     | {{< mb "4000" >}}                                       |
-| Après 6 années de service       | {{< mb "4400" >}}                                       |
-| **Rabbins**                     |                                                         |
-| Jusqu’à 3 années de service     | {{< mb "2000" >}}                                       |
-| De 3 à 6 années de service      | {{< mb "2200" >}}                                       |
-| De 6 à 9 années de service      | {{< mb "2400" >}}                                       |
-| De 9 à 12 années de service     | {{< mb "2600" >}}                                       |
-| De 12 à 15 années de service    | {{< mb "2800" >}}                                       |
-| De 15 à 18 années de service    | {{< mb "3000" >}}                                       |
-| De 18 à 21 années de service    | {{< mb "3200" >}}                                       |
-| De 21 à 24 années de service    | {{< mb "3300" >}}                                       |
-| Au-delà de 24 années de service | {{< mb "3400" >}}                                       |
+| Fonction / Ancienneté           | Traitement {{< t "(en marks)" "(en anciens francs)" "(en nouveaux francs)" "(en euros)" >}} |
+| :------------------------------ | :------------------------------------------------------------------------------------------ |
+| **Grands rabbins**              |                                                                                             |
+| Jusqu’à 6 années de service     | {{< mb "4000" >}}                                                                           |
+| Après 6 années de service       | {{< mb "4400" >}}                                                                           |
+| **Rabbins**                     |                                                                                             |
+| Jusqu’à 3 années de service     | {{< mb "2000" >}}                                                                           |
+| De 3 à 6 années de service      | {{< mb "2200" >}}                                                                           |
+| De 6 à 9 années de service      | {{< mb "2400" >}}                                                                           |
+| De 9 à 12 années de service     | {{< mb "2600" >}}                                                                           |
+| De 12 à 15 années de service    | {{< mb "2800" >}}                                                                           |
+| De 15 à 18 années de service    | {{< mb "3000" >}}                                                                           |
+| De 18 à 21 années de service    | {{< mb "3200" >}}                                                                           |
+| De 21 à 24 années de service    | {{< mb "3300" >}}                                                                           |
+| Au-delà de 24 années de service | {{< mb "3400" >}}                                                                           |
 
 ## Article 7
 

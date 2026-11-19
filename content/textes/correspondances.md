@@ -11,19 +11,19 @@ aux **termes actuels**. Les correspondances viennent de deux textes :
 - l’article 9 de la
   [loi du 1er juin 1924 portant introduction des lois commerciales françaises](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000869866).
 
-| Terme original                                     | Terme actuel            |
-| -------------------------------------------------- | ----------------------- |
-| Etat allemand, Empire allemand                     | Etat français           |
-| président de province, de département, de district | préfet                  |
-| cercle                                             | arrondissement          |
-| directeur de cercle, directeur d’arrondissement    | sous-préfet             |
-| territoire allemand                                | territoire français     |
-| nationalité allemande                              | nationalité française   |
-| établissements allemands                           | établissements français |
-| allemand (nationalité, Etat)                       | français                |
-| Banque d’Empire                                    | Banque de France        |
-| formes judiciaires                                 | formes notariées        |
-| 1 mark                                             | 1,25 ancien franc       |
+| Terme original                                     | Terme actuel                                                 |
+| -------------------------------------------------- | ------------------------------------------------------------ |
+| Etat allemand, Empire allemand                     | Etat français                                                |
+| président de province, de département, de district | préfet                                                       |
+| cercle                                             | arrondissement                                               |
+| directeur de cercle, directeur d’arrondissement    | sous-préfet                                                  |
+| territoire allemand                                | territoire français                                          |
+| nationalité allemande                              | nationalité française                                        |
+| établissements allemands                           | établissements français                                      |
+| allemand (nationalité, Etat)                       | français                                                     |
+| Banque d’Empire                                    | Banque de France                                             |
+| formes judiciaires                                 | formes notariées                                             |
+| 1 mark                                             | 1,25 ancien franc (ou nouveau franc, euro : voir ci-dessous) |
 
 La mention des Etats confédérés (ou Etats allemands) est supprimée, sans
 remplacement : le texte original reste affiché dans les deux modes.
@@ -34,7 +34,27 @@ toutes lettres (« trois mille marks », « un demi mark ») ou dans un tableau
 devient « des francs entiers ». Les pfennigs (1 mark = 100 pfennigs) sont
 convertis en centimes à la même parité : 1 pfennig = 1,25 centime.
 
-**Lecture indicative** : seul le texte original fait foi. Les montants en
-anciens francs sont une simple conversion à 1,25 et ne tiennent pas compte de
-l’évolution de la monnaie. Les cas où le sens dépend du contexte (« allemand » pour la langue,
+## Choix de la monnaie
+
+En mode « termes actuels », le sélecteur en bas à droite permet d’afficher les
+montants convertis en **ancien franc** (par défaut), en **nouveau franc** ou en
+**euro**. La chaîne de conversion est la suivante :
+
+| Étape                  | Règle                | Texte                                                                                                                                                                                                                                                                                                                    |
+| ---------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| mark → ancien franc    | 1 mark = 1,25 F      | art. 9 et 11 des lois du 1er juin 1924 (voir ci-dessus)                                                                                                                                                                                                                                                                  |
+| ancien → nouveau franc | 1 NF = 100 anciens F | [ordonnance n° 58-1341 du 27 décembre 1958](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000339269), art. 1                                                                                                                                                                                                         |
+| nom de l’unité         | « franc » dès 1963   | [décret n° 59-1450 du 22 décembre 1959](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000486313), [décret n° 62-1320 du 9 novembre 1962](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000852337) et [arrêté du 9 novembre 1962](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000296792) (1er janvier 1963) |
+| franc → euro           | 1 € = 6,55957 F      | [règlement (CE) n° 2866/98 du Conseil du 31 décembre 1998](https://eur-lex.europa.eu/eli/reg/1998/2866/oj)                                                                                                                                                                                                               |
+
+L’ordonnance de 1958 crée une unité « égale à 100 F » : le nouveau franc vaut
+donc 100 anciens francs. Le montant en euros s’obtient en divisant par
+6,55957, sans passer par un taux inverse arrondi. Il est arrondi au centime
+d’euro le plus proche, sauf pour les très petits montants (un mark vaut moins
+de deux millièmes d’euro) où deux chiffres significatifs sont conservés.
+Exemple : 1 mark = 1,25 F (1924) = 0,0125 NF ≈ 0,0019 €.
+
+**Lecture indicative** : seul le texte original fait foi. Les montants
+convertis (ancien franc, nouveau franc, euro) sont une simple conversion
+nominale et ne tiennent pas compte de l’évolution de la monnaie. Les cas où le sens dépend du contexte (« allemand » pour la langue,
 « Chancelier de l’Empire », intitulés de lois) ne sont pas remplacés.

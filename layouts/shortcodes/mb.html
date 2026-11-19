@@ -1,7 +1,10 @@
-{{- /* {{< mb "4600" >}} : nombre seul (colonne « en marks » d'un tableau),
-converti à 1 mark = 1,25 ancien franc. */ -}} {{- $v := .Get 0 | float -}} {{-
-$fv := partial "fmtnum.html" $v -}} {{- $ff := partial "fmtnum.html" (mul $v
-1.25) -}}
-<span class="t" title="{{ $fv }} marks → {{ $ff }} anciens francs"><span
-    class="t-orig"
-  >{{ $fv }}</span><span class="t-new">{{ $ff }}</span></span>
+{{- /* {{< mb "4600" >}} : nombre seul (colonne « en marks » d'un tableau), en ancien franc / nouveau franc / euro. */ -}}
+{{- $v := .Get 0 | float -}}
+{{- $af := mul $v 1.25 -}}
+{{- $nf := div $af 100.0 -}}
+{{- $eur := div $nf 6.55957 -}}
+{{- $fv := partial "fmtnum.html" $v -}}
+{{- $sAf := partial "fmtnum.html" $af -}}
+{{- $sNf := partial "fmtmoney.html" $nf -}}
+{{- $sEur := partial "fmtmoney.html" $eur -}}
+<span class="t" title="{{ $fv }} marks → {{ $sAf }} anciens francs = {{ $sNf }} nouveaux francs = {{ $sEur }} €"><span class="t-orig">{{ $fv }}</span><span class="t-new"><span class="c-af">{{ $sAf }}</span><span class="c-nf">{{ $sNf }}</span><span class="c-eur">{{ $sEur }}</span></span></span>

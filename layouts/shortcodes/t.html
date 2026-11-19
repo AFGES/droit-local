@@ -1,3 +1,6 @@
-{{- $o := .Get 0 -}}{{- $n := .Get 1 -}}
-<span class="t" title="{{ $o }} → {{ $n }}"><span class="t-orig"
-  >{{ $o }}</span><span class="t-new">{{ $n }}</span></span>
+{{- /* {{< t "original" "actuel" ["actuel en nouveau franc" "actuel en euro"] >}} */ -}}
+{{- $o := .Get 0 -}}
+{{- $n := .Get 1 -}}
+{{- $nf := .Get 2 -}}
+{{- $eur := .Get 3 | default $nf -}}
+<span class="t" title="{{ $o }} → {{ $n }}"><span class="t-orig">{{ $o }}</span>{{ if $nf }}<span class="t-new"><span class="c-af">{{ $n }}</span><span class="c-nf">{{ $nf }}</span><span class="c-eur">{{ $eur }}</span></span>{{ else }}<span class="t-new">{{ $n }}</span>{{ end }}</span>

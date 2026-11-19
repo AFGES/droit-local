@@ -1,6 +1,12 @@
 <script>
-try { document.documentElement.setAttribute('data-version', localStorage.getItem('version-texte') || 'orig'); }
-  catch (e) { document.documentElement.setAttribute('data-version', 'orig'); }
+try {
+  document.documentElement.setAttribute('data-version', localStorage.getItem('version-texte') || 'orig');
+  var m = localStorage.getItem('monnaie');
+  document.documentElement.setAttribute('data-monnaie', m === 'nf' || m === 'eur' ? m : 'af');
+} catch (e) {
+  document.documentElement.setAttribute('data-version', 'orig');
+  document.documentElement.setAttribute('data-monnaie', 'af');
+}
 </script>
 {{- /* Umami (stats.afges.eu, cookieless), production builds only: not on `hugo
 server` */ -}} {{- if hugo.IsProduction }}

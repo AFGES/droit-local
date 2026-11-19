@@ -1,12 +1,12 @@
-{{- /* {{< m "3000" "marks" [texte original] >}} : montant en marks (1 mark =
-1,25 ancien franc) ou en pfennigs (1 pfennig = 1,25 centime). */ -}} {{- $v :=
-.Get 0 | float -}} {{- $o := .Get 1 | default "marks" -}} {{- $f := mul $v 1.25
--}} {{- $fv := partial "fmtnum.html" $v -}} {{- $ff := partial "fmtnum.html" $f
--}} {{- $orig := .Get 2 | default (printf "%s %s" $fv $o) -}} {{- $unit := cond
-(hasPrefix $o "pfennig") (cond (ge $f 2.0) "centimes" "centime") (cond (ge $f
-2.0) "anciens francs" "ancien franc") -}} {{- $rate := cond (hasPrefix $o
-"pfennig") "1 pfennig = 1,25 centime" "1 mark = 1,25 ancien franc" -}} {{- $new
-:= printf "%s %s" $ff $unit -}}
-<span class="t" title="{{ $orig }} → {{ $new }} ({{ $rate }})"><span
-    class="t-orig"
-  >{{ $orig }}</span><span class="t-new">{{ $new }}</span></span>
+{{- /* {{< m "3000" "marks" [texte original] >}} : montant en marks (1 mark = 1,25 ancien franc) ou en pfennigs (affiché en centimes). Trois monnaies : ancien franc (af), nouveau franc (nf), euro (eur). */ -}}
+{{- $v := .Get 0 | float -}}
+{{- $o := .Get 1 | default "marks" -}}
+{{- $pf := hasPrefix $o "pfennig" -}}
+{{- $af := mul $v 1.25 -}}
+{{- $nf := div $af 100.0 -}}
+{{- $eur := div $nf 6.55957 -}}
+{{- $orig := .Get 2 | default (printf "%s %s" (partial "fmtnum.html" $v) $o) -}}
+{{- $sAf := printf "%s %s" (partial "fmtnum.html" $af) (cond $pf (cond (ge $af 2.0) "centimes" "centime") (cond (ge $af 2.0) "anciens francs" "ancien franc")) -}}
+{{- $sNf := printf "%s %s" (partial "fmtmoney.html" $nf) (cond $pf (cond (ge $nf 2.0) "centimes" "centime") (cond (ge $nf 2.0) "nouveaux francs" "nouveau franc")) -}}
+{{- $sEur := printf "%s %s" (partial "fmtmoney.html" $eur) (cond $pf (cond (ge $eur 2.0) "centimes d’euro" "centime d’euro") "€") -}}
+<span class="t" title="{{ $orig }} → {{ $sAf }} = {{ $sNf }} = {{ $sEur }}"><span class="t-orig">{{ $orig }}</span><span class="t-new"><span class="c-af">{{ $sAf }}</span><span class="c-nf">{{ $sNf }}</span><span class="c-eur">{{ $sEur }}</span></span></span>

@@ -1,0 +1,8 @@
+{{- /* Amount for nouveau franc / euro: 2 decimals from 0,01 up, below that 2 significant digits (1 mark = 0,0019 EUR). Rounded half away from zero. */ -}}
+{{- $v := . | float -}}
+{{- $d := 2 -}}
+{{- if and (gt $v 0.0) (lt $v 0.01) -}}
+  {{- $d = int (sub 1 (math.Floor (div (math.Log $v) (math.Log 10)))) -}}
+{{- end -}}
+{{- $p := math.Pow 10 $d -}}
+{{- return (partial "fmtnum.html" (div (math.Round (mul $v $p)) $p)) -}}

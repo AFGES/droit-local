@@ -14,3 +14,14 @@ html[data-version="actuel"] .t-orig { display: none; }
     padding: 8px 14px; border-radius: 20px; border: 1px solid var(--border);
     background: var(--entry); color: var(--primary); cursor: pointer; font-size: 14px;
 }
+
+/* Monnaie (shortcodes m, mb, t) : ancien franc par défaut, nouveau franc, euro. */
+.c-nf, .c-eur { display: none; }
+html[data-monnaie="nf"] .c-af, html[data-monnaie="eur"] .c-af { display: none; }
+html[data-monnaie="nf"] .c-nf, html[data-monnaie="eur"] .c-eur { display: inline; }
+#monnaie {
+    position: fixed; right: 16px; bottom: 60px; z-index: 10;
+    padding: 6px 10px; border-radius: 12px; border: 1px solid var(--border);
+    background: var(--entry); color: var(--primary); font-size: 14px;
+}
+html:not([data-version="actuel"]) #monnaie { display: none; }

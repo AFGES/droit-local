@@ -111,7 +111,8 @@ def mark_text(text: str) -> str:
                 new = t["new"]
                 if m.group(0)[0].isupper():
                     new = new[0].upper() + new[1:]
-                return '{{< t "%s" "%s" >}}' % (esc(m.group(0)), esc(new))
+                extra = "".join(' "%s"' % esc(t[k]) for k in ("new_nf", "new_eur") if k in t)
+                return '{{< t "%s" "%s"%s >}}' % (esc(m.group(0)), esc(new), extra)
             p = rx.sub(rep, p)
         p = SPELLED_AMOUNT.sub(spelled_to_shortcode, p)
         p = MARKS.sub(
