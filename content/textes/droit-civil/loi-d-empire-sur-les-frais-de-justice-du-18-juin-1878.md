@@ -123,9 +123,9 @@ tort la déclaration faite ou en intendant un pourvoi non fondé.
 
 Il sera perçu à titre de déboursés effectifs :
 
-3. Les frais occasionnés par l’insertion d’avis dans les feuilles publiques ;
-4. Les droits à payer aux témoins et aux experts ;
-5. Les sommes à payer à d’autres autorités ou fonctionnaires, ou aux avocats-avoués, pour
+1. Les frais occasionnés par l’insertion d’avis dans les feuilles publiques ;
+2. Les droits à payer aux témoins et aux experts ;
+3. Les sommes à payer à d’autres autorités ou fonctionnaires, ou aux avocats-avoués, pour
    leurs opérations.
 
 ## Article 84

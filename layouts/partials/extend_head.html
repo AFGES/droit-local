@@ -1,8 +1,13 @@
 <script>
-  try { document.documentElement.setAttribute('data-version', localStorage.getItem('version-texte') || 'orig'); }
+try { document.documentElement.setAttribute('data-version', localStorage.getItem('version-texte') || 'orig'); }
   catch (e) { document.documentElement.setAttribute('data-version', 'orig'); }
 </script>
-{{- /* Umami (stats.afges.eu, cookieless), production builds only: not on `hugo server` */ -}}
-{{- if hugo.IsProduction }}
-<script defer src="https://stats.afges.eu/s.js" data-website-id="14c644da-e06d-44f0-addb-0084eb162462" data-domains="droit-local.afges.org"></script>
+{{- /* Umami (stats.afges.eu, cookieless), production builds only: not on `hugo
+server` */ -}} {{- if hugo.IsProduction }}
+<script
+  defer
+  src="https://stats.afges.eu/s.js"
+  data-website-id="14c644da-e06d-44f0-addb-0084eb162462"
+  data-domains="droit-local.afges.org"
+></script>
 {{- end }}

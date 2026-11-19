@@ -121,11 +121,11 @@ Le vol champêtre est puni de l’amende de 5 à {{< m "150" "marks" >}} ou de l
 
 En outre, lorsque le vol champêtre :
 
-7. Est commis avec escalade dans un endroit clos ;
-8. A pour objet des bois résineux, de la résine, de la sève, des racines, de l’écorce ou des pousses
+1. Est commis avec escalade dans un endroit clos ;
+2. A pour objet des bois résineux, de la résine, de la sève, des racines, de l’écorce ou des pousses
    d’arbres sur pied, ou des ceps, en tant qu’il n’est pas punissable comme vol forestier ;
-9. A pour objet des raisins à l’intérieur des vignobles ;
-10. Est commis en état de récidive.
+3. A pour objet des raisins à l’intérieur des vignobles ;
+4. Est commis en état de récidive.
 
 #### Article 12
 
@@ -420,7 +420,7 @@ quiconque, sans y être autorisé :
 
 La même peine est applicable à quiconque :
 
-4. Contrevient aux arrêtés de police interdisant de jeter dans les cours d’eau des cadavres
+1. Contrevient aux arrêtés de police interdisant de jeter dans les cours d’eau des cadavres
    d’animaux.
 
 ### Saillie d’animaux

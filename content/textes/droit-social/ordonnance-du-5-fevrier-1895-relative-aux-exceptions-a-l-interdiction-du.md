@@ -20,7 +20,7 @@ atteindre la durée totale de son temps de travail pendant les dimanches interm�
 On ne doit pas faire travailler les équipes de rechange 12 h avant ou après leur durée
 réglementaire de travail.
 
-#### 2. Métallurgie et mines travaillant soit seules soit en association.
+#### 2. Métallurgie et mines travaillant soit seules soit en association
 
 1. sans production d’acides
    {.liste-alpha}
@@ -37,7 +37,7 @@ Dans ce cas on accordera aux travailleurs 36 h pour deux dimanches et jours de f
 soit 24 h pour chacun des deux jours. Pour les dimanches restants, on accordera soit 24 h, soit 36
 h un dimanche sur deux.
 
-2. avec production d’acides
+1. avec production d’acides
    {.liste-alpha}
 
 Les activités concernées seront ici la condensation, la concentration et le transport des acides
@@ -158,7 +158,7 @@ consécutifs et les jours de fête qui ne tombent pas un dimanche on accordera a
 dimanche sur quatre, et 18 h pour les autres dimanches et pour les jours de fête, qui ne tombent
 pas un dimanche.
 
-### Ordonnance modificative du 23 mai 1906 sur les industries extractives et travail de la pierre.
+### Ordonnance modificative du 23 mai 1906 sur les industries extractives et travail de la pierre
 
 #### 1. Verreries
 
@@ -282,13 +282,13 @@ Sont autorisés le dimanche la surveillance et le travail sur fours à soude et 
 calcination, opérations de lessivage, concentration et cristallisation. Ces activités ne pourront
 avoir lieu à Noël, Pâques, Pentecôte.
 
-2. D’après le procédé soude-ammoniaque-magnésie et ammoniaque-magnésie
+1. D’après le procédé soude-ammoniaque-magnésie et ammoniaque-magnésie
    {.liste-alpha}
 
 Est autorisé les dimanches et jours de fête le travail au four, à l’exception de l’approvisionnement
 de l’usine en matières premières, du chargement et déchargement des produits.
 
-3. Production de potasse à partir de mélasse de betteraves
+1. Production de potasse à partir de mélasse de betteraves
    {.liste-alpha}
 
 Là encore des ouvriers travailleront les dimanches et jours de fête aux fours et appareils
@@ -322,7 +322,7 @@ distillation continue. Pour les autres alambics le travail dominical ne sera pos
 novembre au 31 mars et quand, pour les autres périodes de l’année, il s’agira de terminer les
 opérations de distillation déjà commencées.
 
-2. Production de sels d’ammoniaque
+1. Production de sels d’ammoniaque
    {.liste-alpha}
 
 Il s’agira ici des opérations de saturation, concentration et cristallisation de même que la chauffe
@@ -627,7 +627,7 @@ repos un dimanche sur deux, 36 h un dimanche sur trois, ou encore si les autres 
 ouvriers n’ont pas travaillé plus de 12 h, ils bénéficieront de 36 h de repos un dimanche sur
 quatre.
 
-2. Procédé Steffenschen
+1. Procédé Steffenschen
    {.liste-alpha}
 
 Entrent dans cette catégorie les usines ne répondant pas aux critères de l’alinéa précédent.
@@ -637,7 +637,7 @@ On accordera aux ouvriers soit 36 h de repos pour un dimanche et jour de fête c
 h pour chacun des deux jours et pour les autres dimanches soit 24 h de repos, soit 36 h un
 dimanche sur deux.
 
-3. Procédé « Elution »
+1. Procédé « Elution »
    {.liste-alpha}
 
 Les opérations envisagées consisteront dans le lessivage de la mélasse sauf de 6 h du matin à 6 h
@@ -647,7 +647,7 @@ dispositions suivantes : 24 h de repos un dimanche sur deux, 36 h un dimanche s
 encore si les autres dimanches les ouvriers n’ont pas travaillé plus de 12 h, ils bénéficieront de
 36 h de repos un dimanche sur quatre.
 
-4. Procédé strontiane et baryte
+1. Procédé strontiane et baryte
    {.liste-alpha}
 
 On autorisera la fabrication de la saccharine sauf de 6 h du matin à 6 h du soir. Cette exploitation
@@ -655,7 +655,7 @@ est interdite à Noël, Pâques et Pentecôte. Les ouvriers bénéficieront au m
 pour un dimanche et jour de fête consécutifs ou encore de 24 h pour chacun des deux jours, et
 pour les autres dimanches soit 24 h de repos, soit 36 h un dimanche sur deux.
 
-#### 4. Nettoyage et découpage des betteraves jusqu’à midi les dimanches et jours de fête, sauf à Noël.
+#### 4. Nettoyage et découpage des betteraves jusqu’à midi les dimanches et jours de fête, sauf à Noël
 
 #### 5. Raffineries d’alcool
 
@@ -882,7 +882,7 @@ L’autorité administrative supérieure peut pour un arrondissement ou certaine
 prendre des mesures en vue de déterminer si une durée en dehors de celle qui précède doit être
 comptée parmi les articles de boulangerie en vertu de dispositions locales.
 
-2. Gaz et électricité
+1. Gaz et électricité
    {.liste-alpha}
 
 Il faut faire intervenir ici les nécessités du service. Le travail les dimanches et jours de fête sera
@@ -893,7 +893,7 @@ Dans la mesure où les autres dimanches le travail ne dépasse pas 12 h on accor
 dimanche sur quatre. Les équipes de relève ne peuvent être employées 12 h avant ou après leur
 occupation réglementaire.
 
-3. Boulangerie et confiseries
+1. Boulangerie et confiseries
    {.liste-alpha}
 
 On peut autoriser le travail les dimanches et fêtes pendant 10 h. On accordera à chaque ouvrier
@@ -919,7 +919,7 @@ boulangerie, les denrées à base de levain sans y ajouter de sucre. L’autorit
 supérieure (sous-préfet) peut pour son arrondissement ou certaines parties de celui-ci, prendre des
 dispositions en vue de l’admission de telle denrée parmi les articles de boulangerie.
 
-4. Boucheries
+1. Boucheries
    {.liste-alpha}
 
 Le travail les dimanches et jours de fête peut être autorisé pendant 3 h avec interruption de la
@@ -927,7 +927,7 @@ vente lors du principal office dominical. Au cas où ces 3 h ne suffiraient pas 
 ajouter deux heures mais à condition qu’elles soient placées avant l’office dominical. En ce qui
 concerne les temps de repos, se reporter à a).
 
-5. Coiffeurs et barbiers
+1. Coiffeurs et barbiers
    {.liste-alpha}
 
 Le travail les dimanches et jours de fête peut être autorisé jusqu’à 2 h de l’après-midi. Il peut y
@@ -937,7 +937,7 @@ dimanche sur trois ou un dimanche sur deux, du matin 6 h à 6 h du soir ou encor
 travail dans la deuxième moitié de la semaine. Il faudra d’autre part accorder aux ouvriers le
 temps nécessaire à la fréquentation de l’office divin au moins un dimanche sur trois.
 
-6. Fourniture d’eau
+1. Fourniture d’eau
    {.liste-alpha}
 
 Le travail des dimanches et jours de fête vise à assurer l’alimentation continue en eau.
@@ -946,7 +946,7 @@ S’il s’agit d’un simple gain de travail on se réfère à e) ;
 
 En cas d’activité ininterrompue voir b).
 
-7. Bains
+1. Bains
    {.liste-alpha}
 
 On peut y travailler les dimanches et fêtes ; si les bains ne sont pas seulement assurés pendant la
@@ -955,7 +955,7 @@ En ce qui concerne les établissements de bains à nature curative, comme à plu
 maisons de santé, les dispositions du code des professions sur le repos dominical ne seront pas
 appliquées.
 
-8. Presse, imprimerie
+1. Presse, imprimerie
    {.liste-alpha}
 
 Le travail peut être autorisé les dimanches et jours de fête, à l’exception du 2ème jour de Noël,
@@ -965,13 +965,13 @@ constitue l’activité de presse elle-même, on peut accorder dans ce cas les t
 valables dans le commerce des journaux. Toutefois les personnes qui auraient participé à l’édition
 du matin ne peuvent être employées les dimanches et jours de fête.
 
-9. Nouvelles par télégraphe
+1. Nouvelles par télégraphe
    {.liste-alpha}
 
 mêmes dispositions que e).
 
-10. Photographe
-    {.liste-alpha}
+1. Photographe
+   {.liste-alpha}
 
 Les photographes pourront travailler les dimanches et jours de fête :
 
@@ -982,25 +982,25 @@ Les photographes pourront travailler les dimanches et jours de fête :
 
 L’exception du n°2 ne s’appliquera pas le 1er jour de fête à Noël, Pâques et Pentecôte.
 
-11. Cuisiniers
-    {.liste-alpha}
+1. Cuisiniers
+   {.liste-alpha}
 
 Le travail aura lieu les dimanches et jours de fête : mêmes dispositions que e).
 
-12. Brasseries, glaceries, laiteries
-    {.liste-alpha}
+1. Brasseries, glaceries, laiteries
+   {.liste-alpha}
 
 Il s’agira ici de fournir la clientèle les dimanches et jours de fête pendant les heures destinées à la
 vente.
 
-13. eau minérale
-    {.liste-alpha}
+1. eau minérale
+   {.liste-alpha}
 
 Le travail les dimanches et fêtes est autorisé 3 h avant l’office du dimanche pendant l’été pour
 assurer les livraisons nécessaires.
 
-14. Magasins d’habillement et de nettoyage de vêtements
-    {.liste-alpha}
+1. Magasins d’habillement et de nettoyage de vêtements
+   {.liste-alpha}
 
 Livraison à la clientèle jusqu’à 9 h du matin. Lorsqu’il s’agit de travail de jour et de nuit il est
 inadmissible que les équipes de relève travaillent plus de 18 h. Lorsqu’il s’agit de travaux

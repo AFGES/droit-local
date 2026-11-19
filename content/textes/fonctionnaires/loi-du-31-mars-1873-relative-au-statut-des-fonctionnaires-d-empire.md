@@ -48,7 +48,7 @@ dans la mesure où, sa succession ne suffit pas à couvrir les frais de sa derni
 funérailles. L’autorité centrale peut déléguer à d’autres autorités le droit de donner cette
 autorisation.
 
-## Admission à la retraite des fonctionnaires. Droit à une pension.
+## Admission à la retraite des fonctionnaires. Droit à une pension
 
 ### Article 34
 
@@ -71,7 +71,7 @@ Lorsque, en dehors du cas prévu à l’article 36, un fonctionnaire, mis à la 
 incapacité de service avant ses dix années de services, se trouve dans le besoin, il peut lui être
 accordé, par décision du Conseil fédéral, une pension, soit temporaire, soit viagère.
 
-## Montant de la pension.
+## Montant de la pension
 
 ### Article 41
 

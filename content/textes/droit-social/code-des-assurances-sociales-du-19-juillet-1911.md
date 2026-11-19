@@ -87,7 +87,7 @@ intéressées aient été entendues. En cas de désaccord des Corporations inté
 s’il en est requis. Toutefois, l’assentiment de la Corporation agricole est toujours nécessaire, lorsque la
 disposition n’est pas encore en vigueur depuis plus de trois ans ;
 
-2. aux entreprises de navigation maritime et autres, tombant sous l’application des §§ 1046, 1049 qui
+1. aux entreprises de navigation maritime et autres, tombant sous l’application des §§ 1046, 1049 qui
    sont partie essentielle d’entreprises énumérées aux §§ 537, 538 et dont l’activité ne se borne pas au trafic
    local, ou qui sont des exploitations accessoires.
 
@@ -786,7 +786,7 @@ La rente est suspendue :
 Si l’intéressé a de proches parents résidant dans le pays et qui, au cas de son décès, auraient droit à
 une rente, la rente doit leur être attribuée jusqu’à concurrence de son droit ;
 
-2. aussi longtemps que l’intéressé indigène séjourne à l’étranger, en négligeant :
+1. aussi longtemps que l’intéressé indigène séjourne à l’étranger, en négligeant :
    de faire connaître sa résidence à la Corporation ;
    et s’il s’agit d’un accidenté de se présenter, sur la demande de la Corporation, de temps à autre chez le
    consul compétent ou une autre autorité {{< t "allemande" "française" >}} qui lui aura été désignée.
@@ -798,8 +798,8 @@ Si l’ayant droit prouve ultérieurement qu’il n’a pu s’acquitter, sans q
 obligation de notification et de présentation personnelle, le droit à la rente renaît, entant qu’elle a été
 suspendue de ce fait ;
 
-3. aussi longtemps que l’ayant droit étranger réside volontairement et habituellement à l’étranger ;
-4. aussi longtemps que l’ayant droit étranger est l’objet d’une interdiction de séjour en territoire
+1. aussi longtemps que l’ayant droit étranger réside volontairement et habituellement à l’étranger ;
+2. aussi longtemps que l’ayant droit étranger est l’objet d’une interdiction de séjour en territoire
    {{< t "allemand" "français" >}}, à la suite d’une condamnation à une peine criminelle. Cette disposition s’applique également à un
    étranger titulaire d’une rente qui, à raison d’une condamnation à une peine criminelle, s’est vu interdire le
    séjour sur le territoire d’un Etat Confédéré, pour autant qu’il ne réside pas dans un autre Etat Confédéré.
@@ -2721,7 +2721,7 @@ En tant que pour les sommes à rembourser à la poste, la part de la succursale 
 d’accidents survenus dans des travaux de construction de longue durée, les fonds nécessaires pour effectuer
 ces versements sont imputés sur les primes disponibles.
 
-3. Assurance aux frais des communes
+1. Assurance aux frais des communes
 
 ###### Article 825
 
@@ -4231,7 +4231,7 @@ d’Etat, lorsqu’il s’agit :
   constitution du fonds de réserve (§ 1013) ;
 - de la couverture des créances de l’administration des postes (§ 1028 en connexion avec les §§ 781 et
 
-782. ;
+1. ;
 
 - d’autres organisations des Corporations (§ 1029) ;
 - de la prévention des accidents et de la surveillance dans les cas du § 1030 en connexion avec les
@@ -4276,7 +4276,7 @@ II. — CONSTITUTION DES RESSOURCES
 Les Corporations sont tenues de se procurer les fonds nécessaires pour faire face à leurs
 charges par des cotisations de leurs membres. Celles-ci devront couvrir les dépenses de l’exercice écoulé.
 
-2. Détermination de la main-d’œuvre et des classes de risques
+1. Détermination de la main-d’œuvre et des classes de risques
 
 ###### Article 990
 
@@ -4442,7 +4442,7 @@ Les différends au sujet des demandes en restitution sont tranchés par l’Offi
 ressort duquel se trouve le siège de l’exploitation soumise à l’assurance. L’Office supérieur statue
 définitivement sur recours.
 
-4. Autres bases
+1. Autres bases
 
 ###### Article 1010
 
@@ -4758,9 +4758,9 @@ dispositions concernant :
 
 1606) ;
 
-3. la gestion de la fortune des Corporations (§ 25, alinéa 2, §§ 26, 27, 983 et § 984 en connexion avec
+1. la gestion de la fortune des Corporations (§ 25, alinéa 2, §§ 26, 27, 983 et § 984 en connexion avec
    les §§ 718 à 720), ainsi que
-4. les personnes qui, indépendamment des agents techniques et des experts (§ 1030 en connexion
+2. les personnes qui, indépendamment des agents techniques et des experts (§ 1030 en connexion
    avec les §§ 875, 880 et 881) sont assujetties aux dispositions pénales relatives à la violation de secrets
    d’exploitation (§§ 142 à 144).
 
@@ -5551,7 +5551,7 @@ contribuent par des cotisations courantes, à parts égales (§§ 1432, 1439, 14
 travail assujetti à l’assurance (semaine de cotisation).
 La semaine de cotisation commence le lundi.
 
-2. Montant des cotisations
+1. Montant des cotisations
 
 ###### Article 1388
 
@@ -5698,7 +5698,7 @@ rentes, des assurés et de leurs familles.
 En pareil cas, l’approbation du Conseil Fédéral est nécessaire. Il peut la retirer lorsque, de l’avis du
 service actuariel, le fonds particulier n’a plus des excédents suffisamment élevés.
 
-5. Unions de réassurance
+1. Unions de réassurance
 
 ###### Article 1401
 
@@ -7252,7 +7252,7 @@ Les intéressés peuvent prendre connaissance des documents de l’enquête et e
 
 Des frais de copie peuvent être exigés.
 
-3. Décision des institutions chargées de l’assurance
+1. Décision des institutions chargées de l’assurance
    a) DISPOSITIONS GENERALES
 
 ###### Article 1568
@@ -7817,7 +7817,7 @@ L’Office d’assurance prévient l’institution chargée de l’assurance, lo
 - que la rente d’invalidité, de veuve ou de veuf ou la rente supplémentaire devra être retirée ;
 - qu’une rente doit être suspendue.
 
-3. Décision de l’institution chargée de l’assurance
+1. Décision de l’institution chargée de l’assurance
 
 ###### Article 1630
 
@@ -7995,7 +7995,7 @@ Si une autorité d’assurance, après l’exclusion ou la récusation de certai
 plus en nombre pour délibérer valablement, la juridiction immédiatement supérieure du contentieux
 judiciaire désigne la juridiction de même rang qui statuera sur l’affaire.
 
-3. Procédure antérieure au débat oral
+1. Procédure antérieure au débat oral
 
 ###### Article 1650
 
@@ -8072,7 +8072,7 @@ Si les deux moyens sont employés, il est procédé au débat oral.
 Lorsque le débat oral n’a pas été demandé, la décision provisoire équivaut à un jugement en ce qui
 concerne l’appel et la reprise de la procédure.
 
-4. Débat oral
+1. Débat oral
 
 ###### Article 1660
 

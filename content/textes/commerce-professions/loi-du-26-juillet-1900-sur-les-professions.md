@@ -10,29 +10,30 @@ Titre premier
 
 Dispositions générales
 
-**Article 1**
+## Article 1
 
 Toute personne est libre d’exercer une profession, en tant que des exceptions ou des
 restrictions ne sont pas prescrites ou admises par la présente loi.
 Toute personne ayant jusqu’ici le droit d’exercer une profession ne peut en être privée pour le
 motif qu’elle ne se trouve pas dans les conditions prévues par la présente loi.
 
-**Article 3**
+## Article 3
 
 Il est permis d’exercer simultanément des professions différentes ou une même profession
 dans plusieurs locaux d’exploitation ou de vente. L’artisan ne peut pas être tenu de ne vendre
 que les produits de sa propre fabrication.
 
-**Article 4**
+## Article 4
+
 Les corporations d’artisans et de marchands n’ont pas le droit d’interdire à d’autres personnes
 l’exercice d’une profession.
 
-**Article 5**
+## Article 5
 
 Il n’est rien innové par la présente loi en ce qui concerne les limitations apportées à l’exercice
 de certaines professions par les lois douanières, fiscales ou postales.
 
-**Article 6**
+## Article 6
 
 La présente loi ne s’applique pas à la pêche, à l’ouverture ou au déplacement de pharmacies, à
 l’éducation des enfants moyennant rémunération, à l’enseignement, à l’exercice des
@@ -43,18 +44,18 @@ de l’art de guérir, la vente de médicaments, le placement de billets de lote
 bétail, la présente loi ne s’applique qu’en tant qu’elle renferme des dispositions spéciales à cet
 effet.
 
-**Article 11**
+## Article 11
 
 La différence de sexe ne peut être une cause d’inégalité en ce qui concerne l’exercice des
 professions.
 
-**Article 12**
+## Article 12
 
 Les restrictions dont les personnes faisant partie de l’armée et les fonctionnaires sont l’objet en
 ce qui concerne l’exercice d’une profession par eux-mêmes ou par leurs proches ne sont pas
 modifiées par la présente loi.
 
-**Article 14**
+## Article 14
 
 Toute personne qui commence à exercer, en son propre nom, une profession sédentaire, est
 tenue d’en faire, sans délai, la déclaration à l’autorité compétente pour la localité où il s’établit.
@@ -72,13 +73,13 @@ l’exercice de la profession, de déclarer à l’autorité compétente de leur
 affectés à leur profession, ainsi que tout changement ultérieur de local, au plus tard le jour du
 changement.
 
-**Article 15**
+## Article 15
 
 L’autorité délivrera, dans les trois jours, un récépissé de cette déclaration. La police peut
 arrêter la continuation de l’exercice de toute profession pour laquelle une autorisation spéciale
 est nécessaire, si cette profession a été commencée sans cette autorisation.
 
-**Article 33**
+## Article 33
 
 Quiconque veut exploiter une hôtellerie, un débit de boissons ou un commerce au détail d’eau
 de vie ou de spiritueux, doit obtenir une licence à cet effet. Cette licence ne peut être refusée
@@ -108,7 +109,7 @@ Les Gouvernements des Etats particuliers peuvent disposer que les prescriptions 
 associations, y compris celles déjà existantes, même quand l’exploitation sera limitée aux
 seuls membres.
 
-**Article 34**
+## Article 34
 
 Quiconque veut exercer le métier de prêteur sur gages, de courtier en prêts sur gages, ou
 d’agence de placement de personnel a besoin d’une licence. Celle-ci doit être refusée, quand il
@@ -119,7 +120,7 @@ l’exercice du métier de prêteur sur gages sera subordonnée à la preuve pr�
 l’établissement répond à des besoins réels. Doit être considéré également comme métier de
 prêteur sur gages l’achat professionnel d’objets mobiliers avec faculté de réméré.
 
-**Article 35**
+## Article 35
 
 L’exercice de la profession de professeur de gymnastique ou de natation ainsi que
 l’exploitation d’établissements de bains devra être interdit quand il existera des faits d’où il
@@ -170,7 +171,7 @@ dans la profession qu’elles exercent.
 Il appartient aux autorités centrales des Etats particuliers de déterminer les examens et
 certificats qui doivent être tenus pour équivalents de ceux qui sont visés à l’alinéa 1er.
 
-**Article 36**
+## Article 36
 
 Les professions de géomètre-arpenteur, commissaire-priseur, de vérificateur comptable, de
 ceux qui vérifient les titres des métaux précieux ou la nature, la quantité ou le bon emballage
@@ -186,21 +187,21 @@ précitées ou attachent à ces actes des effets juridiques spéciaux ne peuvent
 personnes nommées par les autorités de l’Etat ou des communes ou par les corporations,
 compétentes à cet effet.
 
-**Article 37**
+## Article 37
 
 Il appartient aux autorités de police locale de réglementer l’exercice d’entreprises de transports
 publics à l’intérieur d’une localité, effectués au moyen de voitures de toute nature, de barques,
 de chaises à porteur, de chevaux ou d’autres modes de transport, ainsi que le métier des
 personnes qui offrent leurs services sur les rues et places publiques.
 
-**Article 38**
+## Article 38
 
 Les autorités centrales ont, en outre, le droit d’édicter des dispositions en ce qui concerne la
 manière dont les exploitants indiqués à l’article 35, alinéas 2 et 3, auront à tenir leurs livres et
 au contrôle de police auquel ils auront à se soumettre quant à l’étendue et à la nature de leurs
 opérations.
 
-**Article 40**
+## Article 40
 
 Les autorisations et licences visées aux articles 29 à 33 a et 34 ne peuvent être accordées pour
 un temps limité, ni, sauf les dispositions des articles 33 a, 53 et 143, être révoquées. Un
@@ -210,7 +211,7 @@ mentionnées aux articles 33 a, 35 et 37.
 
 Etendue, exercice et perte des droits résultants de la profession
 
-**Article 41**
+## Article 41
 
 Le droit d’exercer en son propre nom une profession sédentaire comprend le droit de prendre
 un nombre quelconque de compagnons, commis, ouvriers de toute catégorie, et aussi, en tant
@@ -239,7 +240,7 @@ Il appartient au Conseil fédéral de déterminer quels exploitants devront êtr
 comme intéressés, ainsi que les moyens de constater si leur demande a reçu le nombre
 d’adhésions nécessaires.
 
-**Article 42**
+## Article 42
 
 Quiconque peut exercer en son propre nom une profession sédentaire peut le faire, aussi bien
 sur le territoire de la commune de son établissement professionnel que, sans préjudice des
@@ -304,7 +305,7 @@ les localités où il est d’usage que les enfants se livrent à un pareil traf
 l’autoriser pour des périodes déterminées qui, ensemble, ne pourront excéder quatre semaines
 par an.
 
-**Article 44**
+## Article 44
 
 Quiconque exploite une profession sédentaire a le droit d’acheter des marchandises ou de
 rechercher des commandes de marchandises, personnellement ou par l’intermédiaire de
@@ -330,20 +331,20 @@ qui emploient dans leur exploitation des marchandises de la nature de celles off
 En ce qui concerne la recherche de commandes pour des imprimés, écrits ou gravures, les
 dispositions de l’article 56, alinéa 3, sont applicables.
 
-**Article 45**
+## Article 45
 
 Les droits attachés à l’exploitation d’une profession sédentaire peuvent être exercés par des
 représentants toutefois le représentant doit satisfaire aux conditions spéciales prescrites
 relativement à la profession en question.
 
-**Article 47**
+## Article 47
 
 La question de savoir si les personnes autorisées ou nommées conformément aux articles 34
 et 36 peuvent être remplacées par un représentant doit être résolue, dans chaque cas
 particulier, par les autorités qui ont pouvoir d’accorder l’autorisation ou de procéder à la
 nomination.
 
-**Article 53**
+## Article 53
 
 En dehors des motifs ci-dessus, les autorisations et nominations prévues par les articles 30,
 30a, 33, 34 et 36 pourront encore être retirées quand l’absence des qualités dont la loi exigeait
@@ -361,29 +362,29 @@ dérogations peuvent être consenties par l’autorité administrative inférieu
 a le droit d’édicter des dispositions déterminant dans quels cas et sous quelles conditions des
 dérogations peuvent être autorisées.
 
-**Article 56**
+## Article 56
 
 Les dispositions en vertu desquelles l’offre en vente de certaines marchandises dans un
 établissement fixe est interdite en tout ou en partie s’appliquent également à leur offre en
 vente par des marchands ambulants. Ne peuvent être achetées ni être offertes en vente par des
 marchands ambulants, les marchandises suivantes:
 
-2. Les vieux vêtements, le vieux linge, les vieux lits et vieilles literies, notamment les plumes,
+1. Les vieux vêtements, le vieux linge, les vieux lits et vieilles literies, notamment les plumes,
    cheveux, déchets de fils, bouts et déchets de soie, de laine, de lin ou de coton;
-3. Les articles en or et en argent, débris d’or et d’argent, de même que les montres;
-4. Les cartes à jouer;
-5. Les valeurs d’Etat et autres titres, billets de loterie, certificats provisoires et coupures de
+2. Les articles en or et en argent, débris d’or et d’argent, de même que les montres;
+3. Les cartes à jouer;
+4. Les valeurs d’Etat et autres titres, billets de loterie, certificats provisoires et coupures de
    valeurs ou de billets de loterie;
-6. Les huiles minérales et autres huiles facilement inflammables, notamment le pétrole ainsi
+5. Les huiles minérales et autres huiles facilement inflammables, notamment le pétrole ainsi
    que l’alcool;
-7. Les armes d’estoc et de taille et les armes à feu;
-8. Les substances vénéneuses et marchandises contenant du poison, les médicaments et
+6. Les armes d’estoc et de taille et les armes à feu;
+7. Les substances vénéneuses et marchandises contenant du poison, les médicaments et
    remèdes secrets ainsi que les bandages ;
-9. Les arbres de toute espèce, arbrisseaux, coursons et crossettes, aliments pour le bétail,
+8. Les arbres de toute espèce, arbrisseaux, coursons et crossettes, aliments pour le bétail,
    graines, à l’exception des semences de légumes et de fleurs;
-10. Les bijoux, articles de bijouterie, lunettes et instruments d’optique.
-    Sont interdites en outre l’offre en vente et la recherche de commandes par des marchands
-    ambulants.
+9. Les bijoux, articles de bijouterie, lunettes et instruments d’optique.
+   Sont interdites en outre l’offre en vente et la recherche de commandes par des marchands
+   ambulants.
 
 **Article 56** a
 
@@ -431,7 +432,7 @@ notamment aux déballages.
 Les étrangers peuvent être autorisés à exercer une profession ambulante. Le Conseil fédéral a
 le droit d’édicter les dispositions nécessaires à cet égard.
 
-**Article 74**
+## Article 74
 
 Dans les localités où la vente d’articles de boulangerie ne peut être effectuée qu’aux conditions
 du tarif affiché par les boulangers et marchands à leurs locaux de vente, la police locale peut
@@ -439,14 +440,14 @@ du tarif affiché par les boulangers et marchands à leurs locaux de vente, la p
 pourvue des poids nécessaires et dûment poinçonnés et à permettre qu’il en soit fait usage
 pour contrôler le poids des marchandises par eux vendues.
 
-**Article 76**
+## Article 76
 
 La police locale peut, de concert avec les autorités municipales, fixer des tarifs pour la
 rémunération des commissionnaires et autres personnes qui offrent leurs services dans les rues
 et places publiques ou dans les auberges (art 37), ainsi que pour l’usage de voitures, chevaux,
 chaises à porteur, barques et autres moyens de transport, tenus à la disposition du public.
 
-**Article 78**
+## Article 78
 
 La présente loi n’apporte aucune modification en ce qui concerne les tarifs imposés aux
 exploitants qui, conformément aux prescriptions de l’article 36, doivent être assermentés ou
@@ -2304,7 +2305,7 @@ en force de chose jugée, sera puni, lorsque l’infraction aura été commise v
 d’une amende de 50 à {{< m "1000" "marks" >}} ou de la détention simple. L’article 146, alinéa 2, phrase
 2, sera applicable par analogie.
 
-**Article 147**
+## Article 147
 
 Sera puni d’une amende jusqu’à {{< m "300" "marks" >}} et, en cas d’insolvabilité, de la
 détention simple:

@@ -1,4 +1,8 @@
-{{- $v := .Get 0 | float -}}
-{{- $o := .Get 1 | default "marks" -}}
-{{- $f := mul $v 1.25 -}}
-<span class="t" title="{{ .Get 0 }} {{ $o }} → {{ $f }} anciens francs (1 mark = 1,25 ancien franc)"><span class="t-orig">{{ .Get 0 }} {{ $o }}</span><span class="t-new">{{ $f | lang.FormatNumber 2 | replaceRE ",00$" "" }} anciens francs</span></span>
+{{- $v := .Get 0 | float -}} {{- $o := .Get 1 | default "marks" -}} {{- $f :=
+mul $v 1.25 -}}
+<span
+  class="t"
+  title="{{ .Get 0 }} {{ $o }} → {{ $f }} anciens francs (1 mark = 1,25 ancien franc)"
+><span class="t-orig">{{ .Get 0 }} {{ $o }}</span><span class="t-new"
+  >{{ $f | lang.FormatNumber 2 | replaceRE ",00$" "" }} anciens
+    francs</span></span>

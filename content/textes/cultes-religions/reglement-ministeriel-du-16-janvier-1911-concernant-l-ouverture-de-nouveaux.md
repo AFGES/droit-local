@@ -15,7 +15,7 @@ dispositions relatives à cette matière.
 
 Les lieux de culte se divisent en deux groupes principaux :
 
-### I. Les lieux de culte avec (ce qu’on est convenu d’appeler) un titre légal.
+### I. Les lieux de culte avec (ce qu’on est convenu d’appeler) un titre légal
 
 Ce sont :
 
@@ -26,7 +26,7 @@ Ce sont :
 4. les églises catholiques annexes (en particulier dons le sens des articles 11, 12, 13 du
    décret du 10 septembre 1807).
 
-### II. Les lieux de culte sans titre légal.
+### II. Les lieux de culte sans titre légal
 
 Ceux-ci sont appelés « oratoires » et classés en trois catégories :
 

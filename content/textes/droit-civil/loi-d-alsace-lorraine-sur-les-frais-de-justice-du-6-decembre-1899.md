@@ -75,8 +75,8 @@ ainsi que la loi qui règle les émoluments des notaires.
 
 Seront perçus comme déboursés effectifs :
 
-3. Les sommes payées à titre de rétribution à un gardien commis ;
-4. Les déboursés énumérés à l’article 79, alinéa 1, n° 3, 4, 6 de la loi d’Empire
+1. Les sommes payées à titre de rétribution à un gardien commis ;
+2. Les déboursés énumérés à l’article 79, alinéa 1, n° 3, 4, 6 de la loi d’Empire
    sur les frais de justice.
 
 ## Article 150

@@ -8,7 +8,7 @@ categories:
 
 ## Section I. - Formation de l’association coopérative
 
-### Article 1er.
+### Article 1er
 
 Acquièrent les droits d’une association coopérative inscrite, aux termes de la présente loi, les
 sociétés dont le nombre d’adhérents n’est pas fermé, et qui ont pour but, au moyen d’opérations en
@@ -50,7 +50,7 @@ Les associations coopératives peuvent être formées de telle manière que :
    envers celle-ci qu’envers les créanciers à une somme déterminée (association coopérative inscrite
    à responsabilité limitée).
 
-### Article 3.
+### Article 3
 
 La raison sociale de l’association doit nécessairement être tirée du but de l’entreprise, et contenir
 en outre, selon que l’association rentre dans l’une ou l’autre des catégories de l’article 2, la
@@ -64,7 +64,7 @@ d’associations inscrites, déjà existantes dans la même localité ou dans la
 
 Le nombre des associés doit nécessairement être de sept au moins.
 
-### Article 5.
+### Article 5
 
 Les statuts de l’association doivent être rédigés par écrit.
 
@@ -1100,7 +1100,7 @@ associés.
 La procédure relative à l’action en déclaration de nullité et les effets du jugement sont réglés par
 les prescriptions de l’article 51, alinéas 3 à 5, et de l’article 52.
 
-### Article 97.
+### Article 97
 
 Si la nullité d’une association est inscrite au registre des associations, les prescriptions édictées
 pour le cas de dissolution s’appliquent par analogie pour la liquidation des rapports qui en
@@ -1115,7 +1115,7 @@ nécessaires pour satisfaire les créanciers.
 
 ## Section VII. - Procédure de la faillite et responsabilité des associés
 
-### Article 98.
+### Article 98
 
 La procédure de la faillite a lieu en cas d’insolvabilité, et aussi, après dissolution de l’association,
 lorsque le passif excède l’actif.
@@ -1123,7 +1123,7 @@ lorsque le passif excède l’actif.
 Après dissolution de l’association, la faillite peut être ouverte tant que la répartition de l’actif n’a
 pas été effectuée.
 
-### Article 99.
+### Article 99
 
 Dès que l’association devient insolvable, le Conseil d’administration doit demander l’ouverture
 de la procédure de la faillite ; il en est de même si, en cas de dissolution de l’association ou la

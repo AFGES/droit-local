@@ -343,10 +343,10 @@ surestaries, à moins d’une convention spéciale contraire, comprend au plus u
 A défaut d’une fixation conventionnelle et d’une ordonnance de l’autorité administrative
 supérieure, les surestaries comprennent, par jour, pour les bâtiments d’une portée :
 
-| Portée du bâtiment          | Surestaries par jour |
-| --------------------------- | -------------------- |
-| Jusqu’à 50 000 kilogrammes  | {{< m "12" "marks" >}}             |
-| Jusqu’à 100 000 kilogrammes | {{< m "15" "marks" >}}             |
+| Portée du bâtiment          | Surestaries par jour   |
+| --------------------------- | ---------------------- |
+| Jusqu’à 50 000 kilogrammes  | {{< m "12" "marks" >}} |
+| Jusqu’à 100 000 kilogrammes | {{< m "15" "marks" >}} |
 
 et ainsi de suite à raison de {{< m "3" "marks" >}} par 50,000 kilogrammes en plus.
 

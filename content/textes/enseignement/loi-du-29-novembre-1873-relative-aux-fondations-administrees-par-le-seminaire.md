@@ -37,7 +37,7 @@ Le chapitre de la fondation Saint-Thomas se composera de onze membres, à savoir
 4. 9-10. Deux chanoines qui seront nommés par le directoire de l’église de la confession
    d’Augsbourg, sur la présentation du chapitre ;
 5.
-   11. Un chanoine nommé par le président supérieur, après avis du chapitre.
+   1. Un chanoine nommé par le président supérieur, après avis du chapitre.
 
 Les chanoines désignés sous 9 à 11 doivent également appartenir à la religion protestante
 et demeurer à Strasbourg.
